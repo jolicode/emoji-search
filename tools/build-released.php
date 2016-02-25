@@ -1,6 +1,6 @@
 <?php
 
-$version = "28";
+$version = "28"; // Version <= 28 is not good... don't use it
 
 $zipDir = sprintf('%s/tmp', __DIR__);
 $zipFile = sprintf('%s/core-%s.zip', $zipDir, $version);
