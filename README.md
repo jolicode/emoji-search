@@ -47,7 +47,7 @@ Trying it:
 ```json
 GET /en-emoji/_analyze?analyzer=english_with_emoji
 {
-  "text": "I love 🍩!"
+  "text": "I love 🍩"
 }
 
 {
@@ -67,10 +67,31 @@ GET /en-emoji/_analyze?analyzer=english_with_emoji
       "position": 1
     },
     {
-      "token": "🍩!",
+      "token": "🍩",
       "start_offset": 7,
-      "end_offset": 10,
-      "type": "word",
+      "end_offset": 9,
+      "type": "SYNONYM",
+      "position": 2
+    },
+    {
+      "token": "dessert",
+      "start_offset": 7,
+      "end_offset": 9,
+      "type": "SYNONYM",
+      "position": 2
+    },
+    {
+      "token": "donut",
+      "start_offset": 7,
+      "end_offset": 9,
+      "type": "SYNONYM",
+      "position": 2
+    },
+    {
+      "token": "sweet",
+      "start_offset": 7,
+      "end_offset": 9,
+      "type": "SYNONYM",
       "position": 2
     }
   ]
