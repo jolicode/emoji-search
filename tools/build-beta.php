@@ -13,7 +13,7 @@ if (!file_exists($extractDir.'/annotations/root.xml')) {
 }
 
 // Read
-foreach (glob($extractDir."/annotations/*.xml") as $filename) {
+foreach (glob($extractDir."/annotations/*.xml") as $filename) { break;
     echo "Read $filename\n";
 
     $xml = simplexml_load_file($filename);
@@ -34,4 +34,51 @@ foreach (glob($extractDir."/annotations/*.xml") as $filename) {
     }
 
     file_put_contents($synonymsDir.'/cldr-emoji-annotation-synonyms-'.$lang.'.txt', $synonymsContent);
+}
+
+$regionalIndicatorSource = [
+    'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z'
+];
+$regionalIndicatorSymbol = [
+    '🇦', '🇧', '🇨', '🇩', '🇪', '🇫', '🇬', '🇭', '🇮', '🇯', '🇰', '🇱', '🇲', '🇳', '🇴', '🇵', '🇶', '🇷', '🇸', '🇹', '🇺', '🇻', '🇼', '🇽', '🇾', '🇿'
+];
+
+// Add flags
+foreach (glob($extractDir."/main/*.xml") as $filename) {
+    echo "Read $filename\n";
+
+    $lang = str_replace('.xml', '', basename($filename));
+    if (!file_exists($synonymsDir.'/cldr-emoji-annotation-synonyms-'.$lang.'.txt')) {
+        echo "No annotations for $lang, skip flags.\n";
+        continue;
+    }
+
+    echo "Add flags for $lang.\n";
+
+    $xml = simplexml_load_file($filename);
+
+    $territories = [];
+
+    foreach ($xml->localeDisplayNames->territories->children() as $territory) {
+        $key = (string) $territory['type'];
+
+        if ($territory['alt']) {
+            continue;
+        }
+
+        if (is_numeric($key)) {
+            continue; // No REGIONAL INDICATOR SYMBOL for numbers?! :(
+        }
+
+        $key = str_ireplace($regionalIndicatorSource, $regionalIndicatorSymbol, $key);
+
+        $territories[$key] = $key . ' => '. $key .', '.(string) $territory;
+    }
+
+    if (!file_exists($synonymsDir.'/cldr-emoji-annotation-synonyms-'.$lang.'.txt')) {
+        echo "No annotations for $lang, skip flags.\n";
+        continue;
+    }
+
+    file_put_contents($synonymsDir.'/cldr-emoji-annotation-synonyms-'.$lang.'.txt', "\n".implode("\n", $territories), FILE_APPEND);
 }
