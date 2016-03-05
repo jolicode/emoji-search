@@ -197,7 +197,7 @@
 💭 => 💭, tanke, boble, tegneserie
 🕳 => 🕳, hull
 👓 => 👓, lesebriller, klær
-🕶 => 🕶, mørkt: øye, briller
+🕶 => 🕶, mørkt, øye, briller
 👔 => 👔, klær
 👕 => 👕, skjorte, klær
 👖 => 👖, jeans, klær

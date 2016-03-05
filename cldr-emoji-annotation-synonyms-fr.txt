@@ -170,7 +170,7 @@
 🐾 => 🐾, pattes
 🦃 => 🦃, animal
 🐔 => 🐔, animal
-🐓 => 🐓, animal: coq
+🐓 => 🐓, animal, coq
 🐣 => 🐣, animal, poussin
 🐤 => 🐤, animal, poussin
 🐥 => 🐥, animal

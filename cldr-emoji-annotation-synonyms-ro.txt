@@ -85,7 +85,7 @@
 😽 => 😽, pisică, lacrimă, tristețe
 🙀 => 🙀, pisică, oboseală, uimire, disperare
 😿 => 😿, față, pisică, lacrimă, plâns
-😾 => 😾, față, pisică, bosumflare: enervare
+😾 => 😾, față, pisică, bosumflare, enervare
 🙈 => 🙈, rău, maimuță, gest, ochi acoperiți, vedere, nu
 🙉 => 🙉, rău, maimuță, gest, ochi acoperiți, auz, nu
 🙊 => 🙊, rău, maimuță, gest, gură, vorbire, nu
@@ -559,7 +559,7 @@
 ⛈ => ⛈, soare, nor, vreme
 🌤 => 🌤, soare, nor, vreme
 🌥 => 🌥, soare, nor, vreme
-🌦 => 🌦, soare: nor: ploaie
+🌦 => 🌦, soare, nor, ploaie
 🌧 => 🌧, nor, ploaie, vreme
 🌨 => 🌨, nor, fulgi, ninsoare
 🌩 => 🌩, nor, fulger

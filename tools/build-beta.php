@@ -27,6 +27,8 @@ foreach (glob($extractDir."/annotations/*.xml") as $filename) {
     foreach ($xml->annotations->children() as $annotation) {
         //echo $annotation;
         $emoji = str_replace(['[', ']', '{', '}'], '', (string) $annotation['cp']);
+        $annotation = str_replace(': ', '; ', (string) $annotation); // See #6
+
         $synonymsContent .= $emoji." => ".$emoji.", ". implode(', ', array_filter(array_map('trim', explode(';', (string) $annotation))));
         $synonymsContent .= "\n";
     }

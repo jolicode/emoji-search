@@ -245,7 +245,7 @@
 🐹 => 🐹, hamstur, höfuð
 🐰 => 🐰, kanína, höfuð
 🐿 => 🐿, íkorni
-🐻 => 🐻, björn: höfuð
+🐻 => 🐻, björn, höfuð
 🐨 => 🐨, höfuð
 🐼 => 🐼, panda, höfuð
 🐾 => 🐾, loppur, fótspor
