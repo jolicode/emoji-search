@@ -211,6 +211,22 @@ GET /en-emoji/_analyze?analyzer=english_with_emoji
 
 ## How to contribute
 
-## Credits
+### Build from CLDR SVN
 
-## License
+You will need:
+
+- php cli
+- svn
+
+Edit the tag in `tools/build-beta.php` and run `php tools/build-beta.php`.
+
+### Update emoticons
+
+Run `php tools/build-emoticon.php`.
+
+## Licenses
+
+Emoji data courtesy of CLDR. See [unicode-license.txt](unicode-license.txt) for details.
+Emoticon data based on [https://github.com/wooorm/emoticon/](https://github.com/wooorm/emoticon/) (MIT).
+
+This repository in distributed under [MIT License](LICENSE). Feel free to use and contribute as you please!

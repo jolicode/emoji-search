@@ -13,7 +13,7 @@ if (!file_exists($extractDir.'/annotations/root.xml')) {
 }
 
 // Read
-foreach (glob($extractDir."/annotations/*.xml") as $filename) { break;
+foreach (glob($extractDir."/annotations/*.xml") as $filename) {
     echo "Read $filename\n";
 
     $xml = simplexml_load_file($filename);
@@ -80,5 +80,8 @@ foreach (glob($extractDir."/main/*.xml") as $filename) {
         continue;
     }
 
-    file_put_contents($synonymsDir.'/cldr-emoji-annotation-synonyms-'.$lang.'.txt', "\n".implode("\n", $territories), FILE_APPEND);
+    file_put_contents($synonymsDir.'/cldr-emoji-annotation-synonyms-'.$lang.'.txt', implode("\n", $territories), FILE_APPEND);
 }
+
+// Update license
+passthru('svn export http://unicode.org/repos/cldr/tags/'.$version.'/unicode-license.txt '.$synonymsDir);
