@@ -3,6 +3,7 @@
 // Get the data
 $data = json_decode(file_get_contents('https://github.com/wooorm/emoticon/raw/master/data/emoticons.json'), true);
 
+$outputDir = realpath(sprintf('%s/../', __DIR__));
 
 $char_filters = [];
 
@@ -16,4 +17,6 @@ foreach($data as $emoticon) {
     }
 }
 
-echo json_encode($char_filters, JSON_UNESCAPED_UNICODE);
+file_put_contents($outputDir.'/emoticons.txt', implode("\n", $char_filters));
+
+echo "emoticons.txt updated.\n";
