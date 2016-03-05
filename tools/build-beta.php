@@ -25,7 +25,6 @@ foreach (glob($extractDir."/annotations/*.xml") as $filename) {
     }
 
     foreach ($xml->annotations->children() as $annotation) {
-        //echo $annotation;
         $emoji = str_replace(['[', ']', '{', '}'], '', (string) $annotation['cp']);
         $annotation = str_replace(': ', '; ', (string) $annotation); // See #6
 
@@ -84,4 +83,4 @@ foreach (glob($extractDir."/main/*.xml") as $filename) {
 }
 
 // Update license
-passthru('svn export http://unicode.org/repos/cldr/tags/'.$version.'/unicode-license.txt '.$synonymsDir);
+passthru('svn export --force http://unicode.org/repos/cldr/tags/'.$version.'/unicode-license.txt '.$synonymsDir);
