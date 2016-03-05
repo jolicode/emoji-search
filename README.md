@@ -226,7 +226,7 @@ Run `php tools/build-emoticon.php`.
 
 ## Licenses
 
-Emoji data courtesy of CLDR. See [unicode-license.txt](unicode-license.txt) for details.
+Emoji data courtesy of CLDR. See [unicode-license.txt](unicode-license.txt) for details. Some modifications are done on the data, [see here](https://github.com/jolicode/emoji-search/issues/6).
 Emoticon data based on [https://github.com/wooorm/emoticon/](https://github.com/wooorm/emoticon/) (MIT).
 
 This repository in distributed under [MIT License](LICENSE). Feel free to use and contribute as you please!
