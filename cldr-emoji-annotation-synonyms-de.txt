@@ -972,7 +972,6 @@
 ⚫ => ⚫, schwarz, Kreis, Ball
 🔴 => 🔴, rot, Kreis, Ball
 🔵 => 🔵, blau, Kreis, Ball
-
 🇦🇨 => 🇦🇨, Ascension
 🇦🇩 => 🇦🇩, Andorra
 🇦🇪 => 🇦🇪, Vereinigte Arabische Emirate

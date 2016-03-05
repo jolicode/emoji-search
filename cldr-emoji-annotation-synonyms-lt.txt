@@ -960,7 +960,6 @@
 ⚫ => ⚫, rutulys, geometrija
 🔴 => 🔴, rutulys, geometrija, raudonas
 🔵 => 🔵, mėlynas, rutulys, geometrija
-
 🇦🇨 => 🇦🇨, Dangun Žengimo sala
 🇦🇩 => 🇦🇩, Andora
 🇦🇪 => 🇦🇪, Jungtiniai Arabų Emyratai

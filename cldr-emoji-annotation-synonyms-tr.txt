@@ -984,7 +984,6 @@
 ⚫ => ⚫, daire, geometri
 🔴 => 🔴, büyük kırmızı çember, kırmızı, çember
 🔵 => 🔵, büyük mavi çember, mavi, çember
-
 🇦🇨 => 🇦🇨, Ascension Adası
 🇦🇩 => 🇦🇩, Andorra
 🇦🇪 => 🇦🇪, Birleşik Arap Emirlikleri

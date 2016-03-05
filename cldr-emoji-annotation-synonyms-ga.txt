@@ -763,7 +763,6 @@
 🔳 => 🔳, cearnóg bhán
 🔴 => 🔴, ciorcal mór dearg
 🔵 => 🔵, ciorcal mór gorm
-
 🇦🇨 => 🇦🇨, Oileán na Deascabhála
 🇦🇩 => 🇦🇩, Andóra
 🇦🇪 => 🇦🇪, Aontas na nÉimíríochtaí Arabacha

@@ -728,7 +728,6 @@
 ⚫ => ⚫, cercle
 🔴 => 🔴, rond
 🔵 => 🔵, rond
-
 🇦🇨 => 🇦🇨, Île de l’Ascension
 🇦🇩 => 🇦🇩, Andorre
 🇦🇪 => 🇦🇪, Émirats arabes unis

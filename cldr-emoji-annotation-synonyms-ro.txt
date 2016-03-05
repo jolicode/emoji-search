@@ -1002,7 +1002,6 @@
 ⚫ => ⚫, cerc, negru
 🔴 => 🔴, cerc, roșu
 🔵 => 🔵, cerc, albastru
-
 🇦🇨 => 🇦🇨, Insula Ascension
 🇦🇩 => 🇦🇩, Andorra
 🇦🇪 => 🇦🇪, Emiratele Arabe Unite

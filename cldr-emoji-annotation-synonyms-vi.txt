@@ -961,7 +961,6 @@
 ⚫ => ⚫, hình tròn, hình học
 🔴 => 🔴, hình tròn, hình học, đỏ
 🔵 => 🔵, màu lam, hình tròn, hình học
-
 🇦🇨 => 🇦🇨, Đảo Ascension
 🇦🇩 => 🇦🇩, Andorra
 🇦🇪 => 🇦🇪, Các Tiểu V.quốc Ả Rập T.nhất

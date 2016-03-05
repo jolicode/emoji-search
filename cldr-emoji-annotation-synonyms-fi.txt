@@ -982,7 +982,6 @@
 ⚫ => ⚫, muoto, ympyrä
 🔴 => 🔴, muoto, ympyrä, punainen
 🔵 => 🔵, muoto, ympyrä, sininen
-
 🇦🇨 => 🇦🇨, Ascension-saari
 🇦🇩 => 🇦🇩, Andorra
 🇦🇪 => 🇦🇪, Arabiemiirikunnat

@@ -985,7 +985,6 @@
 ⚫ => ⚫, cirkel, vit
 🔴 => 🔴, cirkel, röd
 🔵 => 🔵, cirkel, blå
-
 🇦🇨 => 🇦🇨, Ascension
 🇦🇩 => 🇦🇩, Andorra
 🇦🇪 => 🇦🇪, Förenade Arabemiraten

@@ -1003,7 +1003,6 @@
 ⚫ => ⚫, sirkel, geometrisk
 🔴 => 🔴, stor rød sirkel, rød, sirkel
 🔵 => 🔵, stor blå sirkel, blå, sirkel
-
 🇦🇨 => 🇦🇨, Ascension
 🇦🇩 => 🇦🇩, Andorra
 🇦🇪 => 🇦🇪, De forente arabiske emirater

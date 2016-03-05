@@ -967,7 +967,6 @@
 ⚫ => ⚫, ring, geomeetria
 🔴 => 🔴, ring, geomeetria, punane
 🔵 => 🔵, sinine, ring, geomeetria
-
 🇦🇨 => 🇦🇨, Ascensioni saar
 🇦🇩 => 🇦🇩, Andorra
 🇦🇪 => 🇦🇪, Araabia Ühendemiraadid

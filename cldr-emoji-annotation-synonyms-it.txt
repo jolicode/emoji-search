@@ -1019,7 +1019,6 @@
 ⚫ => ⚫, cerchio, geometria, nero
 🔴 => 🔴, grande, rosso, cerchio
 🔵 => 🔵, grande, blu, cerchio
-
 🇦🇨 => 🇦🇨, Isola Ascensione
 🇦🇩 => 🇦🇩, Andorra
 🇦🇪 => 🇦🇪, Emirati Arabi Uniti

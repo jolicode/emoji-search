@@ -966,7 +966,6 @@
 ⚫ => ⚫, círculo, geométrico
 🔴 => 🔴, círculo, geométrico, vermelho
 🔵 => 🔵, círculo, geométrico, azul
-
 🇦🇨 => 🇦🇨, Ilha de Ascensão
 🇦🇩 => 🇦🇩, Andorra
 🇦🇪 => 🇦🇪, Emirados Árabes Unidos

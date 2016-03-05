@@ -702,7 +702,6 @@
 ⚫ => ⚫, cercle, negre
 🔴 => 🔴, cercle, vermell
 🔵 => 🔵, cercle, blau
-
 🇦🇨 => 🇦🇨, Illa de l’Ascensió
 🇦🇩 => 🇦🇩, Andorra
 🇦🇪 => 🇦🇪, Emirats Àrabs Units

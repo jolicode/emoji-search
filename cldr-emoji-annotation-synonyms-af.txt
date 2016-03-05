@@ -982,7 +982,6 @@
 ⚫ => ⚫, sirkel, geometries, swart
 🔴 => 🔴, sirkel, geometries, rooi
 🔵 => 🔵, sirkel, geometries, blou
-
 🇦🇨 => 🇦🇨, Ascensioneiland
 🇦🇩 => 🇦🇩, Andorra
 🇦🇪 => 🇦🇪, Verenigde Arabiese Emirate

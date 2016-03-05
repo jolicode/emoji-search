@@ -968,7 +968,6 @@
 ⚫ => ⚫, hringur, svatur, rúmfræði
 🔴 => 🔴, hringur, rauður, rúmfræði
 🔵 => 🔵, hringur, blár, rúmfræði
-
 🇦🇨 => 🇦🇨, Ascension-eyja
 🇦🇩 => 🇦🇩, Andorra
 🇦🇪 => 🇦🇪, Sameinuðu arabísku furstadæmin

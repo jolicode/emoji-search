@@ -963,7 +963,6 @@
 ⚫ => ⚫, mduara, jiometri
 🔴 => 🔴, mduara, jiometri, nyekundu
 🔵 => 🔵, samawati, mduara, jiometri
-
 🇦🇨 => 🇦🇨, Kisiwa cha Ascension
 🇦🇩 => 🇦🇩, Andora
 🇦🇪 => 🇦🇪, Falme za Kiarabu

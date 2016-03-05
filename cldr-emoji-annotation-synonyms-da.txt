@@ -997,7 +997,6 @@
 ⚫ => ⚫, cirkel, geometrisk
 🔴 => 🔴, cirkel, geometrisk, rød
 🔵 => 🔵, blå, cirkel, geometrisk
-
 🇦🇨 => 🇦🇨, Ascensionøen
 🇦🇩 => 🇦🇩, Andorra
 🇦🇪 => 🇦🇪, De Forenede Arabiske Emirater

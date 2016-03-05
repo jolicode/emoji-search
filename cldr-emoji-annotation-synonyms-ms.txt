@@ -970,7 +970,6 @@
 ⚫ => ⚫, bulatan, geometri
 🔴 => 🔴, bulatan, geometri, merah
 🔵 => 🔵, biru, bulatan, geometri
-
 🇦🇨 => 🇦🇨, Pulau Ascension
 🇦🇩 => 🇦🇩, Andorra
 🇦🇪 => 🇦🇪, Emiriah Arab Bersatu

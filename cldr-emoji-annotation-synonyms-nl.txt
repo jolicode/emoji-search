@@ -977,7 +977,6 @@
 ⚫ => ⚫, grote zwarte cirkel, zwart, cirkel
 🔴 => 🔴, grote rode cirkel, rood, cirkel
 🔵 => 🔵, grote blauwe cirkel, blauw, cirkel
-
 🇦🇨 => 🇦🇨, Ascension
 🇦🇩 => 🇦🇩, Andorra
 🇦🇪 => 🇦🇪, Verenigde Arabische Emiraten

@@ -969,7 +969,6 @@
 ⚫ => ⚫, ģeometrija, aplis
 🔴 => 🔴, ģeometrija, aplis
 🔵 => 🔵, ģeometrija, aplis
-
 🇦🇨 => 🇦🇨, Debesbraukšanas sala
 🇦🇩 => 🇦🇩, Andora
 🇦🇪 => 🇦🇪, Apvienotie Arābu Emirāti

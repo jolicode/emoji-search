@@ -971,7 +971,6 @@
 ⚫ => ⚫, doira, geometriya
 🔴 => 🔴, aylana, geometriya, qizil
 🔵 => 🔵, ko‘k, aylana, geometriya
-
 🇦🇨 => 🇦🇨, Me’roj oroli
 🇦🇩 => 🇦🇩, Andorra
 🇦🇪 => 🇦🇪, Birlashgan Arab Amirliklari

@@ -968,7 +968,6 @@
 ⚫ => ⚫, circle, geometric
 🔴 => 🔴, circle, geometric, red
 🔵 => 🔵, blue, circle, geometric
-
 🇦🇨 => 🇦🇨, Ascension Island
 🇦🇩 => 🇦🇩, Andorra
 🇦🇪 => 🇦🇪, United Arab Emirates

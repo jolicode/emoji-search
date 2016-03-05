@@ -973,7 +973,6 @@
 ⚫ => ⚫, lingkaran, geometri
 🔴 => 🔴, lingkaran, geometri, merah
 🔵 => 🔵, biru, lingkaran, geometri
-
 🇦🇨 => 🇦🇨, Pulau Ascension
 🇦🇩 => 🇦🇩, Andorra
 🇦🇪 => 🇦🇪, Uni Emirat Arab

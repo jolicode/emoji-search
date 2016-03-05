@@ -963,7 +963,6 @@
 ⚫ => ⚫, krog, geometrično
 🔴 => 🔴, krog, geometrično, rdeče
 🔵 => 🔵, modro, krog, geometrično
-
 🇦🇨 => 🇦🇨, Otok Ascension
 🇦🇩 => 🇦🇩, Andora
 🇦🇪 => 🇦🇪, Združeni arabski emirati

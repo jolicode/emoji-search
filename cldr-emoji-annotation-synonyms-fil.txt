@@ -998,7 +998,6 @@
 ⚫ => ⚫, itim, bilog, hugis
 🔴 => 🔴, pula, bilog, hugis
 🔵 => 🔵, asul, bilog, hugis
-
 🇦🇨 => 🇦🇨, Acsencion island
 🇦🇩 => 🇦🇩, Andorra
 🇦🇪 => 🇦🇪, United Arab Emirates

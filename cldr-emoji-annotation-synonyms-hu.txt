@@ -990,7 +990,6 @@
 ⚫ => ⚫, kör, alakzat
 🔴 => 🔴, kör, alakzat, piros
 🔵 => 🔵, kör, alakzat, kék
-
 🇦🇨 => 🇦🇨, Ascension-sziget
 🇦🇩 => 🇦🇩, Andorra
 🇦🇪 => 🇦🇪, Egyesült Arab Emírségek

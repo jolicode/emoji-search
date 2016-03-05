@@ -961,7 +961,6 @@
 ⚫ => ⚫, rreth, gjeometri
 🔴 => 🔴, rreth, gjeometrik, e kuqe
 🔵 => 🔵, blu, rreth, gjeometri
-
 🇦🇨 => 🇦🇨, Ishulli Asenshion
 🇦🇩 => 🇦🇩, Andorrë
 🇦🇪 => 🇦🇪, Emiratet e Bashkuara Arabe

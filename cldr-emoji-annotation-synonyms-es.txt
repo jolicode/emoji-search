@@ -1014,7 +1014,6 @@
 ⚫ => ⚫, círculo, grande, negro
 🔴 => 🔴, círculo, grande, rojo
 🔵 => 🔵, círculo, grande, azul
-
 🇦🇨 => 🇦🇨, Isla de la Ascensión
 🇦🇩 => 🇦🇩, Andorra
 🇦🇪 => 🇦🇪, Emiratos Árabes Unidos

@@ -970,7 +970,6 @@
 ⚫ => ⚫, kruh, geometria
 🔴 => 🔴, kruh, geometria, červený
 🔵 => 🔵, modrý, kruh, geometria
-
 🇦🇨 => 🇦🇨, Ascensión
 🇦🇩 => 🇦🇩, Andorra
 🇦🇪 => 🇦🇪, Spojené arabské emiráty

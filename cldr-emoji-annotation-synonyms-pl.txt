@@ -984,7 +984,6 @@
 ⚫ => ⚫, figura geometryczna, kółko, koło, czarne
 🔴 => 🔴, figura geometryczna, kółko, koło, czerwone
 🔵 => 🔵, figura geometryczna, kółko, koło, niebieskie
-
 🇦🇨 => 🇦🇨, Wyspa Wniebowstąpienia
 🇦🇩 => 🇦🇩, Andora
 🇦🇪 => 🇦🇪, Zjednoczone Emiraty Arabskie
