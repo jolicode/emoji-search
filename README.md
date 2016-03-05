@@ -68,6 +68,18 @@ GET /en-emoji/_analyze?analyzer=english_with_emoji
   "text": "I love 🍩"
 }
 # Result: i, love, 🍩, dessert, donut, sweet
+
+GET /en-emoji/_analyze?analyzer=english_with_emoji
+{
+  "text": "You are ]:)"
+}
+# Result: you, are, 😈, face, fairy, fantasy, horns, smile, tale
+
+GET /en-emoji/_analyze?analyzer=english_with_emoji
+{
+  "text": "Where is 🇫🇮?"
+}
+# Result: where, is, 🇫🇮, finland
 ```
 
 ## How to contribute

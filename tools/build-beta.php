@@ -71,7 +71,7 @@ foreach (glob($extractDir."/main/*.xml") as $filename) {
 
         $key = str_ireplace($regionalIndicatorSource, $regionalIndicatorSymbol, $key);
 
-        $territories[$key] = $key . ' => '. $key .', '.(string) $territory;
+        $territories[$key] = $key . ' => '. $key .', '.mb_strtolower((string) $territory);
     }
 
     if (!file_exists($synonymsDir.'/cldr-emoji-annotation-synonyms-'.$lang.'.txt')) {
