@@ -1,21 +1,36 @@
 # Emoji synonyms and analyzer for Elasticsearch
-> Add support for emoji in any Solr compatible search engine!
+> Add support for emoji in any Solr compatible search engine! Or how to search with :pizza: to get Pizza!
 
 ## What is this
 
-This repository host synonym files in Solr format, based on [CLDR data set](http://cldr.unicode.org/).
+This repository host information about Elasticsearch and emoji search:
 
-**Learn more about this in our [blog post](TODO).**
+- synonym files in Solr format for emoji search;
+- emoticon suggestions for improved meaning extraction;
+- full elasticsearch analyzer configuration.
 
-Current version is based on 29β.
+Emoji data are based on the latest [CLDR data set](http://cldr.unicode.org/) (Currently version 29β).
+
+**Learn more about this in our [blog post describing how to search with emoji in Elasticsearch](TODO).**
 
 ## Installation in Elasticsearch
 
-### Elasticsearch mapping with emoji support
+### Get the files in ./config/analysis/
 
-Download the emoji and emoticon file you want and store them in `PATH_ES/config/analysis`.
+Download the emoji and emoticon file you want from this repository and store them in `PATH_ES/config/analysis`.
 
-Then create an analyzer (called `english_with_emoji` here):
+```
+config
+├── analysis
+│   ├── cldr-emoji-annotation-synonyms-en.txt
+│   └── emoticons.txt
+├── elasticsearch.yml
+...
+```
+
+### Create the analyzer
+
+We call it `english_with_emoji` here because we use the english synonyms:
 
 ```json
 PUT /en-emoji
@@ -66,7 +81,7 @@ PUT /en-emoji
 }
 ```
 
-Trying it:
+### Try it!
 
 ```json
 GET /en-emoji/_analyze?analyzer=english_with_emoji
