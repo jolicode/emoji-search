@@ -1,6 +1,6 @@
 <?php
 
-$version = "release-29-beta-1";
+$version = "release-29";
 
 $zipDir = sprintf('%s/tmp', __DIR__);
 $zipFile = sprintf('%s/core-%s.zip', $zipDir, $version);

@@ -9,7 +9,7 @@ This repository host information about Elasticsearch and emoji search:
 - emoticon suggestions for improved meaning extraction;
 - full elasticsearch analyzer configuration.
 
-Emoji data are based on the latest [CLDR data set](http://cldr.unicode.org/) (Currently version 29β).
+Emoji data are based on the latest [CLDR data set](http://cldr.unicode.org/) (Currently version 29 stable).
 
 **Learn more about this in our [blog post describing how to search with emoji in Elasticsearch](http://jolicode.com/blog/search-for-emoji-with-elasticsearch).**
 
