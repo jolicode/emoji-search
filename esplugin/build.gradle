@@ -16,14 +16,36 @@ if (GradleVersion.current() != GradleVersion.version('2.13')) {
   throw new GradleException('Gradle 2.13 is required to build elasticsearch')
 }
 
+group = 'org.elasticsearch.plugin'
+version = '5.0.0-rc1-SNAPSHOT'
+
 apply plugin: 'java'
 apply plugin: 'elasticsearch.esplugin'
 apply plugin: 'idea'
 
 esplugin {
+  name 'analysis-emoji'
   description 'Add support for emoji in Elasticsearch'
-  classname 'org.elasticsearch.plugin.emoji.EmojiPlugin'
+  classname 'org.elasticsearch.plugin.analysis.emoji.EmojiPlugin'
+}
+
+dependencies {
+    compile "org.elasticsearch:elasticsearch:${versions.elasticsearch}"
+    testCompile "org.elasticsearch.test:framework:${versions.elasticsearch}"
 }
 
 // no unit tests
 test.enabled = false
+
+// Uncomment this to skip license header checks
+licenseHeaders.enabled = false
+
+// Uncomment to not use elasticsearch checkstyle rules
+// checkstyleMain.enabled = false
+checkstyleTest.enabled = false
+
+// FIXME dependency license check needs to be enabled
+dependencyLicenses.enabled = false
+
+// FIXME thirdparty audit needs to be enabled
+thirdPartyAudit.enabled = false
