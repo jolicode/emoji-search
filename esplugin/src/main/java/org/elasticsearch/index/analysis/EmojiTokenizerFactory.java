@@ -1,20 +1,15 @@
 package org.elasticsearch.index.analysis;
 
-import org.apache.lucene.analysis.Tokenizer;
-import org.elasticsearch.ElasticsearchException;
-import org.elasticsearch.common.settings.Settings;
-import org.elasticsearch.env.Environment;
-import org.elasticsearch.index.IndexSettings;
-
-import org.apache.lucene.analysis.Tokenizer;
-import org.apache.lucene.analysis.standard.StandardAnalyzer;
-import org.apache.lucene.analysis.standard.StandardTokenizer;
+import com.ibm.icu.text.BreakIterator;
+import com.ibm.icu.text.RuleBasedBreakIterator;
 import org.apache.lucene.analysis.Tokenizer;
 import org.apache.lucene.analysis.icu.segmentation.DefaultICUTokenizerConfig;
 import org.apache.lucene.analysis.icu.segmentation.ICUTokenizer;
 import org.apache.lucene.analysis.icu.segmentation.ICUTokenizerConfig;
-import com.ibm.icu.text.RuleBasedBreakIterator;
-import com.ibm.icu.text.BreakIterator;
+import org.elasticsearch.common.settings.Settings;
+import org.elasticsearch.env.Environment;
+import org.elasticsearch.index.IndexSettings;
+
 import java.util.Locale;
 
 /**

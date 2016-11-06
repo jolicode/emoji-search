@@ -1,47 +1,19 @@
 package org.elasticsearch.index.analysis;
 
-import org.elasticsearch.test.ESTestCase;
-
-
-import org.elasticsearch.env.Environment;
-import org.elasticsearch.common.settings.Settings;
-import org.elasticsearch.cluster.metadata.IndexMetaData;
-import org.elasticsearch.index.Index;
+import org.apache.lucene.analysis.icu.segmentation.ICUTokenizer;
 import org.elasticsearch.Version;
-import org.elasticsearch.plugin.analysis.emoji.EmojiPlugin;
+import org.elasticsearch.cluster.metadata.IndexMetaData;
+import org.elasticsearch.common.settings.Settings;
+import org.elasticsearch.env.Environment;
+import org.elasticsearch.index.Index;
+import org.elasticsearch.test.ESTestCase;
 import org.elasticsearch.test.IndexSettingsModule;
 
 import java.io.IOException;
-import java.io.BufferedReader;
-import java.io.InputStreamReader;
-import java.net.InetAddress;
-import java.net.Socket;
-import java.net.URL;
-import java.io.InputStream;
 import java.io.Reader;
 import java.io.StringReader;
-import java.nio.file.Files;
-import java.nio.file.Path;
-import java.nio.charset.StandardCharsets;
-import java.util.Objects;
-
-import java.io.StringReader;
-import java.util.ArrayList;
-import java.util.HashSet;
-import java.util.LinkedHashSet;
-import java.util.List;
-import java.util.Set;
-import java.util.stream.Collectors;
-
-import org.apache.lucene.analysis.Analyzer;
-import org.apache.lucene.analysis.TokenStream;
-import org.apache.lucene.analysis.Tokenizer;
-import org.apache.lucene.analysis.core.KeywordTokenizer;
-import org.apache.lucene.analysis.tokenattributes.CharTermAttribute;
-import org.apache.lucene.analysis.icu.segmentation.ICUTokenizer;
 
 import static org.apache.lucene.analysis.BaseTokenStreamTestCase.assertTokenStreamContents;
-import static org.hamcrest.Matchers.hasSize;
 
 public class EmojiIT extends ESTestCase {
     public void testSimpleIcuTokenizer() throws IOException {
