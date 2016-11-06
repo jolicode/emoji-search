@@ -9,20 +9,53 @@ import org.elasticsearch.index.IndexSettings;
 import org.apache.lucene.analysis.Tokenizer;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.analysis.standard.StandardTokenizer;
+import org.apache.lucene.analysis.Tokenizer;
+import org.apache.lucene.analysis.icu.segmentation.DefaultICUTokenizerConfig;
+import org.apache.lucene.analysis.icu.segmentation.ICUTokenizer;
+import org.apache.lucene.analysis.icu.segmentation.ICUTokenizerConfig;
+import com.ibm.icu.text.RuleBasedBreakIterator;
+import com.ibm.icu.text.BreakIterator;
+import java.util.Locale;
 
+/**
+ * Build an ICU Tokenizer using the latests ICU and a customized RuleSet for emoji
+ */
 public class EmojiTokenizerFactory extends AbstractTokenizerFactory {
 
-    private final int maxTokenLength;
+    private final ICUTokenizerConfig config;
 
     public EmojiTokenizerFactory(IndexSettings indexSettings, Environment environment, String name, Settings settings) {
         super(indexSettings, name, settings);
-        maxTokenLength = settings.getAsInt("max_token_length", StandardAnalyzer.DEFAULT_MAX_TOKEN_LENGTH);
+
+        config = new DefaultICUTokenizerConfig(true, true) {
+            @Override
+            public BreakIterator getBreakIterator(int script) {
+                // Load the ICU default rules
+                RuleBasedBreakIterator rbbi = (RuleBasedBreakIterator)
+                        BreakIterator.getWordInstance(Locale.getDefault());
+                String defaultRules = rbbi.toString();
+
+                defaultRules = defaultRules.replace(
+                    "!!forward;",
+                    "!!forward;\n$EmojiNRK {200};"
+                );
+
+                defaultRules = defaultRules.replace(
+                    "| $ZWJ)*;",
+                    "| $ZWJ)* {200};"
+                );
+
+                return new RuleBasedBreakIterator(defaultRules);
+            }
+        };
     }
 
     @Override
     public Tokenizer create() {
-        StandardTokenizer tokenizer = new StandardTokenizer();
+        return new ICUTokenizer(config);
+
+        /*StandardTokenizer tokenizer = new StandardTokenizer();
         tokenizer.setMaxTokenLength(maxTokenLength);
-        return tokenizer;
+        return tokenizer;*/
     }
 }

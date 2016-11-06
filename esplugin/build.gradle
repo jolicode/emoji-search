@@ -6,7 +6,7 @@ buildscript {
  }
 
   dependencies {
-    classpath "org.elasticsearch.gradle:build-tools:5.0.0-rc1"
+    classpath "org.elasticsearch.gradle:build-tools:5.0.0"
   }
 }
 
@@ -17,7 +17,7 @@ if (GradleVersion.current() != GradleVersion.version('2.13')) {
 }
 
 group = 'org.elasticsearch.plugin'
-version = '5.0.0-rc1-SNAPSHOT'
+version = '5.0.0'
 
 apply plugin: 'java'
 apply plugin: 'elasticsearch.esplugin'
@@ -31,6 +31,8 @@ esplugin {
 
 dependencies {
     compile "org.elasticsearch:elasticsearch:${versions.elasticsearch}"
+    compile "org.apache.lucene:lucene-analyzers-icu:${versions.lucene}"
+    compile 'com.ibm.icu:icu4j:58.1'
     testCompile "org.elasticsearch.test:framework:${versions.elasticsearch}"
 }
 
