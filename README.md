@@ -12,11 +12,23 @@ This repository host information about Elasticsearch and emoji search:
 
 Emoji data are based on the latest [CLDR data set](http://cldr.unicode.org/) (Currently version 30.0.2 stable).
 
+```
+👩‍🚒 => 👩‍🚒, firefighter, firetruck, woman
+👩‍✈ => 👩‍✈, pilot, plane, woman
+🥓 => 🥓, bacon, meat, food
+🥔 => 🥔, potato, vegetable, food
+😅 => 😅, cold, face, open, smile, sweat
+😆 => 😆, face, laugh, mouth, open, satisfied, smile
+🚎 => 🚎, bus, tram, trolley
+🇫🇷 => 🇫🇷, france
+🇬🇧 => 🇬🇧, united kingdom
+```
+
 **Learn more about this in our [blog post describing how to search with emoji in Elasticsearch](http://jolicode.com/blog/search-for-emoji-with-elasticsearch) (2016).**
 
 ## Emoji analyzer for Elasticsearch (with the `analysis-emoji` plugin)
 
-Go to the [dedicated plugin documentation]().
+Go to the [dedicated plugin documentation](esplugin/README.md).
 
 ## Emoji analyzer for Elasticsearch (without the plugin, so not perfect)
 
