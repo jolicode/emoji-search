@@ -13,10 +13,9 @@ import org.elasticsearch.index.IndexSettings;
 import java.util.Locale;
 
 /**
- * Build an ICU Tokenizer using the latests ICU and a customized RuleSet for emoji
+ * Build an ICU Tokenizer using the latest ICU and a customized RuleSet for emoji status 200
  */
 public class EmojiTokenizerFactory extends AbstractTokenizerFactory {
-
     private final ICUTokenizerConfig config;
 
     public EmojiTokenizerFactory(IndexSettings indexSettings, Environment environment, String name, Settings settings) {
@@ -30,6 +29,7 @@ public class EmojiTokenizerFactory extends AbstractTokenizerFactory {
                         BreakIterator.getWordInstance(Locale.getDefault());
                 String defaultRules = rbbi.toString();
 
+                // Customize the rules to add EmojiNRK as first class word
                 defaultRules = defaultRules.replace(
                     "!!forward;",
                     "!!forward;\n$EmojiNRK {200};"
@@ -48,9 +48,5 @@ public class EmojiTokenizerFactory extends AbstractTokenizerFactory {
     @Override
     public Tokenizer create() {
         return new ICUTokenizer(config);
-
-        /*StandardTokenizer tokenizer = new StandardTokenizer();
-        tokenizer.setMaxTokenLength(maxTokenLength);
-        return tokenizer;*/
     }
 }

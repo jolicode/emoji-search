@@ -39,12 +39,11 @@ dependencies {
 // no unit tests
 test.enabled = false
 
-// Uncomment this to skip license header checks
+// skip license header checks
 licenseHeaders.enabled = false
 
-// Uncomment to not use elasticsearch checkstyle rules
-// checkstyleMain.enabled = false
-checkstyleTest.enabled = false
+// use elasticsearch checkstyle rules
+checkstyleTest.enabled = true
 
 // FIXME dependency license check needs to be enabled
 dependencyLicenses.enabled = false
