@@ -1,11 +1,11 @@
 <?php
 
-$version = "28"; // Version <= 28 is not good... don't use it
+$version = "30.0.2";
 
 $zipDir = sprintf('%s/tmp', __DIR__);
 $zipFile = sprintf('%s/core-%s.zip', $zipDir, $version);
 $extractDir = sprintf('%s/core-%s', $zipDir, $version);
-$synonymsDir = realpath(sprintf('%s/../../', $zipDir));
+$synonymsDir = realpath(sprintf('%s/../../synonyms/', $zipDir));
 
 // Get the ZIP
 if (!file_exists($zipFile)) {
@@ -47,7 +47,7 @@ if (!file_exists($extractDir.'/apache-license.txt')) {
     $zip->close();
 }
 
-// Read
+// Read emoji
 foreach (glob($extractDir."/common/annotations/*.xml") as $filename) {
     echo "Read $filename\n";
 
@@ -59,12 +59,68 @@ foreach (glob($extractDir."/common/annotations/*.xml") as $filename) {
         continue;
     }
 
+    // For now, ignore the territory improvements (FIXME)
+    if ((string) $xml->identity->territory['type']) {
+        continue;
+    }
+
     foreach ($xml->annotations->children() as $annotation) {
-        //echo $annotation;
+        if ((string) $annotation['type'] === 'tts') {
+            continue;
+        }
+
         $emoji = str_replace(['[', ']', '{', '}'], '', (string) $annotation['cp']);
-        $synonymsContent .= $emoji." => ".$emoji.", ". implode(', ', array_filter(array_map('trim', explode(';', (string) $annotation))));
+        $synonymsContent .= $emoji." => ".$emoji.", ". implode(', ', array_filter(array_map('trim', explode('|', (string) $annotation))));
         $synonymsContent .= "\n";
     }
 
     file_put_contents($synonymsDir.'/cldr-emoji-annotation-synonyms-'.$lang.'.txt', $synonymsContent);
+}
+
+// Build flags
+$regionalIndicatorSource = [
+    'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z'
+];
+$regionalIndicatorSymbol = [
+    '🇦', '🇧', '🇨', '🇩', '🇪', '🇫', '🇬', '🇭', '🇮', '🇯', '🇰', '🇱', '🇲', '🇳', '🇴', '🇵', '🇶', '🇷', '🇸', '🇹', '🇺', '🇻', '🇼', '🇽', '🇾', '🇿'
+];
+
+// Add flags
+foreach (glob($extractDir."/common/main/*.xml") as $filename) {
+    echo "Read $filename\n";
+
+    $lang = str_replace('.xml', '', basename($filename));
+    if (!file_exists($synonymsDir.'/cldr-emoji-annotation-synonyms-'.$lang.'.txt')) {
+        echo "No annotations for $lang, skip flags.\n";
+        continue;
+    }
+
+    echo "Add flags for $lang.\n";
+
+    $xml = simplexml_load_file($filename);
+
+    $territories = [];
+
+    foreach ($xml->localeDisplayNames->territories->children() as $territory) {
+        $key = (string) $territory['type'];
+
+        if ($territory['alt']) {
+            continue;
+        }
+
+        if (is_numeric($key)) {
+            continue; // No REGIONAL INDICATOR SYMBOL for numbers?! :(
+        }
+
+        $key = str_ireplace($regionalIndicatorSource, $regionalIndicatorSymbol, $key);
+
+        $territories[$key] = $key . ' => '. $key .', '.mb_strtolower((string) $territory);
+    }
+
+    if (!file_exists($synonymsDir.'/cldr-emoji-annotation-synonyms-'.$lang.'.txt')) {
+        echo "No annotations for $lang, skip flags.\n";
+        continue;
+    }
+
+    file_put_contents($synonymsDir.'/cldr-emoji-annotation-synonyms-'.$lang.'.txt', implode("\n", $territories), FILE_APPEND);
 }

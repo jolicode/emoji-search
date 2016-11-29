@@ -1,19 +1,24 @@
-# Emoji synonyms and analyzer for Elasticsearch
-> Add support for emoji in any Solr compatible search engine! Or how to search with :pizza: to get Pizza!
+# Emoji synonyms dictionary and custom tokenizer plugin for Elasticsearch
+> Add support for emoji in any Lucene compatible search engine!
 
 ## What is this
 
 This repository host information about Elasticsearch and emoji search:
 
-- synonym files in Solr format for emoji search;
+- [synonym files](/synonyms) in Solr / Lucene format for emoji search in all languages supported by Unicode CLDR;
 - emoticon suggestions for improved meaning extraction;
-- full elasticsearch analyzer configuration.
+- full elasticsearch analyzer configuration to copy and paste;
+- an [experimental tokenizer plugin](/esplugin) for Elasticsearch (help needed :warning:).
 
-Emoji data are based on the latest [CLDR data set](http://cldr.unicode.org/) (Currently version 29 stable).
+Emoji data are based on the latest [CLDR data set](http://cldr.unicode.org/) (Currently version 30.0.2 stable).
 
-**Learn more about this in our [blog post describing how to search with emoji in Elasticsearch](http://jolicode.com/blog/search-for-emoji-with-elasticsearch).**
+**Learn more about this in our [blog post describing how to search with emoji in Elasticsearch](http://jolicode.com/blog/search-for-emoji-with-elasticsearch) (2016).**
 
-## Installation in Elasticsearch
+## Emoji analyzer for Elasticsearch (with the `analysis-emoji` plugin)
+
+Go to the [dedicated plugin documentation]().
+
+## Emoji analyzer for Elasticsearch (without the plugin, so not perfect)
 
 ### Get the files in ./config/analysis/
 
