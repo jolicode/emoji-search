@@ -77,4 +77,10 @@ GET /en-emoji/_analyze?analyzer=english_with_emoji
   "text": "I live in 🇫🇷 and I'm 👩‍🚀"
 }
 # Result: i live in 🇫🇷 france and i'm 👩‍🚀 astronaut rocket woman
+
+GET /en-emoji/_analyze?analyzer=english_with_emoji
+{
+  "text": "Hi mom :)"
+}
+# Result:  hi mom 😃 face mouth open smile
 ```
