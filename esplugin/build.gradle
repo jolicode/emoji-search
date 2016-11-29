@@ -1,0 +1,52 @@
+buildscript {
+  repositories {
+    mavenLocal()
+    mavenCentral()
+    jcenter()
+ }
+
+  dependencies {
+    classpath "org.elasticsearch.gradle:build-tools:5.0.0"
+  }
+}
+
+// remove me again when removed from es core
+// https://github.com/elastic/elasticsearch/pull/18955
+if (GradleVersion.current() != GradleVersion.version('2.13')) {
+  throw new GradleException('Gradle 2.13 is required to build elasticsearch')
+}
+
+group = 'org.elasticsearch.plugin'
+version = '5.0.0'
+
+apply plugin: 'java'
+apply plugin: 'elasticsearch.esplugin'
+apply plugin: 'idea'
+
+esplugin {
+  name 'analysis-emoji'
+  description 'Add support for emoji in Elasticsearch'
+  classname 'org.elasticsearch.plugin.analysis.emoji.EmojiPlugin'
+}
+
+dependencies {
+    compile "org.elasticsearch:elasticsearch:${versions.elasticsearch}"
+    compile "org.apache.lucene:lucene-analyzers-icu:${versions.lucene}"
+    compile 'com.ibm.icu:icu4j:58.1'
+    testCompile "org.elasticsearch.test:framework:${versions.elasticsearch}"
+}
+
+// no unit tests
+test.enabled = false
+
+// skip license header checks
+licenseHeaders.enabled = false
+
+// use elasticsearch checkstyle rules
+checkstyleTest.enabled = true
+
+// FIXME dependency license check needs to be enabled
+dependencyLicenses.enabled = false
+
+// FIXME thirdparty audit needs to be enabled
+thirdPartyAudit.enabled = false

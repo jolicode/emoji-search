@@ -1,1 +1,5 @@
 tools/tmp
+.idea/
+bin/
+/elasticsearch-5.0.0/
+/icu58/
