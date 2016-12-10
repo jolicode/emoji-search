@@ -19,6 +19,7 @@ bin/elasticsearch-plugin install https://github.com/jolicode/emoji-search/releas
 
 analysis-emoji version and ES version  | Install URL
 -----------|-----------
+5.1.1 | https://github.com/jolicode/emoji-search/releases/download/5.1.1/analysis-emoji-5.1.1.zip
 5.0.2 | https://github.com/jolicode/emoji-search/releases/download/5.0.2/analysis-emoji-5.0.2.zip
 5.0.1 | https://github.com/jolicode/emoji-search/releases/download/5.0.1/analysis-emoji-5.0.1.zip
 5.0.0 | https://github.com/jolicode/emoji-search/releases/download/5.0.0/analysis-emoji-5.0.0.zip
@@ -85,4 +86,18 @@ GET /en-emoji/_analyze?analyzer=english_with_emoji
   "text": "Hi mom :)"
 }
 # Result:  hi mom 😃 face mouth open smile
+```
+
+## How to contribute
+
+Run the tests:
+
+```
+gradle clean check
+```
+
+Package for release:
+
+```
+gradle clean check assemble
 ```

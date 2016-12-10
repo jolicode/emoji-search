@@ -30,7 +30,7 @@ Emoji data are based on the latest [CLDR data set](http://cldr.unicode.org/) (Cu
 
 Go to the [dedicated plugin documentation](esplugin/README.md).
 
-## Emoji analyzer for Elasticsearch (without the plugin, so not perfect)
+## Emoji analyzer for Elasticsearch (without the plugin, not perfect)
 
 ### Get the files in ./config/analysis/
 
