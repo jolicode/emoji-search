@@ -17,7 +17,7 @@ if (GradleVersion.current() != GradleVersion.version('2.13')) {
 }
 
 group = 'org.elasticsearch.plugin'
-version = '5.2.1'
+version = '5.2.2'
 
 apply plugin: 'java'
 apply plugin: 'elasticsearch.esplugin'

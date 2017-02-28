@@ -11,8 +11,8 @@ The plugin version must match your Elasticsearch version.
 ```
 bin/elasticsearch-plugin install URL
 
-# For 5.2.1:
-bin/elasticsearch-plugin install https://github.com/jolicode/emoji-search/releases/download/5.1.2/analysis-emoji-5.2.1.zip
+# For 5.2.2:
+bin/elasticsearch-plugin install https://github.com/jolicode/emoji-search/releases/download/5.2.2/analysis-emoji-5.2.2.zip
 ```
 
 ## Versions
@@ -21,7 +21,8 @@ ICU is always up to date to the latest data in this plugin, so upgrading may req
 
 analysis-emoji version and ES version  | Install URL
 -----------|-----------
-5.2.1 | https://github.com/jolicode/emoji-search/releases/download/5.2.0/analysis-emoji-5.2.1.zip
+5.2.2 | https://github.com/jolicode/emoji-search/releases/download/5.2.2/analysis-emoji-5.2.2.zip
+5.2.1 | https://github.com/jolicode/emoji-search/releases/download/5.2.1/analysis-emoji-5.2.1.zip
 5.2.0 | https://github.com/jolicode/emoji-search/releases/download/5.2.0/analysis-emoji-5.2.0.zip
 5.1.2 (ICU 58.2) | https://github.com/jolicode/emoji-search/releases/download/5.1.2/analysis-emoji-5.1.2.zip
 5.1.1 | https://github.com/jolicode/emoji-search/releases/download/5.1.1/analysis-emoji-5.1.1.zip
