@@ -1,23 +1,19 @@
 buildscript {
-  repositories {
-    mavenLocal()
-    mavenCentral()
-    jcenter()
- }
-
-  dependencies {
-    classpath "org.elasticsearch.gradle:build-tools:5.3.3"
-  }
-}
-
-// remove me again when removed from es core
-// https://github.com/elastic/elasticsearch/pull/18955
-if (GradleVersion.current() != GradleVersion.version('2.13')) {
-  throw new GradleException('Gradle 2.13 is required to build elasticsearch')
+    repositories {
+        mavenCentral()
+        maven {
+            name 'sonatype-snapshots'
+            url "https://oss.sonatype.org/content/repositories/snapshots/"
+        }
+        jcenter()
+    }
+    dependencies {
+        classpath "org.elasticsearch.gradle:build-tools:5.4.3"
+    }
 }
 
 group = 'org.elasticsearch.plugin'
-version = '5.3.3'
+version = '5.4.3'
 
 apply plugin: 'java'
 apply plugin: 'elasticsearch.esplugin'
