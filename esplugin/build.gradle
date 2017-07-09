@@ -8,12 +8,12 @@ buildscript {
         jcenter()
     }
     dependencies {
-        classpath "org.elasticsearch.gradle:build-tools:5.4.3"
+        classpath "org.elasticsearch.gradle:build-tools:5.5.0"
     }
 }
 
 group = 'org.elasticsearch.plugin'
-version = '5.4.3'
+version = '5.5.0'
 
 apply plugin: 'java'
 apply plugin: 'elasticsearch.esplugin'
