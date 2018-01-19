@@ -11,8 +11,8 @@ The plugin version must match your Elasticsearch version.
 ```
 bin/elasticsearch-plugin install URL
 
-# For 5.6.6:
-bin/elasticsearch-plugin install https://github.com/jolicode/emoji-search/releases/download/5.6.6/analysis-emoji-5.6.6.zip
+# For 6.1.2:
+bin/elasticsearch-plugin install https://github.com/jolicode/emoji-search/releases/download/6.1.2/analysis-emoji-6.1.2.zip
 ```
 
 ## Versions
@@ -21,6 +21,7 @@ ICU is always up to date to the latest data in this plugin, so upgrading may req
 
 analysis-emoji version and ES version  | Install URL
 -----------|-----------
+6.1.2 | https://github.com/jolicode/emoji-search/releases/download/6.1.2/analysis-emoji-6.1.2.zip
 5.6.6 | https://github.com/jolicode/emoji-search/releases/download/5.6.6/analysis-emoji-5.6.6.zip
 5.5.0 | https://github.com/jolicode/emoji-search/releases/download/5.5.0/analysis-emoji-5.5.0.zip
 5.4.3 | https://github.com/jolicode/emoji-search/releases/download/5.4.3/analysis-emoji-5.4.3.zip
@@ -86,14 +87,16 @@ PUT /en-emoji
 Try it:
 
 ```json
-GET /en-emoji/_analyze?analyzer=english_with_emoji
+GET /en-emoji/_analyze
 {
+  "analyzer": "english_with_emoji",
   "text": "I live in 🇫🇷 and I'm 👩‍🚀"
 }
 # Result: i live in 🇫🇷 france and i'm 👩‍🚀 astronaut rocket woman
 
-GET /en-emoji/_analyze?analyzer=english_with_emoji
+GET /en-emoji/_analyze
 {
+  "analyzer": "english_with_emoji",
   "text": "Hi mom :)"
 }
 # Result:  hi mom 😃 face mouth open smile

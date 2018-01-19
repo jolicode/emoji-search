@@ -25,7 +25,7 @@ public class EmojiIT extends ESTestCase {
                 .put(Environment.PATH_HOME_SETTING.getKey(), createTempDir())
                 .build();
 
-        Environment env = new Environment(nodeSettings);
+        Environment env = new Environment(nodeSettings, null);
 
         // Build the Tokenizer
         TokenizerFactory tokenizerFactory = new EmojiTokenizerFactory(
