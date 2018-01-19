@@ -11,8 +11,8 @@ The plugin version must match your Elasticsearch version.
 ```
 bin/elasticsearch-plugin install URL
 
-# For 5.5.0:
-bin/elasticsearch-plugin install https://github.com/jolicode/emoji-search/releases/download/5.5.0/analysis-emoji-5.5.0.zip
+# For 5.6.6:
+bin/elasticsearch-plugin install https://github.com/jolicode/emoji-search/releases/download/5.6.6/analysis-emoji-5.6.6.zip
 ```
 
 ## Versions
@@ -21,6 +21,7 @@ ICU is always up to date to the latest data in this plugin, so upgrading may req
 
 analysis-emoji version and ES version  | Install URL
 -----------|-----------
+5.6.6 | https://github.com/jolicode/emoji-search/releases/download/5.6.6/analysis-emoji-5.6.6.zip
 5.5.0 | https://github.com/jolicode/emoji-search/releases/download/5.5.0/analysis-emoji-5.5.0.zip
 5.4.3 | https://github.com/jolicode/emoji-search/releases/download/5.4.3/analysis-emoji-5.4.3.zip
 5.3.3 (ICU 59.1) | https://github.com/jolicode/emoji-search/releases/download/5.3.3/analysis-emoji-5.3.3.zip
@@ -98,7 +99,12 @@ GET /en-emoji/_analyze?analyzer=english_with_emoji
 # Result:  hi mom 😃 face mouth open smile
 ```
 
-## How to contribute
+## How to contribute / build
+
+Building an Elasticsearch plugin is a mess and a pain. Here are some tips:
+
+- follow [this example](https://github.com/spinscale/cookiecutter-elasticsearch-ingest-processor), it's better than the non existing documentation;
+- install Gradle on your system, make sure you know how to switch to multiple versions;
 
 Run the tests:
 
@@ -109,5 +115,6 @@ gradle clean check
 Package for release:
 
 ```
+gradle updateSHAs
 gradle clean check assemble
 ```

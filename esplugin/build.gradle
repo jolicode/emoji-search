@@ -8,16 +8,19 @@ buildscript {
         jcenter()
     }
     dependencies {
-        classpath "org.elasticsearch.gradle:build-tools:5.5.0"
+        classpath "org.elasticsearch.gradle:build-tools:5.6.6"
     }
 }
 
 group = 'org.elasticsearch.plugin'
-version = '5.5.0'
+version = '5.6.6'
 
 apply plugin: 'java'
 apply plugin: 'elasticsearch.esplugin'
 apply plugin: 'idea'
+
+// this is temporal and will be fixed in 6.0
+ext.projectSubstitutions = [:]
 
 esplugin {
   name 'analysis-emoji'
@@ -42,7 +45,10 @@ licenseHeaders.enabled = false
 checkstyleTest.enabled = true
 
 // FIXME dependency license check needs to be enabled
+licenseFile = rootProject.file('../LICENSE')
+noticeFile = rootProject.file('README.md')
 dependencyLicenses.enabled = false
 
 // FIXME thirdparty audit needs to be enabled
 thirdPartyAudit.enabled = false
+
