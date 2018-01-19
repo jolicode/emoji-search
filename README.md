@@ -1,16 +1,22 @@
-# Emoji synonyms dictionary and custom tokenizer plugin for Elasticsearch
-> Add support for emoji in any Lucene compatible search engine!
+# Emoji, flags and emoticons support for Elasticsearch
 
-## What is this
+> Add support for emoji and flags in any Lucene compatible search engine!
 
-This repository host information about Elasticsearch and emoji search:
+If you wish to search `🍩` to find **donuts** in your documents, you came to the right place.
 
-- [synonym files](/synonyms) in Solr / Lucene format for emoji search in all languages supported by Unicode CLDR;
-- emoticon suggestions for improved meaning extraction;
-- full elasticsearch analyzer configuration to copy and paste;
-- an [experimental tokenizer plugin](/esplugin) for Elasticsearch (help needed :warning:).
+## [The `analysis-emoji` Plugin](/esplugin)
 
-Emoji data are based on the latest [CLDR data set](http://cldr.unicode.org/) (Currently version 30.0.2 stable).
+To index emoji, you need a custom Tokenizer which is not considering them as punctuation. You can either build an analyzer with the whitespace tokenizer [as described here](http://jolicode.com/blog/search-for-emoji-with-elasticsearch), or **use this plugin**.
+
+The plugin expose a new `emoji_tokenizer`, based on `icu_tokenizer` but with custom BreakIterator rules to keep emoji!
+
+[Head over the `/esplugin` directory for installation instructions](/esplugin).
+
+## The Synonyms, flags and emoticons
+
+Once you have a `🍩` token, you need to expand it to the token "donut", in **your language**. That's the goal of the [synonym dictionaries](/synonyms).
+
+We build Solr / Lucene compatible synonyms files in all languages supported by [Unicode CLDR](http://cldr.unicode.org/) so you can set them up in an analyzer. It looks like this:
 
 ```
 👩‍🚒 => 👩‍🚒, firefighter, firetruck, woman
@@ -24,15 +30,11 @@ Emoji data are based on the latest [CLDR data set](http://cldr.unicode.org/) (Cu
 🇬🇧 => 🇬🇧, united kingdom
 ```
 
+For emoticons, use [this mapping](emoticons.txt) with a char_filter to replace emoticons by emoji.
+
 **Learn more about this in our [blog post describing how to search with emoji in Elasticsearch](http://jolicode.com/blog/search-for-emoji-with-elasticsearch) (2016).**
 
-## Emoji analyzer for Elasticsearch (with the `analysis-emoji` plugin)
-
-Go to the [dedicated plugin documentation](esplugin/README.md).
-
-## Emoji analyzer for Elasticsearch (without the plugin, not perfect)
-
-### Get the files in ./config/analysis/
+### Getting started
 
 Download the emoji and emoticon file you want from this repository and store them in `PATH_ES/config/analysis`.
 
@@ -45,9 +47,7 @@ config
 ...
 ```
 
-### Create the analyzer
-
-We call it `english_with_emoji` here because we use the english synonyms:
+Use them like this:
 
 ```json
 PUT /en-emoji
@@ -55,12 +55,6 @@ PUT /en-emoji
   "settings": {
     "analysis": {
       "char_filter": {
-        "zwj_char_filter": {
-          "type": "mapping",
-          "mappings": [ 
-            "\\u200D=>"
-          ]
-        },
         "emoticons_char_filter": {
           "type": "mapping",
           "mappings_path": "analysis/emoticons.txt"
@@ -70,27 +64,6 @@ PUT /en-emoji
         "english_emoji": {
           "type": "synonym",
           "synonyms_path": "analysis/cldr-emoji-annotation-synonyms-en.txt" 
-        },
-        "punctuation_and_modifiers_filter": {
-          "type": "pattern_replace",
-          "pattern": "\\p{Punct}|\\uFE0E|\\uFE0F|\\uD83C\\uDFFB|\\uD83C\\uDFFC|\\uD83C\\uDFFD|\\uD83C\\uDFFE|\\uD83C\\uDFFF",
-          "replace": ""
-        },
-        "remove_empty_filter": {
-          "type": "length",
-          "min": 1
-        }
-      },
-      "analyzer": {
-        "english_with_emoji": {
-          "char_filter": ["zwj_char_filter", "emoticons_char_filter"],
-          "tokenizer": "whitespace",
-          "filter": [
-            "lowercase",
-            "punctuation_and_modifiers_filter",
-            "remove_empty_filter",
-            "english_emoji"
-          ]
         }
       }
     }
@@ -98,27 +71,7 @@ PUT /en-emoji
 }
 ```
 
-### Try it!
-
-```json
-GET /en-emoji/_analyze?analyzer=english_with_emoji
-{
-  "text": "I love 🍩"
-}
-# Result: i, love, 🍩, dessert, donut, sweet
-
-GET /en-emoji/_analyze?analyzer=english_with_emoji
-{
-  "text": "You are ]:)"
-}
-# Result: you, are, 😈, face, fairy, fantasy, horns, smile, tale
-
-GET /en-emoji/_analyze?analyzer=english_with_emoji
-{
-  "text": "Where is 🇫🇮?"
-}
-# Result: where, is, 🇫🇮, finland
-```
+[Head over the `/esplugin` directory for a fully functional mapping](/esplugin).
 
 ## How to contribute
 
@@ -127,9 +80,9 @@ GET /en-emoji/_analyze?analyzer=english_with_emoji
 You will need:
 
 - php cli
-- svn
+- php zip and curl extensions
 
-Edit the tag in `tools/build-beta.php` and run `php tools/build-beta.php`.
+Edit the tag in `tools/build-released.php` and run `php tools/build-released.php`.
 
 ### Update emoticons
 

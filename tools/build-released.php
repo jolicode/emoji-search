@@ -1,6 +1,7 @@
 <?php
 
-$version = "31.0.1";
+// http://cldr.unicode.org/
+$version = "32.0.1";
 
 $zipDir = sprintf('%s/tmp', __DIR__);
 $zipFile = sprintf('%s/core-%s.zip', $zipDir, $version);
@@ -59,13 +60,12 @@ foreach (glob($extractDir."/common/annotations/*.xml") as $filename) {
         continue;
     }
 
-    // For now, ignore the territory improvements (FIXME)
     if ((string) $xml->identity->territory['type']) {
-        continue;
+        $lang .= "_".$xml->identity->territory['type'];
     }
 
     foreach ($xml->annotations->children() as $annotation) {
-        if ((string) $annotation['type'] === 'tts') {
+        if ((string) $annotation['type'] === 'tts') { // Ignore Text To Speech
             continue;
         }
 

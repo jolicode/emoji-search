@@ -1,4 +1,4 @@
-# Elasticsearch analysis-emoji plugin
+# Elasticsearch `analysis-emoji` plugin
 
 This plugin create a new Tokenizer called `emoji_tokenizer` based on `icu_tokenizer` and the latest (59.1) ICU data.
 
@@ -17,7 +17,7 @@ bin/elasticsearch-plugin install https://github.com/jolicode/emoji-search/releas
 
 ## Versions
 
-ICU is always up to date to the latest data in this plugin, so upgrading may require you to re-index your data.
+ICU is _always_ up to date to the latest data in this plugin, so upgrading may require you to re-index your data.
 
 analysis-emoji version and ES version  | Install URL
 -----------|-----------
@@ -38,9 +38,7 @@ analysis-emoji version and ES version  | Install URL
 
 ## How to use
 
-Build your own analyzer and use the new tokenizer. Look at the main [README](../README.md) for more informations.
-
-Download the emoji and emoticon file you want from this repository and store them in `PATH_ES/config/analysis`.
+Build your own analyzer and use the new tokenizer. Download the emoji and emoticon file you want from this repository and store them in `PATH_ES/config/analysis`.
 
 ```
 config
@@ -84,6 +82,7 @@ PUT /en-emoji
   }
 }
 ```
+
 Try it:
 
 ```json
