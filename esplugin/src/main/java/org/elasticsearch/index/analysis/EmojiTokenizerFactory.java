@@ -2,6 +2,7 @@ package org.elasticsearch.index.analysis;
 
 import com.ibm.icu.text.BreakIterator;
 import com.ibm.icu.text.RuleBasedBreakIterator;
+import com.ibm.icu.util.ULocale;
 import org.apache.lucene.analysis.Tokenizer;
 import org.apache.lucene.analysis.icu.segmentation.DefaultICUTokenizerConfig;
 import org.apache.lucene.analysis.icu.segmentation.ICUTokenizer;
@@ -9,8 +10,6 @@ import org.apache.lucene.analysis.icu.segmentation.ICUTokenizerConfig;
 import org.elasticsearch.common.settings.Settings;
 import org.elasticsearch.env.Environment;
 import org.elasticsearch.index.IndexSettings;
-
-import java.util.Locale;
 
 /**
  * Build an ICU Tokenizer using the latest ICU and a customized RuleSet for emoji status 200
@@ -26,13 +25,13 @@ public class EmojiTokenizerFactory extends AbstractTokenizerFactory {
             public BreakIterator getBreakIterator(int script) {
                 // Load the ICU default rules
                 RuleBasedBreakIterator rbbi = (RuleBasedBreakIterator)
-                        BreakIterator.getWordInstance(Locale.getDefault());
+                        BreakIterator.getWordInstance(ULocale.getDefault());
                 String defaultRules = rbbi.toString();
 
                 // Customize the rules to add EmojiNRK as first class word
                 defaultRules = defaultRules.replace(
                     "!!forward;",
-                    "!!forward;\n$EmojiNRK {200};"
+                    "!!forward;$EmojiNRK {200};"
                 );
 
                 defaultRules = defaultRules.replace(
