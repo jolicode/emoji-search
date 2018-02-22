@@ -11,30 +11,33 @@ The plugin version must match your Elasticsearch version.
 ```
 bin/elasticsearch-plugin install URL
 
-# For 6.1.2:
-bin/elasticsearch-plugin install https://github.com/jolicode/emoji-search/releases/download/6.1.2/analysis-emoji-6.1.2.zip
+# For 6.1.3:
+bin/elasticsearch-plugin install https://github.com/jolicode/emoji-search/releases/download/6.1.3/analysis-emoji-6.1.3.zip
 ```
 
 ## Versions
 
 ICU is _always_ up to date to the latest data in this plugin, so upgrading may require you to re-index your data.
 
+We _may_ jump some Elasticsearch release from time to time... feel free to open an issue if you need one.
+
 analysis-emoji version and ES version  | Install URL
 -----------|-----------
+6.1.3 | https://github.com/jolicode/emoji-search/releases/download/6.1.3/analysis-emoji-6.1.3.zip
 6.1.2 | https://github.com/jolicode/emoji-search/releases/download/6.1.2/analysis-emoji-6.1.2.zip
 5.6.6 | https://github.com/jolicode/emoji-search/releases/download/5.6.6/analysis-emoji-5.6.6.zip
 5.5.0 | https://github.com/jolicode/emoji-search/releases/download/5.5.0/analysis-emoji-5.5.0.zip
 5.4.3 | https://github.com/jolicode/emoji-search/releases/download/5.4.3/analysis-emoji-5.4.3.zip
-5.3.3 (ICU 59.1) | https://github.com/jolicode/emoji-search/releases/download/5.3.3/analysis-emoji-5.3.3.zip
+5.3.3 **(ICU 59.1)** | https://github.com/jolicode/emoji-search/releases/download/5.3.3/analysis-emoji-5.3.3.zip
 5.3.0 | https://github.com/jolicode/emoji-search/releases/download/5.3.0/analysis-emoji-5.3.0.zip
 5.2.2 | https://github.com/jolicode/emoji-search/releases/download/5.2.2.1/analysis-emoji-5.2.2.1.zip
 5.2.1 | https://github.com/jolicode/emoji-search/releases/download/5.2.1/analysis-emoji-5.2.1.zip
 5.2.0 | https://github.com/jolicode/emoji-search/releases/download/5.2.0/analysis-emoji-5.2.0.zip
-5.1.2 (ICU 58.2) | https://github.com/jolicode/emoji-search/releases/download/5.1.2/analysis-emoji-5.1.2.zip
+5.1.2 **(ICU 58.2)** | https://github.com/jolicode/emoji-search/releases/download/5.1.2/analysis-emoji-5.1.2.zip
 5.1.1 | https://github.com/jolicode/emoji-search/releases/download/5.1.1/analysis-emoji-5.1.1.zip
 5.0.2 | https://github.com/jolicode/emoji-search/releases/download/5.0.2/analysis-emoji-5.0.2.zip
 5.0.1 | https://github.com/jolicode/emoji-search/releases/download/5.0.1/analysis-emoji-5.0.1.zip
-5.0.0 (ICU 58.1) | https://github.com/jolicode/emoji-search/releases/download/5.0.0/analysis-emoji-5.0.0.zip
+5.0.0 **(ICU 58.1)** | https://github.com/jolicode/emoji-search/releases/download/5.0.0/analysis-emoji-5.0.0.zip
 
 ## How to use
 
