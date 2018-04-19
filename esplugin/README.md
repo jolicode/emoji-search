@@ -1,6 +1,6 @@
 # Elasticsearch `analysis-emoji` plugin
 
-This plugin create a new Tokenizer called `emoji_tokenizer` based on `icu_tokenizer` and the latest (59.1) ICU data.
+This plugin create a new Tokenizer called `emoji_tokenizer` based on `icu_tokenizer` and the ICU 59.1.
 
 ## Installation
 
@@ -11,8 +11,8 @@ The plugin version must match your Elasticsearch version.
 ```
 bin/elasticsearch-plugin install URL
 
-# For 6.1.3:
-bin/elasticsearch-plugin install https://github.com/jolicode/emoji-search/releases/download/6.1.3/analysis-emoji-6.1.3.zip
+# For 6.2.4:
+bin/elasticsearch-plugin install https://github.com/jolicode/emoji-search/releases/download/6.2.4/analysis-emoji-6.2.4.zip
 ```
 
 ## Versions
@@ -23,6 +23,7 @@ We _may_ jump some Elasticsearch release from time to time... feel free to open 
 
 analysis-emoji version and ES version  | Install URL
 -----------|-----------
+6.2.4 | https://github.com/jolicode/emoji-search/releases/download/6.2.4/analysis-emoji-6.2.4.zip
 6.1.3 | https://github.com/jolicode/emoji-search/releases/download/6.1.3/analysis-emoji-6.1.3.zip
 6.1.2 | https://github.com/jolicode/emoji-search/releases/download/6.1.2/analysis-emoji-6.1.2.zip
 5.6.6 | https://github.com/jolicode/emoji-search/releases/download/5.6.6/analysis-emoji-5.6.6.zip

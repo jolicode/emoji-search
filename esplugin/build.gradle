@@ -8,12 +8,12 @@ buildscript {
         jcenter()
     }
     dependencies {
-        classpath "org.elasticsearch.gradle:build-tools:6.1.3"
+        classpath "org.elasticsearch.gradle:build-tools:6.2.4"
     }
 }
 
 group = 'org.elasticsearch.plugin'
-version = '6.1.3'
+version = '6.2.4'
 
 apply plugin: 'java'
 apply plugin: 'elasticsearch.esplugin'
@@ -21,13 +21,14 @@ apply plugin: 'idea'
 
 esplugin {
   name 'analysis-emoji'
-  description 'Add support for emoji in Elasticsearch'
+  description 'Add support for emoji in Elasticsearch with a new Tokenizer'
   classname 'org.elasticsearch.plugin.analysis.emoji.EmojiPlugin'
 }
 
 dependencies {
     compile "org.elasticsearch:elasticsearch:${versions.elasticsearch}"
     compile "org.apache.lucene:lucene-analyzers-icu:${versions.lucene}"
+    // Can't update properly yet
     compile 'com.ibm.icu:icu4j:59.1'
     testCompile "org.elasticsearch.test:framework:${versions.elasticsearch}"
 }
@@ -41,11 +42,11 @@ licenseHeaders.enabled = false
 // use elasticsearch checkstyle rules
 checkstyleTest.enabled = true
 
-// FIXME dependency license check needs to be enabled
+// FIXME dependency license check needs to be enabled.
 licenseFile = rootProject.file('../LICENSE')
 noticeFile = rootProject.file('README.md')
 dependencyLicenses.enabled = false
 
-// FIXME thirdparty audit needs to be enabled
+// FIXME thirdparty audit needs to be enabled.
 thirdPartyAudit.enabled = false
 

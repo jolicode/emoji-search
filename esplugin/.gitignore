@@ -4,6 +4,7 @@ out/
 *.swp
 *-execution-hints.log
 *-execution-times.log
+jdk*
 
 # ignore the downloaded model files in git
 src/test/resources/models/

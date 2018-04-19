@@ -39,7 +39,7 @@ public class EmojiIT extends ESTestCase {
         // Real tests
         Reader reader = new StringReader("向日葵, one-two");
         tokenizer.setReader(reader);
-        assertTokenStreamContents(tokenizer, new String[]{"向日葵", "one", "two"});
+        assertTokenStreamContents(tokenizer, new String[] {"向日葵", "one", "two"});
 
         Reader reader2 = new StringReader("Simple: \uD83D\uDE02, Modified: \uD83D\uDC66\uD83C\uDFFD " +
                 "and composed rainbow: \uD83C\uDFF3️\u200D\uD83C\uDF08 and \uD83C\uDDF8\uD83C\uDDEA Sweden flag.");
