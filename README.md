@@ -4,13 +4,7 @@
 
 If you wish to search `🍩` to find **donuts** in your documents, you came to the right place.
 
-## [The `analysis-emoji` Plugin](/esplugin)
-
-To index emoji, you need a custom Tokenizer which is not considering them as punctuation. You can either build an analyzer with the whitespace tokenizer [as described here](http://jolicode.com/blog/search-for-emoji-with-elasticsearch), or **use this plugin**.
-
-The plugin expose a new `emoji_tokenizer`, based on `icu_tokenizer` but with custom BreakIterator rules to keep emoji!
-
-[Head over the `/esplugin` directory for installation instructions](/esplugin).
+_For Elasticsearch version inferior to 6.4, please [go to the plugin section](/esplugin)._
 
 ## The Synonyms, flags and emoticons
 
@@ -70,8 +64,6 @@ PUT /en-emoji
   }
 }
 ```
-
-[Head over the `/esplugin` directory for a fully functional mapping](/esplugin).
 
 ## How to contribute
 

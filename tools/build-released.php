@@ -1,7 +1,9 @@
 <?php
 
 // http://cldr.unicode.org/
-$version = "32.0.1";
+// http://site.icu-project.org/download
+// Should match the ICU plugin version
+$version = "33";
 
 $zipDir = sprintf('%s/tmp', __DIR__);
 $zipFile = sprintf('%s/core-%s.zip', $zipDir, $version);
@@ -48,24 +50,29 @@ if (!file_exists($extractDir.'/apache-license.txt')) {
     $zip->close();
 }
 
-// Read emoji
-foreach (glob($extractDir."/common/annotations/*.xml") as $filename) {
-    echo "Read $filename\n";
+function isEmojiNRK(SimpleXMLElement $annotation)
+{
+    // To remove as not understood by ES.
+    foreach (["\u{3012}", "\u{00A9}", "\u{00AE}", "\u{2122}", "\u{3030}", "\u{303D}",] as $emoji) {
+        if (mb_strpos((string) $annotation . (string) $annotation['cp'], $emoji) !== false) {
+            return true;
+        }
+    }
 
-    $xml = simplexml_load_file($filename);
+    return false;
+}
+
+function annotationXmlToSynonyms(SimpleXMLElement $xml)
+{
     $synonymsContent = '';
-    $lang = (string) $xml->identity->language['type'];
-
-    if ($lang === 'root') {
-        continue;
-    }
-
-    if ((string) $xml->identity->territory['type']) {
-        $lang .= "_".$xml->identity->territory['type'];
-    }
 
     foreach ($xml->annotations->children() as $annotation) {
         if ((string) $annotation['type'] === 'tts') { // Ignore Text To Speech
+            continue;
+        }
+
+        if (isEmojiNRK($annotation)) {
+            echo "Bypass ".(string) $annotation['cp'].", spotted as NRK.\n";
             continue;
         }
 
@@ -74,53 +81,75 @@ foreach (glob($extractDir."/common/annotations/*.xml") as $filename) {
         $synonymsContent .= "\n";
     }
 
-    file_put_contents($synonymsDir.'/cldr-emoji-annotation-synonyms-'.$lang.'.txt', $synonymsContent);
+    return $synonymsContent;
 }
 
-// Build flags
-$regionalIndicatorSource = [
-    'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z'
-];
-$regionalIndicatorSymbol = [
-    '🇦', '🇧', '🇨', '🇩', '🇪', '🇫', '🇬', '🇭', '🇮', '🇯', '🇰', '🇱', '🇲', '🇳', '🇴', '🇵', '🇶', '🇷', '🇸', '🇹', '🇺', '🇻', '🇼', '🇽', '🇾', '🇿'
-];
+function derivedAnnotationXmlToSynonyms(SimpleXMLElement $xml)
+{
+    $synonymsContent = '';
 
-// Add flags
-foreach (glob($extractDir."/common/main/*.xml") as $filename) {
-    echo "Read $filename\n";
+    foreach ($xml->annotations->children() as $annotation) {
+        $codePoint = mb_ord((string) $annotation['cp']);
+        $isFlag = $codePoint <= 127487 && $codePoint >= 127462;
+        $isKeycap = mb_strpos((string) $annotation['cp'], "\u{20E3}") !== false;
 
-    $lang = str_replace('.xml', '', basename($filename));
-    if (!file_exists($synonymsDir.'/cldr-emoji-annotation-synonyms-'.$lang.'.txt')) {
-        echo "No annotations for $lang, skip flags.\n";
-        continue;
-    }
+        //echo (string) $annotation['cp'];
+        //echo $isFlag ? ' is flag': ' is no';
+        //echo "\n";
 
-    echo "Add flags for $lang.\n";
-
-    $xml = simplexml_load_file($filename);
-
-    $territories = [];
-
-    foreach ($xml->localeDisplayNames->territories->children() as $territory) {
-        $key = (string) $territory['type'];
-
-        if ($territory['alt']) {
+        // TTS but not a flag or keycap, skip
+        if ((string) $annotation['type'] === 'tts' && !$isFlag && !$isKeycap) {
             continue;
         }
 
-        if (is_numeric($key)) {
-            continue; // No REGIONAL INDICATOR SYMBOL for numbers?! :(
+        if (($isFlag || $isKeycap) && (string) $annotation['type'] !== 'tts') {
+            continue;
         }
 
-        $key = str_ireplace($regionalIndicatorSource, $regionalIndicatorSymbol, $key);
+        if (isEmojiNRK($annotation)) {
+            echo "Bypass ".(string) $annotation['cp'].", spotted as NRK.\n";
+            continue;
+        }
 
-        $territories[$key] = $key . ' => '. $key .', '.mb_strtolower((string) $territory);
+        $emoji = str_replace(['[', ']', '{', '}'], '', (string) $annotation['cp']);
+        $synonymsContent .= $emoji." => ".$emoji.", ". implode(', ', array_filter(array_map('trim', explode('|', (string) $annotation))));
+        $synonymsContent .= "\n";
     }
 
-    if (!file_exists($synonymsDir.'/cldr-emoji-annotation-synonyms-'.$lang.'.txt')) {
-        echo "No annotations for $lang, skip flags.\n";
+    return $synonymsContent;
+}
+
+// Remove old versions
+foreach(glob($synonymsDir.'/*.txt') as $file) {
+    unlink($file);
+}
+
+// Read emoji annotations
+foreach (glob($extractDir."/common/annotations/*.xml") as $filename) {
+    echo "Read $filename\n";
+
+    $lang = basename($filename, ".xml");
+
+    if ($lang === 'root') {
         continue;
     }
 
-    file_put_contents($synonymsDir.'/cldr-emoji-annotation-synonyms-'.$lang.'.txt', implode("\n", $territories), FILE_APPEND);
+    $synonymsContent = annotationXmlToSynonyms(simplexml_load_file($filename));
+
+    file_put_contents($synonymsDir.'/cldr-emoji-annotation-synonyms-'.$lang.'.txt', $synonymsContent);
+}
+
+// Read emoji derived annotations
+foreach (glob($extractDir."/common/annotationsDerived/*.xml") as $filename) {
+    echo "Read $filename\n";
+
+    $lang = basename($filename, ".xml");
+    if (!file_exists($synonymsDir.'/cldr-emoji-annotation-synonyms-'.$lang.'.txt')) {
+        echo "No annotations for $lang, skip derived.\n";
+        continue;
+    }
+
+    $synonymsContent = derivedAnnotationXmlToSynonyms(simplexml_load_file($filename));
+
+    file_put_contents($synonymsDir.'/cldr-emoji-annotation-synonyms-'.$lang.'.txt', $synonymsContent, FILE_APPEND);
 }
