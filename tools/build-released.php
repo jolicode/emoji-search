@@ -3,7 +3,7 @@
 // http://cldr.unicode.org/
 // http://site.icu-project.org/download
 // Should match the ICU plugin version
-$version = "33";
+$version = "35";
 
 $zipDir = sprintf('%s/tmp', __DIR__);
 $zipFile = sprintf('%s/core-%s.zip', $zipDir, $version);
