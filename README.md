@@ -4,6 +4,8 @@
 
 If you wish to search `🍩` to find **donuts** in your documents, you came to the right place.
 
+![Test synonym on a real Elasticsearch](https://github.com/jolicode/emoji-search/workflows/Test%20synonym%20on%20a%20real%20Elasticsearch/badge.svg)
+
 ## Requirements to index emoji in Elasticsearch
 
 | Version | Requirements | 
