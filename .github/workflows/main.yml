@@ -1,0 +1,31 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Test synonym on a real Elasticsearch
+
+# Controls when the action will run. Triggers the workflow on push or pull request
+# events but only for the master branch
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "test"
+  test:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+    - uses: actions/checkout@v2
+    - name: Run Elasticsearch and create index
+      run: |
+        wget https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-oss-7.8.0-linux-x86_64.tar.gz
+        tar -xzf elasticsearch-oss-7.8.0-linux-x86_64.tar.gz
+        cp synonyms/* elasticsearch-7.8.0/config/
+        ./elasticsearch-7.8.0/bin/elasticsearch
+        echo "Waiting for ES to be up and running"; sleep 7; timeout 3m bash -c 'until curl -XGET http://127.0.0.1:9200; do sleep 7; done';
+        curl --fail -XPUT "http://localhost:9200/tweets" -H 'Content-Type: application/json' -d'{  "settings": {    "analysis": {      "filter": {        "english_emoji": {          "type": "synonym",          "synonyms_path": "cldr-emoji-annotation-synonyms-ga.txt"         },        "english_stop": {          "type":       "stop",          "stopwords":  "_english_"        },        "english_keywords": {          "type":       "keyword_marker",          "keywords":   ["example"]        },        "english_stemmer": {          "type":       "stemmer",          "language":   "english"        },        "english_possessive_stemmer": {          "type":       "stemmer",          "language":   "possessive_english"        }      },      "analyzer": {        "english_with_emoji": {          "tokenizer": "standard",          "filter": [            "english_possessive_stemmer",            "lowercase",            "english_emoji",            "english_stop",            "english_keywords",            "english_stemmer"          ]        }      }    }  },  "mappings": {      "properties": {        "content": {          "type": "text",          "analyzer": "english_with_emoji"        }      }      }}'
