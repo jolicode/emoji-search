@@ -4,11 +4,27 @@
 
 If you wish to search `🍩` to find **donuts** in your documents, you came to the right place.
 
-_For Elasticsearch version inferior to 6.4, please [go to the plugin section](/esplugin)._
+## Requirements to index emoji in Elasticsearch
+
+| Version | Requirements | 
+|----------|:-------------:|
+| Elasticsearch < 6.4 | You need our [custom ICU Tokenizer Plugin](/esplugin), see our [blog post](http://jolicode.com/blog/search-for-emoji-with-elasticsearch) (2016). |
+| Elasticsearch >= 6.4 and < 6.7 | You need to install the official [ICU Plugin](https://www.elastic.co/guide/en/elasticsearch/plugins/current/analysis-icu.html). See our [blog post about this change](https://jolicode.com/blog/elasticsearch-icu-now-understands-emoji). |
+| Elasticsearch >= 6.7 | The standard tokenizer now understand Emoji 🎉 thanks to [Lucene 7.7.0](https://github.com/apache/lucene-solr/commit/283b19a8da6ab9e0b7e9a75b132d3067218d5502) |
+
+Run the following test to verify that you get 4 EMOJI tokens:
+
+```json
+GET _analyze
+{
+  "text": ["🍩 🇫🇷 👩‍🚒 🚣🏾‍♀"]
+}
+```
 
 ## The Synonyms, flags and emoticons
 
-Once you have a `🍩` token, you need to expand it to the token "donut", in **your language**. That's the goal of the [synonym dictionaries](/synonyms).
+Once you have clean token, you need to expand them to word that can match searches and documents, in **your language**. 
+That's the goal of the [synonym dictionaries](/synonyms).
 
 We build Solr / Lucene compatible synonyms files in all languages supported by [Unicode CLDR](http://cldr.unicode.org/) so you can set them up in an analyzer. It looks like this:
 
@@ -26,11 +42,9 @@ We build Solr / Lucene compatible synonyms files in all languages supported by [
 
 For emoticons, use [this mapping](emoticons.txt) with a char_filter to replace emoticons by emoji.
 
-**Learn more about this in our [blog post describing how to search with emoji in Elasticsearch](http://jolicode.com/blog/search-for-emoji-with-elasticsearch) (2016).**
+### Installation
 
-### Getting started
-
-Download the emoji and emoticon file you want from this repository and store them in `PATH_ES/config/analysis`.
+Download the emoji and emoticon file you want from this repository and store them in `PATH_ES/config/analysis` (_or anywhere Elasticsearch can read_).
 
 ```
 config
@@ -41,27 +55,68 @@ config
 ...
 ```
 
-Use them like this:
+Use them like this (this is a complete _english_ example with Elasticsearch >= 6.7):
 
 ```json
-PUT /en-emoji
+PUT /tweets
 {
   "settings": {
     "analysis": {
-      "char_filter": {
-        "emoticons_char_filter": {
-          "type": "mapping",
-          "mappings_path": "analysis/emoticons.txt"
-        }
-      },
       "filter": {
         "english_emoji": {
           "type": "synonym",
           "synonyms_path": "analysis/cldr-emoji-annotation-synonyms-en.txt" 
+        },
+        "english_stop": {
+          "type":       "stop",
+          "stopwords":  "_english_"
+        },
+        "english_keywords": {
+          "type":       "keyword_marker",
+          "keywords":   ["example"]
+        },
+        "english_stemmer": {
+          "type":       "stemmer",
+          "language":   "english"
+        },
+        "english_possessive_stemmer": {
+          "type":       "stemmer",
+          "language":   "possessive_english"
+        }
+      },
+      "analyzer": {
+        "english_with_emoji": {
+          "tokenizer": "standard",
+          "filter": [
+            "english_possessive_stemmer",
+            "lowercase",
+            "english_emoji",
+            "english_stop",
+            "english_keywords",
+            "english_stemmer"
+          ]
         }
       }
     }
+  },
+  "mappings": {
+    "properties": {
+      "content": {
+        "type": "text",
+        "analyzer": "english_with_emoji"
+      }
+    }
   }
+}
+```
+
+You can now test the result with:
+
+```json
+GET tweets/_analyze
+{
+  "field": "content",
+  "text": "🍩 🇫🇷 👩‍🚒 🚣🏾‍♀"
 }
 ```
 
