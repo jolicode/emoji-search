@@ -1,0 +1,13 @@
+{
+    "name": "jolicode/emoji-search",
+    "require": {
+        "phpunit/phpunit": "^8.5",
+        "symfony/http-client": "^5.1"
+    },
+    "authors": [
+        {
+            "name": "Damien",
+            "email": "dalexandre@jolicode.com"
+        }
+    ]
+}
