@@ -73,8 +73,46 @@ JSON
         $this->assertEquals(200, $response->getStatusCode(), $response->getContent(false));
     }
 
+    public function analyzerProvider()
+    {
+        return [
+            ['Pizza', ['Pizza']],
+            ['⛹🏿‍♂', ['homme', 'ballon', 'peau']],
+            ['🇸🇳', ['🇸🇳', 'drapeau', 'Sénégal']],
+            ['🐧', ['🐧', 'animal', 'oiseau', 'pingouin']],
+            ['👩🏼‍🚀', ['👩🏼‍🚀', 'astronaute', 'espace', 'femme']],
+            ['🏴‍☠', ['🏴‍☠', 'pirate']],
+        ];
+    }
+
+    /**
+     * @dataProvider analyzerProvider
+     */
+    public function testAnalyzer($text, $expectedTokens)
+    {
+        $this->testPutMapping('cldr-emoji-annotation-synonyms-fr.txt');
+
+        $client = $this->getClient();
+        $response = $client->request('GET', '/test_put_mapping/_analyze', [
+            'json' => [
+                'analyzer' => 'with_emoji',
+                'text' => $text
+            ]
+        ]);
+
+        $tokens = $response->toArray();
+        $tokens = array_map(function ($a) {
+            return $a['token'];
+        }, $tokens['tokens']);
+
+        foreach ($expectedTokens as $token) {
+            $this->assertContains($token, $tokens);
+        }
+    }
+
     private function getClient()
     {
         return HttpClient::createForBaseUri('http://localhost:9200');
     }
+
 }
