@@ -20,7 +20,6 @@
 🤗 => 🤗, fjes, fjes som gjev klem, klem
 😎 => 😎, fjes, smil, smilefjes med solbriller, solbriller
 #⃣ => #⃣, tastar: #
-*⃣ => *⃣, tastar: *
 🔟 => 🔟, tastar
 🇦🇨 => 🇦🇨, flagg: Ascension
 🇦🇩 => 🇦🇩, flagg: Andorra
@@ -242,7 +241,7 @@
 🇸🇾 => 🇸🇾, flagg: Syria
 🇸🇿 => 🇸🇿, flagg: Swaziland
 🇹🇦 => 🇹🇦, flagg: Tristan da Cunha
-🇹🇨 => 🇹🇨, flagg: Turks- og Caicosøyane
+🇹🇨 => 🇹🇨, flagg: Turks og Caicosøyane
 🇹🇩 => 🇹🇩, flagg: Tsjad
 🇹🇫 => 🇹🇫, flagg: Dei franske sørterritoria
 🇹🇬 => 🇹🇬, flagg: Togo

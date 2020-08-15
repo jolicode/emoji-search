@@ -1249,10 +1249,10 @@
 📛 => 📛, bedž, bedž s imenom, ime
 🔰 => 🔰, čin, japanski, japanski simbol za početnika, list, početnik
 ⭕ => ⭕, crveni, crveni krug s rupom, krug, o, veliki
-✅ => ✅, ✓, gumb, kvačica, oznaka, tipka s kvačicom
-☑ => ☑, ✓, okvir, potvrda, potvrdni okvir s kvačicom
-✔ => ✔, ✓, kvačica, oznaka
-✖ => ✖, ×, množenje, operator, otkaži, pomnoži, x, znak množenja
+✅ => ✅, gumb, kvačica, oznaka, tipka s kvačicom
+☑ => ☑, okvir, potvrda, potvrdni okvir s kvačicom
+✔ => ✔, kvačica, oznaka
+✖ => ✖, množenje, operator, otkaži, pomnoži, x, znak množenja
 ❌ => ❌, križić, množenje, odustajanje, oznaka križića, puta, x, znak
 ❎ => ❎, kvadrat, tipka s oznakom križića, znak
 ➕ => ➕, masno otisnuti znak plus, matematika, plus
@@ -1260,6 +1260,7 @@
 ➗ => ➗, dijeljenje, masno otisnuti znak dijeljenja, matematika
 ➰ => ➰, petlja, vitica, vitičasta petlja
 ➿ => ➿, dvostruka vitičasta petlja, dvostruko, petlja, vitica
+〽 => 〽, djelomično, oznaka djelomične alternacije, znak
 ✳ => ✳, osmerokraka zvjezdica, zvjezdica
 ✴ => ✴, osmerokraka zvijezda, zvijezda
 ❇ => ❇, zvjezdica
@@ -1269,6 +1270,10 @@
 ❔ => ❔, bijeli upitnik, interpunkcija, obris, pitanje, znak
 ❕ => ❕, bijeli uskličnik, interpunkcija, obris, uskličnik, znak
 ❗ => ❗, interpunkcija, uskličnik, znak
+〰 => 〰, crta, interpunkcija, valovita crta, valovito
+© => ©, autorska prava, copyright, znak za autorska prava
+® => ®, registrirano, znak za registrirano
+™ => ™, tm, zaštitni znak, zaštitni znak tm, znak
 🔠 => 🔠, latinica, slova, unos, unos velikih latiničnih slova, velika
 🔡 => 🔡, abcd, latinica, mala, unos, unos malih latiničnih slova
 🔢 => 🔢, 1234, brojevi, unos, unos brojeva
@@ -2739,7 +2744,6 @@
 👩‍👧‍👦 => 👩‍👧‍👦, dijete, dječak, djevojčica, majka, obitelj, otac, žena
 👩‍👧‍👧 => 👩‍👧‍👧, dijete, djevojčica, majka, obitelj, otac, žena
 #⃣ => #⃣, tipka: #
-*⃣ => *⃣, tipka: *
 🔟 => 🔟, tipka
 🇦🇨 => 🇦🇨, zastava: Otok Ascension
 🇦🇩 => 🇦🇩, zastava: Andora
@@ -2781,9 +2785,9 @@
 🇧🇿 => 🇧🇿, zastava: Belize
 🇨🇦 => 🇨🇦, zastava: Kanada
 🇨🇨 => 🇨🇨, zastava: Kokosovi (Keelingovi) otoci
-🇨🇩 => 🇨🇩, zastava: Kongo - Kinshasa
+🇨🇩 => 🇨🇩, zastava: Kongo  Kinshasa
 🇨🇫 => 🇨🇫, zastava: Srednjoafrička Republika
-🇨🇬 => 🇨🇬, zastava: Kongo - Brazzaville
+🇨🇬 => 🇨🇬, zastava: Kongo  Brazzaville
 🇨🇭 => 🇨🇭, zastava: Švicarska
 🇨🇮 => 🇨🇮, zastava: Obala Bjelokosti
 🇨🇰 => 🇨🇰, zastava: Cookovi Otoci

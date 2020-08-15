@@ -1260,6 +1260,7 @@
 ➗ => ➗, matematika, osztás, vastag osztásjel
 ➰ => ➰, hurok
 ➿ => ➿, dupla, hurok
+〽 => 〽, jel, részelválasztó, választó
 ✳ => ✳, csillag, nyolcágú csillag
 ✴ => ✴, csillag, nyolcas csillag
 ❇ => ❇, szikra
@@ -1269,6 +1270,10 @@
 ❔ => ❔, fehér, fehér kérdőjel, írásjel, kérdés, központozás
 ❕ => ❕, fehér, fehér felkiáltójel, felkiáltás, írásjel, központozás
 ❗ => ❗, felkiáltás, felkiáltójel, írásjel, központozás
+〰 => 〰, gondolatjel, hullámos, központozás
+© => ©, copyright (szerzői jog által védett), szerzői jog, védett
+® => ®, bejegyzett, registered (bejegyzett), védjegy
+™ => ™, tm, védjegy
 🔠 => 🔠, abcd, betűk, bevitel, latin, nagybetűs
 🔡 => 🔡, abcd, betűk, bevitel, kisbetűs, latin
 🔢 => 🔢, 1234, bevitel, számbevitel, számok
@@ -1289,7 +1294,7 @@
 🆗 => 🆗, OK, OK gomb
 🅿 => 🅿, P gomb, parkolás
 🆘 => 🆘, segítség, sos, SOS gomb
-🆙 => 🆙, jel, up, UP! gomb
+🆙 => 🆙, jel, up, UP gomb
 🆚 => 🆚, ellen, versus, vs, VS gomb
 🈁 => 🈁, „itt”, japán, japán „itt” gomb, katakana, ココ
 🈂 => 🈂, „szervizdíj”, japán, japán „szervizdíj” gomb, katakana, サ
@@ -2739,7 +2744,6 @@
 👩‍👧‍👦 => 👩‍👧‍👦, anya, anyuka, apa, apuka, család, fiú, gyermek, lány, nő
 👩‍👧‍👧 => 👩‍👧‍👧, anya, anyuka, apa, apuka, család, gyermek, lány, nő
 #⃣ => #⃣, gombfej: #
-*⃣ => *⃣, gombfej: *
 🔟 => 🔟, gombfej
 🇦🇨 => 🇦🇨, zászló: Ascension-sziget
 🇦🇩 => 🇦🇩, zászló: Andorra
@@ -2781,9 +2785,9 @@
 🇧🇿 => 🇧🇿, zászló: Belize
 🇨🇦 => 🇨🇦, zászló: Kanada
 🇨🇨 => 🇨🇨, zászló: Kókusz (Keeling)-szigetek
-🇨🇩 => 🇨🇩, zászló: Kongó - Kinshasa
+🇨🇩 => 🇨🇩, zászló: Kongó  Kinshasa
 🇨🇫 => 🇨🇫, zászló: Közép-afrikai Köztársaság
-🇨🇬 => 🇨🇬, zászló: Kongó - Brazzaville
+🇨🇬 => 🇨🇬, zászló: Kongó  Brazzaville
 🇨🇭 => 🇨🇭, zászló: Svájc
 🇨🇮 => 🇨🇮, zászló: Elefántcsontpart
 🇨🇰 => 🇨🇰, zászló: Cook-szigetek
@@ -2961,7 +2965,7 @@
 🇸🇾 => 🇸🇾, zászló: Szíria
 🇸🇿 => 🇸🇿, zászló: Szváziföld
 🇹🇦 => 🇹🇦, zászló: Tristan da Cunha
-🇹🇨 => 🇹🇨, zászló: Turks- és Caicos-szigetek
+🇹🇨 => 🇹🇨, zászló: Turks és Caicos-szigetek
 🇹🇩 => 🇹🇩, zászló: Csád
 🇹🇫 => 🇹🇫, zászló: Francia Déli Területek
 🇹🇬 => 🇹🇬, zászló: Togo

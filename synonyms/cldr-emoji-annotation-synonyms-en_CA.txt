@@ -125,10 +125,11 @@
 ✅ => ✅, white heavy check mark
 ☑ => ☑, ballot box with check
 ✔ => ✔, heavy check mark
-✖ => ✖, ×, cancel, heavy multiplication x, multiplication, multiply, sign, x
-➕ => ➕, +, math, plus, sign
-➖ => ➖, -, −, math, minus, sign
-➗ => ➗, ÷, division, math, sign
+✖ => ✖, cancel, heavy multiplication x, multiplication, multiply, sign, x
+➕ => ➕, math, plus, sign
+➖ => ➖, math, minus, sign
+➗ => ➗, division, math, sign
+™ => ™, mark, tm, trade mark, trademark
 🔠 => 🔠, input Latin uppercase
 🔡 => 🔡, input Latin lowercase
 🔤 => 🔤, input Latin letters

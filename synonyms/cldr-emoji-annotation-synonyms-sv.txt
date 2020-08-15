@@ -648,7 +648,7 @@
 🔪 => 🔪, kniv, kökskniv
 🏺 => 🏺, amfora, kruka, krus
 🌍 => 🌍, Afrika, Europa, jorden, jordglob Europa–Afrika
-🌎 => 🌎, jorden, jordglob, jordglob nord- och sydamerika, nord- och sydamerika
+🌎 => 🌎, jorden, jordglob, jordglob nord och sydamerika, nord och sydamerika
 🌏 => 🌏, Asien, Australien, jorden, jordglob Asien–Australien
 🌐 => 🌐, jordglob med meridianer, meridianer
 🗺 => 🗺, karta, världen, världskarta
@@ -706,7 +706,7 @@
 🌌 => 🌌, galax, rymden, vintergatan, Vintergatan
 🎠 => 🎠, häst, karusell, karusellhäst
 🎡 => 🎡, karusell, nöjespark, pariserhjul
-🎢 => 🎢, berg- och dalbana, karusell, nöjespark
+🎢 => 🎢, berg och dalbana, karusell, nöjespark
 💈 => 💈, barberare, barberarstolpe, frisör, stolpe
 🎪 => 🎪, cirkus, cirkustält, tält
 🚂 => 🚂, ånglok, fordon, lok, tåg
@@ -1189,7 +1189,7 @@
 🔄 => 🔄, moturs, pilar
 🔙 => 🔙, Back med vänsterpil, bakåt, vänsterpil
 🔚 => 🔚, End med högerpil, framåt, högerpil
-🔛 => 🔛, ON! med pil höger och vänster ovanför, pil höger och vänster, utropstecken
+🔛 => 🔛, ON med pil höger och vänster ovanför, pil höger och vänster, utropstecken
 🔜 => 🔜, högerpil, pil, Soon med högerpil ovanför
 🔝 => 🔝, pil, Top med uppåtpil, uppåtpil
 🛐 => 🛐, plats för tillbedjan, religion, tempel, tillbedjan
@@ -1260,6 +1260,7 @@
 ➗ => ➗, division, divisionstecken, matte
 ➰ => ➰, kurva, ögla, slinga
 ➿ => ➿, dubbel ögla, öglor
+〽 => 〽, japansk, kommatering
 ✳ => ✳, åttauddig, spetsig, stjärna
 ✴ => ✴, åttauddig, stjärna
 ❇ => ❇, glittra, gnistra
@@ -1269,6 +1270,10 @@
 ❔ => ❔, fråga, frågetecken, vitt frågetecken
 ❕ => ❕, kommatering, utropstecken, vitt
 ❗ => ❗, kommatering, rött, utropstecken
+〰 => 〰, tankstreck, vågig, vågigt tankstreck
+© => ©, copyright, upphovsrätt, upphovsrättssymbol
+® => ®, registrerat, registrerat varumärke
+™ => ™, skyddat varumärke, varumärke
 🔠 => 🔠, ABC, alfabet, stora bokstäver, versaler
 🔡 => 🔡, gemener, små bokstäver
 🔢 => 🔢, nummer, siffror
@@ -2739,7 +2744,6 @@
 👩‍👧‍👦 => 👩‍👧‍👦, barn, familj, flicka, kvinna, mamma, människor, pappa, pojke
 👩‍👧‍👧 => 👩‍👧‍👧, barn, familj, flicka, kvinna, mamma, människor, pappa
 #⃣ => #⃣, keycap: #
-*⃣ => *⃣, keycap: *
 🔟 => 🔟, keycap
 🇦🇨 => 🇦🇨, flagga: Ascension
 🇦🇩 => 🇦🇩, flagga: Andorra
@@ -2961,7 +2965,7 @@
 🇸🇾 => 🇸🇾, flagga: Syrien
 🇸🇿 => 🇸🇿, flagga: Swaziland
 🇹🇦 => 🇹🇦, flagga: Tristan da Cunha
-🇹🇨 => 🇹🇨, flagga: Turks- och Caicosöarna
+🇹🇨 => 🇹🇨, flagga: Turks och Caicosöarna
 🇹🇩 => 🇹🇩, flagga: Tchad
 🇹🇫 => 🇹🇫, flagga: Franska sydterritorierna
 🇹🇬 => 🇹🇬, flagga: Togo
@@ -2991,7 +2995,7 @@
 🇻🇮 => 🇻🇮, flagga: Amerikanska Jungfruöarna
 🇻🇳 => 🇻🇳, flagga: Vietnam
 🇻🇺 => 🇻🇺, flagga: Vanuatu
-🇼🇫 => 🇼🇫, flagga: Wallis- och Futunaöarna
+🇼🇫 => 🇼🇫, flagga: Wallis och Futunaöarna
 🇼🇸 => 🇼🇸, flagga: Samoa
 🇽🇰 => 🇽🇰, flagga: Kosovo
 🇾🇪 => 🇾🇪, flagga: Jemen

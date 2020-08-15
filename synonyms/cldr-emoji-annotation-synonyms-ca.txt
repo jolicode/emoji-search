@@ -1260,6 +1260,7 @@
 ➗ => ➗, divisió, gran, signe, signe de dividir gran
 ➰ => ➰, bucle, llaç, llaç arrissat
 ➿ => ➿, bucle, doble
+〽 => 〽, alternança, signe, signe d’alternança
 ✳ => ✳, asterisc, asterisc de vuit radis, vuit radis
 ✴ => ✴, estrella, estrella de vuit puntes, vuit puntes
 ❇ => ❇, espurna
@@ -1269,9 +1270,14 @@
 ❔ => ❔, blanc, interrogació, puntuació, signe, signe d’interrogació blanc
 ❕ => ❕, blanc, exclamació, puntuació, signe, signe d’exclamació blanc
 ❗ => ❗, exclamació, puntuació, signe, signe d’exclamació, signe d’exclamació vermell
+〰 => 〰, guió, ondulat, puntuació
+© => ©, copyright, drets d’autor
+® => ®, marca, registrada
+™ => ™, comercial, marca comercial, símbol de marca comercial
 🔠 => 🔠, botó de lletres llatines en majúscules, llatines, lletres, majúscules
 🔡 => 🔡, botó de lletres llatines en minúscules, llatines, lletres, minúscules
 🔢 => 🔢, 1234, botó de números, dígits, números, xifres
+🔣 => 🔣, 〒♪&%, botó de símbols, símbols
 🔤 => 🔤, abc, alfabet, botó de lletres llatines, lletres, lletres llatines
 🅰 => 🅰, A, botó, botó A (grup sanguini)
 🆎 => 🆎, AB, botó, botó AB (grup sanguini)
@@ -2738,7 +2744,6 @@
 👩‍👧‍👦 => 👩‍👧‍👦, criatura, dona, família, mare, noi, noia, pare
 👩‍👧‍👧 => 👩‍👧‍👧, criatura, dona, família, mare, noia, pare
 #⃣ => #⃣, tecla: #
-*⃣ => *⃣, tecla: *
 🔟 => 🔟, tecla
 🇦🇨 => 🇦🇨, bandera: Illa de l’Ascensió
 🇦🇩 => 🇦🇩, bandera: Andorra
@@ -2780,9 +2785,9 @@
 🇧🇿 => 🇧🇿, bandera: Belize
 🇨🇦 => 🇨🇦, bandera: Canadà
 🇨🇨 => 🇨🇨, bandera: Illes Cocos
-🇨🇩 => 🇨🇩, bandera: Congo - Kinshasa
+🇨🇩 => 🇨🇩, bandera: Congo  Kinshasa
 🇨🇫 => 🇨🇫, bandera: República Centreafricana
-🇨🇬 => 🇨🇬, bandera: Congo - Brazzaville
+🇨🇬 => 🇨🇬, bandera: Congo  Brazzaville
 🇨🇭 => 🇨🇭, bandera: Suïssa
 🇨🇮 => 🇨🇮, bandera: Costa d’Ivori
 🇨🇰 => 🇨🇰, bandera: Illes Cook

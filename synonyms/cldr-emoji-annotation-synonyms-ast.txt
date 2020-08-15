@@ -11,7 +11,6 @@
 💍 => 💍, aniellu, diamante
 💎 => 💎, diamante, piedra preciosa, xema, xoya
 #⃣ => #⃣, tecles: #
-*⃣ => *⃣, tecles: *
 🔟 => 🔟, tecles
 🇦🇨 => 🇦🇨, bandera: Islla Ascensión
 🇦🇩 => 🇦🇩, bandera: Andorra
@@ -53,9 +52,9 @@
 🇧🇿 => 🇧🇿, bandera: Belize
 🇨🇦 => 🇨🇦, bandera: Canadá
 🇨🇨 => 🇨🇨, bandera: Islles Cocos (Keeling)
-🇨🇩 => 🇨🇩, bandera: Congu - Kinxasa
+🇨🇩 => 🇨🇩, bandera: Congu  Kinxasa
 🇨🇫 => 🇨🇫, bandera: República Centroafricana
-🇨🇬 => 🇨🇬, bandera: Congu - Brazzaville
+🇨🇬 => 🇨🇬, bandera: Congu  Brazzaville
 🇨🇭 => 🇨🇭, bandera: Suiza
 🇨🇮 => 🇨🇮, bandera: Costa de Marfil
 🇨🇰 => 🇨🇰, bandera: Islles Cook

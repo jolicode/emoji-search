@@ -10,6 +10,30 @@ $zipFile = sprintf('%s/core-%s.zip', $zipDir, $version);
 $extractDir = sprintf('%s/core-%s', $zipDir, $version);
 $synonymsDir = realpath(sprintf('%s/../../synonyms/', $zipDir));
 
+CONST COMPLETELY_ELIMINATED_BY_ANALYZER = [
+    '002A' => '*',
+    'FF03' => '＃',
+    '002B' => '+',
+    '002F' => '/',
+    '002D' => '-',
+    '2212' => '−',
+    '2013' => '–',
+    '00F7' => '÷',
+    '0021' => '!',
+    'FF01' => '！',
+    'FF1F' => '？',
+    '0021_double' => '!!',
+    'FF01_double' => '！！',
+    '003F' => '?',
+    '0021_003F' => '!?',
+    'FF01_FF1F' => '！？',
+    '061F' => '؟',
+    '061F_0021' => '؟!',
+    '204A_0025' => '⁊%',
+    '2713' => '✓',
+    '00D7' => '×',
+];
+
 // Get the ZIP
 if (!file_exists($zipFile)) {
     echo "Download\n";
@@ -50,13 +74,55 @@ if (!file_exists($extractDir.'/apache-license.txt')) {
     $zip->close();
 }
 
-function isEmojiNRK(SimpleXMLElement $annotation)
+function filterSynonyms($synonyms)
 {
-    // To remove as not understood by ES.
-    foreach (["\u{3012}", "\u{00A9}", "\u{00AE}", "\u{2122}", "\u{3030}", "\u{303D}",] as $emoji) {
-        if (mb_strpos((string) $annotation . (string) $annotation['cp'], $emoji) !== false) {
-            return true;
+    // Remove the obvious
+    $synonyms = array_filter($synonyms, function ($synonym) {
+        if (in_array($synonym, COMPLETELY_ELIMINATED_BY_ANALYZER)) {
+            echo "Bypass synonym $synonym, spotted as COMPLETELY_ELIMINATED_BY_ANALYZER.\n";
+            return false;
         }
+
+        return true;
+    });
+
+    // More cleaning for complex string like "sleutelbordtoets: *"
+    // Or "* réiltín"
+    array_walk($synonyms, function(&$synonym) {
+        // Replace 202F NARROW NO-BREAK SPACE
+        $synonym = str_replace(" ", ' ', $synonym);
+
+        $withSpaceBefore = array_map(function ($a) {
+            return ' '.$a;
+        }, COMPLETELY_ELIMINATED_BY_ANALYZER);
+
+        $cleanString = str_replace($withSpaceBefore, ' ', $synonym);
+        if ($cleanString !== $synonym) {
+            echo "Edit synonym $synonym, spotted a COMPLETELY_ELIMINATED_BY_ANALYZER char.\n";
+            $synonym = $cleanString;
+        }
+
+        $withSpaceAfter = array_map(function ($a) {
+            return $a.' ';
+        }, COMPLETELY_ELIMINATED_BY_ANALYZER);
+
+        $cleanString = str_replace($withSpaceAfter, ' ', $synonym);
+        if ($cleanString !== $synonym) {
+            echo "Edit synonym $synonym, spotted a COMPLETELY_ELIMINATED_BY_ANALYZER char.\n";
+            $synonym = $cleanString;
+        }
+    });
+
+    return $synonyms;
+}
+
+function filterEmoji($emoji)
+{
+
+    $cleanString = str_replace(COMPLETELY_ELIMINATED_BY_ANALYZER, '', $emoji);
+    if ($cleanString !== $emoji) {
+        echo "Bypass line $emoji, spotted a COMPLETELY_ELIMINATED_BY_ANALYZER char.\n";
+        return true;
     }
 
     return false;
@@ -71,13 +137,16 @@ function annotationXmlToSynonyms(SimpleXMLElement $xml)
             continue;
         }
 
-        if (isEmojiNRK($annotation)) {
-            echo "Bypass ".(string) $annotation['cp'].", spotted as NRK.\n";
+        $emoji = str_replace(['[', ']', '{', '}'], '', (string) $annotation['cp']);
+
+        if (filterEmoji($emoji)) {
             continue;
         }
 
-        $emoji = str_replace(['[', ']', '{', '}'], '', (string) $annotation['cp']);
-        $synonymsContent .= $emoji." => ".$emoji.", ". implode(', ', array_filter(array_map('trim', explode('|', (string) $annotation))));
+        $synonyms = array_filter(array_map('trim', explode('|', (string) $annotation)));
+        $synonyms = filterSynonyms($synonyms);
+
+        $synonymsContent .= $emoji." => ".$emoji.", ". implode(', ', $synonyms);
         $synonymsContent .= "\n";
     }
 
@@ -106,13 +175,20 @@ function derivedAnnotationXmlToSynonyms(SimpleXMLElement $xml)
             continue;
         }
 
-        if (isEmojiNRK($annotation)) {
-            echo "Bypass ".(string) $annotation['cp'].", spotted as NRK.\n";
+        $emoji = str_replace(['[', ']', '{', '}'], '', (string) $annotation['cp']);
+
+        if (filterEmoji($emoji)) {
             continue;
         }
 
-        $emoji = str_replace(['[', ']', '{', '}'], '', (string) $annotation['cp']);
-        $synonymsContent .= $emoji." => ".$emoji.", ". implode(', ', array_filter(array_map('trim', explode('|', (string) $annotation))));
+        $synonyms = array_filter(array_map('trim', explode('|', (string) $annotation)));
+        $synonyms = filterSynonyms($synonyms);
+
+        if (strpos(implode(', ', $synonyms), '*')) {
+            var_dump($synonyms, $emoji);die();
+        }
+
+        $synonymsContent .= $emoji." => ".$emoji.", ". implode(', ', $synonyms);
         $synonymsContent .= "\n";
     }
 

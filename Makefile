@@ -1,11 +1,23 @@
+TARGET?=7.8.1
+
+# Handle new URL's:
+# https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-oss-6.8.11.tar.gz
+# https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-oss-7.8.1-linux-x86_64.tar.gz
+ifeq (7.8.1, ${TARGET})
+  TARGET_DOWNLOAD=${TARGET}-linux-x86_64
+else
+  TARGET_DOWNLOAD=${TARGET}
+endif
+
 install: ## Download all the deps
-	wget https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-oss-7.8.0-linux-x86_64.tar.gz -P bin -nc
-	tar --directory bin/ -xzf bin/elasticsearch-oss-7.8.0-linux-x86_64.tar.gz
-	cp synonyms/* bin/elasticsearch-7.8.0/config/
+	wget https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-oss-${TARGET_DOWNLOAD}.tar.gz -P bin -nc
+	tar --directory bin/ -xzf bin/elasticsearch-oss-${TARGET_DOWNLOAD}.tar.gz
+	cp synonyms/* bin/elasticsearch-${TARGET}/config/
 	cd tools/ && composer install
 
 start: ## Start Elasticsearch
-	./bin/elasticsearch-7.8.0/bin/elasticsearch -d
+	cp synonyms/* bin/elasticsearch-${TARGET}/config/
+	./bin/elasticsearch-${TARGET}/bin/elasticsearch -d
 	echo "Waiting for ES to be up and running"; sleep 3; timeout 3m bash -c 'until curl -XGET http://127.0.0.1:9200; do sleep 3; done';
 
 stop: ## Stop Elasticsearch

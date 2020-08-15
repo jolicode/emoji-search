@@ -397,7 +397,6 @@
 👴🏾 => 👴🏾, amɣaṛ, tagwlimt tubrikt talemmast
 👴🏿 => 👴🏿, amɣaṛ, tagwlimt tubrikt
 #⃣ => #⃣, keycap: #
-*⃣ => *⃣, keycap: *
 🔟 => 🔟, keycap
 🇦🇨 => 🇦🇨, anay: Tigzirt n Aṣunsyun
 🇦🇩 => 🇦🇩, anay: Undura

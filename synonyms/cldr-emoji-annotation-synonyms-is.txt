@@ -648,7 +648,7 @@
 🔪 => 🔪, eldhúshnífur, hnífur
 🏺 => 🏺, drykkur, eldamennska, krukka, leirkrukka, vatnsberi
 🌍 => 🌍, Afríka, Evrópa, hnöttur sem sýnir Evrópu-Afríku, jörðin
-🌎 => 🌎, Ameríka, hnöttur sem sýnir Ameríku, jörðin, N- og S-Ameríka
+🌎 => 🌎, Ameríka, hnöttur sem sýnir Ameríku, jörðin, N og S-Ameríka
 🌏 => 🌏, Asía, Ástralía, hnöttur sem sýnir Asíu-Ástralíu, jörðin
 🌐 => 🌐, breiddargráður, hnöttur sem sýnir lengdarbauga, lengdargráður
 🗺 => 🗺, heimskort, heimur, kort
@@ -1223,7 +1223,7 @@
 ▶ => ▶, hægri, ör, spila, spilunartakki, þríhyrningur
 ⏩ => ⏩, hægri, ör, spóla áfram, tvöföld ör til hægri
 ⏭ => ⏭, áfram, næsta lag, ör, skiptitakki, þríhyrningur
-⏯ => ⏯, ör, pása, spila, spilunar- og pásuhnappur, spilunar- og pásutakki, þríhyrningur
+⏯ => ⏯, ör, pása, spila, spilunar og pásuhnappur, spilunar og pásutakki, þríhyrningur
 ◀ => ◀, hnappur til að spóla til baka, ör, spóla til baka, vinstri, þríhyrningur
 ⏪ => ⏪, ör, spóla til baka, tvöföld ör til vinstri, vinstri
 ⏮ => ⏮, fyrri sena, hnappur til að skipta á síðustu rás, ör, þríhyringingur
@@ -1250,25 +1250,30 @@
 🔰 => 🔰, byrjandi, græn og gul, græn og gul lauf, japanskt
 ⭕ => ⭕, holur rauður hringur, hringur, o, rauður, stór
 ✅ => ✅, hak, hakmerki, hnappur, merki
-☑ => ☑, ✓, hak, hakreitur með haki, hakreitur með hakmerki, reitur
-✔ => ✔, ✓, hak, merki
-✖ => ✖, ×, hætta við, margfalda, margföldun, margföldunartákn, tákn, x
-❌ => ❌, ×, hætta við, kross, krossmerki, margfalda, margföldun, x
-❎ => ❎, ×, ferningur, krosshnappur, merki
-➕ => ➕, +, merki, plús, plúsmerki, stærðfræði
-➖ => ➖, -, –, merki, mínus, mínusmerki, stærðfræði
-➗ => ➗, ÷, deiling, deilingarmerki, merki, stærðfræði
+☑ => ☑, hak, hakreitur með haki, hakreitur með hakmerki, reitur
+✔ => ✔, hak, merki
+✖ => ✖, hætta við, margfalda, margföldun, margföldunartákn, tákn, x
+❌ => ❌, hætta við, kross, krossmerki, margfalda, margföldun, x
+❎ => ❎, ferningur, krosshnappur, merki
+➕ => ➕, merki, plús, plúsmerki, stærðfræði
+➖ => ➖, merki, mínus, mínusmerki, stærðfræði
+➗ => ➗, deiling, deilingarmerki, merki, stærðfræði
 ➰ => ➰, lykkja
 ➿ => ➿, gormur, lykkjur, tvöföld lykkja
-✳ => ✳, *, áttarma stjarna, áttarma stjörnumerki, stjarna
+〽 => 〽, japanskt upphafsmerki söngs, merki
+✳ => ✳, áttarma stjarna, áttarma stjörnumerki, stjarna
 ✴ => ✴, áttarma stjarna, stjarna
-❇ => ❇, *, leiftur
+❇ => ❇, leiftur
 ‼ => ‼, greinarmerki, merki, tvöfalt upphrópunarmerki, upphr´ópunarmerki
-⁉ => ⁉, !, !?, ?, greinarmerki, interrobang, spurningarmerki, upphrópunarmerki, upphrópunarmerki og spurningarmerki
+⁉ => ⁉, greinarmerki, interrobang, spurningarmerki, upphrópunarmerki, upphrópunarmerki og spurningarmerki
 ❓ => ❓, greinarmerki, merki, spurning, spurningarmerki
 ❔ => ❔, greinarmerki, hvítt spurningarmerki, merki, spurning
 ❕ => ❕, greinarmerki, hvítt upphrópunarmerki, merki, upphrópun, útlínur
 ❗ => ❗, greinarmerki, merki, upphrópun, upphrópunarmerki
+〰 => 〰, alda, bugða, bugðustrik, strik
+© => ©, höfundarréttarmerki, höfundarréttarvarið, höfundarréttur
+® => ®, skráð, skráð vörumerki
+™ => ™, skrásett vörumerki, vörumerki
 🔠 => 🔠, hástafir, latneskir hástafir, latneskt letur, setja inn latneska hástafi
 🔡 => 🔡, lágstafir, latneskir lágstafir, latneskt letur, setja inn latneska lágstafi
 🔢 => 🔢, setja inn tölustafi, tölustafir
@@ -2739,7 +2744,6 @@
 👩‍👧‍👦 => 👩‍👧‍👦, barn, drengur, faðir, fjölskylda, fólk, kona, móðir, stúlka
 👩‍👧‍👧 => 👩‍👧‍👧, barn, faðir, fjölskylda, fólk, kona, móðir, stúlka
 #⃣ => #⃣, takki: #
-*⃣ => *⃣, takki: *
 🔟 => 🔟, takki
 🇦🇨 => 🇦🇨, fáni: Ascension-eyja
 🇦🇩 => 🇦🇩, fáni: Andorra
@@ -2961,7 +2965,7 @@
 🇸🇾 => 🇸🇾, fáni: Sýrland
 🇸🇿 => 🇸🇿, fáni: Svasíland
 🇹🇦 => 🇹🇦, fáni: Tristan da Cunha
-🇹🇨 => 🇹🇨, fáni: Turks- og Caicoseyjar
+🇹🇨 => 🇹🇨, fáni: Turks og Caicoseyjar
 🇹🇩 => 🇹🇩, fáni: Tsjad
 🇹🇫 => 🇹🇫, fáni: Frönsku suðlægu landsvæðin
 🇹🇬 => 🇹🇬, fáni: Tógó
@@ -2991,7 +2995,7 @@
 🇻🇮 => 🇻🇮, fáni: Bandarísku Jómfrúaeyjar
 🇻🇳 => 🇻🇳, fáni: Víetnam
 🇻🇺 => 🇻🇺, fáni: Vanúatú
-🇼🇫 => 🇼🇫, fáni: Wallis- og Fútúnaeyjar
+🇼🇫 => 🇼🇫, fáni: Wallis og Fútúnaeyjar
 🇼🇸 => 🇼🇸, fáni: Samóa
 🇽🇰 => 🇽🇰, fáni: Kósóvó
 🇾🇪 => 🇾🇪, fáni: Jemen

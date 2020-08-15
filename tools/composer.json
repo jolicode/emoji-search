@@ -2,7 +2,11 @@
     "name": "jolicode/emoji-search",
     "require": {
         "phpunit/phpunit": "^8.5",
-        "symfony/http-client": "^5.1"
+        "symfony/http-client": "^5.1",
+        "ext-simplexml": "*",
+        "ext-mbstring": "*",
+        "ext-zip": "*",
+        "ext-curl": "*"
     },
     "authors": [
         {

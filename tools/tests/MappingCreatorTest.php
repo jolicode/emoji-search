@@ -14,11 +14,27 @@ class MappingCreatorTest extends TestCase
         $this->assertEquals(200, $response->getStatusCode());
     }
 
-    public function testPutMapping()
+    public function synonymFileProvider()
+    {
+        $files = scandir(__DIR__.'/../../synonyms/');
+        $files = array_filter($files, function ($file) {
+            return $file !== '..' && $file !== '.';
+        });
+
+        return array_map(function ($file) {
+            return [$file];
+        }, $files);
+    }
+
+    /**
+     * @dataProvider synonymFileProvider
+     */
+    public function testPutMapping($file)
     {
         $client = $this->getClient();
 
-        $response = $client->request('PUT', '/tweets', [
+        $client->request('DELETE', '/test_put_mapping')->getStatusCode();
+        $response = $client->request('PUT', '/test_put_mapping', [
             'headers' => [
                 'Content-Type: application/json'
             ],
@@ -27,16 +43,16 @@ class MappingCreatorTest extends TestCase
     "settings": {
         "analysis": {
             "filter": {
-                "english_emoji": {
+                "custom_emoji": {
                     "type": "synonym",
-                    "synonyms_path": "cldr-emoji-annotation-synonyms-ga.txt"
+                    "synonyms_path": "$file"
                 }
             },
             "analyzer": {
-                "english_with_emoji": {
+                "with_emoji": {
                     "tokenizer": "standard",
                     "filter": [
-                        "english_emoji"
+                        "custom_emoji"
                     ]
                 }
             }
@@ -46,7 +62,7 @@ class MappingCreatorTest extends TestCase
         "properties": {
             "content": {
                 "type": "text",
-                "analyzer": "english_with_emoji"
+                "analyzer": "with_emoji"
             }
         }
     }
