@@ -34,6 +34,13 @@ class MappingCreatorTest extends TestCase
         $client = $this->getClient();
 
         $client->request('DELETE', '/test_put_mapping')->getStatusCode();
+
+        if (version_compare($_SERVER['TARGET'], '7.0.0', '<')) {
+            $mapping = '"_doc": { "properties": { "content": { "type": "text", "analyzer": "with_emoji" } } }';
+        } else {
+            $mapping = '"properties": { "content": { "type": "text", "analyzer": "with_emoji" } }';
+        }
+
         $response = $client->request('PUT', '/test_put_mapping', [
             'headers' => [
                 'Content-Type: application/json'
@@ -58,14 +65,7 @@ class MappingCreatorTest extends TestCase
             }
         }
     },
-    "mappings": {
-        "properties": {
-            "content": {
-                "type": "text",
-                "analyzer": "with_emoji"
-            }
-        }
-    }
+    "mappings": { $mapping }
 }
 JSON
         ]);
