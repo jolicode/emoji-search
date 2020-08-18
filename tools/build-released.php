@@ -3,7 +3,7 @@
 // http://cldr.unicode.org/
 // http://site.icu-project.org/download
 // Should match the ICU plugin version
-$version = "35";
+$version = "37";
 
 $zipDir = sprintf('%s/tmp', __DIR__);
 $zipFile = sprintf('%s/core-%s.zip', $zipDir, $version);
@@ -18,6 +18,7 @@ CONST COMPLETELY_ELIMINATED_BY_ANALYZER = [
     '002D' => '-',
     '2212' => '−',
     '2013' => '–',
+    '2014' => '—',
     '00F7' => '÷',
     '0021' => '!',
     'FF01' => '！',
@@ -32,6 +33,10 @@ CONST COMPLETELY_ELIMINATED_BY_ANALYZER = [
     '204A_0025' => '⁊%',
     '2713' => '✓',
     '00D7' => '×',
+    '00AB' => '«',
+    '00BB' => '»',
+    '00B7' => '·',
+    '00A7' => '§',
     // removed with icu_tokenizer
     '303D' => '〽',
     '3030' => '〰',
