@@ -53,13 +53,19 @@ class MappingCreatorTest extends TestCase
                 "custom_emoji": {
                     "type": "synonym",
                     "synonyms_path": "$file"
+                },
+                "emoji_variation_selector_filter": {
+                    "type": "pattern_replace",
+                    "pattern": "\\uFE0E|\\uFE0F",
+                    "replace": ""
                 }
             },
             "analyzer": {
                 "with_emoji": {
                     "tokenizer": "standard",
                     "filter": [
-                        "custom_emoji"
+                        "custom_emoji",
+                        "emoji_variation_selector_filter"
                     ]
                 }
             }
@@ -110,9 +116,67 @@ JSON
         }
     }
 
+    public function testIssue26VariationSelector()
+    {
+        $this->testPutMapping('cldr-emoji-annotation-synonyms-nl.txt');
+        $client = $this->getClient();
+
+        /**
+         *   1F34F ├─ 🍏		├─ GREEN APPLE
+         *      ---- ├┬ 🥑️️️		├┬ Composition
+         *      1F951 │├─ 🥑		│├─ AVOCADO
+         *      FE0F │├─ VS16	│├─ VARIATION SELECTOR-16
+         *      FE0F │├─ VS16	│├─ VARIATION SELECTOR-16
+         *      FE0F │└─ VS16	│└─ VARIATION SELECTOR-16
+         */
+        $vs16 = "\xEF\xB8\x8F";
+        $compromisedText = '🍏🥑'.$vs16.$vs16.$vs16;
+
+        $response = $client->request('GET', '/test_put_mapping/_analyze', [
+            'json' => [
+                'tokenizer' => 'standard',
+                'text' => $compromisedText
+            ]
+        ]);
+
+        $tokens = $response->toArray();
+        $tokens = array_map(function ($a) {
+            return $a['token'];
+        }, $tokens['tokens']);
+
+        $this->assertCount(2, $tokens);
+        $this->assertSame('🍏', $tokens[0]);
+        $this->assertSame('🥑'.$vs16, $tokens[1]);
+
+        $response = $client->request('GET', '/test_put_mapping/_analyze', [
+            'json' => [
+                'tokenizer' => 'standard',
+                'filter' => [
+                    [
+                        'type' => 'pattern_replace',
+                        'pattern' => '\\uFE0E|\\uFE0F',
+                        'replace' => ''
+                    ],
+                    'custom_emoji'
+                ],
+                'text' => $compromisedText
+            ]
+        ]);
+
+        $tokens = $response->toArray();
+        $tokens = array_map(function ($a) {
+            return $a['token'];
+        }, $tokens['tokens']);
+
+        $this->assertGreaterThan(2, $tokens);
+        $this->assertContains('🍏', $tokens);
+        $this->assertContains('🥑', $tokens);
+        $this->assertContains('avocado', $tokens);
+        $this->assertContains('appel', $tokens);
+    }
+
     private function getClient()
     {
         return HttpClient::createForBaseUri('http://localhost:9200');
     }
-
 }

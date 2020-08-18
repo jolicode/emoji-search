@@ -69,6 +69,11 @@ PUT /tweets
           "type": "synonym",
           "synonyms_path": "analysis/cldr-emoji-annotation-synonyms-en.txt" 
         },
+        "emoji_variation_selector_filter": {
+          "type": "pattern_replace",
+          "pattern": "\\uFE0E|\\uFE0F",
+          "replace": ""
+        }
         "english_stop": {
           "type":       "stop",
           "stopwords":  "_english_"
@@ -92,6 +97,7 @@ PUT /tweets
           "filter": [
             "english_possessive_stemmer",
             "lowercase",
+            "emoji_variation_selector_filter",
             "english_emoji",
             "english_stop",
             "english_keywords",
