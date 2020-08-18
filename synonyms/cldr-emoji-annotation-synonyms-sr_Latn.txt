@@ -1327,6 +1327,7 @@
 ➗ => ➗, deljenje, matematika, crni znak za deljenje
 ➰ => ➰, zaobljeno, petlja, petlja
 ➿ => ➿, dvostruko, dvostruka petlja, zaobljeno, petlja
+〽 => 〽, deo, znak, znak za razdvajanje delova
 ✳ => ✳, zvezdica, osmokraka zvezda
 ✴ => ✴, zvezda, osmokraka zvezdica
 ❇ => ❇, iskra, iskra
@@ -1336,6 +1337,10 @@
 ❔ => ❔, obris, beli upitnik, znak, interpunkcija, pitanje
 ❕ => ❕, obris, beli uzvičnik, znak, interpunkcija, uzvičnik
 ❗ => ❗, znak, interpunkcija, uzvičnik
+〰 => 〰, interpunkcija, talasasta crta, talasasto, crta
+© => ©, autorska prava, autorska prava
+® => ®, registrovano, registrovano
+™ => ™, žig, zaštitni znak, znak
 🔠 => 🔠, velika, latinica, slova, unos, unos velikih slova
 🔡 => 🔡, abcd, velika, latinica, mala, unos, unos malih slova
 🔢 => 🔢, 1234, brojevi, unos, unos brojeva
@@ -2739,7 +2744,6 @@
 👩‍👧‍👦 => 👩‍👧‍👦, dečak, dete, devojčica, majka, otac, porodica, žena
 👩‍👧‍👧 => 👩‍👧‍👧, dete, devojčica, majka, otac, porodica, žena
 #⃣ => #⃣, taster: #
-*⃣ => *⃣, taster: *
 🔟 => 🔟, taster
 🇦🇨 => 🇦🇨, zastava: Ostrvo Asension
 🇦🇩 => 🇦🇩, zastava: Andora
@@ -2781,9 +2785,9 @@
 🇧🇿 => 🇧🇿, zastava: Belize
 🇨🇦 => 🇨🇦, zastava: Kanada
 🇨🇨 => 🇨🇨, zastava: Kokosova (Kilingova) Ostrva
-🇨🇩 => 🇨🇩, zastava: Kongo - Kinšasa
+🇨🇩 => 🇨🇩, zastava: Kongo  Kinšasa
 🇨🇫 => 🇨🇫, zastava: Centralnoafrička Republika
-🇨🇬 => 🇨🇬, zastava: Kongo - Brazavil
+🇨🇬 => 🇨🇬, zastava: Kongo  Brazavil
 🇨🇭 => 🇨🇭, zastava: Švajcarska
 🇨🇮 => 🇨🇮, zastava: Obala Slonovače (Kot d’Ivoar)
 🇨🇰 => 🇨🇰, zastava: Kukova Ostrva

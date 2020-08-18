@@ -1249,10 +1249,10 @@
 📛 => 📛, tên, thẻ
 🔰 => 🔰, hình V, ký hiệu của Nhật cho người mới bắt đầu, lá, người mới bắt đầu, Nhật
 ⭕ => ⭕, o, vòng tròn, vòng tròn lớn đậm
-✅ => ✅, ✓, chọn, dấu, dấu chọn đậm màu trắng, nút
-☑ => ☑, ✓, chọn, hộp, hộp kiểm có dấu chọn
-✔ => ✔, ✓, chọn, dấu
-✖ => ✖, ×, dấu, hủy, nhân, x
+✅ => ✅, chọn, dấu, dấu chọn đậm màu trắng, nút
+☑ => ☑, chọn, hộp, hộp kiểm có dấu chọn
+✔ => ✔, chọn, dấu
+✖ => ✖, dấu, hủy, nhân, x
 ❌ => ❌, dấu, dấu gạch chéo, hủy, nhân, x
 ❎ => ❎, dấu, hình vuông, nút dấu gạch chéo
 ➕ => ➕, cộng, dấu, toán
@@ -1260,6 +1260,7 @@
 ➗ => ➗, chia, dấu, toán
 ➰ => ➰, cong, vòng lặp
 ➿ => ➿, cong, kép, vòng lặp, vòng lặp đôi
+〽 => 〽, ký hiệu, ký hiệu thay đổi luân phiên, thay đổi luân phiên
 ✳ => ✳, dấu hoa thị, dấu hoa thị tám cánh
 ✴ => ✴, ngôi sao tám cánh
 ❇ => ❇, lấp lánh
@@ -1269,9 +1270,14 @@
 ❔ => ❔, chấm, chấm câu, dấu chấm hỏi màu trắng, dấu hỏi, mờ
 ❕ => ❕, cảm thán, chấm, dấu, dấu chấm than màu trắng, mờ
 ❗ => ❗, cảm thán, chấm, dấu, dấu chấm than
+〰 => 〰, dấu, dấu gạch ngang, dấu gạch ngang lượn sóng, lượn sóng
+© => ©, bản quyền
+® => ®, đã đăng ký
+™ => ™, dấu, nhãn hiệu, tm
 🔠 => 🔠, ABCD, chữ, chữ hoa, la tinh, nhập, nhập chữ hoa la tinh
 🔡 => 🔡, abcd, chữ, chữ thường, la tinh, nhập, nhập chữ thường la tinh
 🔢 => 🔢, 1234, nhập, số
+🔣 => 🔣, 〒♪&%, nhập, nhập biểu tượng
 🔤 => 🔤, abc, bảng chữ cái, chữ cái, la tinh, nhập, nhập chữ cái la tinh
 🅰 => 🅰, a, nhóm máu, nút A (nhóm máu)
 🆎 => 🆎, ab, nhóm máu, nút AB (nhóm máu)
@@ -2738,7 +2744,6 @@
 👩‍👧‍👦 => 👩‍👧‍👦, con gái, con trai, gia đình, phụ nữ
 👩‍👧‍👧 => 👩‍👧‍👧, con gái, gia đình, phụ nữ
 #⃣ => #⃣, mũ phím: #
-*⃣ => *⃣, mũ phím: *
 🔟 => 🔟, mũ phím
 🇦🇨 => 🇦🇨, cờ: Đảo Ascension
 🇦🇩 => 🇦🇩, cờ: Andorra
@@ -2780,9 +2785,9 @@
 🇧🇿 => 🇧🇿, cờ: Belize
 🇨🇦 => 🇨🇦, cờ: Canada
 🇨🇨 => 🇨🇨, cờ: Quần đảo Cocos (Keeling)
-🇨🇩 => 🇨🇩, cờ: Congo - Kinshasa
+🇨🇩 => 🇨🇩, cờ: Congo  Kinshasa
 🇨🇫 => 🇨🇫, cờ: Cộng hòa Trung Phi
-🇨🇬 => 🇨🇬, cờ: Congo - Brazzaville
+🇨🇬 => 🇨🇬, cờ: Congo  Brazzaville
 🇨🇭 => 🇨🇭, cờ: Thụy Sĩ
 🇨🇮 => 🇨🇮, cờ: Côte d’Ivoire
 🇨🇰 => 🇨🇰, cờ: Quần đảo Cook

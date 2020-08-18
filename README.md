@@ -2,15 +2,17 @@
 
 > Add support for emoji and flags in any Lucene compatible search engine!
 
-If you wish to search `🍩` to find **donuts** in your documents, you came to the right place.
+If you wish to search `🍩` to find **donuts** in your documents, you came to the right place. This project offer synonym files ready for usage in Elasticsearch analyzer.
+
+![Test all synonym files on a real Elasticsearch](https://github.com/jolicode/emoji-search/workflows/Test%20all%20synonym%20files%20on%20a%20real%20Elasticsearch/badge.svg)
 
 ## Requirements to index emoji in Elasticsearch
 
 | Version | Requirements | 
 |----------|:-------------:|
-| Elasticsearch < 6.4 | You need our [custom ICU Tokenizer Plugin](/esplugin), see our [blog post](http://jolicode.com/blog/search-for-emoji-with-elasticsearch) (2016). |
+| Elasticsearch >= 6.7 | The standard tokenizer now understand Emoji 🎉 thanks to [Lucene 7.7.0](https://github.com/apache/lucene-solr/commit/283b19a8da6ab9e0b7e9a75b132d3067218d5502) - no plugin needed ! |
 | Elasticsearch >= 6.4 and < 6.7 | You need to install the official [ICU Plugin](https://www.elastic.co/guide/en/elasticsearch/plugins/current/analysis-icu.html). See our [blog post about this change](https://jolicode.com/blog/elasticsearch-icu-now-understands-emoji). |
-| Elasticsearch >= 6.7 | The standard tokenizer now understand Emoji 🎉 thanks to [Lucene 7.7.0](https://github.com/apache/lucene-solr/commit/283b19a8da6ab9e0b7e9a75b132d3067218d5502) |
+| Elasticsearch < 6.4 | You need our [custom ICU Tokenizer Plugin](/esplugin), see our [blog post](http://jolicode.com/blog/search-for-emoji-with-elasticsearch) (2016). |
 
 Run the following test to verify that you get 4 EMOJI tokens:
 
@@ -23,7 +25,7 @@ GET _analyze
 
 ## The Synonyms, flags and emoticons
 
-Once you have clean token, you need to expand them to word that can match searches and documents, in **your language**. 
+What you need to search with emoji is a way to expand them to words that can match searches and documents, in **your language**. 
 That's the goal of the [synonym dictionaries](/synonyms).
 
 We build Solr / Lucene compatible synonyms files in all languages supported by [Unicode CLDR](http://cldr.unicode.org/) so you can set them up in an analyzer. It looks like this:

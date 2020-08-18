@@ -1110,7 +1110,7 @@
 🔄 => 🔄, ímóti urinum, pílar, vatnrættir, vatnrættir pílar sum ganga ímóti urinum
 🔙 => 🔙, back, BACK pílur, pílur
 🔚 => 🔚, end, END pílur, pílur
-🔛 => 🔛, on, ON! pílur, pílur
+🔛 => 🔛, on, ON pílur, pílur
 🔜 => 🔜, pílur, soon, SOON pílur
 🔝 => 🔝, pílur top, TOP pílur
 🛐 => 🛐, átrúnaður, bøn, bønarstað, religión, trúgv
@@ -1180,6 +1180,7 @@
 ➗ => ➗, býti, deila, matematikk, rokning, støddfrøði, tjúkt býting merki
 ➰ => ➰, bukt, lykkja, sloyfa, snar
 ➿ => ➿, bukt, dupult, lykkja, sloyfa, snar
+〽 => 〽, broytin, frábregði, umskifti, umskiftistekn
 ✳ => ✳, áttatinda stjørna, stjørna
 ✴ => ✴, áttaspíska stjørna, stjørna
 ❇ => ❇, glampa, glampi, glitra, glógva, ljóma, skyggja, stjørna
@@ -1189,9 +1190,14 @@
 ❔ => ❔, greinarmerki, hvítt spurnartekn, spurnartekn, teknseting
 ❕ => ❕, greinarmerki, hvítt rópitekn, rópitekn, teknseting
 ❗ => ❗, greinarmerki, rópitekn, teknseting
+〰 => 〰, aldandi, greinarmerki, tankastrika, teknseting
+© => ©, upphavsrætt, upphavsrættur
+® => ®, skrásett
+™ => ™, fyritøkumerki, fyritøkurættindi, virkismerki, virkisrættindi, vøruheiti, vørumerki
 🔠 => 🔠, ABCD, stórir bókstavir
 🔡 => 🔡, abcd, smáir bókstavir
 🔢 => 🔢, 1234, tøl
+🔣 => 🔣, 〒♪&%, symbol
 🔤 => 🔤, abc, alfabet, bókstavarað, bókstavir, stavrað
 🅰 => 🅰, a, A knappur (blóðflokkur), blóðflokkur, blóðtypa, knappur, knøttur
 🆎 => 🆎, ab, AB knappur (blóðflokkur), blóðflokkur, blóðtypa, knappur, knøttur
@@ -1208,7 +1214,7 @@
 🆗 => 🆗, knappur, knøttur, ok, OK knappur
 🅿 => 🅿, knappur, knøttur, ok, P knappur, parkering, parkeringarbásur, parkeringarpláss, parkeringarskiva
 🆘 => 🆘, hjálp, knappur, knøttur, neyðarkall, neyðarróp, sos, SOS knappur
-🆙 => 🆙, knappur, knøttur, up!, UP! knappur, upp
+🆙 => 🆙, knappur, knøttur, up!, UP knappur, upp
 🆚 => 🆚, ímóti, knappur, knøttur, vs, VS knappur
 🈁 => 🈁, "her", japanskur, japanskur "her" knappur, katakana, ココ
 🈂 => 🈂, "avgreiðslugjald", "borðreiðingargjald", japanskur, japanskur "avgreiðslugjald" knappur, katakana, サ
@@ -2402,7 +2408,6 @@
 👩‍👧‍👦 => 👩‍👧‍👦, barn, drongur, familja, foreldur, genta, kona
 👩‍👧‍👧 => 👩‍👧‍👧, barn, familja, foreldur, genta, kona
 #⃣ => #⃣, Knappahetta: #
-*⃣ => *⃣, Knappahetta: *
 🔟 => 🔟, Knappahetta
 🇦🇨 => 🇦🇨, Flagg: Ascension
 🇦🇩 => 🇦🇩, Flagg: Andorra
@@ -2624,7 +2629,7 @@
 🇸🇾 => 🇸🇾, Flagg: Sýria
 🇸🇿 => 🇸🇿, Flagg: Svasiland
 🇹🇦 => 🇹🇦, Flagg: Tristan da Cunha
-🇹🇨 => 🇹🇨, Flagg: Turks- og Caicosoyggjar
+🇹🇨 => 🇹🇨, Flagg: Turks og Caicosoyggjar
 🇹🇩 => 🇹🇩, Flagg: Kjad
 🇹🇫 => 🇹🇫, Flagg: Fronsku sunnaru landaøki
 🇹🇬 => 🇹🇬, Flagg: Togo
@@ -2654,7 +2659,7 @@
 🇻🇮 => 🇻🇮, Flagg: Sambandsríki Amerikas Jomfrúoyggjar
 🇻🇳 => 🇻🇳, Flagg: Vjetnam
 🇻🇺 => 🇻🇺, Flagg: Vanuatu
-🇼🇫 => 🇼🇫, Flagg: Wallis- og Futunaoyggjar
+🇼🇫 => 🇼🇫, Flagg: Wallis og Futunaoyggjar
 🇼🇸 => 🇼🇸, Flagg: Samoa
 🇽🇰 => 🇽🇰, Flagg: Kosovo
 🇾🇪 => 🇾🇪, Flagg: Jemen

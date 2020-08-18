@@ -51,7 +51,6 @@
 🏳‍🌈 => 🏳‍🌈, arco del celo, bandiera iride, bandiera iris, iride, iris
 🏴‍☠ => 🏴‍☠, bandiera de pirata, cranio, ossos, piliage, pirata, tresor
 #⃣ => #⃣, clave: #
-*⃣ => *⃣, clave: *
 🔟 => 🔟, clave
 🇦🇩 => 🇦🇩, bandiera: Andorra
 🇦🇪 => 🇦🇪, bandiera: Emiratos Arabe Unite

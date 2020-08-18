@@ -1613,7 +1613,6 @@
 👩‍👧‍👦 => 👩‍👧‍👦, familia, hija, hijo, madre, mujer, niña, niño, padre
 👩‍👧‍👧 => 👩‍👧‍👧, familia, hija, hijo, madre, mujer, niña, padre
 #⃣ => #⃣, tecla: #
-*⃣ => *⃣, tecla: *
 🔟 => 🔟, tecla
 🇦🇨 => 🇦🇨, bandera: Isla de la Ascensión
 🇧🇦 => 🇧🇦, bandera: Bosnia y Herzegovina

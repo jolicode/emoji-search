@@ -906,11 +906,12 @@
 ✅ => ✅, marca, verificación
 ☑ => ☑, casilla, casilla seleccionada, verificación
 ✔ => ✔, marca, marca de verificación grande, verificación
-❎ => ❎, ×, casilla, cruz, cruz con recuadro, marca, x
+❎ => ❎, casilla, cruz, cruz con recuadro, marca, x
 ➕ => ➕, más, signo, suma
 ➖ => ➖, menos, resta, signo
 ➗ => ➗, división, signo
 ➿ => ➿, bucle, giro
+〽 => 〽, alternancia, marca
 ✳ => ✳, asterisco, ocho, puntas, símbolo
 ❇ => ❇, signo
 ‼ => ‼, doble, exclamación, signo
@@ -919,6 +920,10 @@
 ❔ => ❔, contorno, interrogación, pregunta, signo, signo de interrogación gris
 ❕ => ❕, contorno, exclamación, signo, signo de exclamación gris
 ❗ => ❗, exclamación, signo, signo de exclamación
+〰 => 〰, guión, línea ondulada, ondulado, puntuación
+© => ©, autor, copyright, derechos, signo de derechos autor
+® => ®, marca, registrada, signo de marca registrada
+™ => ™, marca, registrada, símbolo, símbolo de marca registrada
 🔠 => 🔠, letras, mayúsculas
 🔡 => 🔡, letras, minúsculas
 🔢 => 🔢, 1234
@@ -2320,7 +2325,6 @@
 👩‍👧‍👦 => 👩‍👧‍👦, hija, hijo, madre, mamá, mujer, niña, niño, padre, papá, personas
 👩‍👧‍👧 => 👩‍👧‍👧, hija, hijo, madre, mamá, mujer, niña, padre, papá, personas
 #⃣ => #⃣, tecla mayus: #
-*⃣ => *⃣, tecla mayus: *
 🔟 => 🔟, tecla mayus
 🇦🇨 => 🇦🇨, bandera: Isla Ascensión
 🇦🇩 => 🇦🇩, bandera: Andorra

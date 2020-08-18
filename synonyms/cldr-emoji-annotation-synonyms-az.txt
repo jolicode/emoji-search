@@ -1189,7 +1189,7 @@
 🔄 => 🔄, ox, saat istiqaməti əksinə, saat istiqamətinin əksinə yönəlmiş oxlar düyməsi
 🔙 => 🔙, arxa, geriyə yönəlmiş ox, ox
 🔚 => 🔚, ox, son, sona yönəlmiş ox
-🔛 => 🔛, aktivdir! oxu, işarə, ox, üstündə
+🔛 => 🔛, aktivdir oxu, işarə, ox, üstündə
 🔜 => 🔜, ox, tezliklə, tezliklə oxu
 🔝 => 🔝, ox, üst, yuxarı, yuxarı yönəlmiş ox
 🛐 => 🛐, din, tapınaq, tapınmaq
@@ -1260,6 +1260,7 @@
 ➗ => ➗, bölmə, qalın bölmə işarəsi, riyaziyyat
 ➰ => ➰, ilmə, spiral
 ➿ => ➿, ikiqat, ilmə, spiral
+〽 => 〽, hissə, hissələri bir-birindən ayırmaq işarəsi, işarə
 ✳ => ✳, səkkiz tərəfli ulduz, ulduz
 ✴ => ✴, səkkiz guşəli ulduz, ulduz
 ❇ => ❇, qığılcım
@@ -1269,6 +1270,10 @@
 ❔ => ❔, ağ sual işarəsi, durğu işarəsi, işarə, qeyd edilmiş, sual
 ❕ => ❕, ağ nida işarəsi, durğu işarəsi, işarə, nida, qeyd edilmiş
 ❗ => ❗, durğu işarəsi, işarə, nida, nida işarəsi
+〰 => 〰, dalğalı tire, dalğavari, durğu işarəsi, tire
+© => ©, müəllif hüququ
+® => ®, qeydiyyata alınmış, qeydiyyatlı
+™ => ™, işarə, ticarət nişanı, tn
 🔠 => 🔠, böyük hərf, böyük hərflərlə latın daxiletməsi, daxiletmə, hərflər, latın
 🔡 => 🔡, abcd, daxiletmə, hərflər, kiçik hərf, kiçik hərflərlə latın daxiletməsi, latın
 🔢 => 🔢, 1234, daxiletmə, daxiletmə rəqəmləri, rəqəmlər
@@ -1289,7 +1294,7 @@
 🆗 => 🆗, kvadrat ok, ok
 🅿 => 🅿, p düyməsi, parkinq
 🆘 => 🆘, kömək, kvadrat sos, sos
-🆙 => 🆙, işarə, up! button, yuxarı
+🆙 => 🆙, işarə, up button, yuxarı
 🆚 => 🆚, kvadrat vs, qarşı, vs
 🈁 => 🈁, kvadrat katakana koko, yapon
 🈂 => 🈂, kvadrat katakana sa, yapon
@@ -2739,7 +2744,6 @@
 👩‍👧‍👦 => 👩‍👧‍👦, ailə, ana, ata, oğlan, qadın, qız uşağı, uşaq
 👩‍👧‍👧 => 👩‍👧‍👧, ailə, ana, ata, qadın, qız uşağı, uşaq
 #⃣ => #⃣, klaviatura qapağı: #
-*⃣ => *⃣, klaviatura qapağı: *
 🔟 => 🔟, klaviatura qapağı
 🇦🇨 => 🇦🇨, bayraq: Askenson adası
 🇦🇩 => 🇦🇩, bayraq: Andorra
@@ -2781,9 +2785,9 @@
 🇧🇿 => 🇧🇿, bayraq: Beliz
 🇨🇦 => 🇨🇦, bayraq: Kanada
 🇨🇨 => 🇨🇨, bayraq: Kokos (Kilinq) adaları
-🇨🇩 => 🇨🇩, bayraq: Konqo - Kinşasa
+🇨🇩 => 🇨🇩, bayraq: Konqo  Kinşasa
 🇨🇫 => 🇨🇫, bayraq: Mərkəzi Afrika Respublikası
-🇨🇬 => 🇨🇬, bayraq: Konqo - Brazzavil
+🇨🇬 => 🇨🇬, bayraq: Konqo  Brazzavil
 🇨🇭 => 🇨🇭, bayraq: İsveçrə
 🇨🇮 => 🇨🇮, bayraq: Kotd’ivuar
 🇨🇰 => 🇨🇰, bayraq: Kuk adaları

@@ -890,7 +890,7 @@
 🎳 => 🎳, bal, kegel, kegelbal, speel
 🏏 => 🏏, bal, kolf, krieket, speel
 🏑 => 🏑, bal, hokkie, speel, stok, veld
-🏒 => 🏒, hokkie, skyf, speel, stok, ys, yshokkiestok en -skyf
+🏒 => 🏒, hokkie, skyf, speel, stok, ys, yshokkiestok en skyf
 🥍 => 🥍, bal, doel, lacrosse, stok
 🏓 => 🏓, bal, raket, speel, tafeltennis
 🏸 => 🏸, pluimbal, pluimpie, raket, speel, veer
@@ -1249,8 +1249,8 @@
 📛 => 📛, etiket, naam, naametiket
 🔰 => 🔰, beginner, blaar, chevron, geel, groen, japannees, japanse beginnersimbool
 ⭕ => ⭕, groot, hol rooi sirkel, o, rooi, sirkel
-✅ => ✅, ✓, knoppie, merk, regmerk, regmerkknoppie
-☑ => ☑, ✓, blokkie, merkblokkie met regmerk, regmerk
+✅ => ✅, knoppie, merk, regmerk, regmerkknoppie
+☑ => ☑, blokkie, merkblokkie met regmerk, regmerk
 ✔ => ✔, dik regmerk, merk, reg, regmerk
 ✖ => ✖, dik maalteken, kanselleer, maal, verkeerd, vermenigvuldig, x
 ❌ => ❌, kanselleer, kuismerk, maal, verkeerd, vermenigvuldig, x
@@ -1260,6 +1260,7 @@
 ➗ => ➗, deel, dik deelteken, wiskunde
 ➰ => ➰, krul, krullus, lus
 ➿ => ➿, dubbel, dubbelkrullus, krul, lus
+〽 => 〽, begin, merk, stem, stembeginteken
 ✳ => ✳, agtspeekasterisk, asterisk, ster
 ✴ => ✴, agtpuntster, ster
 ❇ => ❇, ster, vonk, vonkster
@@ -1269,6 +1270,10 @@
 ❔ => ❔, buitelyn, leesteken, teken, vraag, wit vraagteken
 ❕ => ❕, buitelyn, leesteken, teken, uitroep, wit uitroepteken
 ❗ => ❗, leesteken, teken, uitroep, uitroepteken
+〰 => 〰, golf, golfstreep, leesteken, streep
+© => ©, kopiereg, kopieregmerk
+® => ®, geregistreer, registrasie, registrasiemerk
+™ => ™, handelmerk, handelsmerk, merk, tm
 🔠 => 🔠, abcd, bokas, hoof, invoer, invoer latyns bokas, latyn, letters
 🔡 => 🔡, abcd, invoer, invoer latyns onderkas, klein, latters, latyn, onderkas
 🔢 => 🔢, 1234, invoer, syfers
@@ -2739,7 +2744,6 @@
 👩‍👧‍👦 => 👩‍👧‍👦, gesin, kind, meisie, moeder, seun, vader, vrou
 👩‍👧‍👧 => 👩‍👧‍👧, gesin, kind, meisie, moeder, vader, vrou
 #⃣ => #⃣, sleutelbordtoets: #
-*⃣ => *⃣, sleutelbordtoets: *
 🔟 => 🔟, sleutelbordtoets
 🇦🇨 => 🇦🇨, vlag: Ascensioneiland
 🇦🇩 => 🇦🇩, vlag: Andorra
@@ -2783,7 +2787,7 @@
 🇨🇨 => 🇨🇨, vlag: Kokoseilande
 🇨🇩 => 🇨🇩, vlag: Demokratiese Republiek van die Kongo
 🇨🇫 => 🇨🇫, vlag: Sentraal-Afrikaanse Republiek
-🇨🇬 => 🇨🇬, vlag: Kongo - Brazzaville
+🇨🇬 => 🇨🇬, vlag: Kongo  Brazzaville
 🇨🇭 => 🇨🇭, vlag: Switserland
 🇨🇮 => 🇨🇮, vlag: Ivoorkus
 🇨🇰 => 🇨🇰, vlag: Cookeilande
@@ -2961,7 +2965,7 @@
 🇸🇾 => 🇸🇾, vlag: Sirië
 🇸🇿 => 🇸🇿, vlag: Swaziland
 🇹🇦 => 🇹🇦, vlag: Tristan da Cunha
-🇹🇨 => 🇹🇨, vlag: Turks- en Caicoseilande
+🇹🇨 => 🇹🇨, vlag: Turks en Caicoseilande
 🇹🇩 => 🇹🇩, vlag: Tsjad
 🇹🇫 => 🇹🇫, vlag: Franse Suidelike Gebiede
 🇹🇬 => 🇹🇬, vlag: Togo

@@ -1260,6 +1260,7 @@
 ➗ => ➗, divisione, diviso, simbolo della divisione
 ➰ => ➰, cerchio, occhiello
 ➿ => ➿, doppio, occhiello
+〽 => 〽, canzone, divisione spartito, parti musicali, segno, simbolo di alternanza delle parti, suddivisione parti
 ✳ => ✳, asterisco, otto punte, sfondo verde
 ✴ => ✴, asterisco, stella stilizzata
 ❇ => ❇, scintilla, scintilla stilizzata, sfondo verde
@@ -1269,6 +1270,10 @@
 ❔ => ❔, domanda, punto di domanda vuoto, punto interrogativo bianco
 ❕ => ❕, esclamazione, punto esclamativo bianco, punto esclamativo vuoto
 ❗ => ❗, esclamazione, punteggiatura, punto esclamativo, punto esclamativo pieno, punto esclamativo rosso
+〰 => 〰, ondulato, trattino
+© => ©, copyright
+® => ®, marchio registrato, marchio registrato cerchiato
+™ => ™, marchio, marchio commerciale, marchio di fabbrica, marchio registrato, TM, trademark
 🔠 => 🔠, caratteri latini, inserire, lettere, maiuscole, pulsante con lettere latine maiuscole
 🔡 => 🔡, caratteri latini, inserire, lettere, minuscole, pulsante con lettere latine minuscole
 🔢 => 🔢, inserire, numeri, pulsante con numeri, tastierino numerico
@@ -2739,7 +2744,6 @@
 👩‍👧‍👦 => 👩‍👧‍👦, bambina, bambino, donna, famiglia, mamma, papà, persone
 👩‍👧‍👧 => 👩‍👧‍👧, bambina, bambino, donna, famiglia, mamma, papà, persone
 #⃣ => #⃣, tasto: #
-*⃣ => *⃣, tasto: *
 🔟 => 🔟, tasto
 🇦🇨 => 🇦🇨, bandiera: Isola Ascensione
 🇦🇩 => 🇦🇩, bandiera: Andorra
@@ -2781,7 +2785,7 @@
 🇧🇿 => 🇧🇿, bandiera: Belize
 🇨🇦 => 🇨🇦, bandiera: Canada
 🇨🇨 => 🇨🇨, bandiera: Isole Cocos (Keeling)
-🇨🇩 => 🇨🇩, bandiera: Congo - Kinshasa
+🇨🇩 => 🇨🇩, bandiera: Congo  Kinshasa
 🇨🇫 => 🇨🇫, bandiera: Repubblica Centrafricana
 🇨🇬 => 🇨🇬, bandiera: Congo-Brazzaville
 🇨🇭 => 🇨🇭, bandiera: Svizzera

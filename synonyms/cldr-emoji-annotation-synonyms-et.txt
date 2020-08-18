@@ -827,7 +827,7 @@
 🌠 => 🌠, komeet, kosmos, langev, täht
 ☁ => ☁, ilm, pilv
 ⛅ => ⛅, ilm, päike, päike pilve taga, pilv
-⛈ => ⛈, äike, äikese- ja vihmapilv, ilm, pilv, vihm
+⛈ => ⛈, äike, äikese ja vihmapilv, ilm, pilv, vihm
 🌤 => 🌤, ilm, päike, päike väikese pilve taga, pilv
 🌥 => 🌥, ilm, päike, päike suure pilve taga, pilv
 🌦 => 🌦, ilm, päike, päike vihmapilve taga, pilv, vihm
@@ -1223,7 +1223,7 @@
 ▶ => ▶, esitamine, esitusnupp, kolmnurk, nool
 ⏩ => ⏩, edasi, edasikerimisnupp, kerimine, nool, topelt
 ⏭ => ⏭, järgmine, järgmise loo nupp, kolmnurk, lugu, nool
-⏯ => ⏯, esitamine, esitus- ja pausinupp, kolmnurk, nool, paus
+⏯ => ⏯, esitamine, esitus ja pausinupp, kolmnurk, nool, paus
 ◀ => ◀, kolmnurk, nool, tagasi, tagurpidi esitamise nupp
 ⏪ => ⏪, kerimine, kolmnurk, tagasi, tagasikerimise nupp, topelt
 ⏮ => ⏮, eelmine, eelmise loo nupp, kolmnurk, lugu, nool, stseen
@@ -1260,6 +1260,7 @@
 ➗ => ➗, jagamine, matemaatika, suur jagamismärk
 ➰ => ➰, lokk, silmus
 ➿ => ➿, silmus, topelt, topeltsilmus
+〽 => 〽, märk, osa, osa vaheldumise märk
 ✳ => ✳, kaheksa tipuga tärn, tärn
 ✴ => ✴, kaheksa tipuga täht, täht
 ❇ => ❇, sädelus
@@ -1269,6 +1270,10 @@
 ❔ => ❔, kirjavahemärk, küsimärk, küsimus, valge küsimärk
 ❕ => ❕, hüüumärk, valge hüüumärk
 ❗ => ❗, hüüumärk, kirjavahemärk
+〰 => 〰, kirjavahemärk, kriips, laineline
+© => ©, autoriõigus
+® => ®, registreeritud
+™ => ™, kaubamärk, märk
 🔠 => 🔠, abcd, ladina, suurtähed, tähed
 🔡 => 🔡, abcd, ladina, tähed, väiketähed
 🔢 => 🔢, 1234, numbrid
@@ -2739,7 +2744,6 @@
 👩‍👧‍👦 => 👩‍👧‍👦, ema, isa, laps, naine, perekond, poiss, tüdruk
 👩‍👧‍👧 => 👩‍👧‍👧, ema, isa, laps, naine, perekond, tüdruk
 #⃣ => #⃣, klahv: #
-*⃣ => *⃣, klahv: *
 🔟 => 🔟, klahv
 🇦🇨 => 🇦🇨, lipp: Ascensioni saar
 🇦🇩 => 🇦🇩, lipp: Andorra
