@@ -3,10 +3,10 @@ TARGET?=7.8.1
 # Handle new URL's:
 # https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-oss-6.8.11.tar.gz
 # https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-oss-7.8.1-linux-x86_64.tar.gz
-ifeq (7.8.1, ${TARGET})
-  TARGET_DOWNLOAD=${TARGET}-linux-x86_64
-else
+ifeq (6.8.11, ${TARGET})
   TARGET_DOWNLOAD=${TARGET}
+else
+  TARGET_DOWNLOAD=${TARGET}-linux-x86_64
 endif
 
 install: ## Download all the deps
