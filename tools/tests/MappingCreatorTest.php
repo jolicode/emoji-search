@@ -41,7 +41,7 @@ class MappingCreatorTest extends TestCase
             $mapping = '"properties": { "content": { "type": "text", "analyzer": "with_emoji" } }';
         }
 
-        $dictionary = file($file);
+        $dictionary = file(__DIR__ . '/../../synonyms/' . $file);
         $synonyms = implode("\n", array_map('trim', $dictionary));
         $response = $client->request('PUT', '/test_put_mapping', [
             'headers' => [
