@@ -41,6 +41,8 @@ class MappingCreatorTest extends TestCase
             $mapping = '"properties": { "content": { "type": "text", "analyzer": "with_emoji" } }';
         }
 
+        $dictionary = file($file);
+        $synonyms = implode("\n", array_map('trim', $dictionary));
         $response = $client->request('PUT', '/test_put_mapping', [
             'headers' => [
                 'Content-Type: application/json'
@@ -52,7 +54,7 @@ class MappingCreatorTest extends TestCase
             "filter": {
                 "custom_emoji": {
                     "type": "synonym",
-                    "synonyms_path": "$file"
+                    "synonyms": "$synonyms"
                 },
                 "emoji_variation_selector_filter": {
                     "type": "pattern_replace",
