@@ -42,7 +42,7 @@ class MappingCreatorTest extends TestCase
         }
 
         $dictionary = file(__DIR__ . '/../../synonyms/' . $file);
-        $synonyms = implode("\n", array_map('trim', $dictionary));
+        $synonyms = json_encode(array_map('trim', $dictionary));
         $response = $client->request('PUT', '/test_put_mapping', [
             'headers' => [
                 'Content-Type: application/json'
@@ -54,7 +54,7 @@ class MappingCreatorTest extends TestCase
             "filter": {
                 "custom_emoji": {
                     "type": "synonym",
-                    "synonyms": "$synonyms"
+                    "synonyms": $synonyms
                 },
                 "emoji_variation_selector_filter": {
                     "type": "pattern_replace",
