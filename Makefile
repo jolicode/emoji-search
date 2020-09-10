@@ -2,6 +2,7 @@ TARGET?=7.8.1
 
 # Handle new URL's:
 # https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-oss-6.8.11.tar.gz
+# https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-oss-7.8.0-linux-x86_64.tar.gz
 # https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-oss-7.8.1-linux-x86_64.tar.gz
 ifeq (6.8.11, ${TARGET})
   TARGET_DOWNLOAD=${TARGET}
