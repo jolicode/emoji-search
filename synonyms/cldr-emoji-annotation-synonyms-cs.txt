@@ -1260,7 +1260,6 @@
 ➗ => ➗, dělení, děleno, matematika, podíl, znak dělení
 ➰ => ➰, smyčka, spirálka
 ➿ => ➿, dvojitá smyčka, dvojitý, smyčka, spirálka
-〽 => 〽, part, symbol, začátek, značka, značka přechodu mezi částmi skladby, znak, zpěv, zpěvák
 ✳ => ✳, hvězdička, osmicípá hvězdička
 ✴ => ✴, hvězda, osmicípá hvězda
 ❇ => ❇, jiskérka, jiskra, jiskřička
@@ -1270,10 +1269,6 @@
 ❔ => ❔, bílý otazník, interpunkční znaménka, obrys, otazník
 ❕ => ❕, bílý vykřičník, interpunkční znaménka, obrys, vykřičník
 ❗ => ❗, interpunkční znaménka, vykřičník
-〰 => 〰, čára, dlouhá vlnovka, interpunkce, interpunkční, pomlčka, vlnitá, vlny, znaménka
-© => ©, autorská práva, c, copyright, znak ochrany autorského práva
-® => ®, ochranná známka, r, registrováno, znak registrované ochranné známky
-™ => ™, tm, trademark, značka, znak ochranné známky
 🔠 => 🔠, ABCD, abeceda, klávesnice, latinka, písmena, psaní, velká písmena, vstup, zadávání, zadávání v latince, velká písmena
 🔡 => 🔡, abcd, abeceda, klávesnice, latinka, malá písmena, písmena, psaní, vstup, zadávání, zadávání v latince, malá písmena
 🔢 => 🔢, 1234, čísla, zadávání, zadávání čísel

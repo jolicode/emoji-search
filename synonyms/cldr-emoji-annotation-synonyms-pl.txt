@@ -1260,7 +1260,6 @@
 ➗ => ➗, dzielenie, matematyka, znak, znak dzielenia
 ➰ => ➰, pętla, zawijas
 ➿ => ➿, pętla, podwójna, zawijas
-〽 => 〽, początek partii wokalnej, znak, zygzak
 ✳ => ✳, gwiazdka, gwiazdka ośmioramienna
 ✴ => ✴, gwiazda, gwiazda ośmioramienna
 ❇ => ❇, iskra
@@ -1270,10 +1269,6 @@
 ❔ => ❔, biały znak zapytania, o co chodzi?, pytajnik, pytanie, znak zapytania
 ❕ => ❕, biały wykrzyknik, krzyk, okrzyk, wykrzyknik
 ❗ => ❗, krzyk, okrzyk, wykrzyknik
-〰 => 〰, fala, falista kreska, linia, pofalowana
-© => ©, copyright, prawa autorskie, znak praw autorskich
-® => ®, R, towarowy, zarejestrowany, zarejestrowany znak towarowy
-™ => ™, TM, znak towarowy
 🔠 => 🔠, abcd, duże litery, kapitaliki, łacińskie, pisać, wielkie litery (alfabet łaciński), wielkimi literami, wprowadzać
 🔡 => 🔡, abcd, łacińskie, małe litery (alfabet łaciński), małymi literami, pisać, wprowadzać
 🔢 => 🔢, 1234, cyfry, liczby, pisać

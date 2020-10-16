@@ -1180,7 +1180,6 @@
 ➗ => ➗, býti, deila, matematikk, rokning, støddfrøði, tjúkt býting merki
 ➰ => ➰, bukt, lykkja, sloyfa, snar
 ➿ => ➿, bukt, dupult, lykkja, sloyfa, snar
-〽 => 〽, broytin, frábregði, umskifti, umskiftistekn
 ✳ => ✳, áttatinda stjørna, stjørna
 ✴ => ✴, áttaspíska stjørna, stjørna
 ❇ => ❇, glampa, glampi, glitra, glógva, ljóma, skyggja, stjørna
@@ -1190,10 +1189,6 @@
 ❔ => ❔, greinarmerki, hvítt spurnartekn, spurnartekn, teknseting
 ❕ => ❕, greinarmerki, hvítt rópitekn, rópitekn, teknseting
 ❗ => ❗, greinarmerki, rópitekn, teknseting
-〰 => 〰, aldandi, greinarmerki, tankastrika, teknseting
-© => ©, upphavsrætt, upphavsrættur
-® => ®, skrásett
-™ => ™, fyritøkumerki, fyritøkurættindi, virkismerki, virkisrættindi, vøruheiti, vørumerki
 🔠 => 🔠, ABCD, stórir bókstavir
 🔡 => 🔡, abcd, smáir bókstavir
 🔢 => 🔢, 1234, tøl

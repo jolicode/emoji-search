@@ -1260,7 +1260,6 @@
 ➗ => ➗, divisió, gran, signe, signe de dividir gran
 ➰ => ➰, bucle, llaç, llaç arrissat
 ➿ => ➿, bucle, doble
-〽 => 〽, alternança, signe, signe d’alternança
 ✳ => ✳, asterisc, asterisc de vuit radis, vuit radis
 ✴ => ✴, estrella, estrella de vuit puntes, vuit puntes
 ❇ => ❇, espurna
@@ -1270,10 +1269,6 @@
 ❔ => ❔, blanc, interrogació, puntuació, signe, signe d’interrogació blanc
 ❕ => ❕, blanc, exclamació, puntuació, signe, signe d’exclamació blanc
 ❗ => ❗, exclamació, puntuació, signe, signe d’exclamació, signe d’exclamació vermell
-〰 => 〰, guió, ondulat, puntuació
-© => ©, copyright, drets d’autor
-® => ®, marca, registrada
-™ => ™, comercial, marca comercial, símbol de marca comercial
 🔠 => 🔠, botó de lletres llatines en majúscules, llatines, lletres, majúscules
 🔡 => 🔡, botó de lletres llatines en minúscules, llatines, lletres, minúscules
 🔢 => 🔢, 1234, botó de números, dígits, números, xifres

@@ -1259,7 +1259,6 @@
 ➗ => ➗, matamataig, roinn le, roinneadh, samhla, samhla roinnidh
 ➰ => ➰, dualach, lùb, lùb dhualach
 ➿ => ➿, dualach, dùbailte, lùb, lùb dhualach dhùbailte
-〽 => 〽, atharrachadh, comharra, comharra airson atharrachadh phàirtean, pàirt
 ✳ => ✳, reultag, reultag le ochd rinnean
 ✴ => ✴, rionnag, rionnag le ochd rinnean
 ❇ => ❇, lainnir
@@ -1269,10 +1268,6 @@
 ❔ => ❔, comharra, comharra-ceiste, comharra-ceiste geal, oir-loidhne, puingeachadh
 ❕ => ❕, clisg-phuing, clisg-phuing gheal, comharra, oir-loidhne, puingeachadh
 ❗ => ❗, clisg-phuing, comharra, puingeachadh
-〰 => 〰, comharra, dais, loidhne, lùbach, puingeachadh
-© => ©, (c), ©, c, còir-lethbhreac
-® => ®, (r), ®, clàraichte, r
-™ => ™, comharra, comharra-malairt, tm
 🔠 => 🔠, ABCD, ion-chur, ion-chur litrichean mòra Laideann, laideann, litir, litrichean, litrichean mòra, mòr
 🔡 => 🔡, ABCD, beag, ion-chur, ion-chur litrichean beaga Laideann, laideann, litir, litrichean, litrichean beaga
 🔢 => 🔢, 1234, àireamhan, ion-chur

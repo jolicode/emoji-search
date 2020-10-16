@@ -1260,7 +1260,6 @@
 ➗ => ➗, calaamad, calaamadda isu qaybinta, isu qaybin, xisaab
 ➰ => ➰, laab, laaban, laaban oo sargo’an
 ➿ => ➿, laab, laban-laab, maroogsin sargo’an oo laban-laab, maroogsin sargo’an oo laban-laab ah, sargo’an
-〽 => 〽, calaamad, qayb, qaybta calaamadda talantaalliga ah
 ✳ => ✳, calaamad, siddeed geesood oo isku nooc u taaggan
 ✴ => ✴,  xiddig siddeed geeslood oo tilmaama, xiddig, xiddig siddeed geeslood oo tilmaama
 ❇ => ❇, dhalaal
@@ -1270,10 +1269,6 @@
 ❔ => ❔, calaamad, ccalaamad su’aal cad, kormaris, su’aal, xarakayn
 ❕ => ❕, cajiib, calaamad, calaamad cajiib cad, kormaris, xarakayn
 ❗ => ❗, cajiib, calaamad, xarakayn
-〰 => 〰, calaamadda qulqulka hirka oo kale, qaab hir oo kale, qulqulka hirka, xarakayn
-© => ©, c, xuquuqda daabacaadda
-® => ®, diiwaan gashan, r
-™ => ™, sumadda, sumadda ganacsiga, sumaddaganacsiga, tm
 🔠 => 🔠, ABCD, geli, geli xarfa weyn oo latin ah, latin, weyn, xuruuf
 🔡 => 🔡, abcd, geli, geli xarfo latin oo yar yar, latin, xuruuf, yar yar
 🔢 => 🔢, 1234, geli, tirooyin

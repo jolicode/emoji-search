@@ -1260,7 +1260,6 @@
 ➗ => ➗, division, makapal, malaking division sign, matematika, math, senyas
 ➰ => ➰, curly loop, kulot, silo
 ➿ => ➿, doble, dobleng curly loop, kulot, silo
-〽 => 〽, bahagi, marka, pag-alternate, part alternation mark
 ✳ => ✳, asterisk, asterisk na may walong sulok, sulok, walo
 ✴ => ✴, bituin, bituin na may walong sulok, matulis, sulok, walo
 ❇ => ❇, kinang, kislap
@@ -1270,10 +1269,6 @@
 ❔ => ❔, bantas, marka, naka-outline, puting tandang pananong, tanong
 ❕ => ❕, bantas, padamdam, pananda, puti, puting tandang padamdam
 ❗ => ❗, bantas, padamdam, pananda, tanda, tandang padamdam
-〰 => 〰, bantas, gitling, maalon, maalon na gitling
-© => ©, karapatan, karapatang magpalathala, magpalathala, pag-aari
-® => ®, legal, rehistrado
-™ => ™, mark, marka, tm, trade, trademark
 🔠 => 🔠, ilagay, input na latin na uppercase, latin, malalaki, titik, uppercase
 🔡 => 🔡, ilagay, input na latin na lowercase, latin, lowercase, maliliit, titik
 🔢 => 🔢, 1234, ilagay, input na mga numero, numero

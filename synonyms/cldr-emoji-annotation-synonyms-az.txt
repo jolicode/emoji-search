@@ -1260,7 +1260,6 @@
 ➗ => ➗, bölmə, qalın bölmə işarəsi, riyaziyyat
 ➰ => ➰, ilmə, spiral
 ➿ => ➿, ikiqat, ilmə, spiral
-〽 => 〽, hissə, hissələri bir-birindən ayırmaq işarəsi, işarə
 ✳ => ✳, səkkiz tərəfli ulduz, ulduz
 ✴ => ✴, səkkiz guşəli ulduz, ulduz
 ❇ => ❇, qığılcım
@@ -1270,10 +1269,6 @@
 ❔ => ❔, ağ sual işarəsi, durğu işarəsi, işarə, qeyd edilmiş, sual
 ❕ => ❕, ağ nida işarəsi, durğu işarəsi, işarə, nida, qeyd edilmiş
 ❗ => ❗, durğu işarəsi, işarə, nida, nida işarəsi
-〰 => 〰, dalğalı tire, dalğavari, durğu işarəsi, tire
-© => ©, müəllif hüququ
-® => ®, qeydiyyata alınmış, qeydiyyatlı
-™ => ™, işarə, ticarət nişanı, tn
 🔠 => 🔠, böyük hərf, böyük hərflərlə latın daxiletməsi, daxiletmə, hərflər, latın
 🔡 => 🔡, abcd, daxiletmə, hərflər, kiçik hərf, kiçik hərflərlə latın daxiletməsi, latın
 🔢 => 🔢, 1234, daxiletmə, daxiletmə rəqəmləri, rəqəmlər

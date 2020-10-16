@@ -1260,7 +1260,6 @@
 ➗ => ➗, matematikë, ndarje, shenja e pjesëtimit e trashë
 ➰ => ➰, lak, lak i përdredhur, përdredhje
 ➿ => ➿, dy herë, i dyfishtë, lak, lak i përdredhur dy herë, përdredhje
-〽 => 〽, pjesë, shenja e ndryshimit të pjesës, shenjë
 ✳ => ✳, yllth, yllth me tetë cepa me majë
 ✴ => ✴, yll, yll me tetë cepa
 ❇ => ❇, xixëllim
@@ -1270,10 +1269,6 @@
 ❔ => ❔, e konturuar, pikëpyetje e bardhë, pikësim, pyetje, shenjë
 ❕ => ❕, e konturuar, pikëçuditje, pikësim, shenjë, shenjë pikëçuditje e bardhë
 ❗ => ❗, pikëçuditje, pikësim, shenja e pikëçuditjes, shenjë
-〰 => 〰, e valëzuar, pikësim, vijë, vijë e valëzuar
-© => ©, të drejtat e autorit
-® => ®, i regjistruar
-™ => ™, markë tregtare, shenjë
 🔠 => 🔠, ABCD, fut, fut shkronja latine kapitale, kapitale, latin
 🔡 => 🔡, abcd, fut, fut shkronja latine jokapitale, jokapitale, latin
 🔢 => 🔢, 1234, fut, numra

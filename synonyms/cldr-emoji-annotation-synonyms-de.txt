@@ -1260,7 +1260,6 @@
 ➗ => ➗, Divisionszeichen, geteilt
 ➰ => ➰, Schleife
 ➿ => ➿, Doppelschleife, Rechteck, Schleife
-〽 => 〽, japanisch, Teilalternationszeichen, Zeichensetzung
 ✳ => ✳, achtzackig, achtzackiger Stern, Achtzackiger Stern, grün, Quadrat, Stern
 ✴ => ✴, Stern, Stern mit acht Zacken
 ❇ => ❇, Funkeln
@@ -1270,10 +1269,6 @@
 ❔ => ❔, Satzzeichen, weiß, weißes Fragezeichen
 ❕ => ❕, Satzzeichen, weiß, weißes Ausrufezeichen
 ❗ => ❗, Ausrufezeichen, rot, rotes Ausrufezeichen, Rotes Ausrufezeichen, Satzzeichen
-〰 => 〰, gewellt, Linie, Wellenlinie
-© => ©, C, Copyright
-® => ®, Markenzeichen, R, Registered-Trademark
-™ => ™, Markenzeichen, TM, Trademark
 🔠 => 🔠, Eingabesymbol lateinische Großbuchstaben, Großbuchstaben, lateinische Großbuchstaben
 🔡 => 🔡, Eingabesymbol lateinische Kleinbuchstaben, Kleinbuchstaben, lateinische Kleinbuchstaben
 🔢 => 🔢, Eingabesymbol Zahlen, Zahlen

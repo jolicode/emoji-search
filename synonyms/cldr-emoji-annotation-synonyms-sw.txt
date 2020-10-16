@@ -1260,7 +1260,6 @@
 ➗ => ➗, alama, alama ya kugawanya, hisabati, kugawanya
 ➰ => ➰, kitanzi, kitanzi kilichopinda, pinda
 ➿ => ➿, kitanzi, kitanzi kilichopinda mara mbili, mara mbili, pinda
-〽 => 〽, alama, alama ya mbadala ya sehemu, sehemu
 ✳ => ✳, kinyota, kinyota chenye ncha nane
 ✴ => ✴, nyota, nyota yenye ncha nane
 ❇ => ❇, metameta
@@ -1270,10 +1269,6 @@
 ❔ => ❔, alama, alama nyeupe ya kuuliza, iliyobainishwa, swali, uakifishaji
 ❕ => ❕, alama, alama nyeupe ya mshangao, iliyobainishwa, mshangao, uakifishaji
 ❗ => ❗, alama, alama ya mshangao, mshangao, uakifishaji
-〰 => 〰, dashi, dashi iliyopinda, kupinda, uakifishaji
-© => ©, c, hakimiliki
-® => ®, iliyosajiliwa, r
-™ => ™, alama, alama ya biashara, chapa ya biashara
 🔠 => 🔠, herufi, herufi kubwa, latini, weka, weka herufi kubwa za kilatini
 🔡 => 🔡, abcd, herufi, herufi ndogo, latini, weka, weka hefuri ndogo za kilatini
 🔢 => 🔢, 1234, nambari, weka

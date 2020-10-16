@@ -32,6 +32,12 @@ CONST COMPLETELY_ELIMINATED_BY_ANALYZER = [
     '204A_0025' => '⁊%',
     '2713' => '✓',
     '00D7' => '×',
+    // removed with icu_tokenizer
+    '303D' => '〽',
+    '3030' => '〰',
+    '00A9' => '©',
+    '00AE' => '®',
+    '2122' => '™',
 ];
 
 // Get the ZIP

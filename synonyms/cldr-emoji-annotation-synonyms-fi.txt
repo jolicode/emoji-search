@@ -1260,7 +1260,6 @@
 ➗ => ➗, jako, jakomerkki, jakoviiva, matematiikka
 ➰ => ➰, kaareva silmukka, silmukka
 ➿ => ➿, 2, kaksoissilmukka, nauhuri, silmukka, vastaaja
-〽 => 〽, ioriten, japani, merkki, osanvaihtomerkki
 ✳ => ✳, 8, asteriski, kahdeksanpiikkinen tähtimerkki, tähti, tähtimerkki
 ✴ => ✴, 8, asteriski, kahdeksankärkinen tähti, tähti, tähtimerkki
 ❇ => ❇, kipinä, säihke, tähti
@@ -1270,10 +1269,6 @@
 ❔ => ❔, kysymysmerkki, merkki, välimerkki, valkoinen kysymysmerkki
 ❕ => ❕, huutomerkki, merkki, välimerkki, valkoinen huutomerkki
 ❗ => ❗, huutomerkki, merkki, välimerkki
-〰 => 〰, aaltoileva, aaltoviiva, välimerkki, viiva
-© => ©, C, tekijänoikeus, tekijänoikeusmerkki
-® => ®, R, rekisteröity, rekisteröity-merkki
-™ => ™, merkki, tavaramerkki, TM
 🔠 => 🔠, aakkoset, ABCD, isot, kirjaimet, latinalaiset, syötä, syötä isoja kirjaimia
 🔡 => 🔡, aakkoset, abcd, kirjaimet, latinalaiset, pienet, syötä, syötä pieniä kirjaimia
 🔢 => 🔢, 1234, numerot, syötä, syötä numeroja

@@ -1260,7 +1260,6 @@
 ➗ => ➗, division, divisionstegn, matematik, tegn
 ➰ => ➰, krølle, løkke, loop
 ➿ => ➿, dobbelt, krølle, løkke, loop
-〽 => 〽, del, japansk, kommatering
 ✳ => ✳, asterisk, ottetakket spids stjerne
 ✴ => ✴, ottetakket stjerne, stjerne
 ❇ => ❇, funkle
@@ -1270,10 +1269,6 @@
 ❔ => ❔, hvidt spørgsmålstegn, omrids, spørgsmål, tegn, tegnsætning
 ❕ => ❕, hvidt udråbstegn, omrids, tegnsætning, udråb, udråbstegn
 ❗ => ❗, tegnsætning, udråbstegn
-〰 => 〰, bølgestreg, bølget, tegn, tegnsætning
-© => ©, copyright, copyright-tegn, ophavsret
-® => ®, registreret, registreret varemærke
-™ => ™, TM, varemærke
 🔠 => 🔠, ABCD, store bogstaver, symbol for store bogstaver
 🔡 => 🔡, abcd, små bogstaver, symbol for små bogstaver
 🔢 => 🔢, 1234, symbol for tal, tal

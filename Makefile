@@ -13,6 +13,7 @@ install: ## Download all the deps
 	wget https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-oss-${TARGET_DOWNLOAD}.tar.gz -P bin -nc
 	tar --directory bin/ -xzf bin/elasticsearch-oss-${TARGET_DOWNLOAD}.tar.gz
 	cp synonyms/* bin/elasticsearch-${TARGET}/config/
+	./bin/elasticsearch-${TARGET}/bin/elasticsearch-plugin install analysis-icu
 	cd tools/ && composer install
 
 start: ## Start Elasticsearch
@@ -25,6 +26,11 @@ stop: ## Stop Elasticsearch
 
 test: ## Run the tests
 	./tools/vendor/bin/phpunit ./tools/tests
+
+rebuild_restart: stop ## Run the tests
+	php ./tools/build-released.php
+	cp synonyms/* bin/elasticsearch-${TARGET}/config/
+	make start
 
 .PHONY: help
 .DEFAULT_GOAL := help

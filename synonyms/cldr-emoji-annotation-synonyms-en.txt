@@ -1260,7 +1260,6 @@
 ➗ => ➗, division, math, sign
 ➰ => ➰, curl, curly loop, loop
 ➿ => ➿, curl, double, double curly loop, loop
-〽 => 〽, mark, part, part alternation mark
 ✳ => ✳, asterisk, eight-spoked asterisk
 ✴ => ✴, eight-pointed star, star
 ❇ => ❇, sparkle
@@ -1270,10 +1269,6 @@
 ❔ => ❔, mark, outlined, punctuation, question, white question mark
 ❕ => ❕, exclamation, mark, outlined, punctuation, white exclamation mark
 ❗ => ❗, exclamation, mark, punctuation
-〰 => 〰, dash, punctuation, wavy
-© => ©, c, copyright
-® => ®, r, registered
-™ => ™, mark, tm, trade mark, trademark
 🔠 => 🔠, ABCD, input, latin, letters, uppercase
 🔡 => 🔡, abcd, input, latin, letters, lowercase
 🔢 => 🔢, 1234, input, numbers

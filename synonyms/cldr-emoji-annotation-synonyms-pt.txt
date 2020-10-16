@@ -1260,7 +1260,6 @@
 ➗ => ➗, divisão, matemática, símbolo de divisão, sinal
 ➰ => ➰, laço encaracolado, loop, loop ondulado, volta
 ➿ => ➿, duas vezes, duplo, encaradolado, loop, loop encaracolado duas vezes
-〽 => 〽, canto, japonês, símbolo japonês de canto, sinal japonês indicando início de música
 ✳ => ✳, asterisco, asterisco de oito pontas
 ✴ => ✴, estrela, estrela de oito pontas
 ❇ => ❇, faísca
@@ -1270,10 +1269,6 @@
 ❔ => ❔, delineado, pergunta, ponto de interrogação branco, pontuação, sinal
 ❕ => ❕, delineado, mark, ponto de exclamação branco, pontuação, sinal
 ❗ => ❗, exclamação, ponto de exclamação, pontuação
-〰 => 〰, ondulado, pontuação, travessão
-© => ©, copyright, símbolo de copyright
-® => ®, marca registrada, marca registrada “R”, símbolo de registrado
-™ => ™, marca registrada, marca registrada “TM”, símbolo, símbolo de marca registrada
 🔠 => 🔠, ABCD, digitação, latinas, letras, maiúsculas
 🔡 => 🔡, abcd, digitação, latinas, letras, minúsculas
 🔢 => 🔢, 1234, digitação, números

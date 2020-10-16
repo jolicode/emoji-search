@@ -566,8 +566,6 @@
 ➖ => ➖, menos, resta, signo, signo de resta
 ➗ => ➗, división, signo, signo de división
 ❇ => ❇, chispa
-© => ©, autor, copyright, derechos, signo de derechos autor, símbolo de derechos de autor
-® => ®, marca, registrada, signo de marca registrada, símbolo de marca registrada
 🈷 => 🈷, "cantidad mensual" en japonés, ideograma, japonés, mensual
 🔲 => 🔲, borde, botón, cuadrado, cuadrado blanco con borde negro, marco
 🔳 => 🔳, borde, botón, cuadrado, cuadrado negro con borde blanco, marco

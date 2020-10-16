@@ -1260,7 +1260,6 @@
 ➗ => ➗, deiling, deilingarmerki, merki, stærðfræði
 ➰ => ➰, lykkja
 ➿ => ➿, gormur, lykkjur, tvöföld lykkja
-〽 => 〽, japanskt upphafsmerki söngs, merki
 ✳ => ✳, áttarma stjarna, áttarma stjörnumerki, stjarna
 ✴ => ✴, áttarma stjarna, stjarna
 ❇ => ❇, leiftur
@@ -1270,10 +1269,6 @@
 ❔ => ❔, greinarmerki, hvítt spurningarmerki, merki, spurning
 ❕ => ❕, greinarmerki, hvítt upphrópunarmerki, merki, upphrópun, útlínur
 ❗ => ❗, greinarmerki, merki, upphrópun, upphrópunarmerki
-〰 => 〰, alda, bugða, bugðustrik, strik
-© => ©, höfundarréttarmerki, höfundarréttarvarið, höfundarréttur
-® => ®, skráð, skráð vörumerki
-™ => ™, skrásett vörumerki, vörumerki
 🔠 => 🔠, hástafir, latneskir hástafir, latneskt letur, setja inn latneska hástafi
 🔡 => 🔡, lágstafir, latneskir lágstafir, latneskt letur, setja inn latneska lágstafi
 🔢 => 🔢, setja inn tölustafi, tölustafir

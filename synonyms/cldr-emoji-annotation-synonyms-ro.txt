@@ -1260,7 +1260,6 @@
 ➗ => ➗, împărțire, matematică, semnul împărțirii
 ➰ => ➰, buclă, buclă ondulată, cârlionț, onduleu
 ➿ => ➿, buclă, buclă dublă, buclă ondulată dublă, dublu, onduleu
-〽 => 〽, alternare cântăreț, cântăreț, marcaj, schimbare, semn
 ✳ => ✳, asterisc, asterisc cu opt colțuri
 ✴ => ✴, stea, stea cu opt colțuri
 ❇ => ❇, lumină, strălucire
@@ -1270,10 +1269,6 @@
 ❔ => ❔, contur, întrebare, punctuație, semn, semnul întrebării alb
 ❕ => ❕, contur, exclamație, punctuație, semn, semnul exclamării alb
 ❗ => ❗, exclamație, mirare, punctuație, semn, semnul exclamării
-〰 => 〰, liniuță, liniuță ondulată, ondulat
-© => ©, c, copyright, drepturi de autor
-® => ®, înregistrat, marcă înregistrată, r
-™ => ™, comercială, marcă
 🔠 => 🔠, ABCD, introducere, latine, litere, majuscule
 🔡 => 🔡, abcd, introducere, introducere minuscule latine, latine, litere, majuscule
 🔢 => 🔢, 123, cifre, introducere, numere

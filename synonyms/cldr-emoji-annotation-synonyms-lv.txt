@@ -1260,7 +1260,6 @@
 ➗ => ➗, dalīšanas zīme, dalīt, matemātika
 ➰ => ➰, cilpa, cilpiņa, sproga
 ➿ => ➿, cilpa, dubulta cilpa
-〽 => 〽, mūzika, partijas sākuma zīme, zīme
 ✳ => ✳, astoņstaru zvaigznīte, zvaigznīte
 ✴ => ✴, astoņstaru zvaigzne, četrstaru zvaigzne, zvaigzne
 ❇ => ❇, dzirkstis
@@ -1270,10 +1269,6 @@
 ❔ => ❔, balta jautājuma zīme, jautājums, pieturzīme
 ❕ => ❕, balta izsaukuma zīme, izsaukums, pieturzīme
 ❗ => ❗, izsaukuma zīme, izsaukums, pieturzīme
-〰 => 〰, domuzīme, viļņota
-© => ©, (C), autortiesības
-® => ®, (R), preču zīme, reģistrēta preču zīme, reģistrēts
-™ => ™, preču zīme, TM
 🔠 => 🔠, burti, ievade, latīņu, lielie
 🔡 => 🔡, burti, ievade, latīņu, mazie
 🔢 => 🔢, 1234, cipari, ievade

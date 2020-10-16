@@ -1260,7 +1260,6 @@
 ➗ => ➗, arithmétique, division, mathématiques, signe diviser
 ➰ => ➰, boucle, bouclette
 ➿ => ➿, boucle, double boucle
-〽 => 〽, alternance, symbole
 ✳ => ✳, astérisque, astérisque huit branches, étoile, huit
 ✴ => ✴, astérisque, étoile, étoile huit branches, huit
 ❇ => ❇, briller, éclat, étinceler, scintiller
@@ -1270,10 +1269,6 @@
 ❔ => ❔, interrogation, point d’interrogation blanc, ponctuation, question
 ❕ => ❕, exclamation, point d’exclamation blanc, ponctuation
 ❗ => ❗, exclamation, point d’exclamation, ponctuation
-〰 => 〰, ligne ondulée, ponctuation, trait d’union ondulé, vague
-© => ©, ©, c, copyright, symbole copyright
-® => ®, ®, marque commerciale, marque déposée, r
-™ => ™, marque commerciale déposée, marque déposée
 🔠 => 🔠, lettres, lettres latines, majuscules, saisie
 🔡 => 🔡, lettres, lettres latines, minuscules, saisie
 🔢 => 🔢, 1234, chiffres, saisie, saisie de chiffres

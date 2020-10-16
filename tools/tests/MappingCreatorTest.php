@@ -36,9 +36,9 @@ class MappingCreatorTest extends TestCase
         $client->request('DELETE', '/test_put_mapping')->getStatusCode();
 
         if (version_compare($_SERVER['TARGET'], '7.0.0', '<')) {
-            $mapping = '"_doc": { "properties": { "content": { "type": "text", "analyzer": "with_emoji" } } }';
+            $mapping = '"_doc": { "properties": { "content": { "type": "text", "analyzer": "with_emoji" }, "content_icu": { "type": "text", "analyzer": "with_emoji_and_icu" } } }';
         } else {
-            $mapping = '"properties": { "content": { "type": "text", "analyzer": "with_emoji" } }';
+            $mapping = '"properties": { "content": { "type": "text", "analyzer": "with_emoji" }, "content_icu": { "type": "text", "analyzer": "with_emoji_and_icu" } }';
         }
 
         $response = $client->request('PUT', '/test_put_mapping', [
@@ -63,6 +63,13 @@ class MappingCreatorTest extends TestCase
             "analyzer": {
                 "with_emoji": {
                     "tokenizer": "standard",
+                    "filter": [
+                        "custom_emoji",
+                        "emoji_variation_selector_filter"
+                    ]
+                },
+                "with_emoji_and_icu": {
+                    "tokenizer": "icu_tokenizer",
                     "filter": [
                         "custom_emoji",
                         "emoji_variation_selector_filter"

@@ -1260,7 +1260,6 @@
 ➗ => ➗, belgi, boʻlish, boʻlish belgisi, matematika
 ➰ => ➰, davr, jingalak, jingalak halqa, takror
 ➿ => ➿, davr, ikki marta, jingalak, qo‘sh jingalak halqa, takror
-〽 => 〽, belgi, ovoz almashinuvi belgisi, qism
 ✳ => ✳, sakkiz qirrali yulduz, sakkiz qirrali yulduzcha, yulduzcha
 ✴ => ✴, sakkiz burchakli yulduz, yulduz
 ❇ => ❇, uchqun
@@ -1270,10 +1269,6 @@
 ❔ => ❔, belgi, belgilangan, oq soʻroq belgisi, savol, tinish belgisi
 ❕ => ❕, belgi, belgilangan, oq undov belgisi, tinish belgisi, undov
 ❗ => ❗, belgi, tinish belgisi, undov, undov belgisi
-〰 => 〰, defis, tinish, to‘lqinli, to‘lqinli chiziq
-© => ©, c, mualliflik huquqi
-® => ®, qayd qilingan, r
-™ => ™, belgi, savdo belgisi, tm
 🔠 => 🔠, bosh, harflar, katta lotin harflarini kiritish, kiritish, lotin
 🔡 => 🔡, abcd, harflar, kichik, kichik lotin harflarini kiritish, kiritish, lotin
 🔢 => 🔢, 1234, raqam kiritish, raqamlar, sonlar

@@ -1259,7 +1259,6 @@
 ➗ => ➗, deljenje, matematika, znak, znak za deljenje
 ➰ => ➰, pentlja, spirala, zanka, zavita pentlja
 ➿ => ➿, dvojna zavita pentlja, dvojno, pentlja, spirala, zanka
-〽 => 〽, part, znak, znak za part
 ✳ => ✳, zvezdica, zvezdica z osmimi špicami
 ✴ => ✴, osemkraka zvezda, zvezda
 ❇ => ❇, iskra
@@ -1269,10 +1268,6 @@
 ❔ => ❔, bel vprašaj, bel vprašanj, ločilo, obrobljeno, oznaka, vprašaj
 ❕ => ❕, bel klicaj, klicaj, obrobljeno, znak
 ❗ => ❗, klicaj, ločilo, znak
-〰 => 〰, ločilo, pomišljaj, valovit pomišljaj, valovito
-© => ©, avtorske pravice, c
-® => ®, r, registrirano
-™ => ™, blagovna znamka, TM, znak
 🔠 => 🔠, črke, latinica, velike črke, vnos, vnos velikih črk latinice
 🔡 => 🔡, abcd, črke, latinica, male črke, vnos, vnos malih črk latinice
 🔢 => 🔢, 1234, številke, vnos, vnos številk

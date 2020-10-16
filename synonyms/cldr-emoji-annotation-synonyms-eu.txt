@@ -1260,7 +1260,6 @@
 ➗ => ➗, matematika, zatiketa, zatiketa-ikur lodia
 ➰ => ➰, malguki, malgukia
 ➿ => ➿, bikoitz, malguki, malguki bikoitza
-〽 => 〽, markatu, txanda, txanda-markatzailea
 ✳ => ✳, izartxo, zortzi puntako izartxoa
 ✴ => ✴, izar, zortzi puntako izarra
 ❇ => ❇, txinparta
@@ -1270,10 +1269,6 @@
 ❔ => ❔, galdera, galdera-marka zuria, marka, nabarmendu, puntuazio
 ❕ => ❕, harridura, harridura-marka zuria, marka, nabarmendu, puntuazio
 ❗ => ❗, harridura, harridura-marka, marka, puntuazioa
-〰 => 〰, marratxo, marratxo ondulatua, ondulatu, puntuazio
-© => ©, copyright, copyrighta
-® => ®, erregistratu, marka, marka erregistratua
-™ => ™, komertzial, marka, marka komertziala, tm
 🔠 => 🔠, alfabeto, alfabeto latindarra maiuskulaz, hizki, latindar, letra, maiuskula
 🔡 => 🔡, abcd, alfabeto, alfabeto latindarra minuskulaz, hizki, latindar, letra, minuskula
 🔢 => 🔢, 1234, zenbakiak
