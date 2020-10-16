@@ -1,4 +1,3 @@
-◯ => ◯, grosser hohler Kreis
 😃 => 😃, Gesicht, grinsendes Gesicht mit grossen Augen, lol, lustig
 😅 => 😅, Gesicht, Lachender Smiley mit kaltem Schweiss, lustig, Schweiss, schwitzen
 🤪 => 🤪, irres Gesicht
@@ -116,7 +115,6 @@
 🔳 => 🔳, quadratisch, Schaltfläche, weiss, Weisse quadratische Schaltfläche
 🏳 => 🏳, Fahne, wehen, Wehende weisse Fahne, weisse Fahne
 🏳‍⚧ => 🏳‍⚧, Flagge, hellblau, pink, Transgender, Transgenderflagge, weiss
-µ => µ, Mikro-Zeichen
 🖖🏻 => 🖖🏻, Finger, Hand, helle Hautfarbe, Spock, Vulkanier(in), vulkanisch, Vulkanischer Gruss
 🖖🏼 => 🖖🏼, Finger, Hand, mittelhelle Hautfarbe, Spock, Vulkanier(in), vulkanisch, Vulkanischer Gruss
 🖖🏽 => 🖖🏽, Finger, Hand, mittlere Hautfarbe, Spock, Vulkanier(in), vulkanisch, Vulkanischer Gruss

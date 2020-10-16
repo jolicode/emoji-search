@@ -199,7 +199,6 @@
 🔠 => 🔠, input Latin uppercase
 🔡 => 🔡, input Latin lowercase
 🔤 => 🔤, input Latin letters
-₹ => ₹, currency, indian rupee, INR, rupee
 🖖🏻 => 🖖🏻, finger, hand, light skin tone, spock, vulcan, Vulcan salute
 🖖🏼 => 🖖🏼, finger, hand, medium-light skin tone, spock, vulcan, Vulcan salute
 🖖🏽 => 🖖🏽, finger, hand, medium skin tone, spock, vulcan, Vulcan salute

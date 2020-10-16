@@ -1,6 +1,3 @@
-† => †, daga, obelisco, obelo, signo obelisco
-‡ => ‡, daga, doble, obelisco, obelo, signo doble obelisco
-≡ => ≡, equivalente, equivalente a, exacto, idéntico
 😀 => 😀, cara, cara sonriendo, contento, divertido, sonrisa
 😃 => 😃, cara sonriendo con ojos grandes
 😄 => 😄, boca abierta, cara sonriendo con ojos sonrientes, divertido, risa, sonrisa
