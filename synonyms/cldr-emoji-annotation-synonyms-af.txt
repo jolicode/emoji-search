@@ -1260,7 +1260,6 @@
 ➗ => ➗, deel, dik deelteken, wiskunde
 ➰ => ➰, krul, krullus, lus
 ➿ => ➿, dubbel, dubbelkrullus, krul, lus
-〽 => 〽, begin, merk, stem, stembeginteken
 ✳ => ✳, agtspeekasterisk, asterisk, ster
 ✴ => ✴, agtpuntster, ster
 ❇ => ❇, ster, vonk, vonkster
@@ -1270,10 +1269,6 @@
 ❔ => ❔, buitelyn, leesteken, teken, vraag, wit vraagteken
 ❕ => ❕, buitelyn, leesteken, teken, uitroep, wit uitroepteken
 ❗ => ❗, leesteken, teken, uitroep, uitroepteken
-〰 => 〰, golf, golfstreep, leesteken, streep
-© => ©, kopiereg, kopieregmerk
-® => ®, geregistreer, registrasie, registrasiemerk
-™ => ™, handelmerk, handelsmerk, merk, tm
 🔠 => 🔠, abcd, bokas, hoof, invoer, invoer latyns bokas, latyn, letters
 🔡 => 🔡, abcd, invoer, invoer latyns onderkas, klein, latters, latyn, onderkas
 🔢 => 🔢, 1234, invoer, syfers

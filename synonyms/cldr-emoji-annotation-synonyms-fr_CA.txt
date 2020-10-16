@@ -808,7 +808,6 @@
 ➕ => ➕, addition, arithmétique, mathématiques, plus, signe d’addition
 ➖ => ➖, arithmétique, mathématiques, moins, signe de soustraction, soustraction
 ➗ => ➗, arithmétique, division, mathématiques, signe de division
-〽 => 〽, début de la musique, japonais, marque, partition, symbole, symbole japonais indiquant le début de la musique
 ✳ => ✳, astérique, astérique à huit branches, huit branches
 ✴ => ✴, étoile, étoile à huit branches, huit branches
 ‼ => ‼, double, point d’exclamation, ponctuation
@@ -816,8 +815,6 @@
 ❓ => ❓, point d’interrogation, ponctuation, question
 ❔ => ❔, point d’interrogation, point d’interrogation blanc, ponctuation, question
 ❕ => ❕, point d’exclamation, point d’exclamation blanc, ponctuation, question
-© => ©, copyright
-™ => ™, marque de commerce, marque déposée, md
 🔠 => 🔠, ABCD, latin, lettres, majuscules, saisie
 🔡 => 🔡, abcd, latin, lettres, minuscules, saisie
 🔢 => 🔢, 1234, chiffres, nombres, saisie

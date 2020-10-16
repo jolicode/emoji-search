@@ -1260,7 +1260,6 @@
 ➗ => ➗, arwydd rhannu trwm, math, rhannu
 ➰ => ➰, cwrl, dolen, dolen gyrliog
 ➿ => ➿, cwrl, dolen, dolen gyrliog ddwbl, dwbl
-〽 => 〽, marc, marc aryneilio rhannol, rhan
 ✳ => ✳, asterics, asterics wyth pwynt
 ✴ => ✴, seren, seren wyth pwynt
 ❇ => ❇, fflachiad
@@ -1270,10 +1269,6 @@
 ❔ => ❔, amlinelliad, atalnodiad, cwestiwn, marc, marc cwestiwn gwyn
 ❕ => ❕, amlinelliad, atalnodiad, ebychnod, ebychnod gwyn, marc
 ❗ => ❗, atalnodiad, ebychnod, marc
-〰 => 〰, atalnodiad, llinell, llinell donnog, tonnog
-© => ©, c, hawlfraint
-® => ®, cofrestredig, r
-™ => ™, marc, nod masnachu
 🔠 => 🔠, lladin, llythrennau, llythrennau mawr, mewnbwn, mewnbwn llythrennau mawr ladin
 🔡 => 🔡, abcch, lladin, llythrennau bach, mewnbwn, mewnbwn llythrennau bach lladin
 🔢 => 🔢, 1234, mewnbwn, mewnbwn rhifedd, rhifau

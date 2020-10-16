@@ -911,7 +911,6 @@
 ➖ => ➖, menos, resta, signo
 ➗ => ➗, división, signo
 ➿ => ➿, bucle, giro
-〽 => 〽, alternancia, marca
 ✳ => ✳, asterisco, ocho, puntas, símbolo
 ❇ => ❇, signo
 ‼ => ‼, doble, exclamación, signo
@@ -920,10 +919,6 @@
 ❔ => ❔, contorno, interrogación, pregunta, signo, signo de interrogación gris
 ❕ => ❕, contorno, exclamación, signo, signo de exclamación gris
 ❗ => ❗, exclamación, signo, signo de exclamación
-〰 => 〰, guión, línea ondulada, ondulado, puntuación
-© => ©, autor, copyright, derechos, signo de derechos autor
-® => ®, marca, registrada, signo de marca registrada
-™ => ™, marca, registrada, símbolo, símbolo de marca registrada
 🔠 => 🔠, letras, mayúsculas
 🔡 => 🔡, letras, minúsculas
 🔢 => 🔢, 1234

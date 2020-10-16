@@ -1252,7 +1252,6 @@
 ➗ => ➗, ukuhlanganisa, ukwahlukanisa, uphawu lokwahlukanisa oluwugqinsi
 ➰ => ➰, iluphu, iluphu egobile, ukugoba
 ➿ => ➿, iluphu, iluphu eligobile eliyimpinda, impinda, ukugoba
-〽 => 〽, ingxenye, upahwu lokulungisa ingxenye, uphawu
 ✳ => ✳, inkanyezi, inkanyezi enemigxa eyisishiyagalombili
 ✴ => ✴, inkanyezi, inkanyezi ecije kayisishayagalombili
 ❇ => ❇, ukubhanyaza
@@ -1262,10 +1261,6 @@
 ❔ => ❔, okudwetshiwe, umbuzo, upahu, uphawu lombuzo olumhlophe
 ❕ => ❕, isibabazi, okudwetshiwe, uphawu, uphawu lwesibabazi olumhlophe
 ❗ => ❗, isibabazi, uphawu, uphawu lwesibabazi
-〰 => 〰, okusagagasi, udeshi, udeshi osagagasi
-© => ©, ilungelo lokukopisha
-® => ®, okubhalisiwe
-™ => ™, uphawu, uphawu lokuhweba
 🔠 => 🔠, isilatini, izinhlamvu, okufakiwe, uhlamvu olukhulu, ukufaka uhlamvu olukhulu lwesilatini
 🔡 => 🔡, isilatini, izinhlamvu, okufakiwe, uhlamvu oluncane, ukufaka uhlamvu oluncane lwesilatini
 🔢 => 🔢, 1234, izinombolo, izinombolo ezifakiwe, okufakiwe

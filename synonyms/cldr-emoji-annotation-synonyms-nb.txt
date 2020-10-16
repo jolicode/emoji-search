@@ -1260,7 +1260,6 @@
 ➗ => ➗, dele, deletegn, deling, divisjon, divisjonstegn
 ➰ => ➰, løkke, løkketegn
 ➿ => ➿, dobbel løkke, dobbel løkke-tegn
-〽 => 〽, merke, merke for nytt parti, nytt, parti
 ✳ => ✳, asterisk, asterisk med åtte spisser, stjerne
 ✴ => ✴, åttetagget stjerne, stjerne
 ❇ => ❇, gnist
@@ -1270,10 +1269,6 @@
 ❔ => ❔, hvitt spørsmålstegn, spørsmål
 ❕ => ❕, hvitt utropstegn, utrop
 ❗ => ❗, tegn, tegnsetting, utrop, utropstegn
-〰 => 〰, bølge, bølgestrek, bølget bindestrek, tegn for lang lyd
-© => ©, copyright, opphavsrett
-® => ®, r, registrert varemerke, varemerkesymbol
-™ => ™, tm, trademark, varemerke
 🔠 => 🔠, ABCD, bokstaver, inndata, store bokstaver
 🔡 => 🔡, abcd, bokstaver, inndata, små bokstaver
 🔢 => 🔢, 1234, inndata, numeriske data, tall

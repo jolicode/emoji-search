@@ -1155,7 +1155,6 @@
 ➗ => ➗, divisão, matemática, sinal de divisão
 ➰ => ➰, caracol, laço, laço encaracolado
 ➿ => ➿, caracol, duplo, laço, laço encaracolado duplo
-〽 => 〽, entrada, marca de alternância parcial, música
 ✳ => ✳, asterisco, asterisco com oito raios
 ✴ => ✴, estrela, estrela com oito pontas
 ❇ => ❇, brilho, centelha
@@ -1165,10 +1164,6 @@
 ❔ => ❔, delineado, pergunta, pontuação, sinal, sinal de interrogação branco
 ❕ => ❕, delineado, exclamação, pontuação, sinal, sinal de exclamação branco
 ❗ => ❗, exclamação, ponto de exclamação, pontuação, sinal
-〰 => 〰, ondulado, pontuação, traço
-© => ©, c, direitos de autor
-® => ®, marca registada, r
-™ => ™, marca, marca comercial, tm
 🔠 => 🔠, introdução, introdução de maiúsculas latinas, latinas, letras, maiúsculas
 🔡 => 🔡, abcd, introdução, introdução de minúsculas latinas, latinas, letras, minúsculas
 🔢 => 🔢, 1234, introdução, introdução de números, números

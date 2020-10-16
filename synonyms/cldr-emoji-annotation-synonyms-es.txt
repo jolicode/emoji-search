@@ -1260,7 +1260,6 @@
 ➗ => ➗, división, signo, signo de división
 ➰ => ➰, bucle, giro, tirabuzón
 ➿ => ➿, bucle, doble
-〽 => 〽, alternancia, marca, marca de alternancia
 ✳ => ✳, asterisco, asterisco de ocho puntas
 ✴ => ✴, estrella, estrella de ocho puntas
 ❇ => ❇, chispa
@@ -1270,10 +1269,6 @@
 ❔ => ❔, interrogación, interrogación blanca, pregunta, puntuación
 ❕ => ❕, exclamación, exclamación blanca, puntuación
 ❗ => ❗, exclamación, puntuación, signo de exclamación
-〰 => 〰, guion, marca de sonido largo, ondulado
-© => ©, c, copyright, símbolo
-® => ®, marca registrada, r, símbolo de marca registrada
-™ => ™, marca comercial, símbolo de marca comercial
 🔠 => 🔠, abcd, letras, letras latinas mayúsculas, mayúsculas
 🔡 => 🔡, abcd, letras, letras latinas minúsculas, minúsculas
 🔢 => 🔢, 1234, dígitos, números

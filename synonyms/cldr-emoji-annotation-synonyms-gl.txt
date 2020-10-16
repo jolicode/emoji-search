@@ -1260,7 +1260,6 @@
 ➗ => ➗, dividir, división, matemáticas, signo de dividir
 ➰ => ➰, bucle
 ➿ => ➿, bucle, dobre
-〽 => 〽, alternancia, signo, signo de alternancia
 ✳ => ✳, 8, asterisco, asterisco de oito raios, oito
 ✴ => ✴, 8, estrela, estrela de oito puntas
 ❇ => ❇, chispa
@@ -1270,10 +1269,6 @@
 ❔ => ❔, interrogación, pregunta, signo de interrogación, signo de interrogación branco
 ❕ => ❕, admiración, exclamación, signo de exclamación, signo de exclamación branco
 ❗ => ❗, admiración, exclamación, signo de exclamación
-〰 => 〰, liña ondulada, onda, ondulado, son largo, trazo
-© => ©, autor, copyright, dereitos, r
-® => ®, "R", marca, marca rexistrada “R”, rexistrada
-™ => ™, marca, marca rexistrada “TM”, rexistrada, TM
 🔠 => 🔠, ABCD, introducir, introducir letras en maiúsculas, letras, maiúscula
 🔡 => 🔡, abcd, introducir, introducir letras en minúsculas, letras, minúscula
 🔢 => 🔢, 1234, introducir, números

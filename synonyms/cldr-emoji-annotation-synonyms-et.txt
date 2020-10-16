@@ -1260,7 +1260,6 @@
 ➗ => ➗, jagamine, matemaatika, suur jagamismärk
 ➰ => ➰, lokk, silmus
 ➿ => ➿, silmus, topelt, topeltsilmus
-〽 => 〽, märk, osa, osa vaheldumise märk
 ✳ => ✳, kaheksa tipuga tärn, tärn
 ✴ => ✴, kaheksa tipuga täht, täht
 ❇ => ❇, sädelus
@@ -1270,10 +1269,6 @@
 ❔ => ❔, kirjavahemärk, küsimärk, küsimus, valge küsimärk
 ❕ => ❕, hüüumärk, valge hüüumärk
 ❗ => ❗, hüüumärk, kirjavahemärk
-〰 => 〰, kirjavahemärk, kriips, laineline
-© => ©, autoriõigus
-® => ®, registreeritud
-™ => ™, kaubamärk, märk
 🔠 => 🔠, abcd, ladina, suurtähed, tähed
 🔡 => 🔡, abcd, ladina, tähed, väiketähed
 🔢 => 🔢, 1234, numbrid

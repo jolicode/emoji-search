@@ -1260,7 +1260,6 @@
 ➗ => ➗, bahagi, matematik, tanda
 ➰ => ➰, gelung, ikal
 ➿ => ➿, berganda, gelung, ikal
-〽 => 〽, bahagian, tanda, tanda penyelingan bahagian
 ✳ => ✳, asterisk, asterisk berjejari lapan
 ✴ => ✴, bintang, bintang berpenjuru lapan
 ❇ => ❇, kilauan
@@ -1270,10 +1269,6 @@
 ❔ => ❔, digaris, soalan, tanda, tanda baca, tanda soal putih, tanda soalan putih
 ❕ => ❕, digariskan, seru, tanda, tanda baca, tanda seru putih
 ❗ => ❗, seru, tanda, tanda baca
-〰 => 〰, berombak-ombak, sengkang, tanda baca
-© => ©, c, hak cipta
-® => ®, berdaftar
-™ => ™, tanda, tanda dagangan, tm
 🔠 => 🔠, huruf, huruf besar, huruf besar latin input, input, latin
 🔡 => 🔡, abcd, huruf, huruf kecil, huruf kecil latin input, input, latin
 🔢 => 🔢, 1234, input, nombor

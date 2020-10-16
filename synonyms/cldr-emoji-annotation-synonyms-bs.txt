@@ -1260,7 +1260,6 @@
 ➗ => ➗, dijeljenje, matematika, podebljani znak dijeljenja
 ➰ => ➰, petlja, rotor, uvrnuta petlja
 ➿ => ➿, dupla, dupla uvrnuta petlja, petlja, rotor
-〽 => 〽, dio, oznaka, oznaka djelimične alteracije
 ✳ => ✳, asterisk
 ✴ => ✴, zvjezdica
 ❇ => ❇, iskra
@@ -1270,10 +1269,6 @@
 ❔ => ❔, bijeli upitnik, interpunkcija, ocrtano, oznaka, pitanje
 ❕ => ❕, bijeli uzvičnik, interpunkcija, ocrtano, oznaka, uzvik
 ❗ => ❗, interpunkcija, oznaka, uzvičnik, uzvik
-〰 => 〰, crtice, interpunkcija, talas, talasasta crta
-© => ©, autorska prava, autorsko pravo
-® => ®, registracija, registriran
-™ => ™, oznaka, tm, zaštitni znak
 🔠 => 🔠, latinica, slova, unos, unos latinica veliko slovo, velika
 🔡 => 🔡, latinica, mala, slova, unos, unos latinica malo slovo
 🔢 => 🔢, 1234, brojevi, unos, unos brojeva

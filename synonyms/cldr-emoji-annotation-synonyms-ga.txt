@@ -1260,7 +1260,6 @@
 ➗ => ➗, comhartha, comhartha roinnte, mata, roinn
 ➰ => ➰, cas, lúb, lúb chatach
 ➿ => ➿, an tSeapáin, dialaigh saor in aisce, lúb chatach, lúb dhúbailte chatach
-〽 => 〽, cuid, cuid de marc ailtéarnú, cuid de mharc ailtéarnaithe, marc
 ✳ => ✳,  réiltín, réiltín le hocht spóca
 ✴ => ✴, réalta, réalta le hocht bpointe
 ❇ => ❇, gealán
@@ -1270,10 +1269,6 @@
 ❔ => ❔, comhartha ceiste bán, imlínithe, marc, poncaíocht
 ❕ => ❕, comhartha uailbhreasa, comhartha uailbhresa bán, comhartha uaillbhreasa bán, imlíntieh, poncaíocht
 ❗ => ❗, comhartha uaillbhreasa, marc, poncaíocht
-〰 => 〰, corrach, dais, dais chorrach, fuaim-mharc fada
-© => ©, c, cóipcheart
-® => ®, cláraithe, r
-™ => ™, comhartha, comhartha trádmhairc, trádmharc
 🔠 => 🔠, ceannlitreacha Laidineacha, ceannlitreacha Laidineacha ionchuir
 🔡 => 🔡, mionlitreacha Laidineacha, mionlitreacha Laidineacha ionchuir
 🔢 => 🔢, uimhreacha, uimhreacha ionchuir

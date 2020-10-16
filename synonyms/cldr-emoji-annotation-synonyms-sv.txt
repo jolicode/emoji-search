@@ -1260,7 +1260,6 @@
 ➗ => ➗, division, divisionstecken, matte
 ➰ => ➰, kurva, ögla, slinga
 ➿ => ➿, dubbel ögla, öglor
-〽 => 〽, japansk, kommatering
 ✳ => ✳, åttauddig, spetsig, stjärna
 ✴ => ✴, åttauddig, stjärna
 ❇ => ❇, glittra, gnistra
@@ -1270,10 +1269,6 @@
 ❔ => ❔, fråga, frågetecken, vitt frågetecken
 ❕ => ❕, kommatering, utropstecken, vitt
 ❗ => ❗, kommatering, rött, utropstecken
-〰 => 〰, tankstreck, vågig, vågigt tankstreck
-© => ©, copyright, upphovsrätt, upphovsrättssymbol
-® => ®, registrerat, registrerat varumärke
-™ => ™, skyddat varumärke, varumärke
 🔠 => 🔠, ABC, alfabet, stora bokstäver, versaler
 🔡 => 🔡, gemener, små bokstäver
 🔢 => 🔢, nummer, siffror

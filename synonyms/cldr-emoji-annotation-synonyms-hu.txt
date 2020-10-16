@@ -1260,7 +1260,6 @@
 ➗ => ➗, matematika, osztás, vastag osztásjel
 ➰ => ➰, hurok
 ➿ => ➿, dupla, hurok
-〽 => 〽, jel, részelválasztó, választó
 ✳ => ✳, csillag, nyolcágú csillag
 ✴ => ✴, csillag, nyolcas csillag
 ❇ => ❇, szikra
@@ -1270,10 +1269,6 @@
 ❔ => ❔, fehér, fehér kérdőjel, írásjel, kérdés, központozás
 ❕ => ❕, fehér, fehér felkiáltójel, felkiáltás, írásjel, központozás
 ❗ => ❗, felkiáltás, felkiáltójel, írásjel, központozás
-〰 => 〰, gondolatjel, hullámos, központozás
-© => ©, copyright (szerzői jog által védett), szerzői jog, védett
-® => ®, bejegyzett, registered (bejegyzett), védjegy
-™ => ™, tm, védjegy
 🔠 => 🔠, abcd, betűk, bevitel, latin, nagybetűs
 🔡 => 🔡, abcd, betűk, bevitel, kisbetűs, latin
 🔢 => 🔢, 1234, bevitel, számbevitel, számok

@@ -1260,7 +1260,6 @@
 ➗ => ➗, matematika, paran, tandha, tandha para
 ➰ => ➰, cunthel, garis cunthel, mlungker
 ➿ => ➿, cunthel, dhobel, garis cunthel dhobel, mlungker
-〽 => 〽, bageyan, tandha, tandha rikala sindhen wiwit nyanyi
 ✳ => ✳, asterisk, asterisk kembang wolu
 ✴ => ✴, lintang, lintang mata wolu
 ❇ => ❇, kelip-kelip
@@ -1270,10 +1269,6 @@
 ❔ => ❔, garis pinggir cetha, pitakon, tandha, tandha pitakon putih, tandha wacan
 ❕ => ❕, garis pinggir cetha, mbangetake, tandha, tandha penthung putih
 ❗ => ❗, mbangetake, tandha, tandha penthung, tandha wacan
-〰 => 〰, ngeluk, setrip, tandha wacan
-© => ©, c, hak cipta
-® => ®, kadhaptar, r
-™ => ™, merek dagang, tandha, tm
 🔠 => 🔠, ABCD, aksara, gedhe, latin, lebokake
 🔡 => 🔡, abcd, aksara, cilik, latin, lebokake
 🔢 => 🔢, 1234, angka, lebokake

@@ -1260,7 +1260,6 @@
 ➗ => ➗, matematika, pembagian, tanda pembagian tebal
 ➰ => ➰, gelombang, putaran, untaian bergelombang
 ➿ => ➿, dobel, gelombang, putaran, untaian bergelombang ganda
-〽 => 〽, bagian, tanda, tanda alternasi bagian
 ✳ => ✳, bintang berujung lancip delapan, tanda bintang
 ✴ => ✴, bintang, bintang berujung delapan
 ❇ => ❇, kilauan
@@ -1270,10 +1269,6 @@
 ❔ => ❔, garis luar, pertanyaan, tanda, tanda baca, tanda tanya putih
 ❕ => ❕, garis luar, tanda, tanda baca, tanda seru, tanda seru putih
 ❗ => ❗, tanda, tanda baca, tanda seru
-〰 => 〰, garis bergelombang, gelombang, tanda baca, tanda pisah
-© => ©, hak cipta
-® => ®, terdaftar
-™ => ™, merek dagang, tanda, tanda merek, tm
 🔠 => 🔠, ABCD, huruf, huruf kapital, latin, masukan, masukan huruf kapital latin
 🔡 => 🔡, abcd, huruf, huruf kecil, latin, masukan, masukan huruf kecil latin
 🔢 => 🔢, 1234, angka, masukan

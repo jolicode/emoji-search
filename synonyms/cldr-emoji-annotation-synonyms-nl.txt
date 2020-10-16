@@ -1260,7 +1260,6 @@
 ➗ => ➗, deelteken, delen, teken, wiskunde
 ➰ => ➰, gedraaid, gekrulde lus, lus
 ➿ => ➿, dubbele gekrulde lus, gekrulde lus, gratis bellen, Japan
-〽 => 〽, markering, rolwisseling, rolwisselingsmarkering, teken
 ✳ => ✳, achtpuntige asterisk, asterisk
 ✴ => ✴, achtpuntige ster, ster
 ❇ => ❇, sprankelen, sprankeling
@@ -1270,10 +1269,6 @@
 ❔ => ❔, contour, interpunctie, teken, vraag, wit vraagteken
 ❕ => ❕, contour, interpunctie, teken, uitroep, wit uitroepteken
 ❗ => ❗, interpunctie, teken, uitroep, uitroepteken
-〰 => 〰, golvend, lang geluid, streepje
-© => ©, c, copyright
-® => ®, gedeponeerd, r
-™ => ™, handelsmerk, handelsmerksymbool, symbool
 🔠 => 🔠, hoofdletters, hoofdletters invoeren, Latijns
 🔡 => 🔡, kleine letters, kleine letters invoeren, kleine letters Latijns, Latijns
 🔢 => 🔢, cijfers, cijfers invoeren

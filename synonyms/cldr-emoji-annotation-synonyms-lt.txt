@@ -1260,7 +1260,6 @@
 ➗ => ➗, dalyba, matematika, paryškintas dalybos ženklas
 ➰ => ➰, kilpa, kilpelė, raityti
 ➿ => ➿, dviguba, dviguba kilpelė, kilpa, raityti
-〽 => 〽, dalis, dalių apkeitimo ženklas, žymė
 ✳ => ✳, aštuoniakampė žvaigždutė, žvaigždutė
 ✴ => ✴, aštuoniakampė žvaigždė, žvaigždė
 ❇ => ❇, kibirkštėlė, kibirkštis
@@ -1270,10 +1269,6 @@
 ❔ => ❔, baltas klaustukas, klausimas, kontūras, skyryba, žymė
 ❕ => ❕, baltas šauktukas, kontūras, šauktukas, skyryba, žymė
 ❗ => ❗, šauktukas, skyryba, žymė
-〰 => 〰, brūkšnys, skyryba, vingiuotas
-© => ©, autorių teisės
-® => ®, užregistruota
-™ => ™, prekės ženklas, žymė
 🔠 => 🔠, ABCD, didžiosios, įvestis, lotyniškos, raidės
 🔡 => 🔡, abcd, įvestis, lotyniškos, mažosios, raidės
 🔢 => 🔢, 1234, įvesties skaičiai, įvestis, skaičiai

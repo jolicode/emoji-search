@@ -1260,7 +1260,6 @@
 ➗ => ➗, bölü, bölü işareti, işaret, matematik
 ➰ => ➰, döngü, dönüş, kıvrık döngü
 ➿ => ➿, çift kıvrık döngü, Japonya, kıvrık döngü, ücretsiz numara
-〽 => 〽, işaret, parça, parça değiştirme işareti
 ✳ => ✳, asterisk, sekiz uçlu yıldız, yıldız
 ✴ => ✴, sekiz noktalı yıldız, yıldız
 ❇ => ❇, parlama
@@ -1270,10 +1269,6 @@
 ❔ => ❔, beyaz soru işareti, işaret, noktalama, soru
 ❕ => ❕, beyaz ünlem işareti, işaret, noktalama, ünlem
 ❗ => ❗, noktalama, ünlem, ünlem işareti
-〰 => 〰, çizgi, dalgalı, uzun ses işareti
-© => ©, c, telif hakkı, telif hakkı işareti
-® => ®, r, tescil işareti, tescilli, tescilli işareti
-™ => ™, işaret, ticari marka, ticari marka işareti
 🔠 => 🔠, büyük harf, büyük harfler, Latin, Latin büyük harfleri, Latin büyük harfleriyle giriş
 🔡 => 🔡, küçük harf, küçük harfler, Latin, Latin küçük harfleri, Latin küçük harfleriyle giriş
 🔢 => 🔢, sayı girişi, sayılar

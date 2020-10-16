@@ -1260,7 +1260,6 @@
 ➗ => ➗, alamat, bölmek, goýy bölmek belgisi, matematika
 ➰ => ➰, buýra, halka
 ➿ => ➿, buýra, goşa, halka
-〽 => 〽, bellijek, bölek, bölek çalşyk belgisi
 ✳ => ✳, bellijek, sekiz uçly ýyldyz, ýyldyz
 ✴ => ✴, sekiz tikenli ýyldyzjyk, sekiz uçly ýyldyz, ýyldyz
 ❇ => ❇, uçgun
@@ -1270,10 +1269,6 @@
 ❔ => ❔, ak sorag belgisi, belgi, çarçuwaly, dyngy, sorag
 ❕ => ❕, ak ýüzlenme belgisi, belgi, çarçuwaly, dyngy, ýüzlenme
 ❗ => ❗, belgi, dyngy, ýüzlenme, ýüzlenme belgisi
-〰 => 〰, dyngy, kese çyzyk, tolkunly, tolkunly kese çyzyk
-© => ©, awtorlyk hukugy
-® => ®, bellige alnan
-™ => ™, belgi, söwda belgisi, tm
 🔠 => 🔠, ABÇD, baş harp, giriziş, harplar, latyn, latyn baş harp girizme
 🔡 => 🔡, abçd, giriziş, harplar, latyn, latyn setir harp girizme, setir harp
 🔢 => 🔢, 1234, giriziş, san girizme, sanlar

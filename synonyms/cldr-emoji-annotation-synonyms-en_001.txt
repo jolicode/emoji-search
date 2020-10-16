@@ -208,7 +208,6 @@
 ➕ => ➕, heavy plus sign, math, maths, plus
 ➖ => ➖, heavy minus sign, math, maths, minus
 ➗ => ➗, division, heavy division sign, math, maths
-™ => ™, mark, tm, trademark
 🏳‍🌈 => 🏳‍🌈, pride, rainbow, rainbow flag
 ✌🏻 => ✌🏻, hand, light skin tone, peace hand, peace sign, v, v sign, victory
 ✌🏼 => ✌🏼, hand, medium-light skin tone, peace hand, peace sign, v, v sign, victory

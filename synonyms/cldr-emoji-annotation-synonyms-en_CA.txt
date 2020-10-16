@@ -129,7 +129,6 @@
 ➕ => ➕, math, plus, sign
 ➖ => ➖, math, minus, sign
 ➗ => ➗, division, math, sign
-™ => ™, mark, tm, trade mark, trademark
 🔠 => 🔠, input Latin uppercase
 🔡 => 🔡, input Latin lowercase
 🔤 => 🔤, input Latin letters

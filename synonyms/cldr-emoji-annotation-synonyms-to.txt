@@ -1252,7 +1252,6 @@
 ➗ => ➗, fakaʻilonga vahevahe mamafa
 ➰ => ➰, laine fakasākisi
 ➿ => ➿, laine fakasākisi lōua
-〽 => 〽, fakaʻilonga liliu faʻahi
 ✳ => ✳, fakaʻilonga fakafetuʻu huelovalu
 ✴ => ✴, fakaʻilonga fakafetuʻu tapavalu
 ❇ => ❇, ʻilonga fetapatapaki
@@ -1262,10 +1261,6 @@
 ❔ => ❔, fakaʻilonga fehuʻi hinehina
 ❕ => ❕, fakaʻilonga kalanga hinehina
 ❗ => ❗, fakaʻilonga kalanga
-〰 => 〰, fakaʻilonga kohi fafasi
-© => ©, fakaʻilonga mafai-pulusi
-® => ®, fakaʻilonga lēsisita
-™ => ™, fakaʻilonga fefakatauʻaki
 🔠 => 🔠, hū mataʻitohi lahi pē
 🔡 => 🔡, hū mataʻitohi siʻi pē
 🔢 => 🔢, hū mataʻifika pē

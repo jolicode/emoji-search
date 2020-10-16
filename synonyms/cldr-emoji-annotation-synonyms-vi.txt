@@ -1260,7 +1260,6 @@
 ➗ => ➗, chia, dấu, toán
 ➰ => ➰, cong, vòng lặp
 ➿ => ➿, cong, kép, vòng lặp, vòng lặp đôi
-〽 => 〽, ký hiệu, ký hiệu thay đổi luân phiên, thay đổi luân phiên
 ✳ => ✳, dấu hoa thị, dấu hoa thị tám cánh
 ✴ => ✴, ngôi sao tám cánh
 ❇ => ❇, lấp lánh
@@ -1270,10 +1269,6 @@
 ❔ => ❔, chấm, chấm câu, dấu chấm hỏi màu trắng, dấu hỏi, mờ
 ❕ => ❕, cảm thán, chấm, dấu, dấu chấm than màu trắng, mờ
 ❗ => ❗, cảm thán, chấm, dấu, dấu chấm than
-〰 => 〰, dấu, dấu gạch ngang, dấu gạch ngang lượn sóng, lượn sóng
-© => ©, bản quyền
-® => ®, đã đăng ký
-™ => ™, dấu, nhãn hiệu, tm
 🔠 => 🔠, ABCD, chữ, chữ hoa, la tinh, nhập, nhập chữ hoa la tinh
 🔡 => 🔡, abcd, chữ, chữ thường, la tinh, nhập, nhập chữ thường la tinh
 🔢 => 🔢, 1234, nhập, số
