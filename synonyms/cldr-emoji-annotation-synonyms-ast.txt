@@ -161,7 +161,6 @@
 🇲🇫 => 🇲🇫, bandera: Saint Martin
 🇲🇬 => 🇲🇬, bandera: Madagascar
 🇲🇭 => 🇲🇭, bandera: Islles Marshall
-🇲🇰 => 🇲🇰, bandera: Macedonia
 🇲🇱 => 🇲🇱, bandera: Malí
 🇲🇲 => 🇲🇲, bandera: Myanmar (Birmania)
 🇲🇳 => 🇲🇳, bandera: Mongolia

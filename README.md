@@ -73,7 +73,7 @@ PUT /tweets
           "type": "pattern_replace",
           "pattern": "\\uFE0E|\\uFE0F",
           "replace": ""
-        }
+        },
         "english_stop": {
           "type":       "stop",
           "stopwords":  "_english_"

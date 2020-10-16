@@ -94,7 +94,6 @@
 🇪🇷 => 🇪🇷, flagg: Eritrea
 🇪🇸 => 🇪🇸, flagg: Spania
 🇪🇹 => 🇪🇹, flagg: Etiopia
-🇪🇺 => 🇪🇺, flagg: EU
 🇫🇮 => 🇫🇮, flagg: Finland
 🇫🇯 => 🇫🇯, flagg: Fiji
 🇫🇰 => 🇫🇰, flagg: Falklandsøyane
@@ -170,7 +169,7 @@
 🇲🇫 => 🇲🇫, flagg: Saint Martin
 🇲🇬 => 🇲🇬, flagg: Madagaskar
 🇲🇭 => 🇲🇭, flagg: Marshalløyane
-🇲🇰 => 🇲🇰, flagg: Makedonia
+🇲🇰 => 🇲🇰, flagg: Nord-Makedonia
 🇲🇱 => 🇲🇱, flagg: Mali
 🇲🇲 => 🇲🇲, flagg: Myanmar (Burma)
 🇲🇳 => 🇲🇳, flagg: Mongolia
