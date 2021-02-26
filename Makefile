@@ -1,8 +1,8 @@
 TARGET?=7.8.1
 
 # Handle new URL's:
-# https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-oss-6.8.11.tar.gz
-# https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-oss-7.8.1-linux-x86_64.tar.gz
+# https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-6.8.11.tar.gz
+# https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-7.8.1-linux-x86_64.tar.gz
 # https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-7.11.1-linux-x86_64.tar.gz
 
 ifeq (6.8.11, ${TARGET})
@@ -13,7 +13,7 @@ endif
 
 install: ## Download all the deps
 	wget https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-${TARGET_DOWNLOAD}.tar.gz -P bin -nc
-	tar --directory bin/ -xzf bin/elasticsearch-oss-${TARGET_DOWNLOAD}.tar.gz
+	tar --directory bin/ -xzf bin/elasticsearch-${TARGET_DOWNLOAD}.tar.gz
 	cp synonyms/* bin/elasticsearch-${TARGET}/config/
 	./bin/elasticsearch-${TARGET}/bin/elasticsearch-plugin install analysis-icu
 	cd tools/ && composer install
