@@ -1,85 +1,17 @@
 <?php
 
+use Symfony\Component\HttpClient\HttpClient;
+
+include "vendor/autoload.php";
+
 // http://cldr.unicode.org/
 // http://site.icu-project.org/download
-// Should match the ICU plugin version
-$version = "37";
+$version = "38.1";
 
 $zipDir = sprintf('%s/tmp', __DIR__);
 $zipFile = sprintf('%s/core-%s.zip', $zipDir, $version);
 $extractDir = sprintf('%s/core-%s', $zipDir, $version);
 $synonymsDir = realpath(sprintf('%s/../../synonyms/', $zipDir));
-
-CONST COMPLETELY_ELIMINATED_BY_ANALYZER = [
-    '002A' => '*',
-    'FF03' => '＃',
-    '002B' => '+',
-    '002F' => '/',
-    '002D' => '-',
-    '2212' => '−',
-    '2013' => '–',
-    '2014' => '—',
-    '00F7' => '÷',
-    '0021' => '!',
-    'FF01' => '！',
-    'FF1F' => '？',
-    '0021_double' => '!!',
-    'FF01_double' => '！！',
-    '003F' => '?',
-    '0021_003F' => '!?',
-    'FF01_FF1F' => '！？',
-    '061F' => '؟',
-    '061F_0021' => '؟!',
-    '204A_0025' => '⁊%',
-    '2713' => '✓',
-    '00D7' => '×',
-    '00AB' => '«',
-    '00BB' => '»',
-    '00B7' => '·',
-    '00A7' => '§',
-    '2190' => '←',
-    '2192' => '→',
-    '2191' => '↑',
-    '2193' => '↓',
-    '21C5' => '⇅',
-    '21C6' => '⇆',
-    '2020' => '†',
-    '2021' => '‡',
-    '2022' => '•',
-    '00B0' => '°',
-    '2117' => '℗',
-    '2206' => '∆',
-    '2207' => '∇',
-    '2208' => '∈',
-    '207B' => '⁻',
-    '221A' => '√',
-    '221E' => '∞',
-    '2229' => '∩',
-    '222A' => '∪',
-    '2261' => '≡',
-    '2282' => '⊂',
-    '25B2' => '▲',
-    '25BC' => '▼',
-    '25CA' => '◊',
-    '25CB' => '○',
-    '25CF' => '●',
-    '25EF' => '◯',
-    '00A3' => '£',
-    '00A5' => '¥',
-    '20AC' => '€',
-    '20B9' => '₹',
-    '20BD' => '₽',
-    '00B9' => '¹',
-    '00B2' => '²',
-    '00B3' => '³',
-    '00B5' => 'µ',
-    // removed with icu_tokenizer
-    '303D' => '〽',
-    '3030' => '〰',
-    '00A9' => '©',
-    '00AE' => '®',
-    '2122' => '™',
-];
 
 // Get the ZIP
 if (!file_exists($zipFile)) {
@@ -126,7 +58,7 @@ function filterSynonyms($synonyms)
     // Remove the obvious
     $synonyms = array_filter($synonyms, function ($synonym) {
         if (in_array($synonym, COMPLETELY_ELIMINATED_BY_ANALYZER)) {
-            echo "Bypass synonym $synonym, spotted as COMPLETELY_ELIMINATED_BY_ANALYZER.\n";
+            //echo "Bypass synonym $synonym, spotted as COMPLETELY_ELIMINATED_BY_ANALYZER.\n";
             return false;
         }
 
@@ -145,7 +77,7 @@ function filterSynonyms($synonyms)
 
         $cleanString = str_replace($withSpaceBefore, ' ', $synonym);
         if ($cleanString !== $synonym) {
-            echo "Edit synonym $synonym, spotted a COMPLETELY_ELIMINATED_BY_ANALYZER char.\n";
+            //echo "Edit synonym $synonym, spotted a COMPLETELY_ELIMINATED_BY_ANALYZER char.\n";
             $synonym = $cleanString;
         }
 
@@ -155,7 +87,7 @@ function filterSynonyms($synonyms)
 
         $cleanString = str_replace($withSpaceAfter, ' ', $synonym);
         if ($cleanString !== $synonym) {
-            echo "Edit synonym $synonym, spotted a COMPLETELY_ELIMINATED_BY_ANALYZER char.\n";
+            //echo "Edit synonym $synonym, spotted a COMPLETELY_ELIMINATED_BY_ANALYZER char.\n";
             $synonym = $cleanString;
         }
     });
@@ -165,10 +97,13 @@ function filterSynonyms($synonyms)
 
 function filterEmoji($emoji)
 {
+    if (empty($emoji)) {
+        return true;
+    }
 
     $cleanString = str_replace(COMPLETELY_ELIMINATED_BY_ANALYZER, '', $emoji);
     if ($cleanString !== $emoji) {
-        echo "Bypass line $emoji, spotted a COMPLETELY_ELIMINATED_BY_ANALYZER char.\n";
+        //echo "Bypass line $emoji, spotted a COMPLETELY_ELIMINATED_BY_ANALYZER char.\n";
         return true;
     }
 
@@ -206,7 +141,8 @@ function derivedAnnotationXmlToSynonyms(SimpleXMLElement $xml)
 
     foreach ($xml->annotations->children() as $annotation) {
         $codePoint = mb_ord((string) $annotation['cp']);
-        $isFlag = $codePoint <= 127487 && $codePoint >= 127462;
+        $hasBlackFlag = mb_strpos((string) $annotation['cp'], "\u{1F3F4}") !== false;
+        $isFlag = ($codePoint <= 127487 && $codePoint >= 127462) || $hasBlackFlag;
         $isKeycap = mb_strpos((string) $annotation['cp'], "\u{20E3}") !== false;
 
         //echo (string) $annotation['cp'];
@@ -231,10 +167,6 @@ function derivedAnnotationXmlToSynonyms(SimpleXMLElement $xml)
         $synonyms = array_filter(array_map('trim', explode('|', (string) $annotation)));
         $synonyms = filterSynonyms($synonyms);
 
-        if (strpos(implode(', ', $synonyms), '*')) {
-            var_dump($synonyms, $emoji);die();
-        }
-
         $synonymsContent .= $emoji." => ".$emoji.", ". implode(', ', $synonyms);
         $synonymsContent .= "\n";
     }
@@ -243,13 +175,70 @@ function derivedAnnotationXmlToSynonyms(SimpleXMLElement $xml)
 }
 
 // Remove old versions
+echo "Delete old files\n";
 foreach(glob($synonymsDir.'/*.txt') as $file) {
     unlink($file);
 }
 
+// Build the Blacklist, based on Elasticsearch behavior
+echo "Build list of ALL the terms and emoji\n";
+$masterList = [];
+foreach (glob($extractDir."/common/annotations/*.xml") as $filename) {
+    $lang = basename($filename, ".xml");
+    if ($lang === 'root') {
+        continue;
+    }
+
+    $xml = simplexml_load_file($filename);
+
+    foreach ($xml->annotations->children() as $annotation) {
+        if ((string) $annotation['type'] === 'tts') { // Ignore Text To Speech
+            continue;
+        }
+        $synonyms = array_filter(array_map('trim', explode('|', (string) $annotation)));
+
+        $masterList[] = (string) $annotation['cp'];
+
+        // also inspect the annotations! huge impact.
+        foreach ($synonyms as $synonym) {
+            $masterList[] = $synonym;
+        }
+    }
+}
+
+$masterList = array_unique($masterList);
+
+// Ask Elasticsearch for each token
+$blackList = [];
+$client = HttpClient::createForBaseUri('http://localhost:9200');
+
+echo "Send each emoji / term to Lucene. Rejected: \n";
+foreach ($masterList as $emoji) {
+    if (preg_match('/[a-zA-Z]{1,}/', $emoji) === 1) {
+        continue; // this is some simple text, allow automatically
+    }
+
+    $response = $client->request('GET', '/_analyze', [
+        'json' => [
+            'tokenizer' => 'icu_tokenizer', // more restrictive than standard! O_O
+            'text' => $emoji,
+        ]
+    ]);
+
+    $tokens = $response->toArray(false);
+    if (empty($tokens['tokens'])) {
+        echo $emoji.", ";
+        $blackList[] = $emoji;
+    }
+}
+
+define('COMPLETELY_ELIMINATED_BY_ANALYZER', $blackList);
+
+echo "\n";
+echo "Build emoji for each lang\n";
 // Read emoji annotations
 foreach (glob($extractDir."/common/annotations/*.xml") as $filename) {
-    echo "Read $filename\n";
+    //echo "Read $filename\n";
 
     $lang = basename($filename, ".xml");
 
@@ -262,13 +251,14 @@ foreach (glob($extractDir."/common/annotations/*.xml") as $filename) {
     file_put_contents($synonymsDir.'/cldr-emoji-annotation-synonyms-'.$lang.'.txt', $synonymsContent);
 }
 
+echo "Build emoji derived (compositions) for each lang\n";
 // Read emoji derived annotations
 foreach (glob($extractDir."/common/annotationsDerived/*.xml") as $filename) {
-    echo "Read $filename\n";
+    //echo "Read $filename\n";
 
     $lang = basename($filename, ".xml");
     if (!file_exists($synonymsDir.'/cldr-emoji-annotation-synonyms-'.$lang.'.txt')) {
-        echo "No annotations for $lang, skip derived.\n";
+        //echo "No annotations for $lang, skip derived.\n";
         continue;
     }
 
@@ -276,3 +266,5 @@ foreach (glob($extractDir."/common/annotationsDerived/*.xml") as $filename) {
 
     file_put_contents($synonymsDir.'/cldr-emoji-annotation-synonyms-'.$lang.'.txt', $synonymsContent, FILE_APPEND);
 }
+
+echo "All done! ✔️\n";
