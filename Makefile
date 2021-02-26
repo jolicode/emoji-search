@@ -12,7 +12,7 @@ else
 endif
 
 install: ## Download all the deps
-	wget https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-${TARGET_DOWNLOAD}.tar.gz -P bin -nc
+	wget https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-${TARGET_DOWNLOAD}.tar.gz -P bin -nc -nv
 	tar --directory bin/ -xzf bin/elasticsearch-${TARGET_DOWNLOAD}.tar.gz
 	cp synonyms/* bin/elasticsearch-${TARGET}/config/
 	./bin/elasticsearch-${TARGET}/bin/elasticsearch-plugin install analysis-icu
