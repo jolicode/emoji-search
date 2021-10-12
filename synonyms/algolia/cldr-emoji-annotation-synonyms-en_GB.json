@@ -1,0 +1,173 @@
+[
+  {
+    "type": "onewaysynonym",
+    "input": "😵‍💫",
+    "synonyms": [
+      "😵‍💫",
+      "dizzy",
+      "face with spiral eyes",
+      "hypnotised",
+      "spiral",
+      "trouble",
+      "whoa"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍶",
+    "synonyms": [
+      "🍶",
+      "bar",
+      "beverage",
+      "bottle",
+      "cup",
+      "drink",
+      "sake",
+      "saké"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚙",
+    "synonyms": [
+      "🚙",
+      "4x4",
+      "off-road vehicle",
+      "sport utility",
+      "sport utility vehicle"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏓",
+    "synonyms": [
+      "🏓",
+      "ball",
+      "bat",
+      "game",
+      "paddle",
+      "ping pong",
+      "table tennis"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔧",
+    "synonyms": [
+      "🔧",
+      "spanner",
+      "tool",
+      "wrench"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦯",
+    "synonyms": [
+      "🦯",
+      "accessibility",
+      "blind",
+      "guide cane"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🩹",
+    "synonyms": [
+      "🩹",
+      "injury",
+      "plaster",
+      "sticking plaster"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🪒",
+    "synonyms": [
+      "🪒",
+      "cut-throat",
+      "razor",
+      "sharp",
+      "shave"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚰",
+    "synonyms": [
+      "🚰",
+      "drinking",
+      "potable",
+      "water"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔄",
+    "synonyms": [
+      "🔄",
+      "anticlockwise",
+      "anticlockwise arrows button",
+      "arrow",
+      "counterclockwise",
+      "counterclockwise arrows button",
+      "withershins"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇧🇱",
+    "synonyms": [
+      "🇧🇱",
+      "flag St Barthélemy"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇰🇳",
+    "synonyms": [
+      "🇰🇳",
+      "flag St Kitts  Nevis"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇱🇨",
+    "synonyms": [
+      "🇱🇨",
+      "flag St Lucia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇫",
+    "synonyms": [
+      "🇲🇫",
+      "flag St Martin"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇵🇲",
+    "synonyms": [
+      "🇵🇲",
+      "flag St Pierre  Miquelon"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇸🇭",
+    "synonyms": [
+      "🇸🇭",
+      "flag St Helena"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇻🇨",
+    "synonyms": [
+      "🇻🇨",
+      "flag St Vincent  the Grenadines"
+    ]
+  }
+]

@@ -1,0 +1,12017 @@
+[
+  {
+    "type": "onewaysynonym",
+    "input": "😀",
+    "synonyms": [
+      "😀",
+      "glad",
+      "grinende ansigt",
+      "smilende ansigt",
+      "smiley"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😃",
+    "synonyms": [
+      "😃",
+      "glad",
+      "smilende ansigt med åben mund",
+      "smiler",
+      "smiley"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😄",
+    "synonyms": [
+      "😄",
+      "glad",
+      "smil",
+      "smilende ansigt med åben mund og smilende øjne",
+      "smileøjne",
+      "smiley"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😁",
+    "synonyms": [
+      "😁",
+      "ansigt der griner",
+      "glad",
+      "grinende ansigt med smilende øjne",
+      "smiley"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😆",
+    "synonyms": [
+      "😆",
+      "glad",
+      "lukkede øjne",
+      "smil",
+      "smil med lukkede øjne",
+      "smilende ansigt med åben mund og lukkede øjne"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😅",
+    "synonyms": [
+      "😅",
+      "smil med koldsved",
+      "smilende ansigt med åben mund og koldsved"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤣",
+    "synonyms": [
+      "🤣",
+      "ansigt",
+      "grine",
+      "griner",
+      "gulv",
+      "latter",
+      "ler",
+      "ruller",
+      "ruller rundt på gulvet af grin",
+      "vrider sig"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😂",
+    "synonyms": [
+      "😂",
+      "ansigt med glædestårer",
+      "glad",
+      "glæde",
+      "tårer"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🙂",
+    "synonyms": [
+      "🙂",
+      "ansigt",
+      "let smilende ansigt",
+      "smil"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🙃",
+    "synonyms": [
+      "🙃",
+      "ansigt",
+      "omvendt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😉",
+    "synonyms": [
+      "😉",
+      "ansigt",
+      "ansigt der blinker",
+      "blink",
+      "blinkende ansigt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😊",
+    "synonyms": [
+      "😊",
+      "smil med smileøjne",
+      "smilende ansigt og øjne",
+      "smileøjne"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😇",
+    "synonyms": [
+      "😇",
+      "ansigt",
+      "glorie",
+      "smil",
+      "smilende ansigt med glorie"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😍",
+    "synonyms": [
+      "😍",
+      "hjerteøjne",
+      "hjerter",
+      "kærlighed",
+      "smilende ansigt med hjertøjne"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😘",
+    "synonyms": [
+      "😘",
+      "ansigt",
+      "kyssende ansigt",
+      "sender kys"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😗",
+    "synonyms": [
+      "😗",
+      "ansigt",
+      "kys",
+      "kysseansigt",
+      "kysser"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "☺",
+    "synonyms": [
+      "☺",
+      "smil",
+      "smilende ansigt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😚",
+    "synonyms": [
+      "😚",
+      "ansigt",
+      "kys",
+      "kysseansigt med lukkede øjne",
+      "lukkede øjne"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😙",
+    "synonyms": [
+      "😙",
+      "ansigt",
+      "kysseansigt med smilende øjne",
+      "smilende øjne"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😋",
+    "synonyms": [
+      "😋",
+      "ansigt",
+      "god mad",
+      "nydende ansigt",
+      "smil"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😛",
+    "synonyms": [
+      "😛",
+      "ansigt",
+      "ansigt med tungen ude"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😜",
+    "synonyms": [
+      "😜",
+      "ansigt",
+      "ansigt med tungen ude og blinkende øje",
+      "blink",
+      "driller"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😝",
+    "synonyms": [
+      "😝",
+      "ansigt",
+      "ansigt med tungen ude og sammenknebne øjne",
+      "rækker tunge"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤑",
+    "synonyms": [
+      "🤑",
+      "ansigt",
+      "ansigt med dollartegn",
+      "mund",
+      "penge"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤗",
+    "synonyms": [
+      "🤗",
+      "ansigt",
+      "knus",
+      "knuser",
+      "kram",
+      "kramme",
+      "krammende ansigt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤔",
+    "synonyms": [
+      "🤔",
+      "ansigt",
+      "tænkende",
+      "tanker"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤐",
+    "synonyms": [
+      "🤐",
+      "ansigt",
+      "ansigt med lynlåsmund",
+      "lynlås",
+      "mund"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😐",
+    "synonyms": [
+      "😐",
+      "ingen kommentar",
+      "neutralt ansigt",
+      "pokeransigt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😑",
+    "synonyms": [
+      "😑",
+      "ingen kommentar",
+      "pokeransigt",
+      "udtryksløst ansigt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😶",
+    "synonyms": [
+      "😶",
+      "ansigt",
+      "ansigt uden mund",
+      "mund",
+      "stille",
+      "tavs"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😏",
+    "synonyms": [
+      "😏",
+      "ansigt",
+      "ansigt med smørret grin",
+      "smørret"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😒",
+    "synonyms": [
+      "😒",
+      "ansigt",
+      "ikke glad",
+      "uimponeret ansigt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🙄",
+    "synonyms": [
+      "🙄",
+      "ansigt",
+      "ansigt med rullende øjne",
+      "øjne",
+      "rullende"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😬",
+    "synonyms": [
+      "😬",
+      "ansigt",
+      "lave grimasse",
+      "sammenbidt ansigt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤥",
+    "synonyms": [
+      "🤥",
+      "ansigt",
+      "lang næse",
+      "løgn",
+      "løgneransigt",
+      "lyver",
+      "pinocchio"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😌",
+    "synonyms": [
+      "😌",
+      "ansigt",
+      "lettelse",
+      "lettet ansigt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😔",
+    "synonyms": [
+      "😔",
+      "ansigt",
+      "eftertænksom",
+      "eftertænksomt ansigt",
+      "nedslået"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😪",
+    "synonyms": [
+      "😪",
+      "ansigt",
+      "dyb søvn",
+      "træt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤤",
+    "synonyms": [
+      "🤤",
+      "ansigt",
+      "savl",
+      "savlende ansigt",
+      "savler"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😴",
+    "synonyms": [
+      "😴",
+      "ansigt",
+      "sove",
+      "sovende ansigt",
+      "søvn"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😷",
+    "synonyms": [
+      "😷",
+      "ansigt",
+      "ansigt med maske",
+      "doktor",
+      "forkølelse",
+      "maske",
+      "medicin",
+      "syg"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤒",
+    "synonyms": [
+      "🤒",
+      "ansigt",
+      "ansigt med termometer",
+      "syg",
+      "termometer"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤕",
+    "synonyms": [
+      "🤕",
+      "ansigt",
+      "ansigt med bandage",
+      "bandage",
+      "skade",
+      "smerte"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤢",
+    "synonyms": [
+      "🤢",
+      "ansigt",
+      "ansigt med kvalme",
+      "bræk",
+      "kaster op",
+      "kvalme",
+      "kvalmeansigt",
+      "opkast",
+      "syg",
+      "sygdom"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤧",
+    "synonyms": [
+      "🤧",
+      "forkølet",
+      "lommetørklæde",
+      "nys",
+      "nysende ansigt",
+      "nyser",
+      "prosit",
+      "pudser næse",
+      "syg",
+      "sygdom"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😵",
+    "synonyms": [
+      "😵",
+      "ansigt",
+      "ør",
+      "svimmel",
+      "svimmelt ansigt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤠",
+    "synonyms": [
+      "🤠",
+      "ansigt",
+      "cowboyhat",
+      "cowgirl",
+      "hat"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😎",
+    "synonyms": [
+      "😎",
+      "ansigt",
+      "sej",
+      "smil med solbriller",
+      "smilende ansigt med solbriller",
+      "solbriller"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤓",
+    "synonyms": [
+      "🤓",
+      "ansigt",
+      "nørd",
+      "nørdansigt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😕",
+    "synonyms": [
+      "😕",
+      "ansigt",
+      "forvirret ansigt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😟",
+    "synonyms": [
+      "😟",
+      "ansigt",
+      "bekymret",
+      "bekymring"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🙁",
+    "synonyms": [
+      "🙁",
+      "ansigt",
+      "lidt trist ansigt",
+      "trist"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "☹",
+    "synonyms": [
+      "☹",
+      "ansigt",
+      "trist"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😮",
+    "synonyms": [
+      "😮",
+      "ansigt",
+      "ansigt med åben mund"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😯",
+    "synonyms": [
+      "😯",
+      "stille ansigt",
+      "tavst ansigt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😲",
+    "synonyms": [
+      "😲",
+      "chokeret",
+      "overrasket ansigt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😳",
+    "synonyms": [
+      "😳",
+      "røde kinder",
+      "rødmende ansigt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😦",
+    "synonyms": [
+      "😦",
+      "åben mund",
+      "ansigt",
+      "måbende ansigt med åben mund",
+      "rynkede bryn"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😧",
+    "synonyms": [
+      "😧",
+      "ansigt",
+      "forpint ansigt",
+      "lider",
+      "smerte"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😨",
+    "synonyms": [
+      "😨",
+      "bange ansigt",
+      "frygt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😰",
+    "synonyms": [
+      "😰",
+      "åben mund",
+      "ansigt med åben mund og koldsved",
+      "blå i ansigtet",
+      "koldsved"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😥",
+    "synonyms": [
+      "😥",
+      "skuffet men lettet",
+      "skuffet men lettet ansigt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😢",
+    "synonyms": [
+      "😢",
+      "ansigt",
+      "grædende ansigt",
+      "ked af det",
+      "tårer"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😭",
+    "synonyms": [
+      "😭",
+      "grådkvalt ansigt",
+      "græder",
+      "tårer"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😱",
+    "synonyms": [
+      "😱",
+      "angst",
+      "skrigende ansigt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😖",
+    "synonyms": [
+      "😖",
+      "ansigt",
+      "forbandet",
+      "forbistret ansigt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😣",
+    "synonyms": [
+      "😣",
+      "stædigt ansigt",
+      "udholdenhed"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😞",
+    "synonyms": [
+      "😞",
+      "ansigt",
+      "skuffet ansigt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😓",
+    "synonyms": [
+      "😓",
+      "ansigt",
+      "ansigt med koldsved"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😩",
+    "synonyms": [
+      "😩",
+      "udkørt",
+      "udmattet",
+      "udmattet ansigt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😫",
+    "synonyms": [
+      "😫",
+      "ansigt",
+      "træt ansigt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😤",
+    "synonyms": [
+      "😤",
+      "fnysende ansigt",
+      "jeg vandt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😡",
+    "synonyms": [
+      "😡",
+      "rød",
+      "surt ansigt",
+      "vred",
+      "vredt ansigt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😠",
+    "synonyms": [
+      "😠",
+      "ansigt",
+      "vredt ansigt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😈",
+    "synonyms": [
+      "😈",
+      "ansigt",
+      "horn",
+      "smil",
+      "smilende ansigt med horn"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👿",
+    "synonyms": [
+      "👿",
+      "lilla djævel",
+      "lille djævel"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💀",
+    "synonyms": [
+      "💀",
+      "dødningehoved",
+      "kranium"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "☠",
+    "synonyms": [
+      "☠",
+      "ansigt",
+      "død",
+      "korslagte knogler",
+      "kranie",
+      "kranie og korslagte knogler",
+      "kranium",
+      "krop",
+      "monster"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💩",
+    "synonyms": [
+      "💩",
+      "bæ",
+      "bunke bæ"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤡",
+    "synonyms": [
+      "🤡",
+      "ansigt",
+      "klovn",
+      "klovneansigt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👹",
+    "synonyms": [
+      "👹",
+      "japansk uhyre",
+      "monster",
+      "trold"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👺",
+    "synonyms": [
+      "👺",
+      "ånd",
+      "japansk ånd"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👻",
+    "synonyms": [
+      "👻",
+      "ansigt",
+      "eventyr",
+      "fantasi",
+      "gespenst",
+      "monster",
+      "spøgelse",
+      "væsen"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👽",
+    "synonyms": [
+      "👽",
+      "rumvæsen"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👾",
+    "synonyms": [
+      "👾",
+      "alien",
+      "alien-monster",
+      "ansigt",
+      "eventyr",
+      "fantasi",
+      "rummet",
+      "rumvæsen",
+      "ufo"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤖",
+    "synonyms": [
+      "🤖",
+      "ansigt",
+      "monster",
+      "robotansigt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😺",
+    "synonyms": [
+      "😺",
+      "glad kat",
+      "kat smiler"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😸",
+    "synonyms": [
+      "😸",
+      "kat",
+      "kat griner"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😹",
+    "synonyms": [
+      "😹",
+      "kat",
+      "kat med glædestårer"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😻",
+    "synonyms": [
+      "😻",
+      "glad kat med hjerter",
+      "kat smiler"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😼",
+    "synonyms": [
+      "😼",
+      "ironisk kat",
+      "kat med ironisk smil"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😽",
+    "synonyms": [
+      "😽",
+      "kat",
+      "kyssende kat med lukkede øjne",
+      "kysser"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🙀",
+    "synonyms": [
+      "🙀",
+      "overrasket kat",
+      "træt kat"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😿",
+    "synonyms": [
+      "😿",
+      "grædende kat",
+      "kat græder"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😾",
+    "synonyms": [
+      "😾",
+      "sur kat",
+      "surmulende kat"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🙈",
+    "synonyms": [
+      "🙈",
+      "ikke se",
+      "tre vise aber"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🙉",
+    "synonyms": [
+      "🙉",
+      "ikke høre",
+      "tre vise aber"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🙊",
+    "synonyms": [
+      "🙊",
+      "ikke tale",
+      "tre vise aber"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💋",
+    "synonyms": [
+      "💋",
+      "læbeaftryk",
+      "læber",
+      "romantik"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💌",
+    "synonyms": [
+      "💌",
+      "brev med hjerte",
+      "kærlighedsbrev"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💘",
+    "synonyms": [
+      "💘",
+      "følelser",
+      "hjerte",
+      "hjerte med pil",
+      "kærlighed",
+      "pil"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💝",
+    "synonyms": [
+      "💝",
+      "bånd",
+      "følelser",
+      "hjerte",
+      "hjerte med bånd"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💖",
+    "synonyms": [
+      "💖",
+      "følelser",
+      "gnister",
+      "hjerte med stjerner",
+      "kærlighed"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💗",
+    "synonyms": [
+      "💗",
+      "følelser",
+      "hjerte",
+      "kærlighed",
+      "nervøs",
+      "voksende hjerte"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💓",
+    "synonyms": [
+      "💓",
+      "bankende hjerte",
+      "hjerte",
+      "kærlighed",
+      "romantik"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💞",
+    "synonyms": [
+      "💞",
+      "følelser",
+      "hjerter",
+      "roterende hjerter"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💕",
+    "synonyms": [
+      "💕",
+      "kærlighed",
+      "romantik",
+      "to hjerter"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💟",
+    "synonyms": [
+      "💟",
+      "hjerte",
+      "hjertedekoration"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "❣",
+    "synonyms": [
+      "❣",
+      "hjerte",
+      "hjerte som udråbstegn",
+      "tegnsætning",
+      "udråbstegn"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💔",
+    "synonyms": [
+      "💔",
+      "knust hjerte",
+      "ulykkelig kærlighed"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "❤",
+    "synonyms": [
+      "❤",
+      "hjerte",
+      "rødt hjerte"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💛",
+    "synonyms": [
+      "💛",
+      "følelser",
+      "gul",
+      "gult hjerte",
+      "hjerte"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💚",
+    "synonyms": [
+      "💚",
+      "følelser",
+      "grøn",
+      "grønt hjerte",
+      "hjerte"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💙",
+    "synonyms": [
+      "💙",
+      "blå",
+      "blåt hjerte",
+      "følelser",
+      "hjerte"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💜",
+    "synonyms": [
+      "💜",
+      "følelser",
+      "hjerte",
+      "violet"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🖤",
+    "synonyms": [
+      "🖤",
+      "hjerte",
+      "ondskab",
+      "ondt",
+      "sort"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💯",
+    "synonyms": [
+      "💯",
+      "100 point",
+      "alle rigtige",
+      "hundrede",
+      "point"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💢",
+    "synonyms": [
+      "💢",
+      "følelse",
+      "tegn for vrede",
+      "vrede"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💥",
+    "synonyms": [
+      "💥",
+      "følelser",
+      "kollision",
+      "kollitionstegn"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💫",
+    "synonyms": [
+      "💫",
+      "følelser",
+      "se stjerner",
+      "svimmel"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💦",
+    "synonyms": [
+      "💦",
+      "følelser",
+      "sveddråber"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💨",
+    "synonyms": [
+      "💨",
+      "er løbet",
+      "følelser",
+      "løber væk",
+      "smutter"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕳",
+    "synonyms": [
+      "🕳",
+      "hul",
+      "sort"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💣",
+    "synonyms": [
+      "💣",
+      "bombe",
+      "følelse"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💬",
+    "synonyms": [
+      "💬",
+      "tale",
+      "taleboble"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👁‍🗨",
+    "synonyms": [
+      "👁‍🗨",
+      "øje",
+      "øje i taleboble",
+      "se",
+      "taleboble",
+      "vidne"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🗨",
+    "synonyms": [
+      "🗨",
+      "dialog",
+      "snak",
+      "tale",
+      "taleboble til venstre"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🗯",
+    "synonyms": [
+      "🗯",
+      "ballon",
+      "boble",
+      "mad",
+      "vred",
+      "vred taleboble til højre"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💭",
+    "synonyms": [
+      "💭",
+      "tanke",
+      "tankeboble"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💤",
+    "synonyms": [
+      "💤",
+      "følelse",
+      "snorke",
+      "sove",
+      "søvnig"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👋",
+    "synonyms": [
+      "👋",
+      "hånd",
+      "vinker"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤚",
+    "synonyms": [
+      "🤚",
+      "baghånd",
+      "hånd",
+      "krop",
+      "løftet"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🖐",
+    "synonyms": [
+      "🖐",
+      "hånd",
+      "hånd med spredte fingre",
+      "krop",
+      "spredte"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "✋",
+    "synonyms": [
+      "✋",
+      "hånd",
+      "krop",
+      "løftet hånd"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🖖",
+    "synonyms": [
+      "🖖",
+      "finger",
+      "hånd",
+      "krop",
+      "vulcan-hilsen"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👌",
+    "synonyms": [
+      "👌",
+      "OK-håndtegn",
+      "ok-tegn",
+      "OK-tegn"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "✌",
+    "synonyms": [
+      "✌",
+      "v-tegn",
+      "V-tegn",
+      "yeah"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤞",
+    "synonyms": [
+      "🤞",
+      "finger",
+      "håb",
+      "hånd",
+      "held og lykke",
+      "krop",
+      "krydsede fingre",
+      "krydser fingre"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤘",
+    "synonyms": [
+      "🤘",
+      "djævletegn",
+      "finger",
+      "hånd",
+      "heavy metal",
+      "horn",
+      "krop"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤙",
+    "synonyms": [
+      "🤙",
+      "hånd",
+      "krop",
+      "opringning",
+      "ring til mig-hånd",
+      "ringer",
+      "telefonhånd"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👈",
+    "synonyms": [
+      "👈",
+      "finger",
+      "finger peger til venstre",
+      "pegefinger",
+      "peger til venstre",
+      "venstre"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👉",
+    "synonyms": [
+      "👉",
+      "finger",
+      "finger peger til højre",
+      "højre",
+      "pegefinger",
+      "peger til højre"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👆",
+    "synonyms": [
+      "👆",
+      "finger",
+      "finger peger op",
+      "pegefinger",
+      "peger op"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🖕",
+    "synonyms": [
+      "🖕",
+      "finger",
+      "hånd",
+      "krop",
+      "langefinger"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👇",
+    "synonyms": [
+      "👇",
+      "finger",
+      "finger peger ned",
+      "ned",
+      "pegefinger",
+      "peger ned"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "☝",
+    "synonyms": [
+      "☝",
+      "finger",
+      "hånd",
+      "krop",
+      "op",
+      "opadvendt",
+      "pege",
+      "pegefinger"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👍",
+    "synonyms": [
+      "👍",
+      "håndtegn",
+      "tommelfinger op"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👎",
+    "synonyms": [
+      "👎",
+      "håndtegn",
+      "tommelfinger ned"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "✊",
+    "synonyms": [
+      "✊",
+      "hånd",
+      "knytnæve",
+      "knyttet",
+      "krop",
+      "løftet knytnæve",
+      "slå"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👊",
+    "synonyms": [
+      "👊",
+      "hånd",
+      "knytnæve",
+      "knyttet hånd"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤛",
+    "synonyms": [
+      "🤛",
+      "hånd",
+      "hånd knyttet mod venstre",
+      "knytnæve",
+      "knyttet hånd",
+      "krop",
+      "venstre",
+      "venstrevendt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤜",
+    "synonyms": [
+      "🤜",
+      "hånd",
+      "hånd knyttet mod højre",
+      "højre",
+      "højrevendt",
+      "knytnæve",
+      "knyttet hånd",
+      "krop"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👏",
+    "synonyms": [
+      "👏",
+      "hænder klapper",
+      "håndtegn",
+      "klapper"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🙌",
+    "synonyms": [
+      "🙌",
+      "begge hænder oppe",
+      "hurra"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👐",
+    "synonyms": [
+      "👐",
+      "åbne hænder",
+      "åbne hænder-tegn",
+      "håndtegn"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤝",
+    "synonyms": [
+      "🤝",
+      "enighed",
+      "hænder",
+      "hånd",
+      "håndtryk",
+      "hilsen",
+      "hilser",
+      "krop",
+      "mødes"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🙏",
+    "synonyms": [
+      "🙏",
+      "bøn",
+      "foldede hænder"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "✍",
+    "synonyms": [
+      "✍",
+      "hånd",
+      "krop",
+      "skrive",
+      "skrivende hånd"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💅",
+    "synonyms": [
+      "💅",
+      "kosmetik",
+      "negle",
+      "neglelak"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤳",
+    "synonyms": [
+      "🤳",
+      "arm",
+      "foto",
+      "fotograf",
+      "fotograferer",
+      "fotografi",
+      "kamera",
+      "mobil",
+      "mobiltelefon",
+      "selfie",
+      "tager billeder",
+      "telefon"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💪",
+    "synonyms": [
+      "💪",
+      "armmuskler",
+      "muskel",
+      "stærk"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👂",
+    "synonyms": [
+      "👂",
+      "høre",
+      "krop",
+      "øre"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👃",
+    "synonyms": [
+      "👃",
+      "dufte",
+      "krop",
+      "lugte ansigt",
+      "næse"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👀",
+    "synonyms": [
+      "👀",
+      "ansigt",
+      "øjne",
+      "se"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👁",
+    "synonyms": [
+      "👁",
+      "krop",
+      "øje"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👅",
+    "synonyms": [
+      "👅",
+      "krop",
+      "smage",
+      "tunge"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👄",
+    "synonyms": [
+      "👄",
+      "ansigt",
+      "krop",
+      "læber",
+      "mund"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👶",
+    "synonyms": [
+      "👶",
+      "baby",
+      "barn",
+      "menneske"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👦",
+    "synonyms": [
+      "👦",
+      "dreng",
+      "menneske",
+      "person"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👧",
+    "synonyms": [
+      "👧",
+      "menneske",
+      "person",
+      "pige"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👱",
+    "synonyms": [
+      "👱",
+      "blond person",
+      "menneske",
+      "person"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨",
+    "synonyms": [
+      "👨",
+      "mand",
+      "menneske",
+      "person"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👱‍♂",
+    "synonyms": [
+      "👱‍♂",
+      "blond",
+      "lyshåret",
+      "mand"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩",
+    "synonyms": [
+      "👩",
+      "kvinde",
+      "menneske",
+      "person"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👱‍♀",
+    "synonyms": [
+      "👱‍♀",
+      "blond kvinde",
+      "blondine",
+      "kvinde",
+      "lyshåret"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👴",
+    "synonyms": [
+      "👴",
+      "gammel mand",
+      "mand",
+      "menneske"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👵",
+    "synonyms": [
+      "👵",
+      "gammel kvinde",
+      "kvinde",
+      "menneske"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🙍",
+    "synonyms": [
+      "🙍",
+      "rynkede bryn",
+      "udtryk",
+      "utilfreds"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🙍‍♂",
+    "synonyms": [
+      "🙍‍♂",
+      "mand",
+      "mand rynker panden",
+      "rynke panden",
+      "rynkede bryn",
+      "rynket pande",
+      "utilfreds"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🙍‍♀",
+    "synonyms": [
+      "🙍‍♀",
+      "kvinde",
+      "kvinde rynker panden",
+      "rynke panden",
+      "rynkede bryn",
+      "rynket pande",
+      "utilfreds"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🙎",
+    "synonyms": [
+      "🙎",
+      "gestus",
+      "surmule",
+      "surmulende person"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🙎‍♂",
+    "synonyms": [
+      "🙎‍♂",
+      "mand",
+      "mand surmuler",
+      "sur",
+      "surmule",
+      "utilfreds"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🙎‍♀",
+    "synonyms": [
+      "🙎‍♀",
+      "kvinde",
+      "kvinde surmuler",
+      "sur",
+      "surmule",
+      "utilfreds"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🙅",
+    "synonyms": [
+      "🙅",
+      "forbudt",
+      "nej",
+      "signalerer nej"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🙅‍♂",
+    "synonyms": [
+      "🙅‍♂",
+      "forbudt",
+      "gestus",
+      "ikke i orden",
+      "mand",
+      "mand signalerer nej",
+      "nej"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🙅‍♀",
+    "synonyms": [
+      "🙅‍♀",
+      "forbudt",
+      "gestus",
+      "ikke i orden",
+      "kvinde",
+      "kvinde signalerer nej",
+      "nej"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🙆",
+    "synonyms": [
+      "🙆",
+      "allright",
+      "ansigt",
+      "signalerer ok"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🙆‍♂",
+    "synonyms": [
+      "🙆‍♂",
+      "gestus",
+      "i orden",
+      "mand",
+      "mand signalerer ok",
+      "ok",
+      "tilladt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🙆‍♀",
+    "synonyms": [
+      "🙆‍♀",
+      "gestus",
+      "i orden",
+      "kvinde",
+      "kvinde signalerer ok",
+      "ok",
+      "tilladt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💁",
+    "synonyms": [
+      "💁",
+      "hjælp",
+      "information"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💁‍♂",
+    "synonyms": [
+      "💁‍♂",
+      "flabet",
+      "hjælp",
+      "information",
+      "mand",
+      "mand vender håndfladen op"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💁‍♀",
+    "synonyms": [
+      "💁‍♀",
+      "flabet",
+      "håndflade",
+      "hjælp",
+      "information",
+      "kvinde",
+      "kvinde vender håndfladen op"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🙋",
+    "synonyms": [
+      "🙋",
+      "glad person",
+      "hej",
+      "løftet hånd"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🙋‍♂",
+    "synonyms": [
+      "🙋‍♂",
+      "gestus",
+      "hej",
+      "hilsen",
+      "løftet hånd",
+      "mand",
+      "mand med løftet hånd"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🙋‍♀",
+    "synonyms": [
+      "🙋‍♀",
+      "gestus",
+      "hej",
+      "hilsen",
+      "kvinde",
+      "kvinde med løftet hånd",
+      "løftet hånd"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🙇‍♂",
+    "synonyms": [
+      "🙇‍♂",
+      "buk",
+      "mand",
+      "mand bukker dybt",
+      "undskyld",
+      "undskyldning"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🙇‍♀",
+    "synonyms": [
+      "🙇‍♀",
+      "buk",
+      "kvinde",
+      "kvinde bukker dybt",
+      "undskyld",
+      "undskyldning"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤦",
+    "synonyms": [
+      "🤦",
+      "ansigt",
+      "dumt",
+      "facepalm",
+      "hånd",
+      "håndflade",
+      "irritation",
+      "irriteret",
+      "skepsis"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤦‍♂",
+    "synonyms": [
+      "🤦‍♂",
+      "facepalm",
+      "græmmes",
+      "håndflade",
+      "irritation",
+      "irriteret",
+      "mand",
+      "mand slår sig for panden",
+      "skepsis"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤦‍♀",
+    "synonyms": [
+      "🤦‍♀",
+      "facepalm",
+      "græmmes",
+      "håndflade",
+      "irritation",
+      "irriteret",
+      "kvinde",
+      "kvinde slår sig for panden",
+      "skepsis"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤷",
+    "synonyms": [
+      "🤷",
+      "aner det ikke",
+      "ligeglad",
+      "ligegyldighed",
+      "ligegyldigt",
+      "pas",
+      "skulder",
+      "skuldre",
+      "træk",
+      "trækker på skuldrene",
+      "tvivl",
+      "uvidenhed",
+      "ved det ikke",
+      "ved ikke"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤷‍♂",
+    "synonyms": [
+      "🤷‍♂",
+      "ingen anelse",
+      "ligeglad",
+      "ligegyldighed",
+      "mand",
+      "mand trækker på skuldrene",
+      "pas",
+      "skuldre",
+      "tvivl",
+      "uvidenhed"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤷‍♀",
+    "synonyms": [
+      "🤷‍♀",
+      "ingen anelse",
+      "kvinde",
+      "kvinde trækker på skuldrene",
+      "ligeglad",
+      "ligegyldighed",
+      "pas",
+      "skuldre",
+      "tvivl",
+      "uvidenhed"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨‍⚕",
+    "synonyms": [
+      "👨‍⚕",
+      "kittel",
+      "læge",
+      "mand",
+      "mandlig sundhedsperson",
+      "sygeplejerske"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩‍⚕",
+    "synonyms": [
+      "👩‍⚕",
+      "kittel",
+      "kvinde",
+      "kvindelig sundhedsperson",
+      "læge",
+      "sygeplejerske"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨‍🎓",
+    "synonyms": [
+      "👨‍🎓",
+      "dimittend",
+      "eksamenshat",
+      "mand",
+      "studerende"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩‍🎓",
+    "synonyms": [
+      "👩‍🎓",
+      "dimittend",
+      "eksamenshat",
+      "kvinde",
+      "kvindelig studerende",
+      "studerende"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨‍🏫",
+    "synonyms": [
+      "👨‍🏫",
+      "lærer",
+      "mand",
+      "professor",
+      "underviser"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩‍🏫",
+    "synonyms": [
+      "👩‍🏫",
+      "kvinde",
+      "kvindelig lærer",
+      "lærerinde",
+      "professor",
+      "underviser"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨‍⚖",
+    "synonyms": [
+      "👨‍⚖",
+      "dommer",
+      "jura",
+      "lov",
+      "mand",
+      "retfærdighed"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩‍⚖",
+    "synonyms": [
+      "👩‍⚖",
+      "jura",
+      "kvinde",
+      "kvindelig dommer",
+      "lov",
+      "retfærdighed"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨‍🌾",
+    "synonyms": [
+      "👨‍🌾",
+      "bonde",
+      "bondemand",
+      "gartner",
+      "landmand",
+      "mand"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩‍🌾",
+    "synonyms": [
+      "👩‍🌾",
+      "bonde",
+      "gartner",
+      "kvinde",
+      "kvindelig landmand",
+      "landmand"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨‍🍳",
+    "synonyms": [
+      "👨‍🍳",
+      "kok",
+      "madlavning",
+      "mand",
+      "stegepande"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩‍🍳",
+    "synonyms": [
+      "👩‍🍳",
+      "kok",
+      "kvinde",
+      "kvindelig kok",
+      "madlavning",
+      "stegepande"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨‍🔧",
+    "synonyms": [
+      "👨‍🔧",
+      "håndværker",
+      "mand",
+      "mekaniker",
+      "skruenøgle",
+      "værktøj"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩‍🔧",
+    "synonyms": [
+      "👩‍🔧",
+      "håndværker",
+      "kvinde",
+      "kvindelig mekaniker",
+      "mekaniker",
+      "skruenøgle",
+      "værktøj"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨‍🏭",
+    "synonyms": [
+      "👨‍🏭",
+      "arbejder",
+      "fabrik",
+      "fabriksarbejder",
+      "industri",
+      "mand"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩‍🏭",
+    "synonyms": [
+      "👩‍🏭",
+      "arbejder",
+      "fabrik",
+      "industri",
+      "kvinde",
+      "kvindelig fabriksarbejder"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨‍💼",
+    "synonyms": [
+      "👨‍💼",
+      "business",
+      "jakkesæt",
+      "kontor",
+      "kontoransat",
+      "kontormand",
+      "mappe"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩‍💼",
+    "synonyms": [
+      "👩‍💼",
+      "business",
+      "kontor",
+      "kvinde",
+      "kvindelig kontoransat",
+      "mappe"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨‍🔬",
+    "synonyms": [
+      "👨‍🔬",
+      "forsker",
+      "naturvidenskab",
+      "naturvidenskabsmand",
+      "videnskab",
+      "videnskabsmand"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩‍🔬",
+    "synonyms": [
+      "👩‍🔬",
+      "kvinde",
+      "kvindelig forsker",
+      "naturvidenskab",
+      "videnskab",
+      "videnskabsmand"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨‍💻",
+    "synonyms": [
+      "👨‍💻",
+      "computer",
+      "it",
+      "IT-medarbejder",
+      "mand",
+      "pc",
+      "programmør",
+      "skærm",
+      "software",
+      "teknologi",
+      "udvikler"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩‍💻",
+    "synonyms": [
+      "👩‍💻",
+      "computer",
+      "it",
+      "kvinde",
+      "kvindelig IT-medarbejder",
+      "pc",
+      "programmør",
+      "skærm",
+      "software",
+      "udvikler"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨‍🎤",
+    "synonyms": [
+      "👨‍🎤",
+      "entertainer",
+      "karaoke",
+      "mand",
+      "sang",
+      "sanger",
+      "skuespiller",
+      "stjerne",
+      "synge"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩‍🎤",
+    "synonyms": [
+      "👩‍🎤",
+      "entertainer",
+      "karaoke",
+      "kvinde",
+      "sang",
+      "sangerinde",
+      "skuespiller",
+      "stjerne",
+      "synge"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨‍🎨",
+    "synonyms": [
+      "👨‍🎨",
+      "billedkunstner",
+      "kreativ",
+      "kunstmaler",
+      "kunstner",
+      "palet",
+      "pensler"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩‍🎨",
+    "synonyms": [
+      "👩‍🎨",
+      "billedkunstner",
+      "kunstmaler",
+      "kvinde",
+      "kvindelig kunstner",
+      "palet",
+      "pensler"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨‍✈",
+    "synonyms": [
+      "👨‍✈",
+      "fly",
+      "mand",
+      "pilot"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩‍✈",
+    "synonyms": [
+      "👩‍✈",
+      "fly",
+      "kvinde",
+      "kvindelig pilot",
+      "pilot"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨‍🚀",
+    "synonyms": [
+      "👨‍🚀",
+      "astronaut",
+      "mand",
+      "raket",
+      "rumdragt",
+      "rumfartøj",
+      "rummet",
+      "rumskib"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩‍🚀",
+    "synonyms": [
+      "👩‍🚀",
+      "kvinde",
+      "kvindelig astronaut",
+      "raket",
+      "rumdragt",
+      "rumfartøj",
+      "rummet",
+      "rumskib"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨‍🚒",
+    "synonyms": [
+      "👨‍🚒",
+      "brand",
+      "brandbil",
+      "brandmand",
+      "hjelm",
+      "mand"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩‍🚒",
+    "synonyms": [
+      "👩‍🚒",
+      "brand",
+      "brandbil",
+      "hjelm",
+      "kvinde",
+      "kvindelig brandmand"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👮",
+    "synonyms": [
+      "👮",
+      "betjent",
+      "politi",
+      "politibetjent"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👮‍♂",
+    "synonyms": [
+      "👮‍♂",
+      "betjent",
+      "mand",
+      "mandlig politibetjent",
+      "politi",
+      "politimand"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👮‍♀",
+    "synonyms": [
+      "👮‍♀",
+      "betjent",
+      "kvinde",
+      "kvindelig politibetjent",
+      "politi"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕵",
+    "synonyms": [
+      "🕵",
+      "detektiv",
+      "spion"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💂",
+    "synonyms": [
+      "💂",
+      "garder",
+      "garderofficer",
+      "gardist"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💂‍♂",
+    "synonyms": [
+      "💂‍♂",
+      "bevogtning",
+      "livgarde",
+      "mand",
+      "mandlig garder",
+      "sikkerhed",
+      "vagt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💂‍♀",
+    "synonyms": [
+      "💂‍♀",
+      "bevogtning",
+      "kvinde",
+      "kvindelig garder",
+      "livgarde",
+      "sikkerhed",
+      "vagt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👷",
+    "synonyms": [
+      "👷",
+      "arbejder",
+      "byggearbejder",
+      "byggeri"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👷‍♂",
+    "synonyms": [
+      "👷‍♂",
+      "arbejder",
+      "byggearbejder",
+      "byggeri",
+      "bygningsarbejder",
+      "hammer",
+      "mand"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👷‍♀",
+    "synonyms": [
+      "👷‍♀",
+      "arbejder",
+      "byggearbejder",
+      "byggeri",
+      "hammer",
+      "kvinde",
+      "kvindelig bygningsarbejder"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤴",
+    "synonyms": [
+      "🤴",
+      "kongelig",
+      "kongesøn",
+      "krone",
+      "prins",
+      "royal"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👸",
+    "synonyms": [
+      "👸",
+      "eventyr",
+      "menneske",
+      "prinsesse"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👳‍♂",
+    "synonyms": [
+      "👳‍♂",
+      "mand",
+      "mand med turban",
+      "turban"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👳‍♀",
+    "synonyms": [
+      "👳‍♀",
+      "kvinde",
+      "kvinde med turban",
+      "turban"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👲",
+    "synonyms": [
+      "👲",
+      "mand med kinesisk hat",
+      "menneske"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤵",
+    "synonyms": [
+      "🤵",
+      "brudgom",
+      "festdeltager",
+      "festtøj",
+      "gom",
+      "mand",
+      "mand i smoking",
+      "smoking"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👰",
+    "synonyms": [
+      "👰",
+      "brud",
+      "brud med slør"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤰",
+    "synonyms": [
+      "🤰",
+      "gravid",
+      "kvinde",
+      "mave",
+      "mor",
+      "vordende mor"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👼",
+    "synonyms": [
+      "👼",
+      "babyengel",
+      "engel"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎅",
+    "synonyms": [
+      "🎅",
+      "jul",
+      "julemand",
+      "nisse"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤶",
+    "synonyms": [
+      "🤶",
+      "dame",
+      "fru julemand",
+      "jul",
+      "juledame",
+      "julekvinde",
+      "julemandinde",
+      "kvinde"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💆",
+    "synonyms": [
+      "💆",
+      "ansigtsmassage",
+      "salon"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💆‍♂",
+    "synonyms": [
+      "💆‍♂",
+      "ansigt",
+      "mand",
+      "mand får ansigtsmassage",
+      "massage"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💆‍♀",
+    "synonyms": [
+      "💆‍♀",
+      "ansigt",
+      "kvinde",
+      "kvinde får ansigtsmassage",
+      "massage"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💇",
+    "synonyms": [
+      "💇",
+      "frisør",
+      "hår",
+      "klipning"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💇‍♂",
+    "synonyms": [
+      "💇‍♂",
+      "frisør",
+      "hår",
+      "klipning",
+      "klippe",
+      "mand",
+      "mand bliver klippet"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💇‍♀",
+    "synonyms": [
+      "💇‍♀",
+      "frisør",
+      "hår",
+      "klipning",
+      "klippe",
+      "kvinde",
+      "kvinde bliver klippet"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚶",
+    "synonyms": [
+      "🚶",
+      "fodgænger",
+      "gå",
+      "gang",
+      "hike",
+      "vandre",
+      "vandring"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚶‍♂",
+    "synonyms": [
+      "🚶‍♂",
+      "fodgænger",
+      "gå",
+      "gang",
+      "gåtur",
+      "hike",
+      "mand",
+      "mand går",
+      "vandre",
+      "vandretur",
+      "vandring"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚶‍♀",
+    "synonyms": [
+      "🚶‍♀",
+      "fodgænger",
+      "gå",
+      "gang",
+      "gåtur",
+      "hike",
+      "kvinde",
+      "kvinde går",
+      "vandre",
+      "vandretur",
+      "vandring"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏃",
+    "synonyms": [
+      "🏃",
+      "løber",
+      "løbetræning",
+      "maraton",
+      "sport"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏃‍♂",
+    "synonyms": [
+      "🏃‍♂",
+      "løb",
+      "løbetræning",
+      "løbetur",
+      "mand",
+      "mand løber",
+      "maraton"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏃‍♀",
+    "synonyms": [
+      "🏃‍♀",
+      "kvinde",
+      "kvinde løber",
+      "løb",
+      "løbetræning",
+      "løbetur",
+      "maraton"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💃",
+    "synonyms": [
+      "💃",
+      "dans",
+      "danser"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕺",
+    "synonyms": [
+      "🕺",
+      "dans",
+      "dansende mand",
+      "danser",
+      "mand"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕴",
+    "synonyms": [
+      "🕴",
+      "forretning",
+      "forretningsmand",
+      "jakkesæt",
+      "mand",
+      "svævende forretningsmand"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👯",
+    "synonyms": [
+      "👯",
+      "kvinder",
+      "kvinder med kaninører",
+      "ører"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👯‍♂",
+    "synonyms": [
+      "👯‍♂",
+      "dans",
+      "fest",
+      "kaninører",
+      "mænd",
+      "mænd fester"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👯‍♀",
+    "synonyms": [
+      "👯‍♀",
+      "dans",
+      "fest",
+      "kaninører",
+      "kvinder",
+      "kvinder fester"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤺",
+    "synonyms": [
+      "🤺",
+      "fægter",
+      "fægtning",
+      "person",
+      "sport",
+      "sværd"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏇",
+    "synonyms": [
+      "🏇",
+      "galop",
+      "hest",
+      "hestesport",
+      "hestevæddeløb",
+      "væddeløbshest"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⛷",
+    "synonyms": [
+      "⛷",
+      "skiløber",
+      "sne"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏂",
+    "synonyms": [
+      "🏂",
+      "snowboarder",
+      "sport"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏌",
+    "synonyms": [
+      "🏌",
+      "bold",
+      "golfspiller"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏄",
+    "synonyms": [
+      "🏄",
+      "sport",
+      "surfing"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏄‍♂",
+    "synonyms": [
+      "🏄‍♂",
+      "mand",
+      "surfer",
+      "surfing"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏄‍♀",
+    "synonyms": [
+      "🏄‍♀",
+      "kvinde",
+      "kvindelig surfer",
+      "surfer",
+      "surfing"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚣",
+    "synonyms": [
+      "🚣",
+      "båd",
+      "robåd"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚣‍♂",
+    "synonyms": [
+      "🚣‍♂",
+      "båd",
+      "mand",
+      "mand i robåd",
+      "roer",
+      "roning"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚣‍♀",
+    "synonyms": [
+      "🚣‍♀",
+      "båd",
+      "kvinde",
+      "kvinde i robåd",
+      "roer",
+      "roning"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏊",
+    "synonyms": [
+      "🏊",
+      "sport",
+      "svømme",
+      "svømmer",
+      "svømning"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏊‍♂",
+    "synonyms": [
+      "🏊‍♂",
+      "mand",
+      "mandlig svømmer",
+      "svømning"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏊‍♀",
+    "synonyms": [
+      "🏊‍♀",
+      "kvinde",
+      "kvindelig svømmer",
+      "svømmepige",
+      "svømning"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⛹",
+    "synonyms": [
+      "⛹",
+      "bold",
+      "person med bold"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏋",
+    "synonyms": [
+      "🏋",
+      "løfter",
+      "vægt",
+      "vægtløfter"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚴",
+    "synonyms": [
+      "🚴",
+      "cykel",
+      "cyklist"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚴‍♂",
+    "synonyms": [
+      "🚴‍♂",
+      "cykel",
+      "cykelrytter",
+      "cykle",
+      "mand",
+      "mandlig cyklist"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚴‍♀",
+    "synonyms": [
+      "🚴‍♀",
+      "cykel",
+      "cykelrytter",
+      "cykle",
+      "cyklist",
+      "kvinde",
+      "kvindelig cyklist"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚵",
+    "synonyms": [
+      "🚵",
+      "bjerg",
+      "cykel",
+      "cyklist",
+      "mountainbike",
+      "mountainbikerytter"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚵‍♂",
+    "synonyms": [
+      "🚵‍♂",
+      "cykelrytter",
+      "mand",
+      "mand på mountainbike",
+      "mountainbike"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚵‍♀",
+    "synonyms": [
+      "🚵‍♀",
+      "cykelrytter",
+      "kvinde",
+      "kvinde på mountainbike",
+      "mountainbike"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤸",
+    "synonyms": [
+      "🤸",
+      "gymnastik",
+      "menneske",
+      "person",
+      "sport",
+      "vejrmølle"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤸‍♂",
+    "synonyms": [
+      "🤸‍♂",
+      "gymnastik",
+      "mand",
+      "mand slår vejrmøller",
+      "vejrmølle"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤸‍♀",
+    "synonyms": [
+      "🤸‍♀",
+      "gymnastik",
+      "kvinde",
+      "kvinde slår vejrmøller",
+      "vejrmølle"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤼",
+    "synonyms": [
+      "🤼",
+      "bryder",
+      "brydere",
+      "brydning",
+      "personer",
+      "sport"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤼‍♂",
+    "synonyms": [
+      "🤼‍♂",
+      "brydere",
+      "brydning",
+      "mænd",
+      "mandlige brydere",
+      "wrestling"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤼‍♀",
+    "synonyms": [
+      "🤼‍♀",
+      "brydere",
+      "brydning",
+      "kvindelige brydere",
+      "kvinder",
+      "wrestling"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤽",
+    "synonyms": [
+      "🤽",
+      "sport",
+      "vand",
+      "vandpolo",
+      "vandsport"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤽‍♂",
+    "synonyms": [
+      "🤽‍♂",
+      "mand",
+      "vandpolo",
+      "vandpolospiller"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤽‍♀",
+    "synonyms": [
+      "🤽‍♀",
+      "kvinde",
+      "kvindelig vandpolospiller",
+      "vandpolo"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤾",
+    "synonyms": [
+      "🤾",
+      "bold",
+      "håndbold",
+      "person",
+      "sport"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤾‍♂",
+    "synonyms": [
+      "🤾‍♂",
+      "håndbold",
+      "håndboldspiller",
+      "mand"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤾‍♀",
+    "synonyms": [
+      "🤾‍♀",
+      "håndbold",
+      "håndboldspiller",
+      "kvinde",
+      "kvindelig håndboldspiller"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤹",
+    "synonyms": [
+      "🤹",
+      "balance",
+      "behændighed",
+      "dygtighed",
+      "jonglere",
+      "jonglerer",
+      "jonglør",
+      "multitaske",
+      "multitasking"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤹‍♂",
+    "synonyms": [
+      "🤹‍♂",
+      "bolde",
+      "jonglere",
+      "jonglør",
+      "mand",
+      "multitakse",
+      "multitasking"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤹‍♀",
+    "synonyms": [
+      "🤹‍♀",
+      "bolde",
+      "jonglere",
+      "kvinde",
+      "kvindelig jonglør",
+      "multitaske",
+      "multitasking"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛀",
+    "synonyms": [
+      "🛀",
+      "bad",
+      "badekar"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛌",
+    "synonyms": [
+      "🛌",
+      "person i seng",
+      "sove"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👭",
+    "synonyms": [
+      "👭",
+      "par",
+      "to kvinder"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👫",
+    "synonyms": [
+      "👫",
+      "man og kvinde",
+      "par"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👬",
+    "synonyms": [
+      "👬",
+      "par",
+      "to mænd"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💏",
+    "synonyms": [
+      "💏",
+      "kærlighed",
+      "kys",
+      "par med hjerte",
+      "romantik"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💑",
+    "synonyms": [
+      "💑",
+      "kærlighed",
+      "par med hjerte",
+      "romantik"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👪",
+    "synonyms": [
+      "👪",
+      "barn",
+      "familie",
+      "far",
+      "menneske",
+      "mor"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🗣",
+    "synonyms": [
+      "🗣",
+      "ansigt",
+      "hoved",
+      "silhuet",
+      "tale",
+      "talende"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👤",
+    "synonyms": [
+      "👤",
+      "buste",
+      "buste i silhuet"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👥",
+    "synonyms": [
+      "👥",
+      "buster",
+      "buster i silhuet"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👣",
+    "synonyms": [
+      "👣",
+      "fødder",
+      "fodspor"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐵",
+    "synonyms": [
+      "🐵",
+      "abe",
+      "abeansigt",
+      "dyr",
+      "hoved"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐒",
+    "synonyms": [
+      "🐒",
+      "abe",
+      "dyr"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦍",
+    "synonyms": [
+      "🦍",
+      "abe",
+      "ansigt",
+      "dyr",
+      "gorilla"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐶",
+    "synonyms": [
+      "🐶",
+      "dyr",
+      "hoved",
+      "hund",
+      "hundeansigt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐕",
+    "synonyms": [
+      "🐕",
+      "dyr",
+      "hund"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐩",
+    "synonyms": [
+      "🐩",
+      "dyr",
+      "hund",
+      "puddel"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐺",
+    "synonyms": [
+      "🐺",
+      "dyr",
+      "hoved",
+      "ræv",
+      "ulvehoved"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦊",
+    "synonyms": [
+      "🦊",
+      "ansigt",
+      "dyr",
+      "listig",
+      "ræv",
+      "rævehoved",
+      "snedig"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐱",
+    "synonyms": [
+      "🐱",
+      "dyr",
+      "hoved",
+      "kat",
+      "katteansigt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐈",
+    "synonyms": [
+      "🐈",
+      "dyr",
+      "kat"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦁",
+    "synonyms": [
+      "🦁",
+      "hoved",
+      "løve",
+      "løvehoved",
+      "løven",
+      "stjernetegn"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐯",
+    "synonyms": [
+      "🐯",
+      "dyr",
+      "hoved",
+      "tigeransigt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐅",
+    "synonyms": [
+      "🐅",
+      "dyr",
+      "tiger"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐆",
+    "synonyms": [
+      "🐆",
+      "dyr",
+      "leopard"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐴",
+    "synonyms": [
+      "🐴",
+      "dyr",
+      "hest",
+      "hestehoved"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐎",
+    "synonyms": [
+      "🐎",
+      "dyr",
+      "hest"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦄",
+    "synonyms": [
+      "🦄",
+      "enhjørning",
+      "hoved"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦌",
+    "synonyms": [
+      "🦌",
+      "ansigt",
+      "dyr",
+      "gevir",
+      "hjort",
+      "hjortetakker"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐮",
+    "synonyms": [
+      "🐮",
+      "dyr",
+      "hoved",
+      "ko",
+      "koansigt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐂",
+    "synonyms": [
+      "🐂",
+      "dyr",
+      "okse"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐃",
+    "synonyms": [
+      "🐃",
+      "bøffel",
+      "dyr",
+      "vandbøffel"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐄",
+    "synonyms": [
+      "🐄",
+      "dyr",
+      "ko"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐷",
+    "synonyms": [
+      "🐷",
+      "dyr",
+      "gris",
+      "griseansigt",
+      "hoved"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐖",
+    "synonyms": [
+      "🐖",
+      "dyr",
+      "gris"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐗",
+    "synonyms": [
+      "🐗",
+      "dyr",
+      "vildsvin"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐽",
+    "synonyms": [
+      "🐽",
+      "dyr",
+      "grisetryne",
+      "hoved",
+      "tryne"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐏",
+    "synonyms": [
+      "🐏",
+      "dyr",
+      "vædder"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐑",
+    "synonyms": [
+      "🐑",
+      "dyr",
+      "får"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐐",
+    "synonyms": [
+      "🐐",
+      "dyr",
+      "ged"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐪",
+    "synonyms": [
+      "🐪",
+      "dromedar",
+      "dyr",
+      "pukkel"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐫",
+    "synonyms": [
+      "🐫",
+      "dyr",
+      "kamel",
+      "to pukler"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐘",
+    "synonyms": [
+      "🐘",
+      "dyr",
+      "elefant"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦏",
+    "synonyms": [
+      "🦏",
+      "dyr",
+      "horn",
+      "næsehorn"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐭",
+    "synonyms": [
+      "🐭",
+      "dyr",
+      "hoved",
+      "mus",
+      "museansigt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐁",
+    "synonyms": [
+      "🐁",
+      "dyr",
+      "mus"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐀",
+    "synonyms": [
+      "🐀",
+      "dyr",
+      "rotte"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐹",
+    "synonyms": [
+      "🐹",
+      "dyr",
+      "hamsteransigt",
+      "hoved"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐰",
+    "synonyms": [
+      "🐰",
+      "dyr",
+      "hoved",
+      "kanin",
+      "kaninansigt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐇",
+    "synonyms": [
+      "🐇",
+      "dyr",
+      "kanin"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐿",
+    "synonyms": [
+      "🐿",
+      "jordegern"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦇",
+    "synonyms": [
+      "🦇",
+      "dyr",
+      "flagermus",
+      "nat",
+      "vampyr"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐻",
+    "synonyms": [
+      "🐻",
+      "bjørn",
+      "bjørneansigt",
+      "dyr",
+      "hoved"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐨",
+    "synonyms": [
+      "🐨",
+      "dyr",
+      "koala"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐼",
+    "synonyms": [
+      "🐼",
+      "dyr",
+      "hoved",
+      "pandaansigt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐾",
+    "synonyms": [
+      "🐾",
+      "dyr",
+      "poteaftryk",
+      "spor"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦃",
+    "synonyms": [
+      "🦃",
+      "kalkun"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐔",
+    "synonyms": [
+      "🐔",
+      "dyr",
+      "høne"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐓",
+    "synonyms": [
+      "🐓",
+      "dyr",
+      "hane"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐣",
+    "synonyms": [
+      "🐣",
+      "dyr",
+      "kylling",
+      "ny udklækket kylling"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐤",
+    "synonyms": [
+      "🐤",
+      "dyr",
+      "kylling"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐥",
+    "synonyms": [
+      "🐥",
+      "dyr",
+      "kylling forfra",
+      "kylling set forfra"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐦",
+    "synonyms": [
+      "🐦",
+      "dyr",
+      "fugl"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐧",
+    "synonyms": [
+      "🐧",
+      "dyr",
+      "pingvin"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕊",
+    "synonyms": [
+      "🕊",
+      "due",
+      "flyve",
+      "fred",
+      "fugl"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦅",
+    "synonyms": [
+      "🦅",
+      "dyr",
+      "fugl",
+      "ørn"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦆",
+    "synonyms": [
+      "🦆",
+      "and",
+      "andrik",
+      "dyr",
+      "fugl",
+      "svømmefugl"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦉",
+    "synonyms": [
+      "🦉",
+      "dyr",
+      "fugl",
+      "klog",
+      "klogskab",
+      "ugle",
+      "vis",
+      "visdom"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐸",
+    "synonyms": [
+      "🐸",
+      "dyr",
+      "frø",
+      "frøansigt",
+      "hoved"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐊",
+    "synonyms": [
+      "🐊",
+      "dyr",
+      "krokodille"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐢",
+    "synonyms": [
+      "🐢",
+      "dyr",
+      "skildpadde"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦎",
+    "synonyms": [
+      "🦎",
+      "dyr",
+      "firben",
+      "krybdyr",
+      "reptil"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐍",
+    "synonyms": [
+      "🐍",
+      "dyr",
+      "slange"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐲",
+    "synonyms": [
+      "🐲",
+      "drage",
+      "drageansigt",
+      "hoved"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐉",
+    "synonyms": [
+      "🐉",
+      "drage",
+      "eventyr"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐳",
+    "synonyms": [
+      "🐳",
+      "dyr",
+      "hval",
+      "hval med vandsprøjt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐋",
+    "synonyms": [
+      "🐋",
+      "dyr",
+      "hval"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐬",
+    "synonyms": [
+      "🐬",
+      "delfin",
+      "dyr"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐟",
+    "synonyms": [
+      "🐟",
+      "dyr",
+      "fisk"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐠",
+    "synonyms": [
+      "🐠",
+      "dyr",
+      "fisk",
+      "tropisk fisk"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐡",
+    "synonyms": [
+      "🐡",
+      "dyr",
+      "fisk",
+      "kuglefisk"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦈",
+    "synonyms": [
+      "🦈",
+      "dyr",
+      "fisk",
+      "haj"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐙",
+    "synonyms": [
+      "🐙",
+      "blæksprutte",
+      "dyr"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐚",
+    "synonyms": [
+      "🐚",
+      "dyr",
+      "konkylie"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐌",
+    "synonyms": [
+      "🐌",
+      "dyr",
+      "snegl"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦋",
+    "synonyms": [
+      "🦋",
+      "dyr",
+      "insekt",
+      "sommer",
+      "sommerfugl",
+      "vinger"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐛",
+    "synonyms": [
+      "🐛",
+      "dyr",
+      "larve",
+      "sommerfuglelarve",
+      "tusindben"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐜",
+    "synonyms": [
+      "🐜",
+      "dyr",
+      "myre"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐝",
+    "synonyms": [
+      "🐝",
+      "bi",
+      "dyr",
+      "honningbi"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐞",
+    "synonyms": [
+      "🐞",
+      "dyr",
+      "mariehøne"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕷",
+    "synonyms": [
+      "🕷",
+      "edderkop",
+      "insekt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕸",
+    "synonyms": [
+      "🕸",
+      "edderkop",
+      "edderkoppespind",
+      "spind"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦂",
+    "synonyms": [
+      "🦂",
+      "skorpion",
+      "skorpionen",
+      "stjernetegn"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💐",
+    "synonyms": [
+      "💐",
+      "blomster",
+      "blomsterbuket",
+      "buket"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌸",
+    "synonyms": [
+      "🌸",
+      "blomst",
+      "blomstrende kirsebær",
+      "kirsebær",
+      "kirsebærblomst"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💮",
+    "synonyms": [
+      "💮",
+      "blomsterstempel",
+      "stempel"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏵",
+    "synonyms": [
+      "🏵",
+      "plante",
+      "roset"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌹",
+    "synonyms": [
+      "🌹",
+      "blomst",
+      "rose"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥀",
+    "synonyms": [
+      "🥀",
+      "afblomstret",
+      "blomst",
+      "visnet",
+      "vissen"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌺",
+    "synonyms": [
+      "🌺",
+      "blomst",
+      "hawaiiblomst",
+      "hibiscus"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌻",
+    "synonyms": [
+      "🌻",
+      "blomst",
+      "solsikke"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌼",
+    "synonyms": [
+      "🌼",
+      "blomst",
+      "gul blomst"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌷",
+    "synonyms": [
+      "🌷",
+      "blomst",
+      "tulipan"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌱",
+    "synonyms": [
+      "🌱",
+      "plantespire",
+      "spire"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌲",
+    "synonyms": [
+      "🌲",
+      "grantræ",
+      "stedsegrøn",
+      "træ"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌳",
+    "synonyms": [
+      "🌳",
+      "løvfældende træ",
+      "træ"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌴",
+    "synonyms": [
+      "🌴",
+      "palme",
+      "palmetræ"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌵",
+    "synonyms": [
+      "🌵",
+      "kaktus",
+      "kaktusplante",
+      "plante"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌾",
+    "synonyms": [
+      "🌾",
+      "ris",
+      "risplante"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌿",
+    "synonyms": [
+      "🌿",
+      "blade",
+      "urt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "☘",
+    "synonyms": [
+      "☘",
+      "kløver",
+      "plante"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍀",
+    "synonyms": [
+      "🍀",
+      "firkløver",
+      "held",
+      "heldig",
+      "kløver"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍁",
+    "synonyms": [
+      "🍁",
+      "ahorn",
+      "ahornblad",
+      "blad",
+      "efterår",
+      "efterårsblad"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍂",
+    "synonyms": [
+      "🍂",
+      "blade",
+      "efterårsblade",
+      "faldende blade"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍃",
+    "synonyms": [
+      "🍃",
+      "blad",
+      "blad i vinden",
+      "blæst",
+      "vind"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍇",
+    "synonyms": [
+      "🍇",
+      "frugt",
+      "vin",
+      "vindruer"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍈",
+    "synonyms": [
+      "🍈",
+      "frugt",
+      "melon"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍉",
+    "synonyms": [
+      "🍉",
+      "frugt",
+      "sommer",
+      "vandmelon"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍊",
+    "synonyms": [
+      "🍊",
+      "appelsin",
+      "citrus",
+      "frugt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍋",
+    "synonyms": [
+      "🍋",
+      "citron",
+      "frugt",
+      "gul"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍌",
+    "synonyms": [
+      "🍌",
+      "banan",
+      "frugt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍍",
+    "synonyms": [
+      "🍍",
+      "ananas",
+      "frugt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍎",
+    "synonyms": [
+      "🍎",
+      "æble",
+      "frugt",
+      "rød",
+      "rødt æble"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍏",
+    "synonyms": [
+      "🍏",
+      "æble",
+      "frugt",
+      "grøn",
+      "grønt æble"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍐",
+    "synonyms": [
+      "🍐",
+      "frugt",
+      "pære"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍑",
+    "synonyms": [
+      "🍑",
+      "fersken",
+      "frugt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍒",
+    "synonyms": [
+      "🍒",
+      "frugt",
+      "kirsebær"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍓",
+    "synonyms": [
+      "🍓",
+      "bær",
+      "frugt",
+      "jordbær"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥝",
+    "synonyms": [
+      "🥝",
+      "frugt",
+      "kiwifrugt",
+      "mad"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍅",
+    "synonyms": [
+      "🍅",
+      "grøntsag",
+      "tomat"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥑",
+    "synonyms": [
+      "🥑",
+      "avokado",
+      "frugt",
+      "mad"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍆",
+    "synonyms": [
+      "🍆",
+      "aubergine",
+      "grøntsag"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥔",
+    "synonyms": [
+      "🥔",
+      "grøntsag",
+      "kartoffel",
+      "mad",
+      "rodfrugt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥕",
+    "synonyms": [
+      "🥕",
+      "grøntsag",
+      "gulerod",
+      "mad",
+      "rodfrugt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌽",
+    "synonyms": [
+      "🌽",
+      "majs",
+      "majskolbe"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌶",
+    "synonyms": [
+      "🌶",
+      "chili",
+      "peber",
+      "plante",
+      "stærk"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥒",
+    "synonyms": [
+      "🥒",
+      "agurk",
+      "grøntsag",
+      "mad"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍄",
+    "synonyms": [
+      "🍄",
+      "plante",
+      "svamp"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥜",
+    "synonyms": [
+      "🥜",
+      "mad",
+      "mellemmåltid",
+      "nød",
+      "nødder",
+      "peanuts",
+      "snack"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌰",
+    "synonyms": [
+      "🌰",
+      "kastanje",
+      "plante"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍞",
+    "synonyms": [
+      "🍞",
+      "bage",
+      "brød"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥐",
+    "synonyms": [
+      "🥐",
+      "brød",
+      "croissant",
+      "fransk",
+      "mad",
+      "morgenbrød",
+      "morgenmad"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥖",
+    "synonyms": [
+      "🥖",
+      "brød",
+      "flute",
+      "franskbrød",
+      "mad"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥞",
+    "synonyms": [
+      "🥞",
+      "crêpe",
+      "mad",
+      "pandekage",
+      "pandekager"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧀",
+    "synonyms": [
+      "🧀",
+      "et stykke ost",
+      "ost"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍖",
+    "synonyms": [
+      "🍖",
+      "kød",
+      "kødben"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍗",
+    "synonyms": [
+      "🍗",
+      "kylling",
+      "kyllingelår"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥓",
+    "synonyms": [
+      "🥓",
+      "bacon",
+      "gris",
+      "kød",
+      "mad",
+      "svinekød"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍔",
+    "synonyms": [
+      "🍔",
+      "hamburger"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍟",
+    "synonyms": [
+      "🍟",
+      "pomfrit",
+      "pomfritter",
+      "pommes frites"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍕",
+    "synonyms": [
+      "🍕",
+      "pizza",
+      "pizzastykke",
+      "stykke pizza"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌭",
+    "synonyms": [
+      "🌭",
+      "frankfurter",
+      "hotdog",
+      "pølse"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌮",
+    "synonyms": [
+      "🌮",
+      "mexicansk",
+      "taco"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌯",
+    "synonyms": [
+      "🌯",
+      "burrito",
+      "mexicansk"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥙",
+    "synonyms": [
+      "🥙",
+      "fladbrød",
+      "fladbrød med fyld",
+      "fyld",
+      "fyldt",
+      "gyros",
+      "mad",
+      "pandekage med fyld",
+      "pita"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥚",
+    "synonyms": [
+      "🥚",
+      "æg",
+      "mad"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍳",
+    "synonyms": [
+      "🍳",
+      "madlavning",
+      "stegepande",
+      "stegepande med æg"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥘",
+    "synonyms": [
+      "🥘",
+      "mad",
+      "pande",
+      "pande med mad",
+      "pandestegt",
+      "steger"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍲",
+    "synonyms": [
+      "🍲",
+      "gryde",
+      "gryde med mad",
+      "gryderet",
+      "suppe"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥗",
+    "synonyms": [
+      "🥗",
+      "grøn",
+      "mad",
+      "salat"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍿",
+    "synonyms": [
+      "🍿",
+      "popcorn"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍱",
+    "synonyms": [
+      "🍱",
+      "bento",
+      "bentoboks",
+      "boks"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍘",
+    "synonyms": [
+      "🍘",
+      "kiks",
+      "riskiks"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍙",
+    "synonyms": [
+      "🍙",
+      "ris",
+      "riskugle"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍚",
+    "synonyms": [
+      "🍚",
+      "restaurant",
+      "ris",
+      "skål ris"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍛",
+    "synonyms": [
+      "🍛",
+      "ris",
+      "ris og karry"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍜",
+    "synonyms": [
+      "🍜",
+      "nudler",
+      "ramen-nudler",
+      "restaurant",
+      "skål nudler"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍝",
+    "synonyms": [
+      "🍝",
+      "pasta",
+      "restaurant",
+      "spaghetti"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍠",
+    "synonyms": [
+      "🍠",
+      "kartoffel",
+      "sød",
+      "stegt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍢",
+    "synonyms": [
+      "🍢",
+      "fisk",
+      "grillspyd",
+      "kebab",
+      "mad på spyd",
+      "pind",
+      "skaldyr",
+      "spyd"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍣",
+    "synonyms": [
+      "🍣",
+      "sushi",
+      "sushi-restaurant"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍤",
+    "synonyms": [
+      "🍤",
+      "dybstegt reje",
+      "reje"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍥",
+    "synonyms": [
+      "🍥",
+      "fiskebolle",
+      "fiskebolle med spiral"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍡",
+    "synonyms": [
+      "🍡",
+      "iskugler",
+      "iskugler på pind"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦀",
+    "synonyms": [
+      "🦀",
+      "krabbe",
+      "krebsen",
+      "stjernetegn"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦐",
+    "synonyms": [
+      "🦐",
+      "dyr",
+      "havdyr",
+      "mad",
+      "reje",
+      "skaldyr"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦑",
+    "synonyms": [
+      "🦑",
+      "arme",
+      "blæk",
+      "blæksprutte",
+      "bløddyr",
+      "dyr",
+      "flerarmet",
+      "havdyr",
+      "mad",
+      "multitasking",
+      "sprutte"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍦",
+    "synonyms": [
+      "🍦",
+      "is",
+      "softice"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍧",
+    "synonyms": [
+      "🍧",
+      "is",
+      "isdessert",
+      "snedessert"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍨",
+    "synonyms": [
+      "🍨",
+      "is",
+      "isdessert"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍩",
+    "synonyms": [
+      "🍩",
+      "donut",
+      "kage"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍪",
+    "synonyms": [
+      "🍪",
+      "cookie",
+      "kage",
+      "småkage"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎂",
+    "synonyms": [
+      "🎂",
+      "fødselsdagskage",
+      "kage",
+      "lagkage"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍰",
+    "synonyms": [
+      "🍰",
+      "et stykke kage",
+      "kage",
+      "lagkage"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍫",
+    "synonyms": [
+      "🍫",
+      "chokolade",
+      "et stykke chokolade"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍬",
+    "synonyms": [
+      "🍬",
+      "bolsje",
+      "slik"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍭",
+    "synonyms": [
+      "🍭",
+      "slik",
+      "slikpind"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍮",
+    "synonyms": [
+      "🍮",
+      "budding",
+      "dessert"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍯",
+    "synonyms": [
+      "🍯",
+      "honning",
+      "honningkrukke",
+      "krukke honning"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍼",
+    "synonyms": [
+      "🍼",
+      "flaske",
+      "mælk",
+      "sutteflaske"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥛",
+    "synonyms": [
+      "🥛",
+      "drik",
+      "drikke",
+      "glas",
+      "mælk"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "☕",
+    "synonyms": [
+      "☕",
+      "dampende",
+      "drik",
+      "drikkevare",
+      "kaffe",
+      "te",
+      "varm"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍵",
+    "synonyms": [
+      "🍵",
+      "kop",
+      "te",
+      "tekop",
+      "varm te"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍶",
+    "synonyms": [
+      "🍶",
+      "flaske sake",
+      "sake",
+      "sakeflaske",
+      "sakekop"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍾",
+    "synonyms": [
+      "🍾",
+      "bar",
+      "drik",
+      "flaske",
+      "flaske med flyvende prop",
+      "prop"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍷",
+    "synonyms": [
+      "🍷",
+      "et glas vin",
+      "hvidvin",
+      "rødvin",
+      "vin"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍸",
+    "synonyms": [
+      "🍸",
+      "cocktailglas"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍹",
+    "synonyms": [
+      "🍹",
+      "cocktail",
+      "tropisk drink"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍺",
+    "synonyms": [
+      "🍺",
+      "krus",
+      "krus øl",
+      "ølglas",
+      "ølkrus"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍻",
+    "synonyms": [
+      "🍻",
+      "krus",
+      "krus øl",
+      "ølglas",
+      "ølkrus",
+      "skål",
+      "skålende ølkrus"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥂",
+    "synonyms": [
+      "🥂",
+      "alkohol",
+      "drikke",
+      "drikker",
+      "fejrer",
+      "fejring",
+      "fest",
+      "glas",
+      "skål",
+      "skåler"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥃",
+    "synonyms": [
+      "🥃",
+      "drikke",
+      "drikker",
+      "fladbundet",
+      "glas",
+      "shot",
+      "shotglas",
+      "spiritus",
+      "spiritusglas",
+      "sprut",
+      "whiskyglas"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍽",
+    "synonyms": [
+      "🍽",
+      "gaffel",
+      "kniv",
+      "kniv og gaffel med tallerken",
+      "madlavning",
+      "tallerken"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍴",
+    "synonyms": [
+      "🍴",
+      "bestik",
+      "gaffel",
+      "kniv",
+      "kniv og gaffel"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥄",
+    "synonyms": [
+      "🥄",
+      "bestik",
+      "ske"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔪",
+    "synonyms": [
+      "🔪",
+      "kniv",
+      "køkkenkniv"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏺",
+    "synonyms": [
+      "🏺",
+      "amphora",
+      "drik",
+      "kande",
+      "krukke",
+      "madlavning",
+      "stjernetegn",
+      "våben",
+      "værktøj"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌍",
+    "synonyms": [
+      "🌍",
+      "Afrika",
+      "Europa",
+      "globus med europa og afrika",
+      "jorden"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌎",
+    "synonyms": [
+      "🌎",
+      "Amerika",
+      "globus med nord og sydamerika",
+      "jorden",
+      "Nord og Sydamerika"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌏",
+    "synonyms": [
+      "🌏",
+      "Asien",
+      "Australien",
+      "globus med asien og australien",
+      "jorden"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌐",
+    "synonyms": [
+      "🌐",
+      "globus med længdegrader",
+      "meridianer"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🗺",
+    "synonyms": [
+      "🗺",
+      "kort",
+      "verden",
+      "verdenskort"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🗾",
+    "synonyms": [
+      "🗾",
+      "Japan",
+      "kort over Japan"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏔",
+    "synonyms": [
+      "🏔",
+      "bjerg",
+      "koldt",
+      "sne",
+      "sneklædt bjerg"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⛰",
+    "synonyms": [
+      "⛰",
+      "bjerg"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌋",
+    "synonyms": [
+      "🌋",
+      "vulkan",
+      "vulkanudbrud"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🗻",
+    "synonyms": [
+      "🗻",
+      "bjerg",
+      "Fuji",
+      "Fuji-bjerget",
+      "Mount Fuji"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏕",
+    "synonyms": [
+      "🏕",
+      "camping",
+      "telt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏖",
+    "synonyms": [
+      "🏖",
+      "parasol",
+      "strand",
+      "strand med parasol"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏜",
+    "synonyms": [
+      "🏜",
+      "kaktus",
+      "ørken",
+      "sol"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏝",
+    "synonyms": [
+      "🏝",
+      "ø",
+      "øde"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏞",
+    "synonyms": [
+      "🏞",
+      "nationalpark"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏟",
+    "synonyms": [
+      "🏟",
+      "stadion"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏛",
+    "synonyms": [
+      "🏛",
+      "bygning",
+      "klassisk"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏗",
+    "synonyms": [
+      "🏗",
+      "bygning",
+      "bygningskonstruktion",
+      "konstruktion"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏘",
+    "synonyms": [
+      "🏘",
+      "bygning",
+      "hus",
+      "huse"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏚",
+    "synonyms": [
+      "🏚",
+      "bygning",
+      "faldefærdig",
+      "faldefærdigt hus",
+      "hus"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏠",
+    "synonyms": [
+      "🏠",
+      "bygning",
+      "hjem",
+      "hus"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏡",
+    "synonyms": [
+      "🏡",
+      "have",
+      "hjem",
+      "hus med have"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏢",
+    "synonyms": [
+      "🏢",
+      "bygning",
+      "kontor",
+      "kontorbygning"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏣",
+    "synonyms": [
+      "🏣",
+      "japansk",
+      "posthus",
+      "postkontor"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏤",
+    "synonyms": [
+      "🏤",
+      "europæisk posthus",
+      "posthus"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏥",
+    "synonyms": [
+      "🏥",
+      "bygning",
+      "doktor",
+      "hospital",
+      "læge",
+      "medicin"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏦",
+    "synonyms": [
+      "🏦",
+      "bank",
+      "bygning"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏨",
+    "synonyms": [
+      "🏨",
+      "bygning",
+      "hotel"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏩",
+    "synonyms": [
+      "🏩",
+      "hotel",
+      "kærlighedshotel",
+      "romantik"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏪",
+    "synonyms": [
+      "🏪",
+      "døgnkiosk",
+      "kiosk",
+      "købmand"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏫",
+    "synonyms": [
+      "🏫",
+      "bygning",
+      "skole"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏬",
+    "synonyms": [
+      "🏬",
+      "butik",
+      "stormagasin",
+      "varehus"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏭",
+    "synonyms": [
+      "🏭",
+      "bygning",
+      "fabrik"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏯",
+    "synonyms": [
+      "🏯",
+      "bygning",
+      "japansk slot",
+      "slot"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏰",
+    "synonyms": [
+      "🏰",
+      "bygning",
+      "slot"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💒",
+    "synonyms": [
+      "💒",
+      "bryllup",
+      "kærlighed",
+      "kirke",
+      "romantik"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🗼",
+    "synonyms": [
+      "🗼",
+      "Tokyo",
+      "Tokyo Tower"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🗽",
+    "synonyms": [
+      "🗽",
+      "frihed",
+      "Frihedsgudinden",
+      "gudinde"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⛪",
+    "synonyms": [
+      "⛪",
+      "bygning",
+      "kirke",
+      "kors",
+      "kristen",
+      "religion"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕌",
+    "synonyms": [
+      "🕌",
+      "islam",
+      "moské",
+      "muslim",
+      "religion"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕍",
+    "synonyms": [
+      "🕍",
+      "jøde",
+      "jødisk",
+      "religion",
+      "synagoge",
+      "tempel"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⛩",
+    "synonyms": [
+      "⛩",
+      "alter",
+      "religion",
+      "shinto",
+      "shinto-alter"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕋",
+    "synonyms": [
+      "🕋",
+      "islam",
+      "kaaba",
+      "muslim",
+      "religion"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⛲",
+    "synonyms": [
+      "⛲",
+      "fontæne",
+      "springvand"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⛺",
+    "synonyms": [
+      "⛺",
+      "telt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌁",
+    "synonyms": [
+      "🌁",
+      "tåge",
+      "tåget"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌃",
+    "synonyms": [
+      "🌃",
+      "stjernehimmel",
+      "stjerner"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏙",
+    "synonyms": [
+      "🏙",
+      "by",
+      "bygning",
+      "bylandskab"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌄",
+    "synonyms": [
+      "🌄",
+      "bjerge",
+      "morgensol",
+      "solopgang over bjerge"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌅",
+    "synonyms": [
+      "🌅",
+      "morgensol",
+      "solopgang"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌆",
+    "synonyms": [
+      "🌆",
+      "aften",
+      "by",
+      "by i solnedgang",
+      "højhuse",
+      "solnedgang"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌇",
+    "synonyms": [
+      "🌇",
+      "skumring",
+      "solnedgang",
+      "solnedgang bag bygninger"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌉",
+    "synonyms": [
+      "🌉",
+      "bro i mørke",
+      "bro i natten",
+      "nat"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "♨",
+    "synonyms": [
+      "♨",
+      "damp",
+      "kilder",
+      "varm",
+      "varme kilder"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎠",
+    "synonyms": [
+      "🎠",
+      "karrusel",
+      "karruselhest",
+      "karruseltur",
+      "køre i karrusel"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎡",
+    "synonyms": [
+      "🎡",
+      "forlystelse",
+      "forlystelsespark",
+      "pariserhjul",
+      "tivoli"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎢",
+    "synonyms": [
+      "🎢",
+      "forlystelse",
+      "forlystelsespark",
+      "rutsjebane",
+      "tivoli"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💈",
+    "synonyms": [
+      "💈",
+      "barber",
+      "barbersalon"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎪",
+    "synonyms": [
+      "🎪",
+      "cirkus",
+      "cirkustelt",
+      "telt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚂",
+    "synonyms": [
+      "🚂",
+      "damplokomotiv",
+      "tog"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚃",
+    "synonyms": [
+      "🚃",
+      "tog",
+      "togvogn"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚄",
+    "synonyms": [
+      "🚄",
+      "lyntog",
+      "tog"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚅",
+    "synonyms": [
+      "🚅",
+      "lyntog med projektilnæse",
+      "tog"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚆",
+    "synonyms": [
+      "🚆",
+      "køretøj",
+      "tog"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚇",
+    "synonyms": [
+      "🚇",
+      "køretøj",
+      "metro"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚈",
+    "synonyms": [
+      "🚈",
+      "køretøj",
+      "letbane",
+      "tog"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚉",
+    "synonyms": [
+      "🚉",
+      "tog",
+      "togstation"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚊",
+    "synonyms": [
+      "🚊",
+      "køretøj",
+      "sporvogn",
+      "trolleybus"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚝",
+    "synonyms": [
+      "🚝",
+      "køretøj",
+      "monorail"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚞",
+    "synonyms": [
+      "🚞",
+      "bjergbane",
+      "svævebane"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚋",
+    "synonyms": [
+      "🚋",
+      "køretøj",
+      "sporvogn",
+      "trolleybus",
+      "vogn"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚌",
+    "synonyms": [
+      "🚌",
+      "bus",
+      "køretøj"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚍",
+    "synonyms": [
+      "🚍",
+      "bus",
+      "forfra",
+      "kørende",
+      "køretøj"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚎",
+    "synonyms": [
+      "🚎",
+      "bus",
+      "køretøj",
+      "sporvogn",
+      "trolley",
+      "trolleybus"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚐",
+    "synonyms": [
+      "🚐",
+      "bus",
+      "minibus"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚑",
+    "synonyms": [
+      "🚑",
+      "ambulance",
+      "køretøj"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚒",
+    "synonyms": [
+      "🚒",
+      "brand",
+      "brandbil",
+      "køretøj"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚓",
+    "synonyms": [
+      "🚓",
+      "politi",
+      "politibil"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚔",
+    "synonyms": [
+      "🚔",
+      "kørende politibil",
+      "politi",
+      "politibil forfra"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚕",
+    "synonyms": [
+      "🚕",
+      "bil",
+      "køretøj",
+      "taxa"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚖",
+    "synonyms": [
+      "🚖",
+      "kørende taxa",
+      "taxa forfra"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚗",
+    "synonyms": [
+      "🚗",
+      "bil",
+      "køretøj"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚘",
+    "synonyms": [
+      "🚘",
+      "bil",
+      "bil forfra",
+      "fartøj",
+      "kørende"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚙",
+    "synonyms": [
+      "🚙",
+      "firehjulstræk",
+      "fritid",
+      "jeep",
+      "køretøj"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚚",
+    "synonyms": [
+      "🚚",
+      "køretøj",
+      "lastbil",
+      "levering",
+      "transport"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚛",
+    "synonyms": [
+      "🚛",
+      "køretøj",
+      "lastbil",
+      "lastvogn",
+      "levering",
+      "transport"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚜",
+    "synonyms": [
+      "🚜",
+      "køretøj",
+      "traktor"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏎",
+    "synonyms": [
+      "🏎",
+      "bil",
+      "racerbil",
+      "racerløb"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏍",
+    "synonyms": [
+      "🏍",
+      "motorcykel",
+      "racerløb"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛵",
+    "synonyms": [
+      "🛵",
+      "scooter",
+      "transportmiddel"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚲",
+    "synonyms": [
+      "🚲",
+      "cykel",
+      "tohjulet"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛴",
+    "synonyms": [
+      "🛴",
+      "løbehjul",
+      "transportmiddel"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚏",
+    "synonyms": [
+      "🚏",
+      "bus",
+      "busstoppested",
+      "stoppested"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛣",
+    "synonyms": [
+      "🛣",
+      "motorvej",
+      "vej"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛤",
+    "synonyms": [
+      "🛤",
+      "spor",
+      "tog",
+      "togspor"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛢",
+    "synonyms": [
+      "🛢",
+      "olie",
+      "olietønde",
+      "tønde"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⛽",
+    "synonyms": [
+      "⛽",
+      "benzin",
+      "benzinpumpe",
+      "tankstation"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚨",
+    "synonyms": [
+      "🚨",
+      "blinklys",
+      "politi"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚥",
+    "synonyms": [
+      "🚥",
+      "liggende trafiklys",
+      "lys",
+      "trafik"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚦",
+    "synonyms": [
+      "🚦",
+      "lys",
+      "trafik",
+      "trafiklys"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛑",
+    "synonyms": [
+      "🛑",
+      "ottekant",
+      "ottekantet",
+      "skilt",
+      "stopskilt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚧",
+    "synonyms": [
+      "🚧",
+      "byggeri",
+      "spærring"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⚓",
+    "synonyms": [
+      "⚓",
+      "anker",
+      "båd",
+      "skib",
+      "værktøj"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⛵",
+    "synonyms": [
+      "⛵",
+      "båd",
+      "sejlbåd"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛶",
+    "synonyms": [
+      "🛶",
+      "båd",
+      "kano",
+      "transportmiddel"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚤",
+    "synonyms": [
+      "🚤",
+      "båd",
+      "speedbåd"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛳",
+    "synonyms": [
+      "🛳",
+      "fartøj",
+      "passager",
+      "passagerskib",
+      "skib"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⛴",
+    "synonyms": [
+      "⛴",
+      "båd",
+      "færge"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛥",
+    "synonyms": [
+      "🛥",
+      "båd",
+      "fartøj",
+      "motorbåd"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚢",
+    "synonyms": [
+      "🚢",
+      "fartøj",
+      "skib"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "✈",
+    "synonyms": [
+      "✈",
+      "fartøj",
+      "fly"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛩",
+    "synonyms": [
+      "🛩",
+      "fartøj",
+      "fly",
+      "lille fly"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛫",
+    "synonyms": [
+      "🛫",
+      "afgang",
+      "afrejse",
+      "fartøj",
+      "fly",
+      "indtjekning"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛬",
+    "synonyms": [
+      "🛬",
+      "ankomme",
+      "ankomst",
+      "fartøj",
+      "fly"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💺",
+    "synonyms": [
+      "💺",
+      "sæde",
+      "stol"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚁",
+    "synonyms": [
+      "🚁",
+      "fartøj",
+      "helikopter"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚟",
+    "synonyms": [
+      "🚟",
+      "fartøj",
+      "hængende",
+      "luftbane",
+      "togbane"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚠",
+    "synonyms": [
+      "🚠",
+      "bjerg",
+      "fartøj",
+      "gondol",
+      "kabel",
+      "kabelbane"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚡",
+    "synonyms": [
+      "🚡",
+      "fartøj",
+      "gondol",
+      "kabel",
+      "svæve",
+      "svævebane"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛰",
+    "synonyms": [
+      "🛰",
+      "fartøj",
+      "rummet",
+      "satellit"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚀",
+    "synonyms": [
+      "🚀",
+      "fartøj",
+      "raket",
+      "rumfartøj",
+      "rummet",
+      "rumskib"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛎",
+    "synonyms": [
+      "🛎",
+      "hotel",
+      "hotelklokke",
+      "klokke"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⌛",
+    "synonyms": [
+      "⌛",
+      "tid",
+      "timeglas"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⏳",
+    "synonyms": [
+      "⏳",
+      "tid",
+      "timeglas",
+      "timeglas med løbende sand"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⌚",
+    "synonyms": [
+      "⌚",
+      "armbåndsur",
+      "ur"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⏰",
+    "synonyms": [
+      "⏰",
+      "ur",
+      "vækkeur"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⏱",
+    "synonyms": [
+      "⏱",
+      "stopur",
+      "ur"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⏲",
+    "synonyms": [
+      "⏲",
+      "æggeur",
+      "tidtager",
+      "ur"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕰",
+    "synonyms": [
+      "🕰",
+      "pynteur",
+      "ur"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕛",
+    "synonyms": [
+      "🕛",
+      "12.00",
+      "24.00",
+      "kl 24",
+      "kl.12"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕐",
+    "synonyms": [
+      "🕐",
+      "1.00",
+      "13.00",
+      "kl 1",
+      "kl 13"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕜",
+    "synonyms": [
+      "🕜",
+      "1.30",
+      "13.30",
+      "halv to"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕑",
+    "synonyms": [
+      "🕑",
+      "14.00",
+      "2.00",
+      "kl 2",
+      "kl.14"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕝",
+    "synonyms": [
+      "🕝",
+      "14.30",
+      "2.30",
+      "halv tre"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕒",
+    "synonyms": [
+      "🕒",
+      "15.00",
+      "3.00",
+      "kl 3",
+      "kl.15"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕞",
+    "synonyms": [
+      "🕞",
+      "15.30",
+      "3.30",
+      "halv fire"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕓",
+    "synonyms": [
+      "🕓",
+      "16.00",
+      "4.00",
+      "kl 16",
+      "kl 4"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕟",
+    "synonyms": [
+      "🕟",
+      "16.30",
+      "4.30",
+      "halv fem"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕔",
+    "synonyms": [
+      "🕔",
+      "17.00",
+      "5.00",
+      "kl 17",
+      "kl 5"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕠",
+    "synonyms": [
+      "🕠",
+      "17.30",
+      "5.30",
+      "halv seks"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕕",
+    "synonyms": [
+      "🕕",
+      "18.00",
+      "6.00",
+      "kl 18",
+      "kl 6"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕡",
+    "synonyms": [
+      "🕡",
+      "18.30",
+      "6.30",
+      "halv syv"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕖",
+    "synonyms": [
+      "🕖",
+      "19.00",
+      "7.00",
+      "kl 19",
+      "kl 7"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕢",
+    "synonyms": [
+      "🕢",
+      "19.30",
+      "7.30",
+      "halv otte"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕗",
+    "synonyms": [
+      "🕗",
+      "20.00",
+      "8.00",
+      "kl 20",
+      "kl 8"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕣",
+    "synonyms": [
+      "🕣",
+      "20.30",
+      "8.30",
+      "halv ni"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕘",
+    "synonyms": [
+      "🕘",
+      "21.00",
+      "9.00",
+      "kl 21",
+      "kl 9"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕤",
+    "synonyms": [
+      "🕤",
+      "21.30",
+      "9.30",
+      "halv ti"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕙",
+    "synonyms": [
+      "🕙",
+      "10.00",
+      "22.00",
+      "kl 10",
+      "kl 22"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕥",
+    "synonyms": [
+      "🕥",
+      "10.30",
+      "22.30",
+      "halv elleve"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕚",
+    "synonyms": [
+      "🕚",
+      "11.00",
+      "23.00",
+      "kl 23",
+      "kl.11"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕦",
+    "synonyms": [
+      "🕦",
+      "11.30",
+      "23.30",
+      "halv tolv"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌑",
+    "synonyms": [
+      "🌑",
+      "måne",
+      "månefase",
+      "nymåne"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌒",
+    "synonyms": [
+      "🌒",
+      "måne",
+      "månefase",
+      "tiltagende måne"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌓",
+    "synonyms": [
+      "🌓",
+      "første kvarter måne",
+      "halvmåne første kvarter",
+      "måne",
+      "månefase"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌔",
+    "synonyms": [
+      "🌔",
+      "måne",
+      "månefase",
+      "tiltagende måne næsten fuld"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌕",
+    "synonyms": [
+      "🌕",
+      "fuldmåne",
+      "måne",
+      "månefase"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌖",
+    "synonyms": [
+      "🌖",
+      "aftagende måne næsten fuld",
+      "måne",
+      "månefase"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌗",
+    "synonyms": [
+      "🌗",
+      "halvmåne sidste kvarter",
+      "måne",
+      "månefase",
+      "sidste kvarter måne"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌘",
+    "synonyms": [
+      "🌘",
+      "aftagende måne",
+      "måne",
+      "månefase"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌙",
+    "synonyms": [
+      "🌙",
+      "aftagende måne",
+      "halvmåne"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌚",
+    "synonyms": [
+      "🌚",
+      "ansigt i måne",
+      "nymåne",
+      "nymåne med ansigt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌛",
+    "synonyms": [
+      "🌛",
+      "måne",
+      "måne med ansigt første kvarter",
+      "måneansigt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌜",
+    "synonyms": [
+      "🌜",
+      "måne",
+      "måne med ansigt andet kvarter",
+      "måneansigt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌡",
+    "synonyms": [
+      "🌡",
+      "termometer",
+      "vejr"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "☀",
+    "synonyms": [
+      "☀",
+      "lys",
+      "rum",
+      "sol",
+      "solskin",
+      "stråler",
+      "vejr"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌝",
+    "synonyms": [
+      "🌝",
+      "fuldmåne",
+      "fuldmåne med ansigt",
+      "fuldmåneansigt",
+      "måne med ansigt",
+      "måneansigt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌞",
+    "synonyms": [
+      "🌞",
+      "ansigt",
+      "sol",
+      "sol med ansigt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⭐",
+    "synonyms": [
+      "⭐",
+      "hvid mellemstor stjerne",
+      "stjerne"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌟",
+    "synonyms": [
+      "🌟",
+      "blinkende stjerne",
+      "lysende stjerne",
+      "lyser",
+      "skinner",
+      "stjerneskin"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌠",
+    "synonyms": [
+      "🌠",
+      "stjerne",
+      "stjerneskud"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌌",
+    "synonyms": [
+      "🌌",
+      "galakse",
+      "mælkevejen"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "☁",
+    "synonyms": [
+      "☁",
+      "sky",
+      "vejr"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⛅",
+    "synonyms": [
+      "⛅",
+      "sky",
+      "sol",
+      "sol bag sky"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⛈",
+    "synonyms": [
+      "⛈",
+      "regn",
+      "sky",
+      "sky med lyn og regn",
+      "torden",
+      "vejr"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌤",
+    "synonyms": [
+      "🌤",
+      "sky",
+      "sol",
+      "sol bag lille sky",
+      "vejr"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌥",
+    "synonyms": [
+      "🌥",
+      "sky",
+      "sol",
+      "sol bag stor sky",
+      "vejr"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌦",
+    "synonyms": [
+      "🌦",
+      "regn",
+      "sky",
+      "sol",
+      "sol bag sky med regn",
+      "vejr"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌧",
+    "synonyms": [
+      "🌧",
+      "regn",
+      "sky",
+      "sky med regn",
+      "vejr"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌨",
+    "synonyms": [
+      "🌨",
+      "kulde",
+      "sky",
+      "sky med sne",
+      "sne",
+      "vejr"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌩",
+    "synonyms": [
+      "🌩",
+      "lyn",
+      "sky",
+      "tordensky",
+      "vejr"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌪",
+    "synonyms": [
+      "🌪",
+      "hvirvelvind",
+      "sky",
+      "skypumpe",
+      "tornado",
+      "vejr"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌫",
+    "synonyms": [
+      "🌫",
+      "sky",
+      "tåge",
+      "vejr"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌬",
+    "synonyms": [
+      "🌬",
+      "ansigt",
+      "blæse",
+      "sky",
+      "vejr",
+      "vind",
+      "vindansigt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌀",
+    "synonyms": [
+      "🌀",
+      "cyklon",
+      "svimmel",
+      "tornado",
+      "tyfon"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌈",
+    "synonyms": [
+      "🌈",
+      "regn",
+      "regnbue",
+      "vejr"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌂",
+    "synonyms": [
+      "🌂",
+      "lukket paraply",
+      "regn",
+      "regnvejr"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "☂",
+    "synonyms": [
+      "☂",
+      "paraply",
+      "regn",
+      "tøj",
+      "vejr"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "☔",
+    "synonyms": [
+      "☔",
+      "dråbe",
+      "paraply",
+      "paraply med regndråber",
+      "regn",
+      "tøj",
+      "vejr"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⛱",
+    "synonyms": [
+      "⛱",
+      "paraply",
+      "parasol",
+      "regn",
+      "sol",
+      "vejr"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⚡",
+    "synonyms": [
+      "⚡",
+      "advarsel",
+      "fare",
+      "højspænding"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "❄",
+    "synonyms": [
+      "❄",
+      "kulde",
+      "sne",
+      "snefnug",
+      "vejr"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "☃",
+    "synonyms": [
+      "☃",
+      "kulde",
+      "sne",
+      "snemand",
+      "vejr"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⛄",
+    "synonyms": [
+      "⛄",
+      "sne",
+      "snemand uden snevejr"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "☄",
+    "synonyms": [
+      "☄",
+      "komet",
+      "rummet"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔥",
+    "synonyms": [
+      "🔥",
+      "flamme",
+      "ild"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💧",
+    "synonyms": [
+      "💧",
+      "dråbe",
+      "dråbe sved",
+      "følelser",
+      "koldsved"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌊",
+    "synonyms": [
+      "🌊",
+      "bølge",
+      "havbølge",
+      "vandbølge"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎃",
+    "synonyms": [
+      "🎃",
+      "græskar",
+      "græskarlygte"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎄",
+    "synonyms": [
+      "🎄",
+      "jul",
+      "juletræ",
+      "træ"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎆",
+    "synonyms": [
+      "🎆",
+      "fest",
+      "fyrværkeri",
+      "nytår"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎇",
+    "synonyms": [
+      "🎇",
+      "fyrværkeri",
+      "nytår",
+      "stjernekaster"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "✨",
+    "synonyms": [
+      "✨",
+      "skinne",
+      "stjerne",
+      "stjerner"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎈",
+    "synonyms": [
+      "🎈",
+      "ballon",
+      "fest",
+      "fødselsdag"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎉",
+    "synonyms": [
+      "🎉",
+      "bordbombe",
+      "fest",
+      "nytår"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎊",
+    "synonyms": [
+      "🎊",
+      "fest",
+      "konfetti",
+      "konfettidåse",
+      "konfettiregn"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎋",
+    "synonyms": [
+      "🎋",
+      "festival",
+      "træ med papirpynt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎍",
+    "synonyms": [
+      "🎍",
+      "fyrtræsdekoration",
+      "japansk nytår"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎎",
+    "synonyms": [
+      "🎎",
+      "dukker",
+      "japanske dukker"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎏",
+    "synonyms": [
+      "🎏",
+      "banner",
+      "banner med fisk",
+      "banner med karper"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎐",
+    "synonyms": [
+      "🎐",
+      "vindpiber",
+      "vindspil"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎑",
+    "synonyms": [
+      "🎑",
+      "ceremoni",
+      "fejring",
+      "måne",
+      "måneceremoni"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎀",
+    "synonyms": [
+      "🎀",
+      "fejring",
+      "sløjfe"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎁",
+    "synonyms": [
+      "🎁",
+      "fødselsdag",
+      "gave",
+      "overraskelse",
+      "pakke"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎗",
+    "synonyms": [
+      "🎗",
+      "bånd",
+      "fejring",
+      "minde",
+      "mindebånd"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎟",
+    "synonyms": [
+      "🎟",
+      "adgang",
+      "adgangsbillet",
+      "billet"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎫",
+    "synonyms": [
+      "🎫",
+      "billet",
+      "forlystelse",
+      "underholdning"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎖",
+    "synonyms": [
+      "🎖",
+      "dekoreret",
+      "fejring",
+      "medalje",
+      "militær",
+      "militærmedalje"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏆",
+    "synonyms": [
+      "🏆",
+      "pokal",
+      "præmie",
+      "trofæ"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏅",
+    "synonyms": [
+      "🏅",
+      "medalje",
+      "sportsmedalje"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥇",
+    "synonyms": [
+      "🥇",
+      "førsteplads",
+      "førstepræmie",
+      "guld",
+      "guldmedalje",
+      "medalje",
+      "vinder"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥈",
+    "synonyms": [
+      "🥈",
+      "andenplads",
+      "andenpræmie",
+      "medalje",
+      "sølv",
+      "sølvmedalje",
+      "vinder"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥉",
+    "synonyms": [
+      "🥉",
+      "bronzemedalje",
+      "medalje",
+      "tredjeplads",
+      "tredjepræmie",
+      "vinder"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⚽",
+    "synonyms": [
+      "⚽",
+      "bold",
+      "fodbold"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⚾",
+    "synonyms": [
+      "⚾",
+      "baseball",
+      "bold"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏀",
+    "synonyms": [
+      "🏀",
+      "basketball",
+      "bold",
+      "sport"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏐",
+    "synonyms": [
+      "🏐",
+      "bold",
+      "spil",
+      "volleyball"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏈",
+    "synonyms": [
+      "🏈",
+      "amerikansk fodbold",
+      "sport"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏉",
+    "synonyms": [
+      "🏉",
+      "bold",
+      "rugbybold",
+      "sport"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎾",
+    "synonyms": [
+      "🎾",
+      "bold",
+      "sport",
+      "tennis",
+      "tennisbold",
+      "tennisbold og ketsjer"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎳",
+    "synonyms": [
+      "🎳",
+      "bowling",
+      "bowlingkugle",
+      "spille"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏏",
+    "synonyms": [
+      "🏏",
+      "bat",
+      "bold",
+      "cricket",
+      "spil"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏑",
+    "synonyms": [
+      "🏑",
+      "bold",
+      "hockey",
+      "spil",
+      "stav"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏒",
+    "synonyms": [
+      "🏒",
+      "is",
+      "ishockeystav og puck",
+      "puck",
+      "spil",
+      "stav"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏓",
+    "synonyms": [
+      "🏓",
+      "bat",
+      "bold",
+      "bord",
+      "bordtennis",
+      "pingpong",
+      "spil",
+      "tennis"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏸",
+    "synonyms": [
+      "🏸",
+      "badminton",
+      "fjerbold",
+      "ketsjer",
+      "spil"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥊",
+    "synonyms": [
+      "🥊",
+      "bokse",
+      "boksehandske",
+      "boksning",
+      "handske",
+      "sport"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥋",
+    "synonyms": [
+      "🥋",
+      "kampsport",
+      "kampsportsuniform",
+      "sport",
+      "taekwondo",
+      "uniform"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥅",
+    "synonyms": [
+      "🥅",
+      "mål",
+      "målnet",
+      "net",
+      "sport"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⛳",
+    "synonyms": [
+      "⛳",
+      "golf flag"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⛸",
+    "synonyms": [
+      "⛸",
+      "is",
+      "skøjte"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎣",
+    "synonyms": [
+      "🎣",
+      "fiske",
+      "fiskeri",
+      "fiskestang",
+      "fiskestang med fisk"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎽",
+    "synonyms": [
+      "🎽",
+      "løbe",
+      "løbetrøje",
+      "løbetrøje med bånd"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎿",
+    "synonyms": [
+      "🎿",
+      "ski",
+      "skisport"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎯",
+    "synonyms": [
+      "🎯",
+      "plet",
+      "pletskud"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎱",
+    "synonyms": [
+      "🎱",
+      "billard",
+      "billardkugle"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔮",
+    "synonyms": [
+      "🔮",
+      "krystalkugle",
+      "spådom",
+      "spådomskunst"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎮",
+    "synonyms": [
+      "🎮",
+      "håndcontroller",
+      "videospil"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕹",
+    "synonyms": [
+      "🕹",
+      "joystick",
+      "spil",
+      "videospil"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎰",
+    "synonyms": [
+      "🎰",
+      "spil",
+      "spillemaskine"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎲",
+    "synonyms": [
+      "🎲",
+      "terning",
+      "terningspil"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "♠",
+    "synonyms": [
+      "♠",
+      "kort",
+      "spar",
+      "spil"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "♥",
+    "synonyms": [
+      "♥",
+      "hjerter",
+      "kort",
+      "spil"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "♦",
+    "synonyms": [
+      "♦",
+      "kort",
+      "ruder",
+      "spil"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "♣",
+    "synonyms": [
+      "♣",
+      "klør",
+      "kort",
+      "spil"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🃏",
+    "synonyms": [
+      "🃏",
+      "joker",
+      "kort",
+      "spillekort"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🀄",
+    "synonyms": [
+      "🀄",
+      "drage",
+      "mahjong",
+      "mahjong-brik",
+      "rød drage"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎴",
+    "synonyms": [
+      "🎴",
+      "spillekort",
+      "spillekort med blomster"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎭",
+    "synonyms": [
+      "🎭",
+      "masker",
+      "teater"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🖼",
+    "synonyms": [
+      "🖼",
+      "billede",
+      "kunst",
+      "maleri",
+      "museum",
+      "ramme",
+      "ramme med billede"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎨",
+    "synonyms": [
+      "🎨",
+      "farver",
+      "kunstner",
+      "maler",
+      "palet"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👓",
+    "synonyms": [
+      "👓",
+      "beklædning",
+      "briller"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕶",
+    "synonyms": [
+      "🕶",
+      "briller",
+      "mørk",
+      "øje",
+      "solbriller"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👔",
+    "synonyms": [
+      "👔",
+      "beklædning",
+      "slips"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👕",
+    "synonyms": [
+      "👕",
+      "beklædning",
+      "bluse",
+      "T-shirt",
+      "trøje"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👖",
+    "synonyms": [
+      "👖",
+      "beklædning",
+      "bukser"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👗",
+    "synonyms": [
+      "👗",
+      "beklædning",
+      "kjole"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👘",
+    "synonyms": [
+      "👘",
+      "beklædning",
+      "kåbe",
+      "kimono"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👙",
+    "synonyms": [
+      "👙",
+      "badetøj",
+      "beklædning",
+      "bikini"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👚",
+    "synonyms": [
+      "👚",
+      "beklædning",
+      "bluse"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👛",
+    "synonyms": [
+      "👛",
+      "pengepung",
+      "pung"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👜",
+    "synonyms": [
+      "👜",
+      "håndtaske",
+      "taske"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👝",
+    "synonyms": [
+      "👝",
+      "pung",
+      "taske"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛍",
+    "synonyms": [
+      "🛍",
+      "hotel",
+      "indkøbsposer",
+      "pose"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎒",
+    "synonyms": [
+      "🎒",
+      "rygsæk",
+      "skole",
+      "skoletaske",
+      "taske"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👞",
+    "synonyms": [
+      "👞",
+      "herresko",
+      "sko"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👟",
+    "synonyms": [
+      "👟",
+      "fritidssko",
+      "gummisko",
+      "sko",
+      "tennissko"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👠",
+    "synonyms": [
+      "👠",
+      "høje hæle",
+      "højhælet sko",
+      "sko"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👡",
+    "synonyms": [
+      "👡",
+      "damesandaler",
+      "sandaler"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👢",
+    "synonyms": [
+      "👢",
+      "damestøvler",
+      "støvler"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👑",
+    "synonyms": [
+      "👑",
+      "beklædning",
+      "krone"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👒",
+    "synonyms": [
+      "👒",
+      "beklædning",
+      "hat",
+      "kvindes hat"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎩",
+    "synonyms": [
+      "🎩",
+      "hat",
+      "høj hat",
+      "sort hat"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎓",
+    "synonyms": [
+      "🎓",
+      "eksamen",
+      "eksamenshat",
+      "hat"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⛑",
+    "synonyms": [
+      "⛑",
+      "ansigt",
+      "hjelm",
+      "hjelm med hvidt kors",
+      "kors",
+      "nødhjælp"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📿",
+    "synonyms": [
+      "📿",
+      "bedekrans",
+      "bøn",
+      "halskæde",
+      "påklædning",
+      "perler",
+      "religion"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💄",
+    "synonyms": [
+      "💄",
+      "kosmetik",
+      "læbestift"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💍",
+    "synonyms": [
+      "💍",
+      "ring",
+      "romantik"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💎",
+    "synonyms": [
+      "💎",
+      "diamant",
+      "juvel",
+      "romantik"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔇",
+    "synonyms": [
+      "🔇",
+      "højttaler",
+      "højttaler fra",
+      "lyd fra",
+      "lydstyrke",
+      "stille"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔈",
+    "synonyms": [
+      "🔈",
+      "højttaler",
+      "lydstyrke"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔉",
+    "synonyms": [
+      "🔉",
+      "højtaler med en lydbølge",
+      "højttaler til",
+      "lav volumen"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔊",
+    "synonyms": [
+      "🔊",
+      "høj volumen",
+      "højtaler med høj volumen",
+      "højttaler høj"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📢",
+    "synonyms": [
+      "📢",
+      "højt",
+      "højttaler med håndtag",
+      "offentlig"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📣",
+    "synonyms": [
+      "📣",
+      "kommunikation",
+      "megafon"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📯",
+    "synonyms": [
+      "📯",
+      "posthorn"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔔",
+    "synonyms": [
+      "🔔",
+      "klokke"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔕",
+    "synonyms": [
+      "🔕",
+      "ingen klokke",
+      "ingen lyd",
+      "klokke med streg over"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎼",
+    "synonyms": [
+      "🎼",
+      "g-nøgle",
+      "musik",
+      "partitur"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎵",
+    "synonyms": [
+      "🎵",
+      "musik",
+      "node"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎶",
+    "synonyms": [
+      "🎶",
+      "musik",
+      "node",
+      "noder"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎙",
+    "synonyms": [
+      "🎙",
+      "mikrofon",
+      "musik",
+      "studie",
+      "studiemikrofon"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎚",
+    "synonyms": [
+      "🎚",
+      "musik",
+      "volumenkontrol"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎛",
+    "synonyms": [
+      "🎛",
+      "knapper",
+      "musik"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎤",
+    "synonyms": [
+      "🎤",
+      "mikrofon",
+      "sang",
+      "synge"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎧",
+    "synonyms": [
+      "🎧",
+      "høretelefon",
+      "hovedtelefon",
+      "lytte",
+      "musik"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📻",
+    "synonyms": [
+      "📻",
+      "æteren",
+      "radio"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎷",
+    "synonyms": [
+      "🎷",
+      "instrument",
+      "musik",
+      "musikinstrument",
+      "saxofon"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎸",
+    "synonyms": [
+      "🎸",
+      "guitar",
+      "instrument",
+      "musik",
+      "musikinstrument",
+      "strengeinstrument"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎹",
+    "synonyms": [
+      "🎹",
+      "instrument",
+      "keyboard",
+      "klaver",
+      "musik",
+      "musikinstrument"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎺",
+    "synonyms": [
+      "🎺",
+      "instrument",
+      "musik",
+      "musikinstrument",
+      "trompet"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎻",
+    "synonyms": [
+      "🎻",
+      "instrument",
+      "musik",
+      "musikinstrument",
+      "strengeinstrument",
+      "violin"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥁",
+    "synonyms": [
+      "🥁",
+      "musik",
+      "rytme",
+      "tromme",
+      "trommestikker"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📱",
+    "synonyms": [
+      "📱",
+      "mobil",
+      "mobiltelefon"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📲",
+    "synonyms": [
+      "📲",
+      "lav et opkald",
+      "mobil med pil"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "☎",
+    "synonyms": [
+      "☎",
+      "telefon"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📞",
+    "synonyms": [
+      "📞",
+      "kommunikation",
+      "telefonrør"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📟",
+    "synonyms": [
+      "📟",
+      "bipper",
+      "kommunikation",
+      "personsøger"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📠",
+    "synonyms": [
+      "📠",
+      "fax",
+      "faxmaskine",
+      "kommunikation"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔋",
+    "synonyms": [
+      "🔋",
+      "batteri"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔌",
+    "synonyms": [
+      "🔌",
+      "elektricitet",
+      "elektrisk",
+      "stik"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💻",
+    "synonyms": [
+      "💻",
+      "computer"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🖥",
+    "synonyms": [
+      "🖥",
+      "computer",
+      "stationær"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🖨",
+    "synonyms": [
+      "🖨",
+      "computer",
+      "printer",
+      "stationær"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⌨",
+    "synonyms": [
+      "⌨",
+      "computer",
+      "tastatur"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🖱",
+    "synonyms": [
+      "🖱",
+      "computer",
+      "computermus",
+      "knap",
+      "mus"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🖲",
+    "synonyms": [
+      "🖲",
+      "computer",
+      "trackball"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💽",
+    "synonyms": [
+      "💽",
+      "disk",
+      "mini disk"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💾",
+    "synonyms": [
+      "💾",
+      "computer",
+      "diskette"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💿",
+    "synonyms": [
+      "💿",
+      "cd",
+      "dvd"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📀",
+    "synonyms": [
+      "📀",
+      "blu-ray",
+      "cd",
+      "computer",
+      "disk",
+      "DVD",
+      "optisk"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎥",
+    "synonyms": [
+      "🎥",
+      "biograf",
+      "filme",
+      "filmkamera"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎞",
+    "synonyms": [
+      "🎞",
+      "biograf",
+      "film",
+      "filmstrimmel",
+      "strimmel"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📽",
+    "synonyms": [
+      "📽",
+      "biograf",
+      "filmprojektor",
+      "projektor",
+      "video"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎬",
+    "synonyms": [
+      "🎬",
+      "filmklapper",
+      "klapper",
+      "klaptræ"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📺",
+    "synonyms": [
+      "📺",
+      "fjernsyn",
+      "tv"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📷",
+    "synonyms": [
+      "📷",
+      "kamera",
+      "video"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📸",
+    "synonyms": [
+      "📸",
+      "blitz",
+      "kamera",
+      "kamera med blitz",
+      "video"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📹",
+    "synonyms": [
+      "📹",
+      "kamera",
+      "video",
+      "videokamera"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📼",
+    "synonyms": [
+      "📼",
+      "video",
+      "videobånd"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔍",
+    "synonyms": [
+      "🔍",
+      "forstørrelse",
+      "forstørrelsesglas",
+      "forstørrelsesglas til venstre",
+      "søgning",
+      "værktøj"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔎",
+    "synonyms": [
+      "🔎",
+      "forstørrelse",
+      "forstørrelsesglas",
+      "forstørrelsesglas til højre",
+      "søgning",
+      "værktøj"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕯",
+    "synonyms": [
+      "🕯",
+      "lys",
+      "stearinlys"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💡",
+    "synonyms": [
+      "💡",
+      "elpære",
+      "ide",
+      "lys ide"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔦",
+    "synonyms": [
+      "🔦",
+      "lommelygte",
+      "lygte"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏮",
+    "synonyms": [
+      "🏮",
+      "lanterne",
+      "lygte",
+      "rød lygte"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📔",
+    "synonyms": [
+      "📔",
+      "notesbog",
+      "notesbog med udsmykning"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📕",
+    "synonyms": [
+      "📕",
+      "bog",
+      "lukket bog"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📖",
+    "synonyms": [
+      "📖",
+      "åben bog",
+      "bog"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📗",
+    "synonyms": [
+      "📗",
+      "bog",
+      "grøn bog"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📘",
+    "synonyms": [
+      "📘",
+      "blå bog",
+      "bog"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📙",
+    "synonyms": [
+      "📙",
+      "bog",
+      "orange bog"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📚",
+    "synonyms": [
+      "📚",
+      "bog",
+      "bøger"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📓",
+    "synonyms": [
+      "📓",
+      "noter",
+      "notesbog"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📒",
+    "synonyms": [
+      "📒",
+      "notesbog",
+      "regnskabsbog"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📃",
+    "synonyms": [
+      "📃",
+      "side",
+      "side med fold"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📜",
+    "synonyms": [
+      "📜",
+      "papir",
+      "skriftrulle"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📄",
+    "synonyms": [
+      "📄",
+      "dokument",
+      "side"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📰",
+    "synonyms": [
+      "📰",
+      "avis",
+      "nyheder"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🗞",
+    "synonyms": [
+      "🗞",
+      "avis",
+      "nyheder",
+      "sammenrullet"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📑",
+    "synonyms": [
+      "📑",
+      "bogmærke",
+      "faner",
+      "mærke"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔖",
+    "synonyms": [
+      "🔖",
+      "bogmærke",
+      "mærke"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏷",
+    "synonyms": [
+      "🏷",
+      "etiket",
+      "label",
+      "mærkat",
+      "seddel"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💰",
+    "synonyms": [
+      "💰",
+      "dollar",
+      "penge",
+      "pengepose"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💴",
+    "synonyms": [
+      "💴",
+      "penge",
+      "yenseddel"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💵",
+    "synonyms": [
+      "💵",
+      "dollarseddel",
+      "penge"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💶",
+    "synonyms": [
+      "💶",
+      "euroseddel",
+      "penge"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💷",
+    "synonyms": [
+      "💷",
+      "penge",
+      "pund",
+      "pundseddel"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💸",
+    "synonyms": [
+      "💸",
+      "flyvende penge",
+      "penge",
+      "penge med vinger"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💳",
+    "synonyms": [
+      "💳",
+      "bank",
+      "kort",
+      "kredit",
+      "kreditkort",
+      "penge"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💹",
+    "synonyms": [
+      "💹",
+      "opadgående graf",
+      "stigende marked"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "✉",
+    "synonyms": [
+      "✉",
+      "e-mail",
+      "konvolut"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📧",
+    "synonyms": [
+      "📧",
+      "brev",
+      "e-mail",
+      "kommunikation"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📨",
+    "synonyms": [
+      "📨",
+      "e-mail",
+      "indgående post",
+      "modtaget post"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📩",
+    "synonyms": [
+      "📩",
+      "e-mail",
+      "sendt post",
+      "udgående post"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📤",
+    "synonyms": [
+      "📤",
+      "kommunikation",
+      "sendt",
+      "udbakke"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📥",
+    "synonyms": [
+      "📥",
+      "indbakke",
+      "kommunikation",
+      "modtaget"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📦",
+    "synonyms": [
+      "📦",
+      "kasse",
+      "pakke"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📫",
+    "synonyms": [
+      "📫",
+      "lukket postkasse med hævet flag",
+      "post",
+      "postkasse med flag op"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📪",
+    "synonyms": [
+      "📪",
+      "lukket postkasse med sænket flag",
+      "post",
+      "postkasse med flag nede"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📬",
+    "synonyms": [
+      "📬",
+      "åben postkasse med hævet flag",
+      "post",
+      "postkasse med brev"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📭",
+    "synonyms": [
+      "📭",
+      "åben postkasse",
+      "åben postkasse med sænket flag",
+      "post"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📮",
+    "synonyms": [
+      "📮",
+      "postkasse"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🗳",
+    "synonyms": [
+      "🗳",
+      "boks",
+      "kasse",
+      "stemme",
+      "urne",
+      "valgurne med stemmeseddel"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "✏",
+    "synonyms": [
+      "✏",
+      "blyant"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "✒",
+    "synonyms": [
+      "✒",
+      "fyldepen",
+      "pen",
+      "sort fyldepen"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🖋",
+    "synonyms": [
+      "🖋",
+      "fyldepen",
+      "pen"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🖊",
+    "synonyms": [
+      "🖊",
+      "kuglepen",
+      "pen"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🖌",
+    "synonyms": [
+      "🖌",
+      "maleri",
+      "malerpensel",
+      "maling"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🖍",
+    "synonyms": [
+      "🖍",
+      "farveblyant",
+      "farvekridt",
+      "fedtfarve"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📝",
+    "synonyms": [
+      "📝",
+      "kommunikation",
+      "notat"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💼",
+    "synonyms": [
+      "💼",
+      "attachémappe",
+      "mappe"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📁",
+    "synonyms": [
+      "📁",
+      "dokument",
+      "mappe"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📂",
+    "synonyms": [
+      "📂",
+      "åben mappe",
+      "dokument"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🗂",
+    "synonyms": [
+      "🗂",
+      "kartotek",
+      "kartotekskort",
+      "kort"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📅",
+    "synonyms": [
+      "📅",
+      "dato",
+      "kalender"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📆",
+    "synonyms": [
+      "📆",
+      "afrivningskalender",
+      "kalender",
+      "kalenderblok"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🗒",
+    "synonyms": [
+      "🗒",
+      "blok",
+      "note",
+      "noter",
+      "notesblok",
+      "spiral",
+      "spiralryg"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🗓",
+    "synonyms": [
+      "🗓",
+      "blok",
+      "kalender",
+      "spiral",
+      "spiralkalender"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📇",
+    "synonyms": [
+      "📇",
+      "indekskort",
+      "kartotek",
+      "kontakter"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📈",
+    "synonyms": [
+      "📈",
+      "graf",
+      "opadgående graf",
+      "tendens"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📉",
+    "synonyms": [
+      "📉",
+      "graf",
+      "nedadgående graf",
+      "tendens"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📊",
+    "synonyms": [
+      "📊",
+      "diagram",
+      "søjlediagram"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📋",
+    "synonyms": [
+      "📋",
+      "clipboard"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📌",
+    "synonyms": [
+      "📌",
+      "stift",
+      "tegnestift"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📍",
+    "synonyms": [
+      "📍",
+      "rund tegnestift",
+      "stift",
+      "tegnestift"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📎",
+    "synonyms": [
+      "📎",
+      "clips",
+      "papirclips"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🖇",
+    "synonyms": [
+      "🖇",
+      "papirclip",
+      "sammensat",
+      "sammensatte papirclips"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📏",
+    "synonyms": [
+      "📏",
+      "lige kant",
+      "lineal"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📐",
+    "synonyms": [
+      "📐",
+      "trekant",
+      "vinkel",
+      "vinkelmåler"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "✂",
+    "synonyms": [
+      "✂",
+      "saks",
+      "værktøj"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🗃",
+    "synonyms": [
+      "🗃",
+      "arkiv",
+      "arkivkasse",
+      "kasse",
+      "pap"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🗄",
+    "synonyms": [
+      "🗄",
+      "arkiv",
+      "arkivskab",
+      "skab"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🗑",
+    "synonyms": [
+      "🗑",
+      "papirkurv",
+      "skraldespand"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔒",
+    "synonyms": [
+      "🔒",
+      "hængelås",
+      "låst"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔓",
+    "synonyms": [
+      "🔓",
+      "åben hængelås",
+      "åben lås"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔏",
+    "synonyms": [
+      "🔏",
+      "fyldepen",
+      "hængelås med pen",
+      "lås med fyldepen",
+      "privat"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔐",
+    "synonyms": [
+      "🔐",
+      "lås med nøgle",
+      "låst",
+      "lukket hængelås med nøgle",
+      "sikker"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔑",
+    "synonyms": [
+      "🔑",
+      "adgangskode",
+      "nøgle",
+      "password"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🗝",
+    "synonyms": [
+      "🗝",
+      "gammel",
+      "lås",
+      "nøgle"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔨",
+    "synonyms": [
+      "🔨",
+      "hammer",
+      "værktøj"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⛏",
+    "synonyms": [
+      "⛏",
+      "hakke",
+      "mine",
+      "værktøj"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⚒",
+    "synonyms": [
+      "⚒",
+      "hakke",
+      "hammer",
+      "hammer og hakke",
+      "værktøj"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛠",
+    "synonyms": [
+      "🛠",
+      "hammer",
+      "hammer og skruenøgle",
+      "skruenøgle",
+      "svensknøgle",
+      "værktøj"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🗡",
+    "synonyms": [
+      "🗡",
+      "daggert",
+      "kniv",
+      "våben"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⚔",
+    "synonyms": [
+      "⚔",
+      "korslagt",
+      "korslagte sværd",
+      "sværd",
+      "våben"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔫",
+    "synonyms": [
+      "🔫",
+      "pistol",
+      "revolver",
+      "våben"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏹",
+    "synonyms": [
+      "🏹",
+      "bue",
+      "bue og pil",
+      "bueskytte",
+      "pil",
+      "skytten",
+      "stjernetegn",
+      "våben",
+      "værktøj"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛡",
+    "synonyms": [
+      "🛡",
+      "skjold",
+      "våben"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔧",
+    "synonyms": [
+      "🔧",
+      "skruenøgle",
+      "værktøj"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔩",
+    "synonyms": [
+      "🔩",
+      "bolt",
+      "møtrik",
+      "møtrik og bolt",
+      "værktøj"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⚙",
+    "synonyms": [
+      "⚙",
+      "tandhjul",
+      "værktøj"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🗜",
+    "synonyms": [
+      "🗜",
+      "skruestik",
+      "skruetvinge",
+      "værktøj"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⚖",
+    "synonyms": [
+      "⚖",
+      "balance",
+      "jura",
+      "retfærdighed",
+      "stjernetegn",
+      "vægt",
+      "værktøj"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔗",
+    "synonyms": [
+      "🔗",
+      "link",
+      "link-tegn"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⛓",
+    "synonyms": [
+      "⛓",
+      "kæde",
+      "kæder"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⚗",
+    "synonyms": [
+      "⚗",
+      "kemi",
+      "kolbe",
+      "værktøj"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔬",
+    "synonyms": [
+      "🔬",
+      "mikroskop",
+      "redskab",
+      "værktøj"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔭",
+    "synonyms": [
+      "🔭",
+      "redskab",
+      "teleskop",
+      "værktøj"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📡",
+    "synonyms": [
+      "📡",
+      "kommunikation",
+      "parabolantenne"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💉",
+    "synonyms": [
+      "💉",
+      "indsprøjtning",
+      "læge",
+      "sprøjte"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💊",
+    "synonyms": [
+      "💊",
+      "læge",
+      "medicin",
+      "pille"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚪",
+    "synonyms": [
+      "🚪",
+      "åben dør",
+      "dør"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛏",
+    "synonyms": [
+      "🛏",
+      "hotel",
+      "seng",
+      "sove"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛋",
+    "synonyms": [
+      "🛋",
+      "hotel",
+      "lampe",
+      "sofa",
+      "sofa og lampe"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚽",
+    "synonyms": [
+      "🚽",
+      "toilet",
+      "wc"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚿",
+    "synonyms": [
+      "🚿",
+      "bad",
+      "brusebad"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛁",
+    "synonyms": [
+      "🛁",
+      "bad",
+      "badekar"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛒",
+    "synonyms": [
+      "🛒",
+      "butik",
+      "forretning",
+      "indkøb",
+      "indkøbsvogn",
+      "køb",
+      "vogn"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚬",
+    "synonyms": [
+      "🚬",
+      "rygeskilt",
+      "rygning tilladt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⚰",
+    "synonyms": [
+      "⚰",
+      "død",
+      "kiste"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⚱",
+    "synonyms": [
+      "⚱",
+      "begravelse",
+      "død",
+      "urne"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🗿",
+    "synonyms": [
+      "🗿",
+      "moyai-statue",
+      "statue"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏧",
+    "synonyms": [
+      "🏧",
+      "dankortsautomat",
+      "hæve penge",
+      "pengeautomat"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚮",
+    "synonyms": [
+      "🚮",
+      "skraldespand",
+      "smid i skraldespanden"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚰",
+    "synonyms": [
+      "🚰",
+      "drik",
+      "drikkevand",
+      "vand"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "♿",
+    "synonyms": [
+      "♿",
+      "adgang",
+      "rullestol",
+      "rullestolsadgang"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚹",
+    "synonyms": [
+      "🚹",
+      "mænd",
+      "wc"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚺",
+    "synonyms": [
+      "🚺",
+      "kvinder",
+      "wc"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚻",
+    "synonyms": [
+      "🚻",
+      "toilet-skilt",
+      "toiletskilt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚼",
+    "synonyms": [
+      "🚼",
+      "baby-skilt",
+      "babysymbol",
+      "skifte"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚾",
+    "synonyms": [
+      "🚾",
+      "toilet",
+      "wc"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛂",
+    "synonyms": [
+      "🛂",
+      "pas",
+      "paskontrol"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛃",
+    "synonyms": [
+      "🛃",
+      "told"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛄",
+    "synonyms": [
+      "🛄",
+      "baggage",
+      "baggageudlevering"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛅",
+    "synonyms": [
+      "🛅",
+      "baggage",
+      "hittegods"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⚠",
+    "synonyms": [
+      "⚠",
+      "advarsel",
+      "advarselsskilt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚸",
+    "synonyms": [
+      "🚸",
+      "børn",
+      "børn krydser vej",
+      "pas på børn"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⛔",
+    "synonyms": [
+      "⛔",
+      "adgang",
+      "forbudt",
+      "ingen adgang",
+      "trafik"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚫",
+    "synonyms": [
+      "🚫",
+      "adgang forbudt",
+      "ingen adgang"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚳",
+    "synonyms": [
+      "🚳",
+      "cykler forbudt",
+      "ingen cykler"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚭",
+    "synonyms": [
+      "🚭",
+      "rygning forbudt",
+      "rygning ikke tilladt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚯",
+    "synonyms": [
+      "🚯",
+      "affald",
+      "forbudt",
+      "ikke tilladt",
+      "smid ikke affald"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚱",
+    "synonyms": [
+      "🚱",
+      "drik",
+      "forbudt",
+      "ikke drikkevand",
+      "vand"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚷",
+    "synonyms": [
+      "🚷",
+      "fodgænger",
+      "forbudt",
+      "ingen fodgængere"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📵",
+    "synonyms": [
+      "📵",
+      "ingen mobiltelefoner",
+      "mobiltelefoner forbudt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔞",
+    "synonyms": [
+      "🔞",
+      "forbudt for under 18",
+      "ingen under 18"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "☢",
+    "synonyms": [
+      "☢",
+      "advarsel",
+      "radioaktiv",
+      "radioaktivitet",
+      "risiko",
+      "skilt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "☣",
+    "synonyms": [
+      "☣",
+      "advarsel",
+      "biologisk",
+      "fare",
+      "risiko",
+      "skilt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⬆",
+    "synonyms": [
+      "⬆",
+      "nord",
+      "opadvendt pil",
+      "pil",
+      "retning",
+      "verdenshjørne"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "↗",
+    "synonyms": [
+      "↗",
+      "nordøst",
+      "opadvendt pil mod højre",
+      "pil",
+      "retning"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "➡",
+    "synonyms": [
+      "➡",
+      "øst",
+      "pil",
+      "pil mod højre",
+      "retning",
+      "verdenshjørne"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "↘",
+    "synonyms": [
+      "↘",
+      "nedadvendt pil mod højre",
+      "pil",
+      "retning",
+      "sydøst"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⬇",
+    "synonyms": [
+      "⬇",
+      "ned",
+      "nedadvendt pil",
+      "pil",
+      "retning",
+      "syd",
+      "verdenshjørne"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "↙",
+    "synonyms": [
+      "↙",
+      "nedadvendt pil mod venstre",
+      "pil",
+      "retning",
+      "sydvest"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⬅",
+    "synonyms": [
+      "⬅",
+      "pil",
+      "pil mod venstre",
+      "retning",
+      "verdenshjørne",
+      "vest"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "↖",
+    "synonyms": [
+      "↖",
+      "nordvest",
+      "opadvendt pil mod venstre",
+      "pil",
+      "retning"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "↕",
+    "synonyms": [
+      "↕",
+      "op og nedadvendt pil",
+      "pil"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "↔",
+    "synonyms": [
+      "↔",
+      "pil",
+      "pil mod venstre og højre"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "↩",
+    "synonyms": [
+      "↩",
+      "pil",
+      "pil mod højre med sving til venstre"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "↪",
+    "synonyms": [
+      "↪",
+      "pil",
+      "pil mod venstre med sving til højre"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⤴",
+    "synonyms": [
+      "⤴",
+      "pil",
+      "pil mod højre med sving opad"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⤵",
+    "synonyms": [
+      "⤵",
+      "ned",
+      "pil",
+      "pil mod højre med sving nedad"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔃",
+    "synonyms": [
+      "🔃",
+      "genindlæse",
+      "genindlæse-tegn",
+      "vertikale pile med uret"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔄",
+    "synonyms": [
+      "🔄",
+      "mod uret",
+      "pile",
+      "pile mod uret"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔙",
+    "synonyms": [
+      "🔙",
+      "tilbage",
+      "tilbage-pil",
+      "venstrepil"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔚",
+    "synonyms": [
+      "🔚",
+      "end",
+      "end-pil",
+      "venstrepil"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔛",
+    "synonyms": [
+      "🔛",
+      "ON med udråbstegn",
+      "ON-pil",
+      "på"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔜",
+    "synonyms": [
+      "🔜",
+      "snart",
+      "snart med højrepil",
+      "snart-tegn"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔝",
+    "synonyms": [
+      "🔝",
+      "pil peger op",
+      "top",
+      "toppil"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛐",
+    "synonyms": [
+      "🛐",
+      "bedested",
+      "bøn",
+      "religion"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⚛",
+    "synonyms": [
+      "⚛",
+      "ateist",
+      "atom",
+      "atomsymbol"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕉",
+    "synonyms": [
+      "🕉",
+      "hindu",
+      "om",
+      "religion"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "✡",
+    "synonyms": [
+      "✡",
+      "david",
+      "davidsstjerne",
+      "jøde",
+      "jødisk",
+      "religion",
+      "stjerne"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "☸",
+    "synonyms": [
+      "☸",
+      "buddhist",
+      "dharma",
+      "dharma-hjul",
+      "hjul",
+      "religion"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "☯",
+    "synonyms": [
+      "☯",
+      "religion",
+      "tao",
+      "taoist",
+      "yang",
+      "yin",
+      "yin og yang"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "✝",
+    "synonyms": [
+      "✝",
+      "kors",
+      "kristen",
+      "latinsk kors",
+      "religion"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "☦",
+    "synonyms": [
+      "☦",
+      "kors",
+      "kristen",
+      "ortodokst kors",
+      "religion"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "☪",
+    "synonyms": [
+      "☪",
+      "islam",
+      "muslim",
+      "religion",
+      "stjerne og halvmåne"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "☮",
+    "synonyms": [
+      "☮",
+      "fred",
+      "fredssymbol"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕎",
+    "synonyms": [
+      "🕎",
+      "lysestage",
+      "religion",
+      "syvarmet lysestage"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔯",
+    "synonyms": [
+      "🔯",
+      "horoskop",
+      "sekstakket stjerne med prik",
+      "stjerne"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "♈",
+    "synonyms": [
+      "♈",
+      "stjernetegn",
+      "vædderen"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "♉",
+    "synonyms": [
+      "♉",
+      "stjernetegn",
+      "tyren"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "♊",
+    "synonyms": [
+      "♊",
+      "stjernetegn",
+      "tvillingen"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "♋",
+    "synonyms": [
+      "♋",
+      "krebsen",
+      "stjernetegn"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "♌",
+    "synonyms": [
+      "♌",
+      "løven",
+      "stjernetegn"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "♍",
+    "synonyms": [
+      "♍",
+      "jomfruen",
+      "stjernetegn"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "♎",
+    "synonyms": [
+      "♎",
+      "stjernetegn",
+      "vægten"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "♏",
+    "synonyms": [
+      "♏",
+      "skorpionen",
+      "stjernetegn"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "♐",
+    "synonyms": [
+      "♐",
+      "skytten",
+      "stjernetegn"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "♑",
+    "synonyms": [
+      "♑",
+      "stenbukken",
+      "stjernetegn"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "♒",
+    "synonyms": [
+      "♒",
+      "stjernetegn",
+      "vandmanden"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "♓",
+    "synonyms": [
+      "♓",
+      "fisken",
+      "stjernetegn"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⛎",
+    "synonyms": [
+      "⛎",
+      "slangebæreren",
+      "stjernebillede"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔀",
+    "synonyms": [
+      "🔀",
+      "krydsede pile",
+      "pile",
+      "pile mod højre"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔁",
+    "synonyms": [
+      "🔁",
+      "gentag",
+      "gentageknap",
+      "med uret",
+      "pil"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔂",
+    "synonyms": [
+      "🔂",
+      "én gang",
+      "knap til én gentagelse",
+      "med uret",
+      "pil"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "▶",
+    "synonyms": [
+      "▶",
+      "afspil",
+      "afspilning",
+      "afspilningsknap",
+      "højre",
+      "pil",
+      "play",
+      "trekant"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⏩",
+    "synonyms": [
+      "⏩",
+      "dobbelt højrepil",
+      "højre",
+      "spole frem"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⏭",
+    "synonyms": [
+      "⏭",
+      "knap til næste nummer",
+      "næste nummer",
+      "næste scene",
+      "pil",
+      "trekant"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⏯",
+    "synonyms": [
+      "⏯",
+      "afspil",
+      "højre",
+      "knap til afspilning og pause",
+      "pause",
+      "pil",
+      "play",
+      "trekant"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "◀",
+    "synonyms": [
+      "◀",
+      "baglæns",
+      "knap til baglæns afspilning",
+      "pil",
+      "trekant",
+      "venstre"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⏪",
+    "synonyms": [
+      "⏪",
+      "dobbelt venstrepil",
+      "spole tilbage",
+      "venstre"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⏮",
+    "synonyms": [
+      "⏮",
+      "forrige nummer",
+      "forrige scene",
+      "knap til forrige nummer",
+      "pil",
+      "trekant"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔼",
+    "synonyms": [
+      "🔼",
+      "knap",
+      "op-knap",
+      "opad",
+      "pil"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⏫",
+    "synonyms": [
+      "⏫",
+      "dobbeltpil op",
+      "op",
+      "pil op"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔽",
+    "synonyms": [
+      "🔽",
+      "knap",
+      "ned",
+      "ned-knap",
+      "nedad",
+      "pil"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⏬",
+    "synonyms": [
+      "⏬",
+      "dobbeltpil ned",
+      "ned",
+      "pil ned"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⏸",
+    "synonyms": [
+      "⏸",
+      "bjælke",
+      "dobbelt",
+      "lodret",
+      "pause",
+      "pauseknap"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⏹",
+    "synonyms": [
+      "⏹",
+      "kvadrat",
+      "stop",
+      "stopknap"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⏺",
+    "synonyms": [
+      "⏺",
+      "cirkel",
+      "optage",
+      "optageknap"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⏏",
+    "synonyms": [
+      "⏏",
+      "eject",
+      "skub ud",
+      "udskubningsknap"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎦",
+    "synonyms": [
+      "🎦",
+      "biograf",
+      "film",
+      "filme",
+      "teater"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔅",
+    "synonyms": [
+      "🔅",
+      "dæmpet lysstyrke",
+      "lav lysstyrke"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔆",
+    "synonyms": [
+      "🔆",
+      "høj lysstyrke",
+      "lysstyrke"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📶",
+    "synonyms": [
+      "📶",
+      "mobilsignal",
+      "signalstyrke"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📳",
+    "synonyms": [
+      "📳",
+      "mobil",
+      "vibration"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📴",
+    "synonyms": [
+      "📴",
+      "mobil",
+      "mobil slået fra"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "✖",
+    "synonyms": [
+      "✖",
+      "annuller",
+      "gange",
+      "gangetegn",
+      "multiplicer",
+      "multiplikation",
+      "stort kryds",
+      "x"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "➕",
+    "synonyms": [
+      "➕",
+      "plus",
+      "plustegn"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "➖",
+    "synonyms": [
+      "➖",
+      "minus",
+      "minustegn"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "➗",
+    "synonyms": [
+      "➗",
+      "division",
+      "divisionstegn"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "‼",
+    "synonyms": [
+      "‼",
+      "dobbelt udråbstegn",
+      "tegnsætning",
+      "udråbstegn"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⁉",
+    "synonyms": [
+      "⁉",
+      "spørgsmål",
+      "tegn",
+      "tegnsætning",
+      "udråbstegn",
+      "udråbstegn og spørgsmålstegn"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "❓",
+    "synonyms": [
+      "❓",
+      "spørgsmål",
+      "spørgsmålstegn",
+      "tegn",
+      "tegnsætning"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "❔",
+    "synonyms": [
+      "❔",
+      "hvidt spørgsmålstegn",
+      "omrids",
+      "spørgsmål",
+      "tegn",
+      "tegnsætning"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "❕",
+    "synonyms": [
+      "❕",
+      "fixed to avoid duplicate",
+      "hvidt udråbstegn"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "❗",
+    "synonyms": [
+      "❗",
+      "tegnsætning",
+      "udråbstegn"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💱",
+    "synonyms": [
+      "💱",
+      "bank",
+      "penge",
+      "valuta",
+      "valutaveksling",
+      "veksling"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💲",
+    "synonyms": [
+      "💲",
+      "dollartegn"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⚕",
+    "synonyms": [
+      "⚕",
+      "æskulap",
+      "æskulapstav",
+      "lægekunst",
+      "lægevidenskab",
+      "medicin",
+      "medicinsymbol",
+      "slange",
+      "stav"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "♻",
+    "synonyms": [
+      "♻",
+      "genbrug",
+      "genbrugssymbol"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⚜",
+    "synonyms": [
+      "⚜",
+      "fleur-de-lis",
+      "fransk lilje",
+      "heraldik",
+      "heraldisk lilje",
+      "lilje"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔱",
+    "synonyms": [
+      "🔱",
+      "trefork",
+      "trefork-symbol"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📛",
+    "synonyms": [
+      "📛",
+      "navn",
+      "navneskilt",
+      "skilt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔰",
+    "synonyms": [
+      "🔰",
+      "grønt og gult",
+      "grønt og gult blad"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⭕",
+    "synonyms": [
+      "⭕",
+      "cirkel",
+      "o",
+      "stor kraftig cirkel"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "✅",
+    "synonyms": [
+      "✅",
+      "flueben",
+      "markering"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "☑",
+    "synonyms": [
+      "☑",
+      "afkrydsning",
+      "afkrydsningsfelt med flueben",
+      "flueben",
+      "markere",
+      "stemme"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "✔",
+    "synonyms": [
+      "✔",
+      "flueben",
+      "stort flueben"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "❌",
+    "synonyms": [
+      "❌",
+      "annuller",
+      "gange",
+      "kryds",
+      "mærke",
+      "multiplicer",
+      "multiplikation",
+      "x"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "❎",
+    "synonyms": [
+      "❎",
+      "krydsknap",
+      "kvadrat",
+      "mærke",
+      "x"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "➰",
+    "synonyms": [
+      "➰",
+      "krølle",
+      "løkke",
+      "loop"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "➿",
+    "synonyms": [
+      "➿",
+      "dobbelt",
+      "krølle",
+      "løkke",
+      "loop"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "✳",
+    "synonyms": [
+      "✳",
+      "asterisk",
+      "ottetakket spids stjerne",
+      "stjerne"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "✴",
+    "synonyms": [
+      "✴",
+      "ottetakket stjerne",
+      "stjerne"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "❇",
+    "synonyms": [
+      "❇",
+      "funkle",
+      "funklen",
+      "glans",
+      "stråle"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔠",
+    "synonyms": [
+      "🔠",
+      "store bogstaver",
+      "symbol for store bogstaver"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔡",
+    "synonyms": [
+      "🔡",
+      "små bogstaver",
+      "symbol for små bogstaver"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔢",
+    "synonyms": [
+      "🔢",
+      "symbol for tal",
+      "tal"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔣",
+    "synonyms": [
+      "🔣",
+      "symbol for symboler",
+      "symboler"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔤",
+    "synonyms": [
+      "🔤",
+      "latinske alfabet",
+      "symbol for latinske alfabet"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🅰",
+    "synonyms": [
+      "🅰",
+      "A",
+      "blod",
+      "blodtype",
+      "type A"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🆎",
+    "synonyms": [
+      "🆎",
+      "AB",
+      "blod",
+      "blodtype",
+      "type AB"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🅱",
+    "synonyms": [
+      "🅱",
+      "B",
+      "blod",
+      "blodtype",
+      "type B"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🆑",
+    "synonyms": [
+      "🆑",
+      "CL-tegn",
+      "ryd",
+      "ryd-tegn"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🆒",
+    "synonyms": [
+      "🆒",
+      "cool",
+      "cool-tegn"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🆓",
+    "synonyms": [
+      "🆓",
+      "gratis",
+      "gratis-tegn"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "ℹ",
+    "synonyms": [
+      "ℹ",
+      "i",
+      "information",
+      "informationskilde",
+      "turistinformation"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🆔",
+    "synonyms": [
+      "🆔",
+      "id",
+      "id-tegn"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "Ⓜ",
+    "synonyms": [
+      "Ⓜ",
+      "cirkel",
+      "m",
+      "m i cirkel"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🆕",
+    "synonyms": [
+      "🆕",
+      "nyhed",
+      "nyt",
+      "nyt-tegn"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🆖",
+    "synonyms": [
+      "🆖",
+      "ikke godt",
+      "ikke godt-tegn",
+      "NG-tegn"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🅾",
+    "synonyms": [
+      "🅾",
+      "blod",
+      "blodtype",
+      "O",
+      "type O"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🆗",
+    "synonyms": [
+      "🆗",
+      "OK",
+      "OK-tegn"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🅿",
+    "synonyms": [
+      "🅿",
+      "parkering",
+      "parkeringsplads"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🆘",
+    "synonyms": [
+      "🆘",
+      "hjælp",
+      "SOS",
+      "SOS-signal",
+      "SOS-tegn"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🆙",
+    "synonyms": [
+      "🆙",
+      "OP!",
+      "OP!-tegn",
+      "UP!-tegn"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🆚",
+    "synonyms": [
+      "🆚",
+      "versus",
+      "versus-tegn",
+      "vs.",
+      "vs.-tegn"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🈁",
+    "synonyms": [
+      "🈁",
+      "japansk",
+      "kvadratisk katakana koko"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🈂",
+    "synonyms": [
+      "🈂",
+      "japansk",
+      "kvadratisk katakana sa"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🈷",
+    "synonyms": [
+      "🈷",
+      "japansk",
+      "kvadratisk ideogram for måne"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🈶",
+    "synonyms": [
+      "🈶",
+      "japansk",
+      "kvadratisk ideogram for eksistens"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🈯",
+    "synonyms": [
+      "🈯",
+      "japansk",
+      "kvadratisk ideogram for finger"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🉐",
+    "synonyms": [
+      "🉐",
+      "cirkulært ideogram for fordel",
+      "japansk"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🈹",
+    "synonyms": [
+      "🈹",
+      "japansk",
+      "kvadratisk ideogram for opdeling"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🈚",
+    "synonyms": [
+      "🈚",
+      "japansk",
+      "kvadratisk ideogram for forhandling"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🈲",
+    "synonyms": [
+      "🈲",
+      "japansk",
+      "kvadratisk ideogram for forbud"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🉑",
+    "synonyms": [
+      "🉑",
+      "cirkulært ideogram for accept",
+      "kinesisk"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🈸",
+    "synonyms": [
+      "🈸",
+      "kinesisk",
+      "kvadratisk ideogram for anvendelse"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🈴",
+    "synonyms": [
+      "🈴",
+      "kinesisk",
+      "kvadratisk ideogram for sammen"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🈳",
+    "synonyms": [
+      "🈳",
+      "kinesisk",
+      "kvadratisk ideogram for tom"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "㊗",
+    "synonyms": [
+      "㊗",
+      "cirkulært ideogram for lykønskning",
+      "ideogram",
+      "kinesisk",
+      "lykønskning",
+      "tillykke"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "㊙",
+    "synonyms": [
+      "㊙",
+      "cirkulært ideogram for hemmelighed",
+      "hemmelighed",
+      "ideogram",
+      "kinesisk"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🈺",
+    "synonyms": [
+      "🈺",
+      "kinesisk",
+      "kvadratisk ideogram for drift"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🈵",
+    "synonyms": [
+      "🈵",
+      "kinesisk",
+      "kvadratisk ideogram for fuld"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔴",
+    "synonyms": [
+      "🔴",
+      "cirkel",
+      "geometrisk",
+      "rød"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔵",
+    "synonyms": [
+      "🔵",
+      "blå",
+      "cirkel",
+      "geometrisk"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⚫",
+    "synonyms": [
+      "⚫",
+      "cirkel",
+      "geometrisk",
+      "sort cirkel"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⚪",
+    "synonyms": [
+      "⚪",
+      "cirkel",
+      "geometrisk",
+      "hvid cirkel"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⬛",
+    "synonyms": [
+      "⬛",
+      "geometrisk",
+      "kvadrat",
+      "stort sort kvadrat"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⬜",
+    "synonyms": [
+      "⬜",
+      "geometrisk",
+      "kvadrat",
+      "stort hvidt kvadrat"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "◼",
+    "synonyms": [
+      "◼",
+      "geometrisk",
+      "kvadrat",
+      "mellemstort sort kvadrat"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "◻",
+    "synonyms": [
+      "◻",
+      "geometrisk",
+      "kvadrat",
+      "mellemstort hvidt kvadrat"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "◾",
+    "synonyms": [
+      "◾",
+      "geometrisk",
+      "halvlille sort kvadrat",
+      "kvadrat"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "◽",
+    "synonyms": [
+      "◽",
+      "geometrisk",
+      "halvlille hvidt kvadrat",
+      "kvadrat"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "▪",
+    "synonyms": [
+      "▪",
+      "geometrisk",
+      "kvadrat",
+      "lille sort kvadrat"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "▫",
+    "synonyms": [
+      "▫",
+      "geometrisk",
+      "kvadrat",
+      "lille hvidt kvadrat"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔶",
+    "synonyms": [
+      "🔶",
+      "diamant",
+      "geometrisk",
+      "orange",
+      "stor orange diamant"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔷",
+    "synonyms": [
+      "🔷",
+      "blå",
+      "diamant",
+      "geometrisk",
+      "stor blå diamant"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔸",
+    "synonyms": [
+      "🔸",
+      "diamant",
+      "geometrisk",
+      "lille orange diamant",
+      "orange"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔹",
+    "synonyms": [
+      "🔹",
+      "blå",
+      "diamant",
+      "geometrisk",
+      "lille blå diamant"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔺",
+    "synonyms": [
+      "🔺",
+      "op",
+      "op-trekant",
+      "rød trekant",
+      "trekant"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔻",
+    "synonyms": [
+      "🔻",
+      "ned",
+      "ned-trekant",
+      "rød trekant",
+      "trekant"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💠",
+    "synonyms": [
+      "💠",
+      "diamant med prik",
+      "følelse"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔘",
+    "synonyms": [
+      "🔘",
+      "alternativknap",
+      "knap"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔳",
+    "synonyms": [
+      "🔳",
+      "geometrisk",
+      "hvid kvadratisk knap",
+      "knap",
+      "kvadrat",
+      "omrids"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔲",
+    "synonyms": [
+      "🔲",
+      "geometrisk",
+      "knap",
+      "kvadrat",
+      "sort kvadratisk knap"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏁",
+    "synonyms": [
+      "🏁",
+      "flag",
+      "motorsport",
+      "ternet flag"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚩",
+    "synonyms": [
+      "🚩",
+      "flag",
+      "trekantet rødt flag"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎌",
+    "synonyms": [
+      "🎌",
+      "japanske flag",
+      "to flag"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏴",
+    "synonyms": [
+      "🏴",
+      "blafrende",
+      "sort flag"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏳",
+    "synonyms": [
+      "🏳",
+      "blafrende",
+      "hvidt flag"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏳‍🌈",
+    "synonyms": [
+      "🏳‍🌈",
+      "flag",
+      "regnbue",
+      "regnbueflag"
+    ]
+  }
+]

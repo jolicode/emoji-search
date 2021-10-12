@@ -1,0 +1,2121 @@
+[
+  {
+    "type": "onewaysynonym",
+    "input": "♪",
+    "synonyms": [
+      "♪",
+      "Achtelsnote"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "♭",
+    "synonyms": [
+      "♭",
+      "Erniedrigungszeichen"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "♯",
+    "synonyms": [
+      "♯",
+      "Erhöhungszeichen"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😃",
+    "synonyms": [
+      "😃",
+      "Gesicht",
+      "grinsendes Gesicht mit grossen Augen",
+      "lol",
+      "lustig"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😅",
+    "synonyms": [
+      "😅",
+      "Gesicht",
+      "Lachender Smiley mit kaltem Schweiss",
+      "lustig",
+      "Schweiss",
+      "schwitzen"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤪",
+    "synonyms": [
+      "🤪",
+      "irres Gesicht"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤐",
+    "synonyms": [
+      "🤐",
+      "Gesicht",
+      "Mund",
+      "Reissverschluss",
+      "Smiley mit Reissverschlussmund"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😶‍🌫",
+    "synonyms": [
+      "😶‍🌫",
+      "Kopf in den Wolken"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😮‍💨",
+    "synonyms": [
+      "😮‍💨",
+      "ausatmendes Gesicht"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥵",
+    "synonyms": [
+      "🥵",
+      "schwitzendes Gesicht"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😵‍💫",
+    "synonyms": [
+      "😵‍💫",
+      "Gesicht mit Spiralaugen"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥸",
+    "synonyms": [
+      "🥸",
+      "Brille",
+      "Gesicht",
+      "Gesicht mit Maske",
+      "incognito",
+      "Maske",
+      "Nase"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😳",
+    "synonyms": [
+      "😳",
+      "Erröteter Smiley mit grossen Augen",
+      "Gesicht",
+      "rote Wangen",
+      "überrascht"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😰",
+    "synonyms": [
+      "😰",
+      "Gesicht",
+      "kalter Schweiss",
+      "offener Mund",
+      "Smiley mit offenem Mund und kaltem Schweiss"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😥",
+    "synonyms": [
+      "😥",
+      "trauriges aber erleichtertes Gesicht"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😓",
+    "synonyms": [
+      "😓",
+      "geschlossene Augen",
+      "Gesicht",
+      "Smiley mit kaltem Schweiss"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👽",
+    "synonyms": [
+      "👽",
+      "Alien",
+      "Ausserirdischer",
+      "Ausserirdisches Wesen",
+      "Gesicht",
+      "UFO"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "❤‍🔥",
+    "synonyms": [
+      "❤‍🔥",
+      "brennendes Herz"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "❤‍🩹",
+    "synonyms": [
+      "❤‍🩹",
+      "Herz mit Pflaster"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤎",
+    "synonyms": [
+      "🤎",
+      "braunes Herz"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤍",
+    "synonyms": [
+      "🤍",
+      "weisses Herz"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💥",
+    "synonyms": [
+      "💥",
+      "Comic",
+      "Kollision",
+      "Zusammenstoss"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💦",
+    "synonyms": [
+      "💦",
+      "Comic",
+      "Schweiss",
+      "Schweisstropfen"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🖖",
+    "synonyms": [
+      "🖖",
+      "Finger",
+      "Hand",
+      "Spock",
+      "Vulkanier(in)",
+      "vulkanisch",
+      "Vulkanischer Gruss"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤘",
+    "synonyms": [
+      "🤘",
+      "Finger",
+      "Hand",
+      "Hörner",
+      "Rock",
+      "Teufel",
+      "Teufelsgruss"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦶",
+    "synonyms": [
+      "🦶",
+      "Fuss",
+      "Kick",
+      "stampfen"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑‍🔧",
+    "synonyms": [
+      "🧑‍🔧",
+      "Mechaniker(in)"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑‍🏭",
+    "synonyms": [
+      "🧑‍🏭",
+      "Fabrikarbeiter(in)"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑‍💼",
+    "synonyms": [
+      "🧑‍💼",
+      "Architekt",
+      "Büroangestellte(r)",
+      "Business",
+      "Manager"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑‍🔬",
+    "synonyms": [
+      "🧑‍🔬",
+      "Wissenschaftler(in)"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥷",
+    "synonyms": [
+      "🥷",
+      "Ninja"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧟‍♂",
+    "synonyms": [
+      "🧟‍♂",
+      "Zombiemann"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚶",
+    "synonyms": [
+      "🚶",
+      "Fussgänger(in)",
+      "gehen",
+      "gehend",
+      "wandern"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚶‍♂",
+    "synonyms": [
+      "🚶‍♂",
+      "Fussgänger",
+      "gehen",
+      "Mann",
+      "Spaziergang"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚶‍♀",
+    "synonyms": [
+      "🚶‍♀",
+      "Frau",
+      "Fussgängerin",
+      "gehen",
+      "Spaziergang"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑‍🦯",
+    "synonyms": [
+      "🧑‍🦯",
+      "Barrierefreiheit",
+      "blind",
+      "Person mit Langstock"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨‍🦯",
+    "synonyms": [
+      "👨‍🦯",
+      "Mann mit Gehstock"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👣",
+    "synonyms": [
+      "👣",
+      "Abdruck",
+      "Fuss",
+      "Fussabdrücke"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦳",
+    "synonyms": [
+      "🦳",
+      "weisses Haar"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦣",
+    "synonyms": [
+      "🦣",
+      "Mammut"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐻‍❄",
+    "synonyms": [
+      "🐻‍❄",
+      "Eisbär"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦤",
+    "synonyms": [
+      "🦤",
+      "Dodo"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦭",
+    "synonyms": [
+      "🦭",
+      "Seehund"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💐",
+    "synonyms": [
+      "💐",
+      "Blumen",
+      "Blumenstrauss",
+      "Bouquet"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🫑",
+    "synonyms": [
+      "🫑",
+      "Gemüse",
+      "Paprika",
+      "Peperoni"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥨",
+    "synonyms": [
+      "🥨",
+      "Brezel"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍗",
+    "synonyms": [
+      "🍗",
+      "Pouletschenkel"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍝",
+    "synonyms": [
+      "🍝",
+      "Spaghetti"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍠",
+    "synonyms": [
+      "🍠",
+      "geröstet",
+      "Geröstete Süsskartoffel",
+      "Süsskartoffel"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍡",
+    "synonyms": [
+      "🍡",
+      "Dango"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧁",
+    "synonyms": [
+      "🧁",
+      "Cupcake"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍬",
+    "synonyms": [
+      "🍬",
+      "Bonbon"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍭",
+    "synonyms": [
+      "🍭",
+      "Lutscher"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍮",
+    "synonyms": [
+      "🍮",
+      "Pudding"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "☕",
+    "synonyms": [
+      "☕",
+      "dampfend",
+      "Getränk",
+      "heiss",
+      "Heissgetränk",
+      "Kaffee",
+      "Tee",
+      "trinken"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🫖",
+    "synonyms": [
+      "🫖",
+      "Teekrug"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍻",
+    "synonyms": [
+      "🍻",
+      "Bierkrüge"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥂",
+    "synonyms": [
+      "🥂",
+      "Sektgläser"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏺",
+    "synonyms": [
+      "🏺",
+      "Amphore"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "♨",
+    "synonyms": [
+      "♨",
+      "Dampf",
+      "dampfend",
+      "heiss",
+      "heisse Quellen",
+      "Heisse Quellen",
+      "Quellen"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚃",
+    "synonyms": [
+      "🚃",
+      "Eisenbahnwagen",
+      "Fahrzeug",
+      "Strassenbahn",
+      "Strassenbahnwagen",
+      "Tram",
+      "Wagen",
+      "Wagon",
+      "Zug"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚊",
+    "synonyms": [
+      "🚊",
+      "Strassenbahn",
+      "Tram"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚋",
+    "synonyms": [
+      "🚋",
+      "Tramwagen"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛣",
+    "synonyms": [
+      "🛣",
+      "Autobahn"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⭐",
+    "synonyms": [
+      "⭐",
+      "Stern",
+      "weisser mittelgrosser Stern"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌌",
+    "synonyms": [
+      "🌌",
+      "Galaxie",
+      "Milchstrasse"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌥",
+    "synonyms": [
+      "🌥",
+      "grosse Wolke",
+      "Sonne",
+      "Sonne hinter grosser Wolke",
+      "Wetter",
+      "Wolke"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔥",
+    "synonyms": [
+      "🔥",
+      "Feuer"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💧",
+    "synonyms": [
+      "💧",
+      "Tropfen"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⚽",
+    "synonyms": [
+      "⚽",
+      "Ball",
+      "Fussball"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥌",
+    "synonyms": [
+      "🥌",
+      "Curlingstein"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥽",
+    "synonyms": [
+      "🥽",
+      "Schutzbrille"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🩴",
+    "synonyms": [
+      "🩴",
+      "Flipflops",
+      "Zehensandale",
+      "Zehensandalen"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⛑",
+    "synonyms": [
+      "⛑",
+      "Helm",
+      "Helm mit weissem Kreuz",
+      "Hilfe",
+      "Kreuz"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔍",
+    "synonyms": [
+      "🔍",
+      "Lupe nach links"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔎",
+    "synonyms": [
+      "🔎",
+      "Lupe nach rechts"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📆",
+    "synonyms": [
+      "📆",
+      "Abreisskalender",
+      "Kalender"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📌",
+    "synonyms": [
+      "📌",
+      "anpinnen",
+      "Reisszwecke"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📍",
+    "synonyms": [
+      "📍",
+      "anpinnen",
+      "Reisszwecke",
+      "rund",
+      "runde Reisszwecke"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔫",
+    "synonyms": [
+      "🔫",
+      "Wasserpistole"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🪠",
+    "synonyms": [
+      "🪠",
+      "Klempner",
+      "Pümpel",
+      "Sanitär",
+      "Saugglocke",
+      "WC"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚼",
+    "synonyms": [
+      "🚼",
+      "Baby-Symbol",
+      "Symbol Baby“",
+      "Wickelraum"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛅",
+    "synonyms": [
+      "🛅",
+      "Gepäckaufbewahrung"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚸",
+    "synonyms": [
+      "🚸",
+      "Kinder",
+      "Kinder-queren-die-Strasse-Schild",
+      "Vorsicht"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚷",
+    "synonyms": [
+      "🚷",
+      "Fussgänger-verboten-Schild",
+      "verboten"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "☢",
+    "synonyms": [
+      "☢",
+      "radioaktiv"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "➕",
+    "synonyms": [
+      "➕",
+      "Plus"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "➖",
+    "synonyms": [
+      "➖",
+      "Minus"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "❔",
+    "synonyms": [
+      "❔",
+      "Satzzeichen",
+      "weiss",
+      "weisses Fragezeichen"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "❕",
+    "synonyms": [
+      "❕",
+      "Satzzeichen",
+      "weiss",
+      "weisses Ausrufezeichen"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💲",
+    "synonyms": [
+      "💲",
+      "fettes Dollarzeichen"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⭕",
+    "synonyms": [
+      "⭕",
+      "Grosser Kreis",
+      "Kreis",
+      "o",
+      "rot"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "✅",
+    "synonyms": [
+      "✅",
+      "abgehakt",
+      "erledigt",
+      "Weisses Häkchen"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔠",
+    "synonyms": [
+      "🔠",
+      "Eingabesymbol lateinische Grossbuchstaben",
+      "Grossbuchstaben",
+      "lateinische Grossbuchstaben"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🅰",
+    "synonyms": [
+      "🅰",
+      "a",
+      "Blut",
+      "Blutgruppe",
+      "Grossbuchstabe A in Quadrat",
+      "negativ",
+      "positiv"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🆎",
+    "synonyms": [
+      "🆎",
+      "ab",
+      "Blut",
+      "Blutgruppe",
+      "Grossbuchstaben AB in rotem Quadrat",
+      "negativ",
+      "positiv"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🅱",
+    "synonyms": [
+      "🅱",
+      "b",
+      "Blut",
+      "Blutgruppe",
+      "Grossbuchstabe B in Quadrat",
+      "negativ",
+      "positiv"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🆑",
+    "synonyms": [
+      "🆑",
+      "CL",
+      "Grossbuchstaben CL in rotem Quadrat"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🆔",
+    "synonyms": [
+      "🆔",
+      "Grossbuchstaben ID in lila Quadrat",
+      "ID"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🆖",
+    "synonyms": [
+      "🆖",
+      "Grossbuchstaben NG in blauem Quadrat",
+      "NG"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🅾",
+    "synonyms": [
+      "🅾",
+      "Blut",
+      "Blutgruppe",
+      "Grossbuchstabe O in Quadrat",
+      "negativ",
+      "positiv"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🆗",
+    "synonyms": [
+      "🆗",
+      "Grossbuchstaben OK in blauem Quadrat",
+      "OK"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🅿",
+    "synonyms": [
+      "🅿",
+      "Grossbuchstabe P in Quadrat",
+      "Parkplatz",
+      "Quadrat"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🆚",
+    "synonyms": [
+      "🆚",
+      "Grossbuchstaben VS in orangefarbenem Quadrat",
+      "versus",
+      "VS"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔴",
+    "synonyms": [
+      "🔴",
+      "Ball",
+      "Grosser roter Kreis",
+      "Kreis",
+      "rot"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔵",
+    "synonyms": [
+      "🔵",
+      "Ball",
+      "blau",
+      "Grosser blauer Kreis",
+      "Kreis"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⚫",
+    "synonyms": [
+      "⚫",
+      "Ball",
+      "Grosser schwarzer Kreis",
+      "Kreis",
+      "schwarz"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⚪",
+    "synonyms": [
+      "⚪",
+      "Ball",
+      "Grosser weisser Kreis",
+      "Kreis",
+      "weiss"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⬛",
+    "synonyms": [
+      "⬛",
+      "Grosses schwarzes Quadrat",
+      "Quadrat",
+      "schwarz"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⬜",
+    "synonyms": [
+      "⬜",
+      "Grosses weisses Quadrat",
+      "Quadrat",
+      "weiss"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "◼",
+    "synonyms": [
+      "◼",
+      "Mittelgrosses schwarzes Quadrat",
+      "Quadrat",
+      "schwarz"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "◻",
+    "synonyms": [
+      "◻",
+      "Mittelgrosses weisses Quadrat",
+      "Quadrat",
+      "weiss"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "◽",
+    "synonyms": [
+      "◽",
+      "Mittelkleines weisses Quadrat",
+      "Quadrat",
+      "weiss"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "▫",
+    "synonyms": [
+      "▫",
+      "Kleines weisses Quadrat",
+      "Quadrat",
+      "weiss"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔶",
+    "synonyms": [
+      "🔶",
+      "Grosse orangefarbene Raute",
+      "orangefarben",
+      "Raute"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔷",
+    "synonyms": [
+      "🔷",
+      "blau",
+      "Grosse blaue Raute",
+      "Raute"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔳",
+    "synonyms": [
+      "🔳",
+      "quadratisch",
+      "Schaltfläche",
+      "weiss",
+      "Weisse quadratische Schaltfläche"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏳",
+    "synonyms": [
+      "🏳",
+      "Fahne",
+      "wehen",
+      "Wehende weisse Fahne",
+      "weisse Fahne"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏳‍⚧",
+    "synonyms": [
+      "🏳‍⚧",
+      "Flagge",
+      "hellblau",
+      "pink",
+      "Transgender",
+      "Transgenderflagge",
+      "weiss"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "µ",
+    "synonyms": [
+      "µ",
+      "Mikro-Zeichen"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🖖🏻",
+    "synonyms": [
+      "🖖🏻",
+      "Finger",
+      "Hand",
+      "helle Hautfarbe",
+      "Spock",
+      "Vulkanier(in)",
+      "vulkanisch",
+      "Vulkanischer Gruss"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🖖🏼",
+    "synonyms": [
+      "🖖🏼",
+      "Finger",
+      "Hand",
+      "mittelhelle Hautfarbe",
+      "Spock",
+      "Vulkanier(in)",
+      "vulkanisch",
+      "Vulkanischer Gruss"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🖖🏽",
+    "synonyms": [
+      "🖖🏽",
+      "Finger",
+      "Hand",
+      "mittlere Hautfarbe",
+      "Spock",
+      "Vulkanier(in)",
+      "vulkanisch",
+      "Vulkanischer Gruss"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🖖🏾",
+    "synonyms": [
+      "🖖🏾",
+      "Finger",
+      "Hand",
+      "mitteldunkle Hautfarbe",
+      "Spock",
+      "Vulkanier(in)",
+      "vulkanisch",
+      "Vulkanischer Gruss"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🖖🏿",
+    "synonyms": [
+      "🖖🏿",
+      "dunkle Hautfarbe",
+      "Finger",
+      "Hand",
+      "Spock",
+      "Vulkanier(in)",
+      "vulkanisch",
+      "Vulkanischer Gruss"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤘🏻",
+    "synonyms": [
+      "🤘🏻",
+      "Finger",
+      "Hand",
+      "helle Hautfarbe",
+      "Hörner",
+      "Rock",
+      "Teufel",
+      "Teufelsgruss"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤘🏼",
+    "synonyms": [
+      "🤘🏼",
+      "Finger",
+      "Hand",
+      "Hörner",
+      "mittelhelle Hautfarbe",
+      "Rock",
+      "Teufel",
+      "Teufelsgruss"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤘🏽",
+    "synonyms": [
+      "🤘🏽",
+      "Finger",
+      "Hand",
+      "Hörner",
+      "mittlere Hautfarbe",
+      "Rock",
+      "Teufel",
+      "Teufelsgruss"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤘🏾",
+    "synonyms": [
+      "🤘🏾",
+      "Finger",
+      "Hand",
+      "Hörner",
+      "mitteldunkle Hautfarbe",
+      "Rock",
+      "Teufel",
+      "Teufelsgruss"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤘🏿",
+    "synonyms": [
+      "🤘🏿",
+      "dunkle Hautfarbe",
+      "Finger",
+      "Hand",
+      "Hörner",
+      "Rock",
+      "Teufel",
+      "Teufelsgruss"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦶🏻",
+    "synonyms": [
+      "🦶🏻",
+      "Fuss",
+      "helle Hautfarbe",
+      "Kick",
+      "stampfen"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦶🏼",
+    "synonyms": [
+      "🦶🏼",
+      "Fuss",
+      "Kick",
+      "mittelhelle Hautfarbe",
+      "stampfen"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦶🏽",
+    "synonyms": [
+      "🦶🏽",
+      "Fuss",
+      "Kick",
+      "mittlere Hautfarbe",
+      "stampfen"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦶🏾",
+    "synonyms": [
+      "🦶🏾",
+      "Fuss",
+      "Kick",
+      "mitteldunkle Hautfarbe",
+      "stampfen"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦶🏿",
+    "synonyms": [
+      "🦶🏿",
+      "dunkle Hautfarbe",
+      "Fuss",
+      "Kick",
+      "stampfen"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑‍🦳",
+    "synonyms": [
+      "🧑‍🦳",
+      "erwachsene Person",
+      "Erwachsener",
+      "geschlechtsneutral",
+      "Mensch",
+      "Person",
+      "weisses Haar"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏻‍🦳",
+    "synonyms": [
+      "🧑🏻‍🦳",
+      "erwachsene Person",
+      "Erwachsener",
+      "geschlechtsneutral",
+      "helle Hautfarbe",
+      "Mensch",
+      "Person",
+      "weisses Haar"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏼‍🦳",
+    "synonyms": [
+      "🧑🏼‍🦳",
+      "erwachsene Person",
+      "Erwachsener",
+      "geschlechtsneutral",
+      "Mensch",
+      "mittelhelle Hautfarbe",
+      "Person",
+      "weisses Haar"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏽‍🦳",
+    "synonyms": [
+      "🧑🏽‍🦳",
+      "erwachsene Person",
+      "Erwachsener",
+      "geschlechtsneutral",
+      "Mensch",
+      "mittlere Hautfarbe",
+      "Person",
+      "weisses Haar"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏾‍🦳",
+    "synonyms": [
+      "🧑🏾‍🦳",
+      "erwachsene Person",
+      "Erwachsener",
+      "geschlechtsneutral",
+      "Mensch",
+      "mitteldunkle Hautfarbe",
+      "Person",
+      "weisses Haar"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏿‍🦳",
+    "synonyms": [
+      "🧑🏿‍🦳",
+      "dunkle Hautfarbe",
+      "erwachsene Person",
+      "Erwachsener",
+      "geschlechtsneutral",
+      "Mensch",
+      "Person",
+      "weisses Haar"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨‍🦳",
+    "synonyms": [
+      "👨‍🦳",
+      "Mann",
+      "weisses Haar"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏻‍🦳",
+    "synonyms": [
+      "👨🏻‍🦳",
+      "helle Hautfarbe",
+      "Mann",
+      "weisses Haar"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏼‍🦳",
+    "synonyms": [
+      "👨🏼‍🦳",
+      "Mann",
+      "mittelhelle Hautfarbe",
+      "weisses Haar"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏽‍🦳",
+    "synonyms": [
+      "👨🏽‍🦳",
+      "Mann",
+      "mittlere Hautfarbe",
+      "weisses Haar"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏾‍🦳",
+    "synonyms": [
+      "👨🏾‍🦳",
+      "Mann",
+      "mitteldunkle Hautfarbe",
+      "weisses Haar"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏿‍🦳",
+    "synonyms": [
+      "👨🏿‍🦳",
+      "dunkle Hautfarbe",
+      "Mann",
+      "weisses Haar"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩‍🦳",
+    "synonyms": [
+      "👩‍🦳",
+      "Frau",
+      "weisses Haar"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏻‍🦳",
+    "synonyms": [
+      "👩🏻‍🦳",
+      "Frau",
+      "helle Hautfarbe",
+      "weisses Haar"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏼‍🦳",
+    "synonyms": [
+      "👩🏼‍🦳",
+      "Frau",
+      "mittelhelle Hautfarbe",
+      "weisses Haar"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏽‍🦳",
+    "synonyms": [
+      "👩🏽‍🦳",
+      "Frau",
+      "mittlere Hautfarbe",
+      "weisses Haar"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏾‍🦳",
+    "synonyms": [
+      "👩🏾‍🦳",
+      "Frau",
+      "mitteldunkle Hautfarbe",
+      "weisses Haar"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏿‍🦳",
+    "synonyms": [
+      "👩🏿‍🦳",
+      "dunkle Hautfarbe",
+      "Frau",
+      "weisses Haar"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏻‍🔧",
+    "synonyms": [
+      "🧑🏻‍🔧",
+      "helle Hautfarbe",
+      "Mechaniker(in)"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏼‍🔧",
+    "synonyms": [
+      "🧑🏼‍🔧",
+      "Mechaniker(in)",
+      "mittelhelle Hautfarbe"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏽‍🔧",
+    "synonyms": [
+      "🧑🏽‍🔧",
+      "Mechaniker(in)",
+      "mittlere Hautfarbe"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏾‍🔧",
+    "synonyms": [
+      "🧑🏾‍🔧",
+      "Mechaniker(in)",
+      "mitteldunkle Hautfarbe"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏿‍🔧",
+    "synonyms": [
+      "🧑🏿‍🔧",
+      "dunkle Hautfarbe",
+      "Mechaniker(in)"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏻‍🏭",
+    "synonyms": [
+      "🧑🏻‍🏭",
+      "Fabrikarbeiter(in)",
+      "helle Hautfarbe"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏼‍🏭",
+    "synonyms": [
+      "🧑🏼‍🏭",
+      "Fabrikarbeiter(in)",
+      "mittelhelle Hautfarbe"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏽‍🏭",
+    "synonyms": [
+      "🧑🏽‍🏭",
+      "Fabrikarbeiter(in)",
+      "mittlere Hautfarbe"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏾‍🏭",
+    "synonyms": [
+      "🧑🏾‍🏭",
+      "Fabrikarbeiter(in)",
+      "mitteldunkle Hautfarbe"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏿‍🏭",
+    "synonyms": [
+      "🧑🏿‍🏭",
+      "dunkle Hautfarbe",
+      "Fabrikarbeiter(in)"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏻‍💼",
+    "synonyms": [
+      "🧑🏻‍💼",
+      "Architekt",
+      "Büroangestellte(r)",
+      "Business",
+      "helle Hautfarbe",
+      "Manager"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏼‍💼",
+    "synonyms": [
+      "🧑🏼‍💼",
+      "Architekt",
+      "Büroangestellte(r)",
+      "Business",
+      "Manager",
+      "mittelhelle Hautfarbe"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏽‍💼",
+    "synonyms": [
+      "🧑🏽‍💼",
+      "Architekt",
+      "Büroangestellte(r)",
+      "Business",
+      "Manager",
+      "mittlere Hautfarbe"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏾‍💼",
+    "synonyms": [
+      "🧑🏾‍💼",
+      "Architekt",
+      "Büroangestellte(r)",
+      "Business",
+      "Manager",
+      "mitteldunkle Hautfarbe"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏿‍💼",
+    "synonyms": [
+      "🧑🏿‍💼",
+      "Architekt",
+      "Büroangestellte(r)",
+      "Business",
+      "dunkle Hautfarbe",
+      "Manager"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏻‍🔬",
+    "synonyms": [
+      "🧑🏻‍🔬",
+      "helle Hautfarbe",
+      "Wissenschaftler(in)"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏼‍🔬",
+    "synonyms": [
+      "🧑🏼‍🔬",
+      "mittelhelle Hautfarbe",
+      "Wissenschaftler(in)"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏽‍🔬",
+    "synonyms": [
+      "🧑🏽‍🔬",
+      "mittlere Hautfarbe",
+      "Wissenschaftler(in)"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏾‍🔬",
+    "synonyms": [
+      "🧑🏾‍🔬",
+      "mitteldunkle Hautfarbe",
+      "Wissenschaftler(in)"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏿‍🔬",
+    "synonyms": [
+      "🧑🏿‍🔬",
+      "dunkle Hautfarbe",
+      "Wissenschaftler(in)"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥷🏻",
+    "synonyms": [
+      "🥷🏻",
+      "helle Hautfarbe",
+      "Ninja"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥷🏼",
+    "synonyms": [
+      "🥷🏼",
+      "mittelhelle Hautfarbe",
+      "Ninja"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥷🏽",
+    "synonyms": [
+      "🥷🏽",
+      "mittlere Hautfarbe",
+      "Ninja"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥷🏾",
+    "synonyms": [
+      "🥷🏾",
+      "mitteldunkle Hautfarbe",
+      "Ninja"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥷🏿",
+    "synonyms": [
+      "🥷🏿",
+      "dunkle Hautfarbe",
+      "Ninja"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚶🏻",
+    "synonyms": [
+      "🚶🏻",
+      "Fussgänger(in)",
+      "gehen",
+      "gehend",
+      "helle Hautfarbe",
+      "wandern"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚶🏼",
+    "synonyms": [
+      "🚶🏼",
+      "Fussgänger(in)",
+      "gehen",
+      "gehend",
+      "mittelhelle Hautfarbe",
+      "wandern"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚶🏽",
+    "synonyms": [
+      "🚶🏽",
+      "Fussgänger(in)",
+      "gehen",
+      "gehend",
+      "mittlere Hautfarbe",
+      "wandern"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚶🏾",
+    "synonyms": [
+      "🚶🏾",
+      "Fussgänger(in)",
+      "gehen",
+      "gehend",
+      "mitteldunkle Hautfarbe",
+      "wandern"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚶🏿",
+    "synonyms": [
+      "🚶🏿",
+      "dunkle Hautfarbe",
+      "Fussgänger(in)",
+      "gehen",
+      "gehend",
+      "wandern"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚶🏻‍♂",
+    "synonyms": [
+      "🚶🏻‍♂",
+      "Fussgänger",
+      "gehen",
+      "helle Hautfarbe",
+      "Mann",
+      "Spaziergang"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚶🏼‍♂",
+    "synonyms": [
+      "🚶🏼‍♂",
+      "Fussgänger",
+      "gehen",
+      "Mann",
+      "mittelhelle Hautfarbe",
+      "Spaziergang"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚶🏽‍♂",
+    "synonyms": [
+      "🚶🏽‍♂",
+      "Fussgänger",
+      "gehen",
+      "Mann",
+      "mittlere Hautfarbe",
+      "Spaziergang"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚶🏾‍♂",
+    "synonyms": [
+      "🚶🏾‍♂",
+      "Fussgänger",
+      "gehen",
+      "Mann",
+      "mitteldunkle Hautfarbe",
+      "Spaziergang"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚶🏿‍♂",
+    "synonyms": [
+      "🚶🏿‍♂",
+      "dunkle Hautfarbe",
+      "Fussgänger",
+      "gehen",
+      "Mann",
+      "Spaziergang"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚶🏻‍♀",
+    "synonyms": [
+      "🚶🏻‍♀",
+      "Frau",
+      "Fussgängerin",
+      "gehen",
+      "helle Hautfarbe",
+      "Spaziergang"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚶🏼‍♀",
+    "synonyms": [
+      "🚶🏼‍♀",
+      "Frau",
+      "Fussgängerin",
+      "gehen",
+      "mittelhelle Hautfarbe",
+      "Spaziergang"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚶🏽‍♀",
+    "synonyms": [
+      "🚶🏽‍♀",
+      "Frau",
+      "Fussgängerin",
+      "gehen",
+      "mittlere Hautfarbe",
+      "Spaziergang"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚶🏾‍♀",
+    "synonyms": [
+      "🚶🏾‍♀",
+      "Frau",
+      "Fussgängerin",
+      "gehen",
+      "mitteldunkle Hautfarbe",
+      "Spaziergang"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚶🏿‍♀",
+    "synonyms": [
+      "🚶🏿‍♀",
+      "dunkle Hautfarbe",
+      "Frau",
+      "Fussgängerin",
+      "gehen",
+      "Spaziergang"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏻‍🦯",
+    "synonyms": [
+      "🧑🏻‍🦯",
+      "Barrierefreiheit",
+      "blind",
+      "helle Hautfarbe",
+      "Person mit Langstock"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏼‍🦯",
+    "synonyms": [
+      "🧑🏼‍🦯",
+      "Barrierefreiheit",
+      "blind",
+      "mittelhelle Hautfarbe",
+      "Person mit Langstock"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏽‍🦯",
+    "synonyms": [
+      "🧑🏽‍🦯",
+      "Barrierefreiheit",
+      "blind",
+      "mittlere Hautfarbe",
+      "Person mit Langstock"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏾‍🦯",
+    "synonyms": [
+      "🧑🏾‍🦯",
+      "Barrierefreiheit",
+      "blind",
+      "mitteldunkle Hautfarbe",
+      "Person mit Langstock"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏿‍🦯",
+    "synonyms": [
+      "🧑🏿‍🦯",
+      "Barrierefreiheit",
+      "blind",
+      "dunkle Hautfarbe",
+      "Person mit Langstock"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏻‍🦯",
+    "synonyms": [
+      "👨🏻‍🦯",
+      "helle Hautfarbe",
+      "Mann mit Gehstock"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏼‍🦯",
+    "synonyms": [
+      "👨🏼‍🦯",
+      "Mann mit Gehstock",
+      "mittelhelle Hautfarbe"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏽‍🦯",
+    "synonyms": [
+      "👨🏽‍🦯",
+      "Mann mit Gehstock",
+      "mittlere Hautfarbe"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏾‍🦯",
+    "synonyms": [
+      "👨🏾‍🦯",
+      "Mann mit Gehstock",
+      "mitteldunkle Hautfarbe"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏿‍🦯",
+    "synonyms": [
+      "👨🏿‍🦯",
+      "dunkle Hautfarbe",
+      "Mann mit Gehstock"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇧🇳",
+    "synonyms": [
+      "🇧🇳",
+      "Flagge Brunei"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇧🇼",
+    "synonyms": [
+      "🇧🇼",
+      "Flagge Botswana"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇨🇻",
+    "synonyms": [
+      "🇨🇻",
+      "Flagge Kapverden"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇬🇧",
+    "synonyms": [
+      "🇬🇧",
+      "Flagge Grossbritannien"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇸🇧",
+    "synonyms": [
+      "🇸🇧",
+      "Flagge Salomon-Inseln"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇹🇱",
+    "synonyms": [
+      "🇹🇱",
+      "Flagge Osttimor"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇿🇼",
+    "synonyms": [
+      "🇿🇼",
+      "Flagge Zimbabwe"
+    ]
+  }
+]

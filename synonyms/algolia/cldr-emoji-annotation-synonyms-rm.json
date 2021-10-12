@@ -1,0 +1,197 @@
+[
+  {
+    "type": "onewaysynonym",
+    "input": "🏻",
+    "synonyms": [
+      "🏻",
+      "colur da pel",
+      "pel clera",
+      "tip 1–2"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏼",
+    "synonyms": [
+      "🏼",
+      "colur da pel",
+      "pel mez clera",
+      "tip 3"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏽",
+    "synonyms": [
+      "🏽",
+      "colur da pel",
+      "pel media",
+      "tip 4"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏾",
+    "synonyms": [
+      "🏾",
+      "colur da pel",
+      "pel mez stgira",
+      "tip 5"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏿",
+    "synonyms": [
+      "🏿",
+      "colur da pel",
+      "pel stgira",
+      "tip 6"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤵",
+    "synonyms": [
+      "🤵",
+      "persuna",
+      "persuna cun smoking",
+      "smoking",
+      "spus"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤵‍♂",
+    "synonyms": [
+      "🤵‍♂",
+      "smoking",
+      "um",
+      "um cun smoking"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤵‍♀",
+    "synonyms": [
+      "🤵‍♀",
+      "dunna",
+      "dunna cun smoking",
+      "smoking"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👰",
+    "synonyms": [
+      "👰",
+      "maridaglia",
+      "nozzas",
+      "persuna",
+      "persuna cun vel",
+      "spusa",
+      "vel"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👰‍♂",
+    "synonyms": [
+      "👰‍♂",
+      "um",
+      "um cun vel",
+      "vel"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👰‍♀",
+    "synonyms": [
+      "👰‍♀",
+      "dunna",
+      "dunna cun vel",
+      "vel"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦰",
+    "synonyms": [
+      "🦰",
+      "chavels cotschens"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦱",
+    "synonyms": [
+      "🦱",
+      "chavels ritschads"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐵",
+    "synonyms": [
+      "🐵",
+      "fatscha",
+      "fatscha da schimgia",
+      "schimgia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐒",
+    "synonyms": [
+      "🐒",
+      "schimgia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦍",
+    "synonyms": [
+      "🦍",
+      "gorilla",
+      "schimgia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦧",
+    "synonyms": [
+      "🦧",
+      "orangutan",
+      "schimgia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐶",
+    "synonyms": [
+      "🐶",
+      "animal da chasa",
+      "chaun",
+      "fatscha",
+      "fatscha da chaun"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐕",
+    "synonyms": [
+      "🐕",
+      "animal da chasa",
+      "chaun"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐩",
+    "synonyms": [
+      "🐩",
+      "chaun",
+      "pudel"
+    ]
+  }
+]

@@ -1,0 +1,2260 @@
+[
+  {
+    "type": "onewaysynonym",
+    "input": "🤣",
+    "synonyms": [
+      "🤣",
+      "cara",
+      "risa",
+      "rodando",
+      "rodando pel suelu de risa",
+      "suelu"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😂",
+    "synonyms": [
+      "😂",
+      "allegría",
+      "cara",
+      "cara llorando d’allegría",
+      "llárima",
+      "risa"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😘",
+    "synonyms": [
+      "😘",
+      "besu",
+      "cara",
+      "cara tirando un besu"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😗",
+    "synonyms": [
+      "😗",
+      "besu",
+      "cara",
+      "cara besando"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "☺",
+    "synonyms": [
+      "☺",
+      "cara sorriendo"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤳",
+    "synonyms": [
+      "🤳",
+      "selfie"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👅",
+    "synonyms": [
+      "👅",
+      "cuerpu",
+      "llingua"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👄",
+    "synonyms": [
+      "👄",
+      "boca",
+      "llabios"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💏",
+    "synonyms": [
+      "💏",
+      "besu"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👪",
+    "synonyms": [
+      "👪",
+      "familia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💍",
+    "synonyms": [
+      "💍",
+      "aniellu",
+      "diamante"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💎",
+    "synonyms": [
+      "💎",
+      "diamante",
+      "piedra preciosa",
+      "xema",
+      "xoya"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔟",
+    "synonyms": [
+      "🔟",
+      "tecles"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇦🇨",
+    "synonyms": [
+      "🇦🇨",
+      "bandera Islla Ascensión"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇦🇩",
+    "synonyms": [
+      "🇦🇩",
+      "bandera Andorra"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇦🇪",
+    "synonyms": [
+      "🇦🇪",
+      "bandera Emiratos Árabes Xuníos"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇦🇫",
+    "synonyms": [
+      "🇦🇫",
+      "bandera Afganistán"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇦🇬",
+    "synonyms": [
+      "🇦🇬",
+      "bandera Antigua y Barbuda"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇦🇮",
+    "synonyms": [
+      "🇦🇮",
+      "bandera Anguila"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇦🇱",
+    "synonyms": [
+      "🇦🇱",
+      "bandera Albania"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇦🇲",
+    "synonyms": [
+      "🇦🇲",
+      "bandera Armenia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇦🇴",
+    "synonyms": [
+      "🇦🇴",
+      "bandera Angola"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇦🇶",
+    "synonyms": [
+      "🇦🇶",
+      "bandera L’Antártida"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇦🇷",
+    "synonyms": [
+      "🇦🇷",
+      "bandera Arxentina"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇦🇸",
+    "synonyms": [
+      "🇦🇸",
+      "bandera Samoa Americana"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇦🇹",
+    "synonyms": [
+      "🇦🇹",
+      "bandera Austria"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇦🇺",
+    "synonyms": [
+      "🇦🇺",
+      "bandera Australia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇦🇼",
+    "synonyms": [
+      "🇦🇼",
+      "bandera Aruba"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇦🇽",
+    "synonyms": [
+      "🇦🇽",
+      "bandera Islles Aland"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇦🇿",
+    "synonyms": [
+      "🇦🇿",
+      "bandera Azerbaixán"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇧🇦",
+    "synonyms": [
+      "🇧🇦",
+      "bandera Bosnia y Herzegovina"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇧🇧",
+    "synonyms": [
+      "🇧🇧",
+      "bandera Barbados"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇧🇩",
+    "synonyms": [
+      "🇧🇩",
+      "bandera Bangladex"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇧🇪",
+    "synonyms": [
+      "🇧🇪",
+      "bandera Bélxica"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇧🇫",
+    "synonyms": [
+      "🇧🇫",
+      "bandera Burkina Fasu"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇧🇬",
+    "synonyms": [
+      "🇧🇬",
+      "bandera Bulgaria"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇧🇭",
+    "synonyms": [
+      "🇧🇭",
+      "bandera Baḥréin"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇧🇮",
+    "synonyms": [
+      "🇧🇮",
+      "bandera Burundi"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇧🇯",
+    "synonyms": [
+      "🇧🇯",
+      "bandera Benín"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇧🇱",
+    "synonyms": [
+      "🇧🇱",
+      "bandera San Bartolomé"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇧🇲",
+    "synonyms": [
+      "🇧🇲",
+      "bandera Les Bermudes"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇧🇳",
+    "synonyms": [
+      "🇧🇳",
+      "bandera Brunéi"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇧🇴",
+    "synonyms": [
+      "🇧🇴",
+      "bandera Bolivia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇧🇶",
+    "synonyms": [
+      "🇧🇶",
+      "bandera Caribe neerlandés"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇧🇷",
+    "synonyms": [
+      "🇧🇷",
+      "bandera Brasil"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇧🇸",
+    "synonyms": [
+      "🇧🇸",
+      "bandera Les Bahames"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇧🇹",
+    "synonyms": [
+      "🇧🇹",
+      "bandera Bután"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇧🇻",
+    "synonyms": [
+      "🇧🇻",
+      "bandera Islla Bouvet"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇧🇼",
+    "synonyms": [
+      "🇧🇼",
+      "bandera Botsuana"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇧🇾",
+    "synonyms": [
+      "🇧🇾",
+      "bandera Bielorrusia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇧🇿",
+    "synonyms": [
+      "🇧🇿",
+      "bandera Belize"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇨🇦",
+    "synonyms": [
+      "🇨🇦",
+      "bandera Canadá"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇨🇨",
+    "synonyms": [
+      "🇨🇨",
+      "bandera Islles Cocos (Keeling)"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇨🇩",
+    "synonyms": [
+      "🇨🇩",
+      "bandera Congu  Kinxasa"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇨🇫",
+    "synonyms": [
+      "🇨🇫",
+      "bandera República Centroafricana"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇨🇬",
+    "synonyms": [
+      "🇨🇬",
+      "bandera Congu  Brazzaville"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇨🇭",
+    "synonyms": [
+      "🇨🇭",
+      "bandera Suiza"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇨🇮",
+    "synonyms": [
+      "🇨🇮",
+      "bandera Costa de Marfil"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇨🇰",
+    "synonyms": [
+      "🇨🇰",
+      "bandera Islles Cook"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇨🇱",
+    "synonyms": [
+      "🇨🇱",
+      "bandera Chile"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇨🇲",
+    "synonyms": [
+      "🇨🇲",
+      "bandera Camerún"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇨🇳",
+    "synonyms": [
+      "🇨🇳",
+      "bandera China"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇨🇴",
+    "synonyms": [
+      "🇨🇴",
+      "bandera Colombia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇨🇵",
+    "synonyms": [
+      "🇨🇵",
+      "bandera Islla Clipperton"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇨🇷",
+    "synonyms": [
+      "🇨🇷",
+      "bandera Costa Rica"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇨🇺",
+    "synonyms": [
+      "🇨🇺",
+      "bandera Cuba"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇨🇻",
+    "synonyms": [
+      "🇨🇻",
+      "bandera Cabu Verde"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇨🇼",
+    "synonyms": [
+      "🇨🇼",
+      "bandera Curaçao"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇨🇽",
+    "synonyms": [
+      "🇨🇽",
+      "bandera Islla Christmas"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇨🇾",
+    "synonyms": [
+      "🇨🇾",
+      "bandera Xipre"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇨🇿",
+    "synonyms": [
+      "🇨🇿",
+      "bandera Chequia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇩🇪",
+    "synonyms": [
+      "🇩🇪",
+      "bandera Alemaña"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇩🇬",
+    "synonyms": [
+      "🇩🇬",
+      "bandera Diego Garcia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇩🇯",
+    "synonyms": [
+      "🇩🇯",
+      "bandera Xibuti"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇩🇰",
+    "synonyms": [
+      "🇩🇰",
+      "bandera Dinamarca"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇩🇲",
+    "synonyms": [
+      "🇩🇲",
+      "bandera Dominica"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇩🇴",
+    "synonyms": [
+      "🇩🇴",
+      "bandera República Dominicana"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇩🇿",
+    "synonyms": [
+      "🇩🇿",
+      "bandera Arxelia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇪🇦",
+    "synonyms": [
+      "🇪🇦",
+      "bandera Ceuta y Melilla"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇪🇨",
+    "synonyms": [
+      "🇪🇨",
+      "bandera Ecuador"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇪🇪",
+    "synonyms": [
+      "🇪🇪",
+      "bandera Estonia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇪🇬",
+    "synonyms": [
+      "🇪🇬",
+      "bandera Exiptu"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇪🇭",
+    "synonyms": [
+      "🇪🇭",
+      "bandera Sáḥara Occidental"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇪🇷",
+    "synonyms": [
+      "🇪🇷",
+      "bandera Eritrea"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇪🇸",
+    "synonyms": [
+      "🇪🇸",
+      "bandera España"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇪🇹",
+    "synonyms": [
+      "🇪🇹",
+      "bandera Etiopía"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇪🇺",
+    "synonyms": [
+      "🇪🇺",
+      "bandera Xunión Europea"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇫🇮",
+    "synonyms": [
+      "🇫🇮",
+      "bandera Finlandia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇫🇯",
+    "synonyms": [
+      "🇫🇯",
+      "bandera Islles Fixi"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇫🇰",
+    "synonyms": [
+      "🇫🇰",
+      "bandera Falkland Islands"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇫🇲",
+    "synonyms": [
+      "🇫🇲",
+      "bandera Micronesia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇫🇴",
+    "synonyms": [
+      "🇫🇴",
+      "bandera Islles Feroe"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇫🇷",
+    "synonyms": [
+      "🇫🇷",
+      "bandera Francia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇬🇦",
+    "synonyms": [
+      "🇬🇦",
+      "bandera Gabón"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇬🇧",
+    "synonyms": [
+      "🇬🇧",
+      "bandera Reinu Xuníu"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇬🇩",
+    "synonyms": [
+      "🇬🇩",
+      "bandera Granada"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇬🇪",
+    "synonyms": [
+      "🇬🇪",
+      "bandera Xeorxa"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇬🇫",
+    "synonyms": [
+      "🇬🇫",
+      "bandera Guyana Francesa"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇬🇬",
+    "synonyms": [
+      "🇬🇬",
+      "bandera Guernsey"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇬🇭",
+    "synonyms": [
+      "🇬🇭",
+      "bandera Ghana"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇬🇮",
+    "synonyms": [
+      "🇬🇮",
+      "bandera Xibraltar"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇬🇱",
+    "synonyms": [
+      "🇬🇱",
+      "bandera Groenlandia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇬🇲",
+    "synonyms": [
+      "🇬🇲",
+      "bandera Gambia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇬🇳",
+    "synonyms": [
+      "🇬🇳",
+      "bandera Guinea"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇬🇵",
+    "synonyms": [
+      "🇬🇵",
+      "bandera Guadalupe"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇬🇶",
+    "synonyms": [
+      "🇬🇶",
+      "bandera Guinea Ecuatorial"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇬🇷",
+    "synonyms": [
+      "🇬🇷",
+      "bandera Grecia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇬🇸",
+    "synonyms": [
+      "🇬🇸",
+      "bandera Islles Xeorxa del Sur y Sandwich del Sur"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇬🇹",
+    "synonyms": [
+      "🇬🇹",
+      "bandera Guatemala"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇬🇺",
+    "synonyms": [
+      "🇬🇺",
+      "bandera Guam"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇬🇼",
+    "synonyms": [
+      "🇬🇼",
+      "bandera Guinea-Bisáu"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇬🇾",
+    "synonyms": [
+      "🇬🇾",
+      "bandera Guyana"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇭🇰",
+    "synonyms": [
+      "🇭🇰",
+      "bandera ARE China de Ḥong Kong"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇭🇲",
+    "synonyms": [
+      "🇭🇲",
+      "bandera Islles Heard y McDonald"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇭🇳",
+    "synonyms": [
+      "🇭🇳",
+      "bandera Hondures"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇭🇷",
+    "synonyms": [
+      "🇭🇷",
+      "bandera Croacia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇭🇹",
+    "synonyms": [
+      "🇭🇹",
+      "bandera Haití"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇭🇺",
+    "synonyms": [
+      "🇭🇺",
+      "bandera Hungría"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇮🇨",
+    "synonyms": [
+      "🇮🇨",
+      "bandera Islles Canaries"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇮🇩",
+    "synonyms": [
+      "🇮🇩",
+      "bandera Indonesia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇮🇪",
+    "synonyms": [
+      "🇮🇪",
+      "bandera Irlanda"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇮🇱",
+    "synonyms": [
+      "🇮🇱",
+      "bandera Israel"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇮🇲",
+    "synonyms": [
+      "🇮🇲",
+      "bandera Islla de Man"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇮🇳",
+    "synonyms": [
+      "🇮🇳",
+      "bandera India"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇮🇴",
+    "synonyms": [
+      "🇮🇴",
+      "bandera Territoriu Británicu del Océanu Índicu"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇮🇶",
+    "synonyms": [
+      "🇮🇶",
+      "bandera Iraq"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇮🇷",
+    "synonyms": [
+      "🇮🇷",
+      "bandera Irán"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇮🇸",
+    "synonyms": [
+      "🇮🇸",
+      "bandera Islandia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇮🇹",
+    "synonyms": [
+      "🇮🇹",
+      "bandera Italia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇯🇪",
+    "synonyms": [
+      "🇯🇪",
+      "bandera Jersey"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇯🇲",
+    "synonyms": [
+      "🇯🇲",
+      "bandera Xamaica"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇯🇴",
+    "synonyms": [
+      "🇯🇴",
+      "bandera Xordania"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇯🇵",
+    "synonyms": [
+      "🇯🇵",
+      "bandera Xapón"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇰🇪",
+    "synonyms": [
+      "🇰🇪",
+      "bandera Kenia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇰🇬",
+    "synonyms": [
+      "🇰🇬",
+      "bandera Kirguistán"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇰🇭",
+    "synonyms": [
+      "🇰🇭",
+      "bandera Camboya"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇰🇮",
+    "synonyms": [
+      "🇰🇮",
+      "bandera Kiribati"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇰🇲",
+    "synonyms": [
+      "🇰🇲",
+      "bandera Les Comores"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇰🇳",
+    "synonyms": [
+      "🇰🇳",
+      "bandera Saint Kitts y Nevis"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇰🇵",
+    "synonyms": [
+      "🇰🇵",
+      "bandera Corea del Norte"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇰🇷",
+    "synonyms": [
+      "🇰🇷",
+      "bandera Corea del Sur"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇰🇼",
+    "synonyms": [
+      "🇰🇼",
+      "bandera Kuwait"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇰🇾",
+    "synonyms": [
+      "🇰🇾",
+      "bandera Islles Caimán"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇰🇿",
+    "synonyms": [
+      "🇰🇿",
+      "bandera Kazakstán"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇱🇦",
+    "synonyms": [
+      "🇱🇦",
+      "bandera Laos"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇱🇧",
+    "synonyms": [
+      "🇱🇧",
+      "bandera Líbanu"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇱🇨",
+    "synonyms": [
+      "🇱🇨",
+      "bandera Santa Llucía"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇱🇮",
+    "synonyms": [
+      "🇱🇮",
+      "bandera Liechtenstein"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇱🇰",
+    "synonyms": [
+      "🇱🇰",
+      "bandera Sri Lanka"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇱🇷",
+    "synonyms": [
+      "🇱🇷",
+      "bandera Liberia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇱🇸",
+    "synonyms": [
+      "🇱🇸",
+      "bandera Lesothu"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇱🇹",
+    "synonyms": [
+      "🇱🇹",
+      "bandera Lituania"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇱🇺",
+    "synonyms": [
+      "🇱🇺",
+      "bandera Luxemburgu"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇱🇻",
+    "synonyms": [
+      "🇱🇻",
+      "bandera Letonia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇱🇾",
+    "synonyms": [
+      "🇱🇾",
+      "bandera Libia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇦",
+    "synonyms": [
+      "🇲🇦",
+      "bandera Marruecos"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇨",
+    "synonyms": [
+      "🇲🇨",
+      "bandera Mónacu"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇩",
+    "synonyms": [
+      "🇲🇩",
+      "bandera Moldavia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇪",
+    "synonyms": [
+      "🇲🇪",
+      "bandera Montenegru"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇫",
+    "synonyms": [
+      "🇲🇫",
+      "bandera Saint Martin"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇬",
+    "synonyms": [
+      "🇲🇬",
+      "bandera Madagascar"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇭",
+    "synonyms": [
+      "🇲🇭",
+      "bandera Islles Marshall"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇱",
+    "synonyms": [
+      "🇲🇱",
+      "bandera Malí"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇲",
+    "synonyms": [
+      "🇲🇲",
+      "bandera Myanmar (Birmania)"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇳",
+    "synonyms": [
+      "🇲🇳",
+      "bandera Mongolia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇴",
+    "synonyms": [
+      "🇲🇴",
+      "bandera ARE China de Macáu"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇵",
+    "synonyms": [
+      "🇲🇵",
+      "bandera Islles Marianes del Norte"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇶",
+    "synonyms": [
+      "🇲🇶",
+      "bandera La Martinica"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇷",
+    "synonyms": [
+      "🇲🇷",
+      "bandera Mauritania"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇸",
+    "synonyms": [
+      "🇲🇸",
+      "bandera Montserrat"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇹",
+    "synonyms": [
+      "🇲🇹",
+      "bandera Malta"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇺",
+    "synonyms": [
+      "🇲🇺",
+      "bandera Mauriciu"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇻",
+    "synonyms": [
+      "🇲🇻",
+      "bandera Les Maldives"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇼",
+    "synonyms": [
+      "🇲🇼",
+      "bandera Malaui"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇽",
+    "synonyms": [
+      "🇲🇽",
+      "bandera Méxicu"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇾",
+    "synonyms": [
+      "🇲🇾",
+      "bandera Malasia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇿",
+    "synonyms": [
+      "🇲🇿",
+      "bandera Mozambique"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇳🇦",
+    "synonyms": [
+      "🇳🇦",
+      "bandera Namibia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇳🇨",
+    "synonyms": [
+      "🇳🇨",
+      "bandera Nueva Caledonia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇳🇪",
+    "synonyms": [
+      "🇳🇪",
+      "bandera El Níxer"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇳🇫",
+    "synonyms": [
+      "🇳🇫",
+      "bandera Islla Norfolk"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇳🇬",
+    "synonyms": [
+      "🇳🇬",
+      "bandera Nixeria"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇳🇮",
+    "synonyms": [
+      "🇳🇮",
+      "bandera Nicaragua"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇳🇱",
+    "synonyms": [
+      "🇳🇱",
+      "bandera Países Baxos"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇳🇴",
+    "synonyms": [
+      "🇳🇴",
+      "bandera Noruega"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇳🇵",
+    "synonyms": [
+      "🇳🇵",
+      "bandera Nepal"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇳🇷",
+    "synonyms": [
+      "🇳🇷",
+      "bandera Nauru"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇳🇺",
+    "synonyms": [
+      "🇳🇺",
+      "bandera Niue"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇳🇿",
+    "synonyms": [
+      "🇳🇿",
+      "bandera Nueva Zelanda"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇴🇲",
+    "synonyms": [
+      "🇴🇲",
+      "bandera Omán"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇵🇦",
+    "synonyms": [
+      "🇵🇦",
+      "bandera Panamá"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇵🇪",
+    "synonyms": [
+      "🇵🇪",
+      "bandera Perú"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇵🇫",
+    "synonyms": [
+      "🇵🇫",
+      "bandera Polinesia Francesa"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇵🇬",
+    "synonyms": [
+      "🇵🇬",
+      "bandera Papúa Nueva Guinea"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇵🇭",
+    "synonyms": [
+      "🇵🇭",
+      "bandera Filipines"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇵🇰",
+    "synonyms": [
+      "🇵🇰",
+      "bandera Paquistán"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇵🇱",
+    "synonyms": [
+      "🇵🇱",
+      "bandera Polonia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇵🇲",
+    "synonyms": [
+      "🇵🇲",
+      "bandera Saint Pierre y Miquelon"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇵🇳",
+    "synonyms": [
+      "🇵🇳",
+      "bandera Islles Pitcairn"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇵🇷",
+    "synonyms": [
+      "🇵🇷",
+      "bandera Puertu Ricu"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇵🇸",
+    "synonyms": [
+      "🇵🇸",
+      "bandera Territorios Palestinos"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇵🇹",
+    "synonyms": [
+      "🇵🇹",
+      "bandera Portugal"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇵🇼",
+    "synonyms": [
+      "🇵🇼",
+      "bandera Paláu"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇵🇾",
+    "synonyms": [
+      "🇵🇾",
+      "bandera Paraguái"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇶🇦",
+    "synonyms": [
+      "🇶🇦",
+      "bandera Qatar"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇷🇪",
+    "synonyms": [
+      "🇷🇪",
+      "bandera Reunión"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇷🇴",
+    "synonyms": [
+      "🇷🇴",
+      "bandera Rumanía"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇷🇸",
+    "synonyms": [
+      "🇷🇸",
+      "bandera Serbia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇷🇺",
+    "synonyms": [
+      "🇷🇺",
+      "bandera Rusia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇷🇼",
+    "synonyms": [
+      "🇷🇼",
+      "bandera Ruanda"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇸🇦",
+    "synonyms": [
+      "🇸🇦",
+      "bandera Arabia Saudita"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇸🇧",
+    "synonyms": [
+      "🇸🇧",
+      "bandera Islles Salomón"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇸🇨",
+    "synonyms": [
+      "🇸🇨",
+      "bandera Les Seixeles"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇸🇩",
+    "synonyms": [
+      "🇸🇩",
+      "bandera Sudán"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇸🇪",
+    "synonyms": [
+      "🇸🇪",
+      "bandera Suecia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇸🇬",
+    "synonyms": [
+      "🇸🇬",
+      "bandera Singapur"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇸🇭",
+    "synonyms": [
+      "🇸🇭",
+      "bandera Santa Helena"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇸🇮",
+    "synonyms": [
+      "🇸🇮",
+      "bandera Eslovenia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇸🇯",
+    "synonyms": [
+      "🇸🇯",
+      "bandera Svalbard ya Islla Jan Mayen"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇸🇰",
+    "synonyms": [
+      "🇸🇰",
+      "bandera Eslovaquia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇸🇱",
+    "synonyms": [
+      "🇸🇱",
+      "bandera Sierra Lleona"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇸🇲",
+    "synonyms": [
+      "🇸🇲",
+      "bandera San Marín"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇸🇳",
+    "synonyms": [
+      "🇸🇳",
+      "bandera Senegal"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇸🇴",
+    "synonyms": [
+      "🇸🇴",
+      "bandera Somalia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇸🇷",
+    "synonyms": [
+      "🇸🇷",
+      "bandera Surinam"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇸🇸",
+    "synonyms": [
+      "🇸🇸",
+      "bandera Sudán del Sur"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇸🇹",
+    "synonyms": [
+      "🇸🇹",
+      "bandera Santu Tomé y Príncipe"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇸🇻",
+    "synonyms": [
+      "🇸🇻",
+      "bandera El Salvador"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇸🇽",
+    "synonyms": [
+      "🇸🇽",
+      "bandera Sint Maarten"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇸🇾",
+    "synonyms": [
+      "🇸🇾",
+      "bandera Siria"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇸🇿",
+    "synonyms": [
+      "🇸🇿",
+      "bandera Suazilandia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇹🇦",
+    "synonyms": [
+      "🇹🇦",
+      "bandera Tristán da Cunha"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇹🇨",
+    "synonyms": [
+      "🇹🇨",
+      "bandera Islles Turques y Caicos"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇹🇩",
+    "synonyms": [
+      "🇹🇩",
+      "bandera Chad"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇹🇫",
+    "synonyms": [
+      "🇹🇫",
+      "bandera Tierres Australes Franceses"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇹🇬",
+    "synonyms": [
+      "🇹🇬",
+      "bandera Togu"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇹🇭",
+    "synonyms": [
+      "🇹🇭",
+      "bandera Tailandia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇹🇯",
+    "synonyms": [
+      "🇹🇯",
+      "bandera Taxiquistán"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇹🇰",
+    "synonyms": [
+      "🇹🇰",
+      "bandera Tokeláu"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇹🇱",
+    "synonyms": [
+      "🇹🇱",
+      "bandera Timor Oriental"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇹🇲",
+    "synonyms": [
+      "🇹🇲",
+      "bandera Turkmenistán"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇹🇳",
+    "synonyms": [
+      "🇹🇳",
+      "bandera Tunicia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇹🇴",
+    "synonyms": [
+      "🇹🇴",
+      "bandera Tonga"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇹🇷",
+    "synonyms": [
+      "🇹🇷",
+      "bandera Turquía"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇹🇹",
+    "synonyms": [
+      "🇹🇹",
+      "bandera Trinidá y Tobagu"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇹🇻",
+    "synonyms": [
+      "🇹🇻",
+      "bandera Tuvalu"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇹🇼",
+    "synonyms": [
+      "🇹🇼",
+      "bandera Taiwán"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇹🇿",
+    "synonyms": [
+      "🇹🇿",
+      "bandera Tanzania"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇺🇦",
+    "synonyms": [
+      "🇺🇦",
+      "bandera Ucraína"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇺🇬",
+    "synonyms": [
+      "🇺🇬",
+      "bandera Uganda"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇺🇲",
+    "synonyms": [
+      "🇺🇲",
+      "bandera Islles Perifériques Menores de los EE.XX."
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇺🇳",
+    "synonyms": [
+      "🇺🇳",
+      "bandera Naciones Xuníes"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇺🇸",
+    "synonyms": [
+      "🇺🇸",
+      "bandera Estaos Xuníos"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇺🇾",
+    "synonyms": [
+      "🇺🇾",
+      "bandera Uruguái"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇺🇿",
+    "synonyms": [
+      "🇺🇿",
+      "bandera Uzbequistán"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇻🇦",
+    "synonyms": [
+      "🇻🇦",
+      "bandera Ciudá del Vaticanu"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇻🇨",
+    "synonyms": [
+      "🇻🇨",
+      "bandera San Vicente y Granadines"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇻🇪",
+    "synonyms": [
+      "🇻🇪",
+      "bandera Venezuela"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇻🇬",
+    "synonyms": [
+      "🇻🇬",
+      "bandera Islles Vírxenes Britániques"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇻🇮",
+    "synonyms": [
+      "🇻🇮",
+      "bandera Islles Vírxenes Americanes"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇻🇳",
+    "synonyms": [
+      "🇻🇳",
+      "bandera Vietnam"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇻🇺",
+    "synonyms": [
+      "🇻🇺",
+      "bandera Vanuatu"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇼🇫",
+    "synonyms": [
+      "🇼🇫",
+      "bandera Wallis y Futuna"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇼🇸",
+    "synonyms": [
+      "🇼🇸",
+      "bandera Samoa"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇽🇰",
+    "synonyms": [
+      "🇽🇰",
+      "bandera Kosovu"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇾🇪",
+    "synonyms": [
+      "🇾🇪",
+      "bandera Yemen"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇾🇹",
+    "synonyms": [
+      "🇾🇹",
+      "bandera Mayotte"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇿🇦",
+    "synonyms": [
+      "🇿🇦",
+      "bandera Sudáfrica"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇿🇲",
+    "synonyms": [
+      "🇿🇲",
+      "bandera Zambia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇿🇼",
+    "synonyms": [
+      "🇿🇼",
+      "bandera Zimbabue"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "0⃣",
+    "synonyms": [
+      "0⃣",
+      "tecles 0"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "1⃣",
+    "synonyms": [
+      "1⃣",
+      "tecles 1"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "2⃣",
+    "synonyms": [
+      "2⃣",
+      "tecles 2"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "3⃣",
+    "synonyms": [
+      "3⃣",
+      "tecles 3"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "4⃣",
+    "synonyms": [
+      "4⃣",
+      "tecles 4"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "5⃣",
+    "synonyms": [
+      "5⃣",
+      "tecles 5"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "6⃣",
+    "synonyms": [
+      "6⃣",
+      "tecles 6"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "7⃣",
+    "synonyms": [
+      "7⃣",
+      "tecles 7"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "8⃣",
+    "synonyms": [
+      "8⃣",
+      "tecles 8"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "9⃣",
+    "synonyms": [
+      "9⃣",
+      "tecles 9"
+    ]
+  }
+]

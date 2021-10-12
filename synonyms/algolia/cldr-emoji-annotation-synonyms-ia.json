@@ -1,0 +1,2888 @@
+[
+  {
+    "type": "onewaysynonym",
+    "input": "🏻",
+    "synonyms": [
+      "🏻",
+      "tono de pelle",
+      "tono de pelle clar",
+      "typo 1–2"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏼",
+    "synonyms": [
+      "🏼",
+      "tono de pelle",
+      "tono de pelle medio clar",
+      "typo 3"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏽",
+    "synonyms": [
+      "🏽",
+      "tono de pelle",
+      "tono de pelle medie",
+      "typo 4"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏾",
+    "synonyms": [
+      "🏾",
+      "tono de pelle",
+      "tono de pelle medio obscur",
+      "tono de pelle medio-obscur",
+      "typo 5"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏿",
+    "synonyms": [
+      "🏿",
+      "tono de pelle",
+      "tono de pelle obscur",
+      "typo 6"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😀",
+    "synonyms": [
+      "😀",
+      "facie",
+      "surridente",
+      "surriso",
+      "visage",
+      "visage con grande surriso"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😃",
+    "synonyms": [
+      "😃",
+      "aperte",
+      "bucca",
+      "facie",
+      "grande surriso con grande oculos",
+      "surriso",
+      "visage"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😄",
+    "synonyms": [
+      "😄",
+      "aperte",
+      "facie",
+      "grande surriso con oculos surridente",
+      "oculos",
+      "surridente",
+      "visage"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😁",
+    "synonyms": [
+      "😁",
+      "facie",
+      "radiante",
+      "surridente",
+      "surriso",
+      "visage",
+      "visage radiante con oculos surridente"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😆",
+    "synonyms": [
+      "😆",
+      "facie",
+      "grande surriso con oculos clause",
+      "satisfacite",
+      "satisfaction",
+      "surridente",
+      "visage"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😅",
+    "synonyms": [
+      "😅",
+      "aperte",
+      "facie",
+      "frigide",
+      "grande surriso con gutta de sudor",
+      "sudor",
+      "visage"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤣",
+    "synonyms": [
+      "🤣",
+      "facie",
+      "ridente",
+      "riso",
+      "rolante se per terra de rider",
+      "rolar",
+      "visage"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😂",
+    "synonyms": [
+      "😂",
+      "facie",
+      "gaudio",
+      "joia",
+      "lacrimas",
+      "visage",
+      "visage plorante de riso"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😉",
+    "synonyms": [
+      "😉",
+      "batter",
+      "facie",
+      "palpebras",
+      "visage",
+      "visage que batte le palpebras"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😊",
+    "synonyms": [
+      "😊",
+      "facie",
+      "rubescer",
+      "rubor",
+      "surridente",
+      "surriso con oculos surridente",
+      "visage"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😍",
+    "synonyms": [
+      "😍",
+      "corde",
+      "facie",
+      "oculo",
+      "surridente",
+      "surriso con oculos in forma de corde",
+      "visage"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😋",
+    "synonyms": [
+      "😋",
+      "alimento",
+      "deliciose",
+      "facie",
+      "mangiar",
+      "visage",
+      "visage que sapora un bon repasto"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😎",
+    "synonyms": [
+      "😎",
+      "berillos",
+      "facie",
+      "sol",
+      "surriso",
+      "surriso con oculares de sol",
+      "visage"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💪",
+    "synonyms": [
+      "💪",
+      "biceps",
+      "biceps contrahite",
+      "biceps flectite",
+      "flexion",
+      "forte",
+      "musculo"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦾",
+    "synonyms": [
+      "🦾",
+      "accessibilitate",
+      "bracio mechanic",
+      "prothese",
+      "prothesis"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦿",
+    "synonyms": [
+      "🦿",
+      "accessibilitate",
+      "gamba mechanic",
+      "prothese",
+      "prothesis"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦵",
+    "synonyms": [
+      "🦵",
+      "colpo de pede",
+      "gamba",
+      "membro"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦶",
+    "synonyms": [
+      "🦶",
+      "colpo de pede",
+      "pede"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👂",
+    "synonyms": [
+      "👂",
+      "audientia",
+      "audita",
+      "audition",
+      "aural",
+      "aure",
+      "auricular",
+      "corpore"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦻",
+    "synonyms": [
+      "🦻",
+      "accessibilitate",
+      "aure con audiophono",
+      "debile de audito",
+      "dur de aure"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👃",
+    "synonyms": [
+      "👃",
+      "corpore",
+      "naso"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧠",
+    "synonyms": [
+      "🧠",
+      "cerebro",
+      "intelligente"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🫀",
+    "synonyms": [
+      "🫀",
+      "battimento del corde",
+      "centro",
+      "corde",
+      "organo",
+      "pulsation cardiac",
+      "pulsation del corde",
+      "rhythmo cardiac",
+      "rhythmo del corde"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🫁",
+    "synonyms": [
+      "🫁",
+      "exhalation",
+      "halito",
+      "inhalation",
+      "organo",
+      "pulmones",
+      "respiration",
+      "sufflo",
+      "suspiro"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦷",
+    "synonyms": [
+      "🦷",
+      "dental",
+      "dentari",
+      "dente",
+      "dentista",
+      "odontologia",
+      "orthodontista"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦴",
+    "synonyms": [
+      "🦴",
+      "osso",
+      "osteologia",
+      "skeleto"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👀",
+    "synonyms": [
+      "👀",
+      "facie",
+      "ocular",
+      "oculo",
+      "oculos",
+      "ophthalmologia",
+      "vision",
+      "visual"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👁",
+    "synonyms": [
+      "👁",
+      "corpore",
+      "ocular",
+      "oculo",
+      "ophthalmologia",
+      "vision",
+      "visual"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👅",
+    "synonyms": [
+      "👅",
+      "corpore",
+      "lingua",
+      "lingual"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👄",
+    "synonyms": [
+      "👄",
+      "bucca",
+      "labial",
+      "labios",
+      "oral",
+      "ore"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦰",
+    "synonyms": [
+      "🦰",
+      "capillos rosse",
+      "rossa",
+      "rossastre",
+      "rubee",
+      "rubie",
+      "rubre"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦱",
+    "synonyms": [
+      "🦱",
+      "afro",
+      "buclate",
+      "buclettas",
+      "capillos",
+      "crispe"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦳",
+    "synonyms": [
+      "🦳",
+      "blanc",
+      "capillos",
+      "gris",
+      "vetere",
+      "vetule"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦲",
+    "synonyms": [
+      "🦲",
+      "calve",
+      "chemotherapia",
+      "glabre",
+      "rasate",
+      "sin capillos"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏧",
+    "synonyms": [
+      "🏧",
+      "automatic",
+      "banca",
+      "billetes",
+      "cassa",
+      "distributor",
+      "signo de cassa automatic"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚮",
+    "synonyms": [
+      "🚮",
+      "immunditias",
+      "jectar",
+      "receptaculo",
+      "recipiente",
+      "signo de receptaculo de immunditias"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚰",
+    "synonyms": [
+      "🚰",
+      "aqua",
+      "biber",
+      "bibibile",
+      "potabile"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "♿",
+    "synonyms": [
+      "♿",
+      "accesso",
+      "rolante",
+      "rotas",
+      "sede",
+      "sedia",
+      "symbolo de sedia rolante"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚹",
+    "synonyms": [
+      "🚹",
+      "cabinetto",
+      "homine",
+      "lavatorio",
+      "lavatorio pro homines",
+      "toilette",
+      "wc"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚺",
+    "synonyms": [
+      "🚺",
+      "cabinetto",
+      "femina",
+      "lavatorio",
+      "lavatorio pro feminas",
+      "toilette",
+      "wc"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚻",
+    "synonyms": [
+      "🚻",
+      "cabinetto",
+      "lavatorio",
+      "toilette",
+      "toilettes",
+      "wc"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚼",
+    "synonyms": [
+      "🚼",
+      "baby",
+      "bebe",
+      "cambiar",
+      "fascia",
+      "neonato",
+      "symbolo de bebe"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚾",
+    "synonyms": [
+      "🚾",
+      "aqua",
+      "cabinetto",
+      "lavatorio",
+      "toilette",
+      "water-closet",
+      "wc"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛂",
+    "synonyms": [
+      "🛂",
+      "controlo",
+      "controlo de passaportos",
+      "passaporto"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛃",
+    "synonyms": [
+      "🛃",
+      "doana"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛄",
+    "synonyms": [
+      "🛄",
+      "bagage",
+      "collecta",
+      "collecta de bagage",
+      "reception",
+      "retiro"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛅",
+    "synonyms": [
+      "🛅",
+      "bagage",
+      "consigna",
+      "deposito",
+      "deposito de bagage"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⚠",
+    "synonyms": [
+      "⚠",
+      "advertimento",
+      "attention",
+      "aviso"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚸",
+    "synonyms": [
+      "🚸",
+      "infante",
+      "passage",
+      "pedones",
+      "traffico",
+      "transversata",
+      "transversata de infantes"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⛔",
+    "synonyms": [
+      "⛔",
+      "direction unic",
+      "entrata prohibite",
+      "senso unic",
+      "traffico",
+      "unidirectional"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚫",
+    "synonyms": [
+      "🚫",
+      "entrata",
+      "no",
+      "non",
+      "prohibite",
+      "sin"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚳",
+    "synonyms": [
+      "🚳",
+      "bicycletta",
+      "bicyclettas prohibite",
+      "bicyclo",
+      "no",
+      "prohibite",
+      "sin"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚭",
+    "synonyms": [
+      "🚭",
+      "fumar",
+      "fumo",
+      "no",
+      "non",
+      "prohibite"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚯",
+    "synonyms": [
+      "🚯",
+      "immunditias",
+      "jectar",
+      "lassar cader",
+      "non abandonar immunditias",
+      "prohibite"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚱",
+    "synonyms": [
+      "🚱",
+      "aqua",
+      "aqua non potabile",
+      "non bibibile",
+      "non potabile"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚷",
+    "synonyms": [
+      "🚷",
+      "accesso",
+      "interdicite",
+      "pedon",
+      "pedones",
+      "prohibite",
+      "prohibite al pedones"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📵",
+    "synonyms": [
+      "📵",
+      "interdicite",
+      "mobile",
+      "portabile",
+      "prohibite",
+      "telephono",
+      "telephonos mobile prohibite"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏁",
+    "synonyms": [
+      "🏁",
+      "bandiera",
+      "bandiera a quadros",
+      "currer",
+      "cursa",
+      "quadrettos",
+      "quadros"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚩",
+    "synonyms": [
+      "🚩",
+      "bandiera triangular",
+      "palo"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎌",
+    "synonyms": [
+      "🎌",
+      "bandieras cruciate",
+      "celebration",
+      "cruce",
+      "cruciate",
+      "japonese"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏴",
+    "synonyms": [
+      "🏴",
+      "agitante",
+      "bandiera nigre",
+      "flottante",
+      "undulante"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏳",
+    "synonyms": [
+      "🏳",
+      "agitante",
+      "bandiera blanc",
+      "flottante",
+      "undulante"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏳‍🌈",
+    "synonyms": [
+      "🏳‍🌈",
+      "arco del celo",
+      "bandiera iride",
+      "bandiera iris",
+      "iride",
+      "iris"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏴‍☠",
+    "synonyms": [
+      "🏴‍☠",
+      "bandiera de pirata",
+      "cranio",
+      "ossos",
+      "piliage",
+      "pirata",
+      "tresor"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💪🏻",
+    "synonyms": [
+      "💪🏻",
+      "biceps",
+      "biceps contrahite",
+      "biceps flectite",
+      "flexion",
+      "forte",
+      "musculo",
+      "tono de pelle clar"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💪🏼",
+    "synonyms": [
+      "💪🏼",
+      "biceps",
+      "biceps contrahite",
+      "biceps flectite",
+      "flexion",
+      "forte",
+      "musculo",
+      "tono de pelle medio clar"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💪🏽",
+    "synonyms": [
+      "💪🏽",
+      "biceps",
+      "biceps contrahite",
+      "biceps flectite",
+      "flexion",
+      "forte",
+      "musculo",
+      "tono de pelle medie"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💪🏾",
+    "synonyms": [
+      "💪🏾",
+      "biceps",
+      "biceps contrahite",
+      "biceps flectite",
+      "flexion",
+      "forte",
+      "musculo",
+      "tono de pelle medio-obscur"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💪🏿",
+    "synonyms": [
+      "💪🏿",
+      "biceps",
+      "biceps contrahite",
+      "biceps flectite",
+      "flexion",
+      "forte",
+      "musculo",
+      "tono de pelle obscur"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦵🏻",
+    "synonyms": [
+      "🦵🏻",
+      "colpo de pede",
+      "gamba",
+      "membro",
+      "tono de pelle clar"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦵🏼",
+    "synonyms": [
+      "🦵🏼",
+      "colpo de pede",
+      "gamba",
+      "membro",
+      "tono de pelle medio clar"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦵🏽",
+    "synonyms": [
+      "🦵🏽",
+      "colpo de pede",
+      "gamba",
+      "membro",
+      "tono de pelle medie"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦵🏾",
+    "synonyms": [
+      "🦵🏾",
+      "colpo de pede",
+      "gamba",
+      "membro",
+      "tono de pelle medio-obscur"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦵🏿",
+    "synonyms": [
+      "🦵🏿",
+      "colpo de pede",
+      "gamba",
+      "membro",
+      "tono de pelle obscur"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦶🏻",
+    "synonyms": [
+      "🦶🏻",
+      "colpo de pede",
+      "pede",
+      "tono de pelle clar"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦶🏼",
+    "synonyms": [
+      "🦶🏼",
+      "colpo de pede",
+      "pede",
+      "tono de pelle medio clar"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦶🏽",
+    "synonyms": [
+      "🦶🏽",
+      "colpo de pede",
+      "pede",
+      "tono de pelle medie"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦶🏾",
+    "synonyms": [
+      "🦶🏾",
+      "colpo de pede",
+      "pede",
+      "tono de pelle medio-obscur"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦶🏿",
+    "synonyms": [
+      "🦶🏿",
+      "colpo de pede",
+      "pede",
+      "tono de pelle obscur"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👂🏻",
+    "synonyms": [
+      "👂🏻",
+      "audientia",
+      "audita",
+      "audition",
+      "aural",
+      "aure",
+      "auricular",
+      "corpore",
+      "tono de pelle clar"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👂🏼",
+    "synonyms": [
+      "👂🏼",
+      "audientia",
+      "audita",
+      "audition",
+      "aural",
+      "aure",
+      "auricular",
+      "corpore",
+      "tono de pelle medio clar"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👂🏽",
+    "synonyms": [
+      "👂🏽",
+      "audientia",
+      "audita",
+      "audition",
+      "aural",
+      "aure",
+      "auricular",
+      "corpore",
+      "tono de pelle medie"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👂🏾",
+    "synonyms": [
+      "👂🏾",
+      "audientia",
+      "audita",
+      "audition",
+      "aural",
+      "aure",
+      "auricular",
+      "corpore",
+      "tono de pelle medio-obscur"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👂🏿",
+    "synonyms": [
+      "👂🏿",
+      "audientia",
+      "audita",
+      "audition",
+      "aural",
+      "aure",
+      "auricular",
+      "corpore",
+      "tono de pelle obscur"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦻🏻",
+    "synonyms": [
+      "🦻🏻",
+      "accessibilitate",
+      "aure con audiophono",
+      "debile de audito",
+      "dur de aure",
+      "tono de pelle clar"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦻🏼",
+    "synonyms": [
+      "🦻🏼",
+      "accessibilitate",
+      "aure con audiophono",
+      "debile de audito",
+      "dur de aure",
+      "tono de pelle medio clar"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦻🏽",
+    "synonyms": [
+      "🦻🏽",
+      "accessibilitate",
+      "aure con audiophono",
+      "debile de audito",
+      "dur de aure",
+      "tono de pelle medie"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦻🏾",
+    "synonyms": [
+      "🦻🏾",
+      "accessibilitate",
+      "aure con audiophono",
+      "debile de audito",
+      "dur de aure",
+      "tono de pelle medio-obscur"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦻🏿",
+    "synonyms": [
+      "🦻🏿",
+      "accessibilitate",
+      "aure con audiophono",
+      "debile de audito",
+      "dur de aure",
+      "tono de pelle obscur"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👃🏻",
+    "synonyms": [
+      "👃🏻",
+      "corpore",
+      "naso",
+      "tono de pelle clar"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👃🏼",
+    "synonyms": [
+      "👃🏼",
+      "corpore",
+      "naso",
+      "tono de pelle medio clar"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👃🏽",
+    "synonyms": [
+      "👃🏽",
+      "corpore",
+      "naso",
+      "tono de pelle medie"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👃🏾",
+    "synonyms": [
+      "👃🏾",
+      "corpore",
+      "naso",
+      "tono de pelle medio-obscur"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👃🏿",
+    "synonyms": [
+      "👃🏿",
+      "corpore",
+      "naso",
+      "tono de pelle obscur"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔟",
+    "synonyms": [
+      "🔟",
+      "clave"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇦🇩",
+    "synonyms": [
+      "🇦🇩",
+      "bandiera Andorra"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇦🇪",
+    "synonyms": [
+      "🇦🇪",
+      "bandiera Emiratos Arabe Unite"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇦🇫",
+    "synonyms": [
+      "🇦🇫",
+      "bandiera Afghanistan"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇦🇬",
+    "synonyms": [
+      "🇦🇬",
+      "bandiera Antigua e Barbuda"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇦🇱",
+    "synonyms": [
+      "🇦🇱",
+      "bandiera Albania"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇦🇲",
+    "synonyms": [
+      "🇦🇲",
+      "bandiera Armenia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇦🇴",
+    "synonyms": [
+      "🇦🇴",
+      "bandiera Angola"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇦🇶",
+    "synonyms": [
+      "🇦🇶",
+      "bandiera Antarctica"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇦🇷",
+    "synonyms": [
+      "🇦🇷",
+      "bandiera Argentina"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇦🇸",
+    "synonyms": [
+      "🇦🇸",
+      "bandiera Samoa american"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇦🇹",
+    "synonyms": [
+      "🇦🇹",
+      "bandiera Austria"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇦🇺",
+    "synonyms": [
+      "🇦🇺",
+      "bandiera Australia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇦🇽",
+    "synonyms": [
+      "🇦🇽",
+      "bandiera Insulas Åland"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇦🇿",
+    "synonyms": [
+      "🇦🇿",
+      "bandiera Azerbaidzhan"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇧🇦",
+    "synonyms": [
+      "🇧🇦",
+      "bandiera Bosnia e Herzegovina"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇧🇩",
+    "synonyms": [
+      "🇧🇩",
+      "bandiera Bangladesh"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇧🇪",
+    "synonyms": [
+      "🇧🇪",
+      "bandiera Belgica"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇧🇫",
+    "synonyms": [
+      "🇧🇫",
+      "bandiera Burkina Faso"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇧🇬",
+    "synonyms": [
+      "🇧🇬",
+      "bandiera Bulgaria"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇧🇮",
+    "synonyms": [
+      "🇧🇮",
+      "bandiera Burundi"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇧🇯",
+    "synonyms": [
+      "🇧🇯",
+      "bandiera Benin"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇧🇲",
+    "synonyms": [
+      "🇧🇲",
+      "bandiera Bermuda"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇧🇴",
+    "synonyms": [
+      "🇧🇴",
+      "bandiera Bolivia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇧🇷",
+    "synonyms": [
+      "🇧🇷",
+      "bandiera Brasil"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇧🇸",
+    "synonyms": [
+      "🇧🇸",
+      "bandiera Bahamas"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇧🇹",
+    "synonyms": [
+      "🇧🇹",
+      "bandiera Bhutan"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇧🇻",
+    "synonyms": [
+      "🇧🇻",
+      "bandiera Insula de Bouvet"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇧🇼",
+    "synonyms": [
+      "🇧🇼",
+      "bandiera Botswana"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇧🇾",
+    "synonyms": [
+      "🇧🇾",
+      "bandiera Bielorussia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇧🇿",
+    "synonyms": [
+      "🇧🇿",
+      "bandiera Belize"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇨🇦",
+    "synonyms": [
+      "🇨🇦",
+      "bandiera Canada"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇨🇫",
+    "synonyms": [
+      "🇨🇫",
+      "bandiera Republica African Central"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇨🇬",
+    "synonyms": [
+      "🇨🇬",
+      "bandiera Congo"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇨🇭",
+    "synonyms": [
+      "🇨🇭",
+      "bandiera Suissa"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇨🇰",
+    "synonyms": [
+      "🇨🇰",
+      "bandiera Insulas Cook"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇨🇱",
+    "synonyms": [
+      "🇨🇱",
+      "bandiera Chile"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇨🇲",
+    "synonyms": [
+      "🇨🇲",
+      "bandiera Camerun"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇨🇳",
+    "synonyms": [
+      "🇨🇳",
+      "bandiera China"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇨🇴",
+    "synonyms": [
+      "🇨🇴",
+      "bandiera Colombia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇨🇷",
+    "synonyms": [
+      "🇨🇷",
+      "bandiera Costa Rica"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇨🇺",
+    "synonyms": [
+      "🇨🇺",
+      "bandiera Cuba"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇨🇽",
+    "synonyms": [
+      "🇨🇽",
+      "bandiera Insula de Natal"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇨🇾",
+    "synonyms": [
+      "🇨🇾",
+      "bandiera Cypro"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇨🇿",
+    "synonyms": [
+      "🇨🇿",
+      "bandiera Chechia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇩🇪",
+    "synonyms": [
+      "🇩🇪",
+      "bandiera Germania"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇩🇰",
+    "synonyms": [
+      "🇩🇰",
+      "bandiera Danmark"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇩🇴",
+    "synonyms": [
+      "🇩🇴",
+      "bandiera Republica Dominican"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇩🇿",
+    "synonyms": [
+      "🇩🇿",
+      "bandiera Algeria"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇪🇨",
+    "synonyms": [
+      "🇪🇨",
+      "bandiera Ecuador"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇪🇪",
+    "synonyms": [
+      "🇪🇪",
+      "bandiera Estonia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇪🇬",
+    "synonyms": [
+      "🇪🇬",
+      "bandiera Egypto"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇪🇭",
+    "synonyms": [
+      "🇪🇭",
+      "bandiera Sahara occidental"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇪🇷",
+    "synonyms": [
+      "🇪🇷",
+      "bandiera Eritrea"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇪🇸",
+    "synonyms": [
+      "🇪🇸",
+      "bandiera Espania"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇪🇹",
+    "synonyms": [
+      "🇪🇹",
+      "bandiera Ethiopia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇪🇺",
+    "synonyms": [
+      "🇪🇺",
+      "bandiera Union Europee"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇫🇮",
+    "synonyms": [
+      "🇫🇮",
+      "bandiera Finlandia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇫🇲",
+    "synonyms": [
+      "🇫🇲",
+      "bandiera Micronesia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇫🇴",
+    "synonyms": [
+      "🇫🇴",
+      "bandiera Insulas Feroe"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇫🇷",
+    "synonyms": [
+      "🇫🇷",
+      "bandiera Francia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇬🇦",
+    "synonyms": [
+      "🇬🇦",
+      "bandiera Gabon"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇬🇧",
+    "synonyms": [
+      "🇬🇧",
+      "bandiera Regno Unite"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇬🇪",
+    "synonyms": [
+      "🇬🇪",
+      "bandiera Georgia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇬🇫",
+    "synonyms": [
+      "🇬🇫",
+      "bandiera Guyana francese"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇬🇬",
+    "synonyms": [
+      "🇬🇬",
+      "bandiera Guernsey"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇬🇭",
+    "synonyms": [
+      "🇬🇭",
+      "bandiera Ghana"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇬🇮",
+    "synonyms": [
+      "🇬🇮",
+      "bandiera Gibraltar"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇬🇱",
+    "synonyms": [
+      "🇬🇱",
+      "bandiera Groenlandia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇬🇲",
+    "synonyms": [
+      "🇬🇲",
+      "bandiera Gambia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇬🇳",
+    "synonyms": [
+      "🇬🇳",
+      "bandiera Guinea"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇬🇶",
+    "synonyms": [
+      "🇬🇶",
+      "bandiera Guinea equatorial"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇬🇷",
+    "synonyms": [
+      "🇬🇷",
+      "bandiera Grecia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇬🇹",
+    "synonyms": [
+      "🇬🇹",
+      "bandiera Guatemala"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇬🇼",
+    "synonyms": [
+      "🇬🇼",
+      "bandiera Guinea-Bissau"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇭🇳",
+    "synonyms": [
+      "🇭🇳",
+      "bandiera Honduras"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇭🇷",
+    "synonyms": [
+      "🇭🇷",
+      "bandiera Croatia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇭🇹",
+    "synonyms": [
+      "🇭🇹",
+      "bandiera Haiti"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇭🇺",
+    "synonyms": [
+      "🇭🇺",
+      "bandiera Hungaria"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇮🇩",
+    "synonyms": [
+      "🇮🇩",
+      "bandiera Indonesia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇮🇪",
+    "synonyms": [
+      "🇮🇪",
+      "bandiera Irlanda"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇮🇱",
+    "synonyms": [
+      "🇮🇱",
+      "bandiera Israel"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇮🇲",
+    "synonyms": [
+      "🇮🇲",
+      "bandiera Insula de Man"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇮🇳",
+    "synonyms": [
+      "🇮🇳",
+      "bandiera India"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇮🇴",
+    "synonyms": [
+      "🇮🇴",
+      "bandiera Territorio oceanic britanno-indian"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇮🇶",
+    "synonyms": [
+      "🇮🇶",
+      "bandiera Irak"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇮🇷",
+    "synonyms": [
+      "🇮🇷",
+      "bandiera Iran"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇮🇸",
+    "synonyms": [
+      "🇮🇸",
+      "bandiera Islanda"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇮🇹",
+    "synonyms": [
+      "🇮🇹",
+      "bandiera Italia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇯🇪",
+    "synonyms": [
+      "🇯🇪",
+      "bandiera Jersey"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇯🇴",
+    "synonyms": [
+      "🇯🇴",
+      "bandiera Jordania"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇯🇵",
+    "synonyms": [
+      "🇯🇵",
+      "bandiera Japon"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇰🇪",
+    "synonyms": [
+      "🇰🇪",
+      "bandiera Kenya"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇰🇬",
+    "synonyms": [
+      "🇰🇬",
+      "bandiera Kirghizistan"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇰🇭",
+    "synonyms": [
+      "🇰🇭",
+      "bandiera Cambodgia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇰🇮",
+    "synonyms": [
+      "🇰🇮",
+      "bandiera Kiribati"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇰🇲",
+    "synonyms": [
+      "🇰🇲",
+      "bandiera Comoros"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇰🇳",
+    "synonyms": [
+      "🇰🇳",
+      "bandiera Sancte Christophoro e Nevis"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇰🇵",
+    "synonyms": [
+      "🇰🇵",
+      "bandiera Corea del Nord"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇰🇷",
+    "synonyms": [
+      "🇰🇷",
+      "bandiera Corea del Sud"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇰🇾",
+    "synonyms": [
+      "🇰🇾",
+      "bandiera Insulas de Caiman"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇰🇿",
+    "synonyms": [
+      "🇰🇿",
+      "bandiera Kazakhstan"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇱🇧",
+    "synonyms": [
+      "🇱🇧",
+      "bandiera Libano"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇱🇨",
+    "synonyms": [
+      "🇱🇨",
+      "bandiera Sancte Lucia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇱🇮",
+    "synonyms": [
+      "🇱🇮",
+      "bandiera Liechtenstein"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇱🇰",
+    "synonyms": [
+      "🇱🇰",
+      "bandiera Sri Lanka"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇱🇷",
+    "synonyms": [
+      "🇱🇷",
+      "bandiera Liberia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇱🇸",
+    "synonyms": [
+      "🇱🇸",
+      "bandiera Lesotho"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇱🇹",
+    "synonyms": [
+      "🇱🇹",
+      "bandiera Lituania"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇱🇺",
+    "synonyms": [
+      "🇱🇺",
+      "bandiera Luxemburg"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇱🇻",
+    "synonyms": [
+      "🇱🇻",
+      "bandiera Lettonia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇱🇾",
+    "synonyms": [
+      "🇱🇾",
+      "bandiera Libya"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇦",
+    "synonyms": [
+      "🇲🇦",
+      "bandiera Marocco"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇨",
+    "synonyms": [
+      "🇲🇨",
+      "bandiera Monaco"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇩",
+    "synonyms": [
+      "🇲🇩",
+      "bandiera Moldavia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇪",
+    "synonyms": [
+      "🇲🇪",
+      "bandiera Montenegro"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇬",
+    "synonyms": [
+      "🇲🇬",
+      "bandiera Madagascar"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇭",
+    "synonyms": [
+      "🇲🇭",
+      "bandiera Insulas Marshall"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇰",
+    "synonyms": [
+      "🇲🇰",
+      "bandiera Macedonia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇱",
+    "synonyms": [
+      "🇲🇱",
+      "bandiera Mali"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇲",
+    "synonyms": [
+      "🇲🇲",
+      "bandiera Birmania/Myanmar"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇳",
+    "synonyms": [
+      "🇲🇳",
+      "bandiera Mongolia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇵",
+    "synonyms": [
+      "🇲🇵",
+      "bandiera Insulas Marianna del Nord"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇷",
+    "synonyms": [
+      "🇲🇷",
+      "bandiera Mauritania"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇹",
+    "synonyms": [
+      "🇲🇹",
+      "bandiera Malta"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇼",
+    "synonyms": [
+      "🇲🇼",
+      "bandiera Malawi"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇽",
+    "synonyms": [
+      "🇲🇽",
+      "bandiera Mexico"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇾",
+    "synonyms": [
+      "🇲🇾",
+      "bandiera Malaysia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇿",
+    "synonyms": [
+      "🇲🇿",
+      "bandiera Mozambique"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇳🇦",
+    "synonyms": [
+      "🇳🇦",
+      "bandiera Namibia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇳🇨",
+    "synonyms": [
+      "🇳🇨",
+      "bandiera Nove Caledonia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇳🇪",
+    "synonyms": [
+      "🇳🇪",
+      "bandiera Niger"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇳🇫",
+    "synonyms": [
+      "🇳🇫",
+      "bandiera Insula Norfolk"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇳🇬",
+    "synonyms": [
+      "🇳🇬",
+      "bandiera Nigeria"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇳🇮",
+    "synonyms": [
+      "🇳🇮",
+      "bandiera Nicaragua"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇳🇱",
+    "synonyms": [
+      "🇳🇱",
+      "bandiera Nederlandia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇳🇴",
+    "synonyms": [
+      "🇳🇴",
+      "bandiera Norvegia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇳🇵",
+    "synonyms": [
+      "🇳🇵",
+      "bandiera Nepal"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇳🇿",
+    "synonyms": [
+      "🇳🇿",
+      "bandiera Nove Zelanda"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇴🇲",
+    "synonyms": [
+      "🇴🇲",
+      "bandiera Oman"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇵🇦",
+    "synonyms": [
+      "🇵🇦",
+      "bandiera Panama"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇵🇪",
+    "synonyms": [
+      "🇵🇪",
+      "bandiera Peru"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇵🇫",
+    "synonyms": [
+      "🇵🇫",
+      "bandiera Polynesia francese"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇵🇬",
+    "synonyms": [
+      "🇵🇬",
+      "bandiera Papua Nove Guinea"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇵🇭",
+    "synonyms": [
+      "🇵🇭",
+      "bandiera Philippinas"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇵🇰",
+    "synonyms": [
+      "🇵🇰",
+      "bandiera Pakistan"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇵🇱",
+    "synonyms": [
+      "🇵🇱",
+      "bandiera Polonia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇵🇲",
+    "synonyms": [
+      "🇵🇲",
+      "bandiera St Pierre e Miquelon"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇵🇹",
+    "synonyms": [
+      "🇵🇹",
+      "bandiera Portugal"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇵🇾",
+    "synonyms": [
+      "🇵🇾",
+      "bandiera Paraguay"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇷🇴",
+    "synonyms": [
+      "🇷🇴",
+      "bandiera Romania"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇷🇸",
+    "synonyms": [
+      "🇷🇸",
+      "bandiera Serbia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇷🇺",
+    "synonyms": [
+      "🇷🇺",
+      "bandiera Russia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇷🇼",
+    "synonyms": [
+      "🇷🇼",
+      "bandiera Ruanda"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇸🇦",
+    "synonyms": [
+      "🇸🇦",
+      "bandiera Arabia Saudita"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇸🇧",
+    "synonyms": [
+      "🇸🇧",
+      "bandiera Insulas Solomon"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇸🇨",
+    "synonyms": [
+      "🇸🇨",
+      "bandiera Seychelles"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇸🇩",
+    "synonyms": [
+      "🇸🇩",
+      "bandiera Sudan"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇸🇪",
+    "synonyms": [
+      "🇸🇪",
+      "bandiera Svedia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇸🇮",
+    "synonyms": [
+      "🇸🇮",
+      "bandiera Slovenia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇸🇯",
+    "synonyms": [
+      "🇸🇯",
+      "bandiera Svalbard e Jan Mayen"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇸🇰",
+    "synonyms": [
+      "🇸🇰",
+      "bandiera Slovachia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇸🇱",
+    "synonyms": [
+      "🇸🇱",
+      "bandiera Sierra Leone"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇸🇲",
+    "synonyms": [
+      "🇸🇲",
+      "bandiera San Marino"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇸🇳",
+    "synonyms": [
+      "🇸🇳",
+      "bandiera Senegal"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇸🇴",
+    "synonyms": [
+      "🇸🇴",
+      "bandiera Somalia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇸🇷",
+    "synonyms": [
+      "🇸🇷",
+      "bandiera Suriname"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇸🇸",
+    "synonyms": [
+      "🇸🇸",
+      "bandiera Sudan del Sud"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇸🇻",
+    "synonyms": [
+      "🇸🇻",
+      "bandiera El Salvador"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇸🇾",
+    "synonyms": [
+      "🇸🇾",
+      "bandiera Syria"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇸🇿",
+    "synonyms": [
+      "🇸🇿",
+      "bandiera Swazilandia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇹🇨",
+    "synonyms": [
+      "🇹🇨",
+      "bandiera Insulas Turcos e Caicos"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇹🇩",
+    "synonyms": [
+      "🇹🇩",
+      "bandiera Tchad"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇹🇫",
+    "synonyms": [
+      "🇹🇫",
+      "bandiera Territorios meridional francese"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇹🇬",
+    "synonyms": [
+      "🇹🇬",
+      "bandiera Togo"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇹🇭",
+    "synonyms": [
+      "🇹🇭",
+      "bandiera Thailandia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇹🇯",
+    "synonyms": [
+      "🇹🇯",
+      "bandiera Tadzhikistan"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇹🇰",
+    "synonyms": [
+      "🇹🇰",
+      "bandiera Tokelau"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇹🇱",
+    "synonyms": [
+      "🇹🇱",
+      "bandiera Timor del Est"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇹🇲",
+    "synonyms": [
+      "🇹🇲",
+      "bandiera Turkmenistan"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇹🇳",
+    "synonyms": [
+      "🇹🇳",
+      "bandiera Tunisia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇹🇴",
+    "synonyms": [
+      "🇹🇴",
+      "bandiera Tonga"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇹🇷",
+    "synonyms": [
+      "🇹🇷",
+      "bandiera Turchia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇹🇹",
+    "synonyms": [
+      "🇹🇹",
+      "bandiera Trinidad e Tobago"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇹🇻",
+    "synonyms": [
+      "🇹🇻",
+      "bandiera Tuvalu"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇹🇼",
+    "synonyms": [
+      "🇹🇼",
+      "bandiera Taiwan"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇹🇿",
+    "synonyms": [
+      "🇹🇿",
+      "bandiera Tanzania"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇺🇦",
+    "synonyms": [
+      "🇺🇦",
+      "bandiera Ukraina"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇺🇬",
+    "synonyms": [
+      "🇺🇬",
+      "bandiera Uganda"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇺🇳",
+    "synonyms": [
+      "🇺🇳",
+      "bandiera Nationes Unite"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇺🇸",
+    "synonyms": [
+      "🇺🇸",
+      "bandiera Statos Unite"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇺🇾",
+    "synonyms": [
+      "🇺🇾",
+      "bandiera Uruguay"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇺🇿",
+    "synonyms": [
+      "🇺🇿",
+      "bandiera Uzbekistan"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇻🇦",
+    "synonyms": [
+      "🇻🇦",
+      "bandiera Citate del Vaticano"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇻🇨",
+    "synonyms": [
+      "🇻🇨",
+      "bandiera Sancte Vincente e le Grenadinas"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇻🇪",
+    "synonyms": [
+      "🇻🇪",
+      "bandiera Venezuela"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇻🇺",
+    "synonyms": [
+      "🇻🇺",
+      "bandiera Vanuatu"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇼🇸",
+    "synonyms": [
+      "🇼🇸",
+      "bandiera Samoa"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇽🇰",
+    "synonyms": [
+      "🇽🇰",
+      "bandiera Kosovo"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇾🇪",
+    "synonyms": [
+      "🇾🇪",
+      "bandiera Yemen"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇿🇦",
+    "synonyms": [
+      "🇿🇦",
+      "bandiera Sudafrica"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇿🇲",
+    "synonyms": [
+      "🇿🇲",
+      "bandiera Zambia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇿🇼",
+    "synonyms": [
+      "🇿🇼",
+      "bandiera Zimbabwe"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "0⃣",
+    "synonyms": [
+      "0⃣",
+      "clave 0"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "1⃣",
+    "synonyms": [
+      "1⃣",
+      "clave 1"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "2⃣",
+    "synonyms": [
+      "2⃣",
+      "clave 2"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "3⃣",
+    "synonyms": [
+      "3⃣",
+      "clave 3"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "4⃣",
+    "synonyms": [
+      "4⃣",
+      "clave 4"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "5⃣",
+    "synonyms": [
+      "5⃣",
+      "clave 5"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "6⃣",
+    "synonyms": [
+      "6⃣",
+      "clave 6"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "7⃣",
+    "synonyms": [
+      "7⃣",
+      "clave 7"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "8⃣",
+    "synonyms": [
+      "8⃣",
+      "clave 8"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "9⃣",
+    "synonyms": [
+      "9⃣",
+      "clave 9"
+    ]
+  }
+]

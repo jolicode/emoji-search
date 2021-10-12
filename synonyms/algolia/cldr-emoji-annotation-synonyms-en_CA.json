@@ -1,0 +1,3756 @@
+[
+  {
+    "type": "onewaysynonym",
+    "input": "🙃",
+    "synonyms": [
+      "🙃",
+      "face",
+      "upside down",
+      "upside-down face"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😍",
+    "synonyms": [
+      "😍",
+      "eye",
+      "face",
+      "love",
+      "smile",
+      "smiling face with heart eyes",
+      "smiling face with heart-eyes"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😋",
+    "synonyms": [
+      "😋",
+      "delicious",
+      "face",
+      "face savouring food",
+      "savoring",
+      "savouring",
+      "smile",
+      "yum"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤭",
+    "synonyms": [
+      "🤭",
+      "face with hand over mouth",
+      "oops",
+      "whoops"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😷",
+    "synonyms": [
+      "😷",
+      "cold",
+      "doctor",
+      "face",
+      "face with medical mask",
+      "ill",
+      "mask",
+      "sick"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤒",
+    "synonyms": [
+      "🤒",
+      "face",
+      "face with thermometer",
+      "ill",
+      "sick",
+      "thermometer"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤧",
+    "synonyms": [
+      "🤧",
+      "bless you",
+      "face",
+      "gesundheit",
+      "sneeze",
+      "sneezing face"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😻",
+    "synonyms": [
+      "😻",
+      "cat",
+      "eye",
+      "face",
+      "heart",
+      "love",
+      "smile",
+      "smiling cat face with heart eyes",
+      "smiling cat with heart-eyes"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😼",
+    "synonyms": [
+      "😼",
+      "cat",
+      "cat with wry smile",
+      "face",
+      "ironic",
+      "smile",
+      "wry"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🗨",
+    "synonyms": [
+      "🗨",
+      "dialogue",
+      "left speech bubble",
+      "speech"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👌",
+    "synonyms": [
+      "👌",
+      "hand",
+      "OK",
+      "perfect"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤟",
+    "synonyms": [
+      "🤟",
+      "hand",
+      "ILY",
+      "love you gesture",
+      "love-you gesture"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤘",
+    "synonyms": [
+      "🤘",
+      "finger",
+      "hand",
+      "horns",
+      "rock on",
+      "sign of the horns"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤙",
+    "synonyms": [
+      "🤙",
+      "call",
+      "call me hand",
+      "call-me hand",
+      "hand"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤛",
+    "synonyms": [
+      "🤛",
+      "fist",
+      "left-facing fist",
+      "leftward"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤜",
+    "synonyms": [
+      "🤜",
+      "fist",
+      "right-facing fist",
+      "rightward"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧒",
+    "synonyms": [
+      "🧒",
+      "child",
+      "gender-neutral",
+      "toddler",
+      "unspecified gender",
+      "young"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑‍⚕",
+    "synonyms": [
+      "🧑‍⚕",
+      "care",
+      "doctor",
+      "health",
+      "health worker",
+      "healthcare",
+      "nurse",
+      "therapist"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨‍⚕",
+    "synonyms": [
+      "👨‍⚕",
+      "doctor",
+      "health care",
+      "man",
+      "man health worker",
+      "nurse",
+      "therapist"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩‍⚕",
+    "synonyms": [
+      "👩‍⚕",
+      "doctor",
+      "health care",
+      "nurse",
+      "therapist",
+      "woman",
+      "woman health worker"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑‍🚒",
+    "synonyms": [
+      "🧑‍🚒",
+      "engine",
+      "fire",
+      "firefighter",
+      "firetruck",
+      "truck"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨‍🚒",
+    "synonyms": [
+      "👨‍🚒",
+      "fire truck",
+      "firefighter",
+      "fireman",
+      "man"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩‍🚒",
+    "synonyms": [
+      "👩‍🚒",
+      "engine",
+      "fire",
+      "firefighter",
+      "firetruck",
+      "firewoman",
+      "truck",
+      "woman"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎅",
+    "synonyms": [
+      "🎅",
+      "celebration",
+      "Christmas",
+      "Claus",
+      "Father",
+      "Santa"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤶",
+    "synonyms": [
+      "🤶",
+      "celebration",
+      "Christmas",
+      "Claus",
+      "Mother",
+      "Mrs."
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑‍🎄",
+    "synonyms": [
+      "🧑‍🎄",
+      "Claus Christmas",
+      "Mx Claus"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💇",
+    "synonyms": [
+      "💇",
+      "barber",
+      "beauty",
+      "haircut",
+      "parlour",
+      "person getting haircut"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏋",
+    "synonyms": [
+      "🏋",
+      "lifter",
+      "person lifting weights",
+      "weight",
+      "weightlifter"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤹",
+    "synonyms": [
+      "🤹",
+      "balance",
+      "juggle",
+      "multi-task",
+      "multitask",
+      "person juggling",
+      "skill"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤹‍♂",
+    "synonyms": [
+      "🤹‍♂",
+      "juggling",
+      "man",
+      "multi-task",
+      "multitask"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤹‍♀",
+    "synonyms": [
+      "🤹‍♀",
+      "juggling",
+      "multi-task",
+      "multitask",
+      "woman"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👭",
+    "synonyms": [
+      "👭",
+      "couple",
+      "hand",
+      "two women holding hands",
+      "woman",
+      "women",
+      "women holding hands"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👬",
+    "synonyms": [
+      "👬",
+      "couple",
+      "Gemini",
+      "man",
+      "men",
+      "men holding hands",
+      "twins",
+      "two men holding hands",
+      "zodiac"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦳",
+    "synonyms": [
+      "🦳",
+      "gray",
+      "grey",
+      "hair",
+      "old",
+      "white"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐫",
+    "synonyms": [
+      "🐫",
+      "Bactrian",
+      "camel",
+      "hump",
+      "two-hump camel"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐞",
+    "synonyms": [
+      "🐞",
+      "beetle",
+      "insect",
+      "lady beetle",
+      "ladybird",
+      "ladybug"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕸",
+    "synonyms": [
+      "🕸",
+      "spider",
+      "web"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌾",
+    "synonyms": [
+      "🌾",
+      "ear",
+      "grain",
+      "rice",
+      "sheaf",
+      "sheaf of rice"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥜",
+    "synonyms": [
+      "🥜",
+      "food",
+      "nut",
+      "peanut",
+      "peanuts",
+      "vegetable"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌰",
+    "synonyms": [
+      "🌰",
+      "chestnut",
+      "nut",
+      "plant"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥐",
+    "synonyms": [
+      "🥐",
+      "bread",
+      "crescent roll",
+      "croissant",
+      "food",
+      "French"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥖",
+    "synonyms": [
+      "🥖",
+      "baguette",
+      "bread",
+      "food",
+      "French"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍔",
+    "synonyms": [
+      "🍔",
+      "burger",
+      "hamburger"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍟",
+    "synonyms": [
+      "🍟",
+      "French",
+      "fries"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌮",
+    "synonyms": [
+      "🌮",
+      "Mexican",
+      "taco"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌯",
+    "synonyms": [
+      "🌯",
+      "burrito",
+      "Mexican",
+      "wrap"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧆",
+    "synonyms": [
+      "🧆",
+      "chick pea",
+      "chickpea",
+      "falafel",
+      "meatball"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥡",
+    "synonyms": [
+      "🥡",
+      "oyster pail",
+      "takeout box"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍦",
+    "synonyms": [
+      "🍦",
+      "cream",
+      "dessert",
+      "ice",
+      "soft",
+      "sweet"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍪",
+    "synonyms": [
+      "🍪",
+      "cookie",
+      "dessert",
+      "sweet"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍬",
+    "synonyms": [
+      "🍬",
+      "candy",
+      "dessert",
+      "sweet",
+      "sweets"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍭",
+    "synonyms": [
+      "🍭",
+      "candy",
+      "dessert",
+      "lollipop",
+      "sweet"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍴",
+    "synonyms": [
+      "🍴",
+      "cooking",
+      "cutlery",
+      "fork",
+      "fork and knife",
+      "knife",
+      "knife and fork"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🗻",
+    "synonyms": [
+      "🗻",
+      "Fuji",
+      "mount Fuji",
+      "mountain"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏪",
+    "synonyms": [
+      "🏪",
+      "convenience",
+      "dépanneur",
+      "store"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🗼",
+    "synonyms": [
+      "🗼",
+      "Tokyo",
+      "Tower"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🗽",
+    "synonyms": [
+      "🗽",
+      "Liberty",
+      "Statue",
+      "Statue of Liberty"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕌",
+    "synonyms": [
+      "🕌",
+      "Islam",
+      "mosque",
+      "Muslim",
+      "religion"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛕",
+    "synonyms": [
+      "🛕",
+      "Hindu",
+      "temple"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕍",
+    "synonyms": [
+      "🕍",
+      "Jew",
+      "Jewish",
+      "religion",
+      "shul",
+      "synagogue",
+      "temple"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⛩",
+    "synonyms": [
+      "⛩",
+      "religion",
+      "Shinto",
+      "shrine"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕋",
+    "synonyms": [
+      "🕋",
+      "Islam",
+      "kaaba",
+      "Kaaba",
+      "Muslim",
+      "religion"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎡",
+    "synonyms": [
+      "🎡",
+      "amusement park",
+      "Ferris",
+      "theme park",
+      "wheel"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚃",
+    "synonyms": [
+      "🚃",
+      "car",
+      "electric",
+      "railway",
+      "railway carriage",
+      "train",
+      "tram",
+      "trolley bus",
+      "trolleybus"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚄",
+    "synonyms": [
+      "🚄",
+      "high-speed train",
+      "railway",
+      "Shinkansen",
+      "speed",
+      "train"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚅",
+    "synonyms": [
+      "🚅",
+      "bullet",
+      "railway",
+      "Shinkansen",
+      "speed",
+      "train"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚊",
+    "synonyms": [
+      "🚊",
+      "car",
+      "streetcar",
+      "tram",
+      "tramcar",
+      "trolley",
+      "trolley bus",
+      "trolleybus"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚋",
+    "synonyms": [
+      "🚋",
+      "car",
+      "streetcar",
+      "tram",
+      "tramcar",
+      "trolley",
+      "trolley bus",
+      "trolleybus"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚎",
+    "synonyms": [
+      "🚎",
+      "bus",
+      "streetcar",
+      "tram",
+      "trolley",
+      "trolleybus"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚙",
+    "synonyms": [
+      "🚙",
+      "recreational",
+      "sport utility",
+      "sport utility vehicle",
+      "SUV"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛺",
+    "synonyms": [
+      "🛺",
+      "auto rickshaw",
+      "tuk tuk",
+      "tuk-tuk",
+      "tuktuk"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⛽",
+    "synonyms": [
+      "⛽",
+      "diesel",
+      "fuel",
+      "fuelpump",
+      "gas",
+      "pump",
+      "station"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛫",
+    "synonyms": [
+      "🛫",
+      "aeroplane",
+      "airplane",
+      "check-in",
+      "departure",
+      "departures"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕧",
+    "synonyms": [
+      "🕧",
+      "12",
+      "12:30",
+      "clock",
+      "half past twelve",
+      "thirty",
+      "twelve",
+      "twelve-thirty"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕜",
+    "synonyms": [
+      "🕜",
+      "1",
+      "1:30",
+      "clock",
+      "half past one",
+      "one",
+      "one-thirty",
+      "thirty"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕝",
+    "synonyms": [
+      "🕝",
+      "2",
+      "2:30",
+      "clock",
+      "half past two",
+      "thirty",
+      "two",
+      "two-thirty"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕞",
+    "synonyms": [
+      "🕞",
+      "3",
+      "3:30",
+      "clock",
+      "half past three",
+      "thirty",
+      "three",
+      "three-thirty"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕟",
+    "synonyms": [
+      "🕟",
+      "4",
+      "4:30",
+      "clock",
+      "four",
+      "four-thirty",
+      "half past four",
+      "thirty"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕠",
+    "synonyms": [
+      "🕠",
+      "5",
+      "5:30",
+      "clock",
+      "five",
+      "five-thirty",
+      "half past five",
+      "thirty"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕡",
+    "synonyms": [
+      "🕡",
+      "6",
+      "6:30",
+      "clock",
+      "half past six",
+      "six",
+      "six-thirty",
+      "thirty"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕢",
+    "synonyms": [
+      "🕢",
+      "7",
+      "7:30",
+      "clock",
+      "half past seven",
+      "seven",
+      "seven-thirty",
+      "thirty"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕣",
+    "synonyms": [
+      "🕣",
+      "8",
+      "8:30",
+      "clock",
+      "eight",
+      "eight-thirty",
+      "half past eight",
+      "thirty"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕤",
+    "synonyms": [
+      "🕤",
+      "9",
+      "9:30",
+      "clock",
+      "half past nine",
+      "nine",
+      "nine-thirty",
+      "thirty"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕥",
+    "synonyms": [
+      "🕥",
+      "10",
+      "10:30",
+      "clock",
+      "half past ten",
+      "ten",
+      "ten-thirty",
+      "thirty"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕦",
+    "synonyms": [
+      "🕦",
+      "11",
+      "11:30",
+      "clock",
+      "eleven",
+      "eleven-thirty",
+      "half past eleven",
+      "thirty"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌝",
+    "synonyms": [
+      "🌝",
+      "bright",
+      "face",
+      "full",
+      "full-moon face",
+      "moon"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌌",
+    "synonyms": [
+      "🌌",
+      "Milky",
+      "space",
+      "Way"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎃",
+    "synonyms": [
+      "🎃",
+      "celebration",
+      "Halloween",
+      "jack",
+      "jack-o-lantern",
+      "jack-o’-lantern",
+      "lantern"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎋",
+    "synonyms": [
+      "🎋",
+      "banner",
+      "celebration",
+      "Japanese",
+      "Tanabata tree",
+      "tree"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎑",
+    "synonyms": [
+      "🎑",
+      "celebration",
+      "ceremony",
+      "moon",
+      "moon viewing ceremony",
+      "moon-viewing ceremony"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⚽",
+    "synonyms": [
+      "⚽",
+      "ball",
+      "football",
+      "soccer"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥏",
+    "synonyms": [
+      "🥏",
+      "flying disc",
+      "Frisbee",
+      "ultimate"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏏",
+    "synonyms": [
+      "🏏",
+      "ball",
+      "bat",
+      "cricket",
+      "cricket match",
+      "game"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏑",
+    "synonyms": [
+      "🏑",
+      "ball",
+      "field",
+      "game",
+      "hockey",
+      "stick"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏓",
+    "synonyms": [
+      "🏓",
+      "ball",
+      "bat",
+      "game",
+      "paddle",
+      "ping pong",
+      "table tennis"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤿",
+    "synonyms": [
+      "🤿",
+      "diving",
+      "diving mask",
+      "scuba",
+      "snorkelling"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥌",
+    "synonyms": [
+      "🥌",
+      "curling rock",
+      "curling stone",
+      "game",
+      "rock"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧿",
+    "synonyms": [
+      "🧿",
+      "bead",
+      "charm",
+      "evil eye",
+      "nazar",
+      "nazar amulet",
+      "talisman"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🀄",
+    "synonyms": [
+      "🀄",
+      "game",
+      "Mahjong",
+      "Mahjong red dragon",
+      "red"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👕",
+    "synonyms": [
+      "👕",
+      "clothing",
+      "shirt",
+      "t-shirt",
+      "T-shirt",
+      "tee-shirt",
+      "tshirt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🩴",
+    "synonyms": [
+      "🩴",
+      "beach sandal",
+      "flip-flop",
+      "sandal",
+      "thong",
+      "zōri"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎓",
+    "synonyms": [
+      "🎓",
+      "cap",
+      "celebration",
+      "clothing",
+      "graduation",
+      "hat"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💎",
+    "synonyms": [
+      "💎",
+      "diamond",
+      "gem",
+      "gem stone",
+      "gemstone",
+      "jewel"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💾",
+    "synonyms": [
+      "💾",
+      "computer",
+      "disk",
+      "diskette",
+      "floppy"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📺",
+    "synonyms": [
+      "📺",
+      "television",
+      "tv",
+      "video"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔦",
+    "synonyms": [
+      "🔦",
+      "electric",
+      "flashlight",
+      "light",
+      "tool",
+      "torch"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "✉",
+    "synonyms": [
+      "✉",
+      "e-mail",
+      "email",
+      "envelope",
+      "letter"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📧",
+    "synonyms": [
+      "📧",
+      "e-mail",
+      "email",
+      "letter",
+      "mail"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📮",
+    "synonyms": [
+      "📮",
+      "mail",
+      "mailbox",
+      "post",
+      "post box",
+      "postbox"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📐",
+    "synonyms": [
+      "📐",
+      "ruler",
+      "set",
+      "set square",
+      "triangle",
+      "triangular ruler"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛠",
+    "synonyms": [
+      "🛠",
+      "hammer",
+      "hammer and wrench",
+      "spanner",
+      "tool",
+      "wrench"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔧",
+    "synonyms": [
+      "🔧",
+      "spanner",
+      "tool",
+      "wrench"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛋",
+    "synonyms": [
+      "🛋",
+      "couch",
+      "couch and lamp",
+      "hotel",
+      "lamp",
+      "sofa",
+      "sofa and lamp"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚽",
+    "synonyms": [
+      "🚽",
+      "lavatory",
+      "toilet"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🪤",
+    "synonyms": [
+      "🪤",
+      "bait",
+      "mouse",
+      "mousetrap",
+      "snare",
+      "trap"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛒",
+    "synonyms": [
+      "🛒",
+      "basket",
+      "cart",
+      "shopping",
+      "trolley"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚮",
+    "synonyms": [
+      "🚮",
+      "garbage",
+      "litter",
+      "litter bin",
+      "litter in bin sign",
+      "trash"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚹",
+    "synonyms": [
+      "🚹",
+      "bathroom",
+      "lavatory",
+      "man",
+      "men’s",
+      "men’s room",
+      "restroom",
+      "washroom",
+      "wc"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚺",
+    "synonyms": [
+      "🚺",
+      "bathroom",
+      "lavatory",
+      "restroom",
+      "washroom",
+      "wc",
+      "woman",
+      "women’s",
+      "women’s room"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚻",
+    "synonyms": [
+      "🚻",
+      "bathroom",
+      "lavatory",
+      "restroom",
+      "washroom",
+      "WC"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "☯",
+    "synonyms": [
+      "☯",
+      "religion",
+      "Tao",
+      "Taoist",
+      "yang",
+      "yin"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "✝",
+    "synonyms": [
+      "✝",
+      "Christian",
+      "cross",
+      "Latin cross",
+      "religion"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "☦",
+    "synonyms": [
+      "☦",
+      "Christian",
+      "cross",
+      "Orthodox cross",
+      "religion"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "☪",
+    "synonyms": [
+      "☪",
+      "Islam",
+      "Muslim",
+      "religion",
+      "star and crescent"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "♏",
+    "synonyms": [
+      "♏",
+      "Scorpio",
+      "scorpion",
+      "Scorpius",
+      "zodiac"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔼",
+    "synonyms": [
+      "🔼",
+      "arrow",
+      "button",
+      "red",
+      "upward button",
+      "upwards button"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔽",
+    "synonyms": [
+      "🔽",
+      "arrow",
+      "button",
+      "down",
+      "downward button",
+      "downwards button",
+      "red"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📳",
+    "synonyms": [
+      "📳",
+      "cell",
+      "mobile",
+      "mode",
+      "phone",
+      "telephone",
+      "vibrate",
+      "vibration"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "✖",
+    "synonyms": [
+      "✖",
+      "cancel",
+      "heavy multiplication x",
+      "multiplication",
+      "multiply",
+      "sign",
+      "x"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "➕",
+    "synonyms": [
+      "➕",
+      "math",
+      "plus",
+      "sign"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "➖",
+    "synonyms": [
+      "➖",
+      "math",
+      "minus",
+      "sign"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "➗",
+    "synonyms": [
+      "➗",
+      "divide",
+      "division",
+      "math",
+      "sign"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "✅",
+    "synonyms": [
+      "✅",
+      "button",
+      "check",
+      "mark",
+      "tick"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "☑",
+    "synonyms": [
+      "☑",
+      "box",
+      "check",
+      "check box with check",
+      "tick",
+      "tick box with tick"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "✔",
+    "synonyms": [
+      "✔",
+      "check",
+      "mark"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔠",
+    "synonyms": [
+      "🔠",
+      "ABCD",
+      "input",
+      "Latin",
+      "letters",
+      "uppercase"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔡",
+    "synonyms": [
+      "🔡",
+      "abcd",
+      "input",
+      "Latin",
+      "letters",
+      "lowercase"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔤",
+    "synonyms": [
+      "🔤",
+      "abc",
+      "alphabet",
+      "input",
+      "Latin",
+      "letters"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏁",
+    "synonyms": [
+      "🏁",
+      "checkered",
+      "checkered flag",
+      "chequered",
+      "chequered flag",
+      "racing"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👌🏻",
+    "synonyms": [
+      "👌🏻",
+      "hand",
+      "light skin tone",
+      "OK",
+      "perfect"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👌🏼",
+    "synonyms": [
+      "👌🏼",
+      "hand",
+      "medium-light skin tone",
+      "OK",
+      "perfect"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👌🏽",
+    "synonyms": [
+      "👌🏽",
+      "hand",
+      "medium skin tone",
+      "OK",
+      "perfect"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👌🏾",
+    "synonyms": [
+      "👌🏾",
+      "hand",
+      "medium-dark skin tone",
+      "OK",
+      "perfect"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👌🏿",
+    "synonyms": [
+      "👌🏿",
+      "dark skin tone",
+      "hand",
+      "OK",
+      "perfect"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤟🏻",
+    "synonyms": [
+      "🤟🏻",
+      "hand",
+      "ILY",
+      "light skin tone",
+      "love you gesture",
+      "love-you gesture"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤟🏼",
+    "synonyms": [
+      "🤟🏼",
+      "hand",
+      "ILY",
+      "love you gesture",
+      "love-you gesture",
+      "medium-light skin tone"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤟🏽",
+    "synonyms": [
+      "🤟🏽",
+      "hand",
+      "ILY",
+      "love you gesture",
+      "love-you gesture",
+      "medium skin tone"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤟🏾",
+    "synonyms": [
+      "🤟🏾",
+      "hand",
+      "ILY",
+      "love you gesture",
+      "love-you gesture",
+      "medium-dark skin tone"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤟🏿",
+    "synonyms": [
+      "🤟🏿",
+      "dark skin tone",
+      "hand",
+      "ILY",
+      "love you gesture",
+      "love-you gesture"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤘🏻",
+    "synonyms": [
+      "🤘🏻",
+      "finger",
+      "hand",
+      "horns",
+      "light skin tone",
+      "rock on",
+      "sign of the horns"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤘🏼",
+    "synonyms": [
+      "🤘🏼",
+      "finger",
+      "hand",
+      "horns",
+      "medium-light skin tone",
+      "rock on",
+      "sign of the horns"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤘🏽",
+    "synonyms": [
+      "🤘🏽",
+      "finger",
+      "hand",
+      "horns",
+      "medium skin tone",
+      "rock on",
+      "sign of the horns"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤘🏾",
+    "synonyms": [
+      "🤘🏾",
+      "finger",
+      "hand",
+      "horns",
+      "medium-dark skin tone",
+      "rock on",
+      "sign of the horns"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤘🏿",
+    "synonyms": [
+      "🤘🏿",
+      "dark skin tone",
+      "finger",
+      "hand",
+      "horns",
+      "rock on",
+      "sign of the horns"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤙🏻",
+    "synonyms": [
+      "🤙🏻",
+      "call",
+      "call me hand",
+      "call-me hand",
+      "hand",
+      "light skin tone"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤙🏼",
+    "synonyms": [
+      "🤙🏼",
+      "call",
+      "call me hand",
+      "call-me hand",
+      "hand",
+      "medium-light skin tone"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤙🏽",
+    "synonyms": [
+      "🤙🏽",
+      "call",
+      "call me hand",
+      "call-me hand",
+      "hand",
+      "medium skin tone"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤙🏾",
+    "synonyms": [
+      "🤙🏾",
+      "call",
+      "call me hand",
+      "call-me hand",
+      "hand",
+      "medium-dark skin tone"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤙🏿",
+    "synonyms": [
+      "🤙🏿",
+      "call",
+      "call me hand",
+      "call-me hand",
+      "dark skin tone",
+      "hand"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤛🏻",
+    "synonyms": [
+      "🤛🏻",
+      "fist",
+      "left-facing fist",
+      "leftward",
+      "light skin tone"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤛🏼",
+    "synonyms": [
+      "🤛🏼",
+      "fist",
+      "left-facing fist",
+      "leftward",
+      "medium-light skin tone"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤛🏽",
+    "synonyms": [
+      "🤛🏽",
+      "fist",
+      "left-facing fist",
+      "leftward",
+      "medium skin tone"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤛🏾",
+    "synonyms": [
+      "🤛🏾",
+      "fist",
+      "left-facing fist",
+      "leftward",
+      "medium-dark skin tone"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤛🏿",
+    "synonyms": [
+      "🤛🏿",
+      "dark skin tone",
+      "fist",
+      "left-facing fist",
+      "leftward"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤜🏻",
+    "synonyms": [
+      "🤜🏻",
+      "fist",
+      "light skin tone",
+      "right-facing fist",
+      "rightward"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤜🏼",
+    "synonyms": [
+      "🤜🏼",
+      "fist",
+      "medium-light skin tone",
+      "right-facing fist",
+      "rightward"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤜🏽",
+    "synonyms": [
+      "🤜🏽",
+      "fist",
+      "medium skin tone",
+      "right-facing fist",
+      "rightward"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤜🏾",
+    "synonyms": [
+      "🤜🏾",
+      "fist",
+      "medium-dark skin tone",
+      "right-facing fist",
+      "rightward"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤜🏿",
+    "synonyms": [
+      "🤜🏿",
+      "dark skin tone",
+      "fist",
+      "right-facing fist",
+      "rightward"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧒🏻",
+    "synonyms": [
+      "🧒🏻",
+      "child",
+      "gender-neutral",
+      "light skin tone",
+      "toddler",
+      "unspecified gender",
+      "young"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧒🏼",
+    "synonyms": [
+      "🧒🏼",
+      "child",
+      "gender-neutral",
+      "medium-light skin tone",
+      "toddler",
+      "unspecified gender",
+      "young"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧒🏽",
+    "synonyms": [
+      "🧒🏽",
+      "child",
+      "gender-neutral",
+      "medium skin tone",
+      "toddler",
+      "unspecified gender",
+      "young"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧒🏾",
+    "synonyms": [
+      "🧒🏾",
+      "child",
+      "gender-neutral",
+      "medium-dark skin tone",
+      "toddler",
+      "unspecified gender",
+      "young"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧒🏿",
+    "synonyms": [
+      "🧒🏿",
+      "child",
+      "dark skin tone",
+      "gender-neutral",
+      "toddler",
+      "unspecified gender",
+      "young"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏻‍⚕",
+    "synonyms": [
+      "🧑🏻‍⚕",
+      "care",
+      "doctor",
+      "health",
+      "health worker",
+      "healthcare",
+      "light skin tone",
+      "nurse",
+      "therapist"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏼‍⚕",
+    "synonyms": [
+      "🧑🏼‍⚕",
+      "care",
+      "doctor",
+      "health",
+      "health worker",
+      "healthcare",
+      "medium-light skin tone",
+      "nurse",
+      "therapist"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏽‍⚕",
+    "synonyms": [
+      "🧑🏽‍⚕",
+      "care",
+      "doctor",
+      "health",
+      "health worker",
+      "healthcare",
+      "medium skin tone",
+      "nurse",
+      "therapist"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏾‍⚕",
+    "synonyms": [
+      "🧑🏾‍⚕",
+      "care",
+      "doctor",
+      "health",
+      "health worker",
+      "healthcare",
+      "medium-dark skin tone",
+      "nurse",
+      "therapist"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏿‍⚕",
+    "synonyms": [
+      "🧑🏿‍⚕",
+      "care",
+      "dark skin tone",
+      "doctor",
+      "health",
+      "health worker",
+      "healthcare",
+      "nurse",
+      "therapist"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏻‍⚕",
+    "synonyms": [
+      "👨🏻‍⚕",
+      "doctor",
+      "health care",
+      "light skin tone",
+      "man",
+      "man health worker",
+      "nurse",
+      "therapist"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏼‍⚕",
+    "synonyms": [
+      "👨🏼‍⚕",
+      "doctor",
+      "health care",
+      "man",
+      "man health worker",
+      "medium-light skin tone",
+      "nurse",
+      "therapist"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏽‍⚕",
+    "synonyms": [
+      "👨🏽‍⚕",
+      "doctor",
+      "health care",
+      "man",
+      "man health worker",
+      "medium skin tone",
+      "nurse",
+      "therapist"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏾‍⚕",
+    "synonyms": [
+      "👨🏾‍⚕",
+      "doctor",
+      "health care",
+      "man",
+      "man health worker",
+      "medium-dark skin tone",
+      "nurse",
+      "therapist"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏿‍⚕",
+    "synonyms": [
+      "👨🏿‍⚕",
+      "dark skin tone",
+      "doctor",
+      "health care",
+      "man",
+      "man health worker",
+      "nurse",
+      "therapist"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏻‍⚕",
+    "synonyms": [
+      "👩🏻‍⚕",
+      "doctor",
+      "health care",
+      "light skin tone",
+      "nurse",
+      "therapist",
+      "woman",
+      "woman health worker"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏼‍⚕",
+    "synonyms": [
+      "👩🏼‍⚕",
+      "doctor",
+      "health care",
+      "medium-light skin tone",
+      "nurse",
+      "therapist",
+      "woman",
+      "woman health worker"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏽‍⚕",
+    "synonyms": [
+      "👩🏽‍⚕",
+      "doctor",
+      "health care",
+      "medium skin tone",
+      "nurse",
+      "therapist",
+      "woman",
+      "woman health worker"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏾‍⚕",
+    "synonyms": [
+      "👩🏾‍⚕",
+      "doctor",
+      "health care",
+      "medium-dark skin tone",
+      "nurse",
+      "therapist",
+      "woman",
+      "woman health worker"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏿‍⚕",
+    "synonyms": [
+      "👩🏿‍⚕",
+      "dark skin tone",
+      "doctor",
+      "health care",
+      "nurse",
+      "therapist",
+      "woman",
+      "woman health worker"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏻‍🚒",
+    "synonyms": [
+      "🧑🏻‍🚒",
+      "engine",
+      "fire",
+      "firefighter",
+      "firetruck",
+      "light skin tone",
+      "truck"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏼‍🚒",
+    "synonyms": [
+      "🧑🏼‍🚒",
+      "engine",
+      "fire",
+      "firefighter",
+      "firetruck",
+      "medium-light skin tone",
+      "truck"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏽‍🚒",
+    "synonyms": [
+      "🧑🏽‍🚒",
+      "engine",
+      "fire",
+      "firefighter",
+      "firetruck",
+      "medium skin tone",
+      "truck"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏾‍🚒",
+    "synonyms": [
+      "🧑🏾‍🚒",
+      "engine",
+      "fire",
+      "firefighter",
+      "firetruck",
+      "medium-dark skin tone",
+      "truck"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏿‍🚒",
+    "synonyms": [
+      "🧑🏿‍🚒",
+      "dark skin tone",
+      "engine",
+      "fire",
+      "firefighter",
+      "firetruck",
+      "truck"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏻‍🚒",
+    "synonyms": [
+      "👨🏻‍🚒",
+      "fire truck",
+      "firefighter",
+      "fireman",
+      "light skin tone",
+      "man"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏼‍🚒",
+    "synonyms": [
+      "👨🏼‍🚒",
+      "fire truck",
+      "firefighter",
+      "fireman",
+      "man",
+      "medium-light skin tone"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏽‍🚒",
+    "synonyms": [
+      "👨🏽‍🚒",
+      "fire truck",
+      "firefighter",
+      "fireman",
+      "man",
+      "medium skin tone"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏾‍🚒",
+    "synonyms": [
+      "👨🏾‍🚒",
+      "fire truck",
+      "firefighter",
+      "fireman",
+      "man",
+      "medium-dark skin tone"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏿‍🚒",
+    "synonyms": [
+      "👨🏿‍🚒",
+      "dark skin tone",
+      "fire truck",
+      "firefighter",
+      "fireman",
+      "man"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏻‍🚒",
+    "synonyms": [
+      "👩🏻‍🚒",
+      "engine",
+      "fire",
+      "firefighter",
+      "firetruck",
+      "firewoman",
+      "light skin tone",
+      "truck",
+      "woman"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏼‍🚒",
+    "synonyms": [
+      "👩🏼‍🚒",
+      "engine",
+      "fire",
+      "firefighter",
+      "firetruck",
+      "firewoman",
+      "medium-light skin tone",
+      "truck",
+      "woman"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏽‍🚒",
+    "synonyms": [
+      "👩🏽‍🚒",
+      "engine",
+      "fire",
+      "firefighter",
+      "firetruck",
+      "firewoman",
+      "medium skin tone",
+      "truck",
+      "woman"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏾‍🚒",
+    "synonyms": [
+      "👩🏾‍🚒",
+      "engine",
+      "fire",
+      "firefighter",
+      "firetruck",
+      "firewoman",
+      "medium-dark skin tone",
+      "truck",
+      "woman"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏿‍🚒",
+    "synonyms": [
+      "👩🏿‍🚒",
+      "dark skin tone",
+      "engine",
+      "fire",
+      "firefighter",
+      "firetruck",
+      "firewoman",
+      "truck",
+      "woman"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎅🏻",
+    "synonyms": [
+      "🎅🏻",
+      "celebration",
+      "Christmas",
+      "Claus",
+      "Father",
+      "light skin tone",
+      "Santa"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎅🏼",
+    "synonyms": [
+      "🎅🏼",
+      "celebration",
+      "Christmas",
+      "Claus",
+      "Father",
+      "medium-light skin tone",
+      "Santa"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎅🏽",
+    "synonyms": [
+      "🎅🏽",
+      "celebration",
+      "Christmas",
+      "Claus",
+      "Father",
+      "medium skin tone",
+      "Santa"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎅🏾",
+    "synonyms": [
+      "🎅🏾",
+      "celebration",
+      "Christmas",
+      "Claus",
+      "Father",
+      "medium-dark skin tone",
+      "Santa"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎅🏿",
+    "synonyms": [
+      "🎅🏿",
+      "celebration",
+      "Christmas",
+      "Claus",
+      "dark skin tone",
+      "Father",
+      "Santa"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤶🏻",
+    "synonyms": [
+      "🤶🏻",
+      "celebration",
+      "Christmas",
+      "Claus",
+      "light skin tone",
+      "Mother",
+      "Mrs."
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤶🏼",
+    "synonyms": [
+      "🤶🏼",
+      "celebration",
+      "Christmas",
+      "Claus",
+      "medium-light skin tone",
+      "Mother",
+      "Mrs."
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤶🏽",
+    "synonyms": [
+      "🤶🏽",
+      "celebration",
+      "Christmas",
+      "Claus",
+      "medium skin tone",
+      "Mother",
+      "Mrs."
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤶🏾",
+    "synonyms": [
+      "🤶🏾",
+      "celebration",
+      "Christmas",
+      "Claus",
+      "medium-dark skin tone",
+      "Mother",
+      "Mrs."
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤶🏿",
+    "synonyms": [
+      "🤶🏿",
+      "celebration",
+      "Christmas",
+      "Claus",
+      "dark skin tone",
+      "Mother",
+      "Mrs."
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏻‍🎄",
+    "synonyms": [
+      "🧑🏻‍🎄",
+      "Claus Christmas",
+      "light skin tone",
+      "Mx Claus"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏼‍🎄",
+    "synonyms": [
+      "🧑🏼‍🎄",
+      "Claus Christmas",
+      "medium-light skin tone",
+      "Mx Claus"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏽‍🎄",
+    "synonyms": [
+      "🧑🏽‍🎄",
+      "Claus Christmas",
+      "medium skin tone",
+      "Mx Claus"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏾‍🎄",
+    "synonyms": [
+      "🧑🏾‍🎄",
+      "Claus Christmas",
+      "medium-dark skin tone",
+      "Mx Claus"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏿‍🎄",
+    "synonyms": [
+      "🧑🏿‍🎄",
+      "Claus Christmas",
+      "dark skin tone",
+      "Mx Claus"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💇🏻",
+    "synonyms": [
+      "💇🏻",
+      "barber",
+      "beauty",
+      "haircut",
+      "light skin tone",
+      "parlour",
+      "person getting haircut"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💇🏼",
+    "synonyms": [
+      "💇🏼",
+      "barber",
+      "beauty",
+      "haircut",
+      "medium-light skin tone",
+      "parlour",
+      "person getting haircut"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💇🏽",
+    "synonyms": [
+      "💇🏽",
+      "barber",
+      "beauty",
+      "haircut",
+      "medium skin tone",
+      "parlour",
+      "person getting haircut"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💇🏾",
+    "synonyms": [
+      "💇🏾",
+      "barber",
+      "beauty",
+      "haircut",
+      "medium-dark skin tone",
+      "parlour",
+      "person getting haircut"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💇🏿",
+    "synonyms": [
+      "💇🏿",
+      "barber",
+      "beauty",
+      "dark skin tone",
+      "haircut",
+      "parlour",
+      "person getting haircut"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏋🏻",
+    "synonyms": [
+      "🏋🏻",
+      "lifter",
+      "light skin tone",
+      "person lifting weights",
+      "weight",
+      "weightlifter"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏋🏼",
+    "synonyms": [
+      "🏋🏼",
+      "lifter",
+      "medium-light skin tone",
+      "person lifting weights",
+      "weight",
+      "weightlifter"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏋🏽",
+    "synonyms": [
+      "🏋🏽",
+      "lifter",
+      "medium skin tone",
+      "person lifting weights",
+      "weight",
+      "weightlifter"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏋🏾",
+    "synonyms": [
+      "🏋🏾",
+      "lifter",
+      "medium-dark skin tone",
+      "person lifting weights",
+      "weight",
+      "weightlifter"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏋🏿",
+    "synonyms": [
+      "🏋🏿",
+      "dark skin tone",
+      "lifter",
+      "person lifting weights",
+      "weight",
+      "weightlifter"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤹🏻",
+    "synonyms": [
+      "🤹🏻",
+      "balance",
+      "juggle",
+      "light skin tone",
+      "multi-task",
+      "multitask",
+      "person juggling",
+      "skill"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤹🏼",
+    "synonyms": [
+      "🤹🏼",
+      "balance",
+      "juggle",
+      "medium-light skin tone",
+      "multi-task",
+      "multitask",
+      "person juggling",
+      "skill"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤹🏽",
+    "synonyms": [
+      "🤹🏽",
+      "balance",
+      "juggle",
+      "medium skin tone",
+      "multi-task",
+      "multitask",
+      "person juggling",
+      "skill"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤹🏾",
+    "synonyms": [
+      "🤹🏾",
+      "balance",
+      "juggle",
+      "medium-dark skin tone",
+      "multi-task",
+      "multitask",
+      "person juggling",
+      "skill"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤹🏿",
+    "synonyms": [
+      "🤹🏿",
+      "balance",
+      "dark skin tone",
+      "juggle",
+      "multi-task",
+      "multitask",
+      "person juggling",
+      "skill"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤹🏻‍♂",
+    "synonyms": [
+      "🤹🏻‍♂",
+      "juggling",
+      "light skin tone",
+      "man",
+      "multi-task",
+      "multitask"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤹🏼‍♂",
+    "synonyms": [
+      "🤹🏼‍♂",
+      "juggling",
+      "man",
+      "medium-light skin tone",
+      "multi-task",
+      "multitask"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤹🏽‍♂",
+    "synonyms": [
+      "🤹🏽‍♂",
+      "juggling",
+      "man",
+      "medium skin tone",
+      "multi-task",
+      "multitask"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤹🏾‍♂",
+    "synonyms": [
+      "🤹🏾‍♂",
+      "juggling",
+      "man",
+      "medium-dark skin tone",
+      "multi-task",
+      "multitask"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤹🏿‍♂",
+    "synonyms": [
+      "🤹🏿‍♂",
+      "dark skin tone",
+      "juggling",
+      "man",
+      "multi-task",
+      "multitask"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤹🏻‍♀",
+    "synonyms": [
+      "🤹🏻‍♀",
+      "juggling",
+      "light skin tone",
+      "multi-task",
+      "multitask",
+      "woman"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤹🏼‍♀",
+    "synonyms": [
+      "🤹🏼‍♀",
+      "juggling",
+      "medium-light skin tone",
+      "multi-task",
+      "multitask",
+      "woman"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤹🏽‍♀",
+    "synonyms": [
+      "🤹🏽‍♀",
+      "juggling",
+      "medium skin tone",
+      "multi-task",
+      "multitask",
+      "woman"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤹🏾‍♀",
+    "synonyms": [
+      "🤹🏾‍♀",
+      "juggling",
+      "medium-dark skin tone",
+      "multi-task",
+      "multitask",
+      "woman"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤹🏿‍♀",
+    "synonyms": [
+      "🤹🏿‍♀",
+      "dark skin tone",
+      "juggling",
+      "multi-task",
+      "multitask",
+      "woman"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👭🏻",
+    "synonyms": [
+      "👭🏻",
+      "couple",
+      "hand",
+      "light skin tone",
+      "two women holding hands",
+      "woman",
+      "women",
+      "women holding hands"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏻‍🤝‍👩🏼",
+    "synonyms": [
+      "👩🏻‍🤝‍👩🏼",
+      "couple",
+      "hand",
+      "light skin tone",
+      "medium-light skin tone",
+      "two women holding hands",
+      "woman",
+      "women",
+      "women holding hands"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏻‍🤝‍👩🏽",
+    "synonyms": [
+      "👩🏻‍🤝‍👩🏽",
+      "couple",
+      "hand",
+      "light skin tone",
+      "medium skin tone",
+      "two women holding hands",
+      "woman",
+      "women",
+      "women holding hands"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏻‍🤝‍👩🏾",
+    "synonyms": [
+      "👩🏻‍🤝‍👩🏾",
+      "couple",
+      "hand",
+      "light skin tone",
+      "medium-dark skin tone",
+      "two women holding hands",
+      "woman",
+      "women",
+      "women holding hands"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏻‍🤝‍👩🏿",
+    "synonyms": [
+      "👩🏻‍🤝‍👩🏿",
+      "couple",
+      "dark skin tone",
+      "hand",
+      "light skin tone",
+      "two women holding hands",
+      "woman",
+      "women",
+      "women holding hands"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏼‍🤝‍👩🏻",
+    "synonyms": [
+      "👩🏼‍🤝‍👩🏻",
+      "couple",
+      "hand",
+      "light skin tone",
+      "medium-light skin tone",
+      "two women holding hands",
+      "woman",
+      "women",
+      "women holding hands"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👭🏼",
+    "synonyms": [
+      "👭🏼",
+      "couple",
+      "hand",
+      "medium-light skin tone",
+      "two women holding hands",
+      "woman",
+      "women",
+      "women holding hands"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏼‍🤝‍👩🏽",
+    "synonyms": [
+      "👩🏼‍🤝‍👩🏽",
+      "couple",
+      "hand",
+      "medium skin tone",
+      "medium-light skin tone",
+      "two women holding hands",
+      "woman",
+      "women",
+      "women holding hands"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏼‍🤝‍👩🏾",
+    "synonyms": [
+      "👩🏼‍🤝‍👩🏾",
+      "couple",
+      "hand",
+      "medium-dark skin tone",
+      "medium-light skin tone",
+      "two women holding hands",
+      "woman",
+      "women",
+      "women holding hands"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏼‍🤝‍👩🏿",
+    "synonyms": [
+      "👩🏼‍🤝‍👩🏿",
+      "couple",
+      "dark skin tone",
+      "hand",
+      "medium-light skin tone",
+      "two women holding hands",
+      "woman",
+      "women",
+      "women holding hands"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏽‍🤝‍👩🏻",
+    "synonyms": [
+      "👩🏽‍🤝‍👩🏻",
+      "couple",
+      "hand",
+      "light skin tone",
+      "medium skin tone",
+      "two women holding hands",
+      "woman",
+      "women",
+      "women holding hands"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏽‍🤝‍👩🏼",
+    "synonyms": [
+      "👩🏽‍🤝‍👩🏼",
+      "couple",
+      "hand",
+      "medium skin tone",
+      "medium-light skin tone",
+      "two women holding hands",
+      "woman",
+      "women",
+      "women holding hands"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👭🏽",
+    "synonyms": [
+      "👭🏽",
+      "couple",
+      "hand",
+      "medium skin tone",
+      "two women holding hands",
+      "woman",
+      "women",
+      "women holding hands"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏽‍🤝‍👩🏾",
+    "synonyms": [
+      "👩🏽‍🤝‍👩🏾",
+      "couple",
+      "hand",
+      "medium skin tone",
+      "medium-dark skin tone",
+      "two women holding hands",
+      "woman",
+      "women",
+      "women holding hands"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏽‍🤝‍👩🏿",
+    "synonyms": [
+      "👩🏽‍🤝‍👩🏿",
+      "couple",
+      "dark skin tone",
+      "hand",
+      "medium skin tone",
+      "two women holding hands",
+      "woman",
+      "women",
+      "women holding hands"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏾‍🤝‍👩🏻",
+    "synonyms": [
+      "👩🏾‍🤝‍👩🏻",
+      "couple",
+      "hand",
+      "light skin tone",
+      "medium-dark skin tone",
+      "two women holding hands",
+      "woman",
+      "women",
+      "women holding hands"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏾‍🤝‍👩🏼",
+    "synonyms": [
+      "👩🏾‍🤝‍👩🏼",
+      "couple",
+      "hand",
+      "medium-dark skin tone",
+      "medium-light skin tone",
+      "two women holding hands",
+      "woman",
+      "women",
+      "women holding hands"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏾‍🤝‍👩🏽",
+    "synonyms": [
+      "👩🏾‍🤝‍👩🏽",
+      "couple",
+      "hand",
+      "medium skin tone",
+      "medium-dark skin tone",
+      "two women holding hands",
+      "woman",
+      "women",
+      "women holding hands"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👭🏾",
+    "synonyms": [
+      "👭🏾",
+      "couple",
+      "hand",
+      "medium-dark skin tone",
+      "two women holding hands",
+      "woman",
+      "women",
+      "women holding hands"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏾‍🤝‍👩🏿",
+    "synonyms": [
+      "👩🏾‍🤝‍👩🏿",
+      "couple",
+      "dark skin tone",
+      "hand",
+      "medium-dark skin tone",
+      "two women holding hands",
+      "woman",
+      "women",
+      "women holding hands"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏿‍🤝‍👩🏻",
+    "synonyms": [
+      "👩🏿‍🤝‍👩🏻",
+      "couple",
+      "dark skin tone",
+      "hand",
+      "light skin tone",
+      "two women holding hands",
+      "woman",
+      "women",
+      "women holding hands"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏿‍🤝‍👩🏼",
+    "synonyms": [
+      "👩🏿‍🤝‍👩🏼",
+      "couple",
+      "dark skin tone",
+      "hand",
+      "medium-light skin tone",
+      "two women holding hands",
+      "woman",
+      "women",
+      "women holding hands"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏿‍🤝‍👩🏽",
+    "synonyms": [
+      "👩🏿‍🤝‍👩🏽",
+      "couple",
+      "dark skin tone",
+      "hand",
+      "medium skin tone",
+      "two women holding hands",
+      "woman",
+      "women",
+      "women holding hands"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏿‍🤝‍👩🏾",
+    "synonyms": [
+      "👩🏿‍🤝‍👩🏾",
+      "couple",
+      "dark skin tone",
+      "hand",
+      "medium-dark skin tone",
+      "two women holding hands",
+      "woman",
+      "women",
+      "women holding hands"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👭🏿",
+    "synonyms": [
+      "👭🏿",
+      "couple",
+      "dark skin tone",
+      "hand",
+      "two women holding hands",
+      "woman",
+      "women",
+      "women holding hands"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👬🏻",
+    "synonyms": [
+      "👬🏻",
+      "couple",
+      "Gemini",
+      "light skin tone",
+      "man",
+      "men",
+      "men holding hands",
+      "twins",
+      "two men holding hands",
+      "zodiac"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏻‍🤝‍👨🏼",
+    "synonyms": [
+      "👨🏻‍🤝‍👨🏼",
+      "couple",
+      "Gemini",
+      "light skin tone",
+      "man",
+      "medium-light skin tone",
+      "men",
+      "men holding hands",
+      "twins",
+      "two men holding hands",
+      "zodiac"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏻‍🤝‍👨🏽",
+    "synonyms": [
+      "👨🏻‍🤝‍👨🏽",
+      "couple",
+      "Gemini",
+      "light skin tone",
+      "man",
+      "medium skin tone",
+      "men",
+      "men holding hands",
+      "twins",
+      "two men holding hands",
+      "zodiac"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏻‍🤝‍👨🏾",
+    "synonyms": [
+      "👨🏻‍🤝‍👨🏾",
+      "couple",
+      "Gemini",
+      "light skin tone",
+      "man",
+      "medium-dark skin tone",
+      "men",
+      "men holding hands",
+      "twins",
+      "two men holding hands",
+      "zodiac"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏻‍🤝‍👨🏿",
+    "synonyms": [
+      "👨🏻‍🤝‍👨🏿",
+      "couple",
+      "dark skin tone",
+      "Gemini",
+      "light skin tone",
+      "man",
+      "men",
+      "men holding hands",
+      "twins",
+      "two men holding hands",
+      "zodiac"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏼‍🤝‍👨🏻",
+    "synonyms": [
+      "👨🏼‍🤝‍👨🏻",
+      "couple",
+      "Gemini",
+      "light skin tone",
+      "man",
+      "medium-light skin tone",
+      "men",
+      "men holding hands",
+      "twins",
+      "two men holding hands",
+      "zodiac"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👬🏼",
+    "synonyms": [
+      "👬🏼",
+      "couple",
+      "Gemini",
+      "man",
+      "medium-light skin tone",
+      "men",
+      "men holding hands",
+      "twins",
+      "two men holding hands",
+      "zodiac"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏼‍🤝‍👨🏽",
+    "synonyms": [
+      "👨🏼‍🤝‍👨🏽",
+      "couple",
+      "Gemini",
+      "man",
+      "medium skin tone",
+      "medium-light skin tone",
+      "men",
+      "men holding hands",
+      "twins",
+      "two men holding hands",
+      "zodiac"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏼‍🤝‍👨🏾",
+    "synonyms": [
+      "👨🏼‍🤝‍👨🏾",
+      "couple",
+      "Gemini",
+      "man",
+      "medium-dark skin tone",
+      "medium-light skin tone",
+      "men",
+      "men holding hands",
+      "twins",
+      "two men holding hands",
+      "zodiac"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏼‍🤝‍👨🏿",
+    "synonyms": [
+      "👨🏼‍🤝‍👨🏿",
+      "couple",
+      "dark skin tone",
+      "Gemini",
+      "man",
+      "medium-light skin tone",
+      "men",
+      "men holding hands",
+      "twins",
+      "two men holding hands",
+      "zodiac"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏽‍🤝‍👨🏻",
+    "synonyms": [
+      "👨🏽‍🤝‍👨🏻",
+      "couple",
+      "Gemini",
+      "light skin tone",
+      "man",
+      "medium skin tone",
+      "men",
+      "men holding hands",
+      "twins",
+      "two men holding hands",
+      "zodiac"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏽‍🤝‍👨🏼",
+    "synonyms": [
+      "👨🏽‍🤝‍👨🏼",
+      "couple",
+      "Gemini",
+      "man",
+      "medium skin tone",
+      "medium-light skin tone",
+      "men",
+      "men holding hands",
+      "twins",
+      "two men holding hands",
+      "zodiac"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👬🏽",
+    "synonyms": [
+      "👬🏽",
+      "couple",
+      "Gemini",
+      "man",
+      "medium skin tone",
+      "men",
+      "men holding hands",
+      "twins",
+      "two men holding hands",
+      "zodiac"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏽‍🤝‍👨🏾",
+    "synonyms": [
+      "👨🏽‍🤝‍👨🏾",
+      "couple",
+      "Gemini",
+      "man",
+      "medium skin tone",
+      "medium-dark skin tone",
+      "men",
+      "men holding hands",
+      "twins",
+      "two men holding hands",
+      "zodiac"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏽‍🤝‍👨🏿",
+    "synonyms": [
+      "👨🏽‍🤝‍👨🏿",
+      "couple",
+      "dark skin tone",
+      "Gemini",
+      "man",
+      "medium skin tone",
+      "men",
+      "men holding hands",
+      "twins",
+      "two men holding hands",
+      "zodiac"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏾‍🤝‍👨🏻",
+    "synonyms": [
+      "👨🏾‍🤝‍👨🏻",
+      "couple",
+      "Gemini",
+      "light skin tone",
+      "man",
+      "medium-dark skin tone",
+      "men",
+      "men holding hands",
+      "twins",
+      "two men holding hands",
+      "zodiac"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏾‍🤝‍👨🏼",
+    "synonyms": [
+      "👨🏾‍🤝‍👨🏼",
+      "couple",
+      "Gemini",
+      "man",
+      "medium-dark skin tone",
+      "medium-light skin tone",
+      "men",
+      "men holding hands",
+      "twins",
+      "two men holding hands",
+      "zodiac"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏾‍🤝‍👨🏽",
+    "synonyms": [
+      "👨🏾‍🤝‍👨🏽",
+      "couple",
+      "Gemini",
+      "man",
+      "medium skin tone",
+      "medium-dark skin tone",
+      "men",
+      "men holding hands",
+      "twins",
+      "two men holding hands",
+      "zodiac"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👬🏾",
+    "synonyms": [
+      "👬🏾",
+      "couple",
+      "Gemini",
+      "man",
+      "medium-dark skin tone",
+      "men",
+      "men holding hands",
+      "twins",
+      "two men holding hands",
+      "zodiac"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏾‍🤝‍👨🏿",
+    "synonyms": [
+      "👨🏾‍🤝‍👨🏿",
+      "couple",
+      "dark skin tone",
+      "Gemini",
+      "man",
+      "medium-dark skin tone",
+      "men",
+      "men holding hands",
+      "twins",
+      "two men holding hands",
+      "zodiac"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏿‍🤝‍👨🏻",
+    "synonyms": [
+      "👨🏿‍🤝‍👨🏻",
+      "couple",
+      "dark skin tone",
+      "Gemini",
+      "light skin tone",
+      "man",
+      "men",
+      "men holding hands",
+      "twins",
+      "two men holding hands",
+      "zodiac"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏿‍🤝‍👨🏼",
+    "synonyms": [
+      "👨🏿‍🤝‍👨🏼",
+      "couple",
+      "dark skin tone",
+      "Gemini",
+      "man",
+      "medium-light skin tone",
+      "men",
+      "men holding hands",
+      "twins",
+      "two men holding hands",
+      "zodiac"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏿‍🤝‍👨🏽",
+    "synonyms": [
+      "👨🏿‍🤝‍👨🏽",
+      "couple",
+      "dark skin tone",
+      "Gemini",
+      "man",
+      "medium skin tone",
+      "men",
+      "men holding hands",
+      "twins",
+      "two men holding hands",
+      "zodiac"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏿‍🤝‍👨🏾",
+    "synonyms": [
+      "👨🏿‍🤝‍👨🏾",
+      "couple",
+      "dark skin tone",
+      "Gemini",
+      "man",
+      "medium-dark skin tone",
+      "men",
+      "men holding hands",
+      "twins",
+      "two men holding hands",
+      "zodiac"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👬🏿",
+    "synonyms": [
+      "👬🏿",
+      "couple",
+      "dark skin tone",
+      "Gemini",
+      "man",
+      "men",
+      "men holding hands",
+      "twins",
+      "two men holding hands",
+      "zodiac"
+    ]
+  }
+]

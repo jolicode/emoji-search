@@ -1,0 +1,234 @@
+[
+  {
+    "type": "onewaysynonym",
+    "input": "🧒",
+    "synonyms": [
+      "🧒",
+      "zarok"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👧",
+    "synonyms": [
+      "👧",
+      "keç"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑",
+    "synonyms": [
+      "🧑",
+      "kes"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨",
+    "synonyms": [
+      "👨",
+      "mêr"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩",
+    "synonyms": [
+      "👩",
+      "jin"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐵",
+    "synonyms": [
+      "🐵",
+      "meymûn",
+      "rû",
+      "rûyê meymûnê"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐒",
+    "synonyms": [
+      "🐒",
+      "heywan",
+      "meymûn"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦍",
+    "synonyms": [
+      "🦍",
+      "gorîl",
+      "heywan"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐶",
+    "synonyms": [
+      "🐶",
+      "heywan",
+      "kûçik",
+      "rû",
+      "rûyê kûçikê"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐕",
+    "synonyms": [
+      "🐕",
+      "heywan",
+      "kûçik"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍇",
+    "synonyms": [
+      "🍇",
+      "fêkî",
+      "tirî"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍉",
+    "synonyms": [
+      "🍉",
+      "fêkî",
+      "zebeş"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍋",
+    "synonyms": [
+      "🍋",
+      "lîmon"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍌",
+    "synonyms": [
+      "🍌",
+      "fêkî",
+      "mûz"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥭",
+    "synonyms": [
+      "🥭",
+      "mango"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍎",
+    "synonyms": [
+      "🍎",
+      "fêkî",
+      "sêv",
+      "sêva sor",
+      "sor"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍏",
+    "synonyms": [
+      "🍏",
+      "fêkî",
+      "kesk",
+      "sêv",
+      "sêva kesk"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍐",
+    "synonyms": [
+      "🍐",
+      "fêkî",
+      "hirmî"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍑",
+    "synonyms": [
+      "🍑",
+      "fêkî",
+      "xox"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍒",
+    "synonyms": [
+      "🍒",
+      "gêraz"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍅",
+    "synonyms": [
+      "🍅",
+      "firengî",
+      "riwek",
+      "sebze"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥥",
+    "synonyms": [
+      "🥥",
+      "giwêza hindê"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥑",
+    "synonyms": [
+      "🥑",
+      "avokado",
+      "fêkî",
+      "xwarin"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍆",
+    "synonyms": [
+      "🍆",
+      "balîcan",
+      "sebze"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥔",
+    "synonyms": [
+      "🥔",
+      "kartol"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏠",
+    "synonyms": [
+      "🏠",
+      "E416"
+    ]
+  }
+]

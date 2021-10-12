@@ -1,0 +1,6037 @@
+[
+  {
+    "type": "onewaysynonym",
+    "input": "🏻",
+    "synonyms": [
+      "🏻",
+      "taglimt taceɛlalt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏼",
+    "synonyms": [
+      "🏼",
+      "tagwlimt taceɛlalt talemmast"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏽",
+    "synonyms": [
+      "🏽",
+      "taglimt talemmast"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏾",
+    "synonyms": [
+      "🏾",
+      "tagwlimt tubrikt talemmast"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏿",
+    "synonyms": [
+      "🏿",
+      "tagwlimt tubrikt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😀",
+    "synonyms": [
+      "😀",
+      "acmumeḥ meqqren"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😃",
+    "synonyms": [
+      "😃",
+      "acmumeh n lfarh"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😄",
+    "synonyms": [
+      "😄",
+      "acmumeh amesrar"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😁",
+    "synonyms": [
+      "😁",
+      "acmumeḥ n tuɣmas meṛṛa"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😆",
+    "synonyms": [
+      "😆",
+      "udem acmumaḥ akked yimi yeldin d wallen imedlen"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😅",
+    "synonyms": [
+      "😅",
+      "acmumeh n reffu"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤣",
+    "synonyms": [
+      "🤣",
+      "axbibed di tmurt si tedsa"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😂",
+    "synonyms": [
+      "😂",
+      "taḍsa ar imeṭṭawen"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🙂",
+    "synonyms": [
+      "🙂",
+      "acmumeh afessas"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😉",
+    "synonyms": [
+      "😉",
+      "udem yemmalen aɣmaz n ti"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😊",
+    "synonyms": [
+      "😊",
+      "udem innecṛaḥen s wallen icmumḥen"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😍",
+    "synonyms": [
+      "😍",
+      "udem yecmumhen d wallen igan am wul"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😘",
+    "synonyms": [
+      "😘",
+      "tasudent d wul"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😗",
+    "synonyms": [
+      "😗",
+      "tamact"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "☺",
+    "synonyms": [
+      "☺",
+      "udem n ucmumeḥ"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😚",
+    "synonyms": [
+      "😚",
+      "tasudent allen medlent"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😙",
+    "synonyms": [
+      "😙",
+      "tasudent meqren"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😋",
+    "synonyms": [
+      "😋",
+      "ham-ham"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😛",
+    "synonyms": [
+      "😛",
+      "Udem s yiles"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😜",
+    "synonyms": [
+      "😜",
+      "Udem yessufɣen iles"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤗",
+    "synonyms": [
+      "🤗",
+      "udem yefkan ahennec"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤔",
+    "synonyms": [
+      "🤔",
+      "udem ikecmen di ttexmim"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤐",
+    "synonyms": [
+      "🤐",
+      "udem d yimi ixaden"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤨",
+    "synonyms": [
+      "🤨",
+      "afus irefden iḍudan bejqen"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😐",
+    "synonyms": [
+      "😐",
+      "war awal"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😑",
+    "synonyms": [
+      "😑",
+      "udem war asunfal"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😶",
+    "synonyms": [
+      "😶",
+      "ulac imi"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😏",
+    "synonyms": [
+      "😏",
+      "acmumeh n tiherci"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😒",
+    "synonyms": [
+      "😒",
+      "udem ameklu"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🙄",
+    "synonyms": [
+      "🙄",
+      "baɛar s wallen"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😌",
+    "synonyms": [
+      "😌",
+      "udem yenirsen"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😪",
+    "synonyms": [
+      "😪",
+      "udem yeṭṭsen"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤤",
+    "synonyms": [
+      "🤤",
+      "asluddu"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😴",
+    "synonyms": [
+      "😴",
+      "udem anudam"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😷",
+    "synonyms": [
+      "😷",
+      "udem s tgelmust"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤒",
+    "synonyms": [
+      "🤒",
+      "udem s utirmumitr"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😎",
+    "synonyms": [
+      "😎",
+      "acmumeḥ s nwader n yiṭij"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "☹",
+    "synonyms": [
+      "☹",
+      "udem amiglaz"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😮",
+    "synonyms": [
+      "😮",
+      "vennej"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😯",
+    "synonyms": [
+      "😯",
+      "udem war taɣect"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😥",
+    "synonyms": [
+      "😥",
+      "uk"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😣",
+    "synonyms": [
+      "😣",
+      "udem akayay"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😫",
+    "synonyms": [
+      "😫",
+      "udem yeɛyan"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👶",
+    "synonyms": [
+      "👶",
+      "ṣebyan"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧒",
+    "synonyms": [
+      "🧒",
+      "agrud"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👦",
+    "synonyms": [
+      "👦",
+      "aqruṛ"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👧",
+    "synonyms": [
+      "👧",
+      "Taqruṛt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑",
+    "synonyms": [
+      "🧑",
+      "amengaḍ"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨",
+    "synonyms": [
+      "👨",
+      "argaz"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩",
+    "synonyms": [
+      "👩",
+      "tameṭṭut"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧓",
+    "synonyms": [
+      "🧓",
+      "amengaḍ meqqren"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👴",
+    "synonyms": [
+      "👴",
+      "amɣaṛ"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦰",
+    "synonyms": [
+      "🦰",
+      "acekkuḥ azeggaɣ"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦱",
+    "synonyms": [
+      "🦱",
+      "acekkuḥ imdewweṛ"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦳",
+    "synonyms": [
+      "🦳",
+      "acekkuḥ amellal"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦲",
+    "synonyms": [
+      "🦲",
+      "aferḍas"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐵",
+    "synonyms": [
+      "🐵",
+      "taqeṛṛuct n ibki"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐒",
+    "synonyms": [
+      "🐒",
+      "ivki"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦍",
+    "synonyms": [
+      "🦍",
+      "aguril"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐶",
+    "synonyms": [
+      "🐶",
+      "taqeṛṛuct n waydi"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐕",
+    "synonyms": [
+      "🐕",
+      "aydi"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐩",
+    "synonyms": [
+      "🐩",
+      "akennic"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐺",
+    "synonyms": [
+      "🐺",
+      "aguleh"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦊",
+    "synonyms": [
+      "🦊",
+      "avaṛaɣ"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐱",
+    "synonyms": [
+      "🐱",
+      "taqerruct n wemcic"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐜",
+    "synonyms": [
+      "🐜",
+      "taweṭṭuft"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐝",
+    "synonyms": [
+      "🐝",
+      "tizizwit"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐞",
+    "synonyms": [
+      "🐞",
+      "takumda"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦗",
+    "synonyms": [
+      "🦗",
+      "ajṛad"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕷",
+    "synonyms": [
+      "🕷",
+      "tissist"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕸",
+    "synonyms": [
+      "🕸",
+      "azeṭṭa n tissit"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦂",
+    "synonyms": [
+      "🦂",
+      "tiɣiṛdemt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💐",
+    "synonyms": [
+      "💐",
+      "tafuseț"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌸",
+    "synonyms": [
+      "🌸",
+      "ajeğğig n taknisya"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💮",
+    "synonyms": [
+      "💮",
+      "ajeğğig amellal"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏵",
+    "synonyms": [
+      "🏵",
+      "tawardit"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌹",
+    "synonyms": [
+      "🌹",
+      "tawerdett"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥀",
+    "synonyms": [
+      "🥀",
+      "ajeğğig akiwan"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌺",
+    "synonyms": [
+      "🌺",
+      "tivinṣeṛt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌻",
+    "synonyms": [
+      "🌻",
+      "mager iṭṭij"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌼",
+    "synonyms": [
+      "🌼",
+      "amgud"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌷",
+    "synonyms": [
+      "🌷",
+      "taxlult"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌱",
+    "synonyms": [
+      "🌱",
+      "imɣi aleqqaq"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌲",
+    "synonyms": [
+      "🌲",
+      "tumert"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌳",
+    "synonyms": [
+      "🌳",
+      "aseklu bu yifer"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌴",
+    "synonyms": [
+      "🌴",
+      "tazdayt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌵",
+    "synonyms": [
+      "🌵",
+      "Tasiɣawt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌾",
+    "synonyms": [
+      "🌾",
+      "taceṛṛaft n ṛṛuz"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌿",
+    "synonyms": [
+      "🌿",
+      "ifer"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "☘",
+    "synonyms": [
+      "☘",
+      "ikeffis"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍀",
+    "synonyms": [
+      "🍀",
+      "ikeffis bu kuẓ n wafriwen"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍁",
+    "synonyms": [
+      "🍁",
+      "ifer n kikev"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍂",
+    "synonyms": [
+      "🍂",
+      "ifer alvivec (ifer ucelvu)"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍃",
+    "synonyms": [
+      "🍃",
+      "tamjiwect n ifriwen"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍇",
+    "synonyms": [
+      "🍇",
+      "tiẓurin"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍈",
+    "synonyms": [
+      "🍈",
+      "afeqqus"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍉",
+    "synonyms": [
+      "🍉",
+      "delleɛ"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍊",
+    "synonyms": [
+      "🍊",
+      "tamandaritt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍋",
+    "synonyms": [
+      "🍋",
+      "tilimett"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍌",
+    "synonyms": [
+      "🍌",
+      "tabanant"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍍",
+    "synonyms": [
+      "🍍",
+      "tananast"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥭",
+    "synonyms": [
+      "🥭",
+      "tamungatt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍎",
+    "synonyms": [
+      "🍎",
+      "adeffu azeggaɣ"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍏",
+    "synonyms": [
+      "🍏",
+      "adeffu azegzaw"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍐",
+    "synonyms": [
+      "🍐",
+      "ifires"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍑",
+    "synonyms": [
+      "🍑",
+      "taxuxett"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍒",
+    "synonyms": [
+      "🍒",
+      "taknisya"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍓",
+    "synonyms": [
+      "🍓",
+      "tariwalt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥝",
+    "synonyms": [
+      "🥝",
+      "takiwitt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍅",
+    "synonyms": [
+      "🍅",
+      "taṭumaṭict"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥥",
+    "synonyms": [
+      "🥥",
+      "iɣsan n koko"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥑",
+    "synonyms": [
+      "🥑",
+      "tavukatt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍆",
+    "synonyms": [
+      "🍆",
+      "tapatengalt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥔",
+    "synonyms": [
+      "🥔",
+      "tabaṭaṭatt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥕",
+    "synonyms": [
+      "🥕",
+      "taẓrudgatt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌽",
+    "synonyms": [
+      "🌽",
+      "ageṭṭuc"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌶",
+    "synonyms": [
+      "🌶",
+      "ifelfel azggaɣ"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥒",
+    "synonyms": [
+      "🥒",
+      "ilekkel"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥬",
+    "synonyms": [
+      "🥬",
+      "Tidelt n iferrawen izegzawen"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍄",
+    "synonyms": [
+      "🍄",
+      "taṛeɣlett"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥜",
+    "synonyms": [
+      "🥜",
+      "takawkawt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥄",
+    "synonyms": [
+      "🥄",
+      "tajɣelt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔪",
+    "synonyms": [
+      "🔪",
+      "tafruyt n usaččet"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏺",
+    "synonyms": [
+      "🏺",
+      "abuqal"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌍",
+    "synonyms": [
+      "🌍",
+      "amtiweg turuft tafriqt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌎",
+    "synonyms": [
+      "🌎",
+      "amtiweg timrikin"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌏",
+    "synonyms": [
+      "🌏",
+      "amtiweg asya ustralya"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🗺",
+    "synonyms": [
+      "🗺",
+      "takarḍa n umaḍal"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🗾",
+    "synonyms": [
+      "🗾",
+      "takarḍa n Japun"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧭",
+    "synonyms": [
+      "🧭",
+      "tabusult"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏔",
+    "synonyms": [
+      "🏔",
+      "adrar n udfel"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⛰",
+    "synonyms": [
+      "⛰",
+      "adrar"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌋",
+    "synonyms": [
+      "🌋",
+      "aburkan"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🗻",
+    "synonyms": [
+      "🗻",
+      "Taqacuct Fuji"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏕",
+    "synonyms": [
+      "🏕",
+      "asdar"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏜",
+    "synonyms": [
+      "🏜",
+      "aneẓruf"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏝",
+    "synonyms": [
+      "🏝",
+      "tigzirt taneẓruft"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏞",
+    "synonyms": [
+      "🏞",
+      "amṛaḥ aɣelnaw"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏟",
+    "synonyms": [
+      "🏟",
+      "annar"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏛",
+    "synonyms": [
+      "🏛",
+      "amedruz aklasikan"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏗",
+    "synonyms": [
+      "🏗",
+      "bennu n uzadaɣ"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧱",
+    "synonyms": [
+      "🧱",
+      "Tayajuṛt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏘",
+    "synonyms": [
+      "🏘",
+      "ixxamen"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏚",
+    "synonyms": [
+      "🏚",
+      "axxam yettwaḍeggren"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏠",
+    "synonyms": [
+      "🏠",
+      "axxam"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏡",
+    "synonyms": [
+      "🏡",
+      "axxam s tmazirt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏢",
+    "synonyms": [
+      "🏢",
+      "aṣuk n tnariyin"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏣",
+    "synonyms": [
+      "🏣",
+      "tanazent tajapunit"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏤",
+    "synonyms": [
+      "🏤",
+      "tanarit n tnazent"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏥",
+    "synonyms": [
+      "🏥",
+      "Asegnaf"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏦",
+    "synonyms": [
+      "🏦",
+      "tabanka"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏨",
+    "synonyms": [
+      "🏨",
+      "asensu"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏩",
+    "synonyms": [
+      "🏩",
+      "asensu n tayri"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏪",
+    "synonyms": [
+      "🏪",
+      "talzuzt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏫",
+    "synonyms": [
+      "🏫",
+      "aɣerbaz"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏬",
+    "synonyms": [
+      "🏬",
+      "taḥanut meqqren"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏭",
+    "synonyms": [
+      "🏭",
+      "taneɣraft"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏯",
+    "synonyms": [
+      "🏯",
+      "tiɣremt tajapunit"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏰",
+    "synonyms": [
+      "🏰",
+      "tiɣremt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💒",
+    "synonyms": [
+      "💒",
+      "tissulya"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🗼",
+    "synonyms": [
+      "🗼",
+      "Tiɣremt n Tokyo"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🗽",
+    "synonyms": [
+      "🗽",
+      "lemqam n tlelli"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⛪",
+    "synonyms": [
+      "⛪",
+      "tamezgida n imasiḥiyen"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕌",
+    "synonyms": [
+      "🕌",
+      "tamezgida n inselmen"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕍",
+    "synonyms": [
+      "🕍",
+      "tamezgida n udayen"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⛩",
+    "synonyms": [
+      "⛩",
+      "lemqam shrine"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕋",
+    "synonyms": [
+      "🕋",
+      "lkaɛva"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⛲",
+    "synonyms": [
+      "⛲",
+      "tala"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⛺",
+    "synonyms": [
+      "⛺",
+      "aqiḍun"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌁",
+    "synonyms": [
+      "🌁",
+      "agu"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌃",
+    "synonyms": [
+      "🌃",
+      "iḍ s itran"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏙",
+    "synonyms": [
+      "🏙",
+      "tamdint"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚇",
+    "synonyms": [
+      "🚇",
+      "amitṛu"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚈",
+    "synonyms": [
+      "🚈",
+      "amitru afess"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚓",
+    "synonyms": [
+      "🚓",
+      "Takerrust n temsulta"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚕",
+    "synonyms": [
+      "🚕",
+      "Ataksi"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚗",
+    "synonyms": [
+      "🚗",
+      "Takerrust"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛹",
+    "synonyms": [
+      "🛹",
+      "Avilu"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚨",
+    "synonyms": [
+      "🚨",
+      "Taftilt n tkerrust n tmsulta"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "✈",
+    "synonyms": [
+      "✈",
+      "asafag"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛩",
+    "synonyms": [
+      "🛩",
+      "asafag ameẓyan"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💺",
+    "synonyms": [
+      "💺",
+      "tasɣimt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚁",
+    "synonyms": [
+      "🚁",
+      "talikuptirt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛰",
+    "synonyms": [
+      "🛰",
+      "Aṣatilit"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚀",
+    "synonyms": [
+      "🚀",
+      "tallunt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛸",
+    "synonyms": [
+      "🛸",
+      "taɣawsa tarussint yettafgen"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⌛",
+    "synonyms": [
+      "⌛",
+      "tamrilt n ijdan"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⏳",
+    "synonyms": [
+      "⏳",
+      "tamrilt n ijdan yettmirin"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⌚",
+    "synonyms": [
+      "⌚",
+      "tamrilt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⏱",
+    "synonyms": [
+      "⏱",
+      "amesnakud"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⏲",
+    "synonyms": [
+      "⏲",
+      "Asakway"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌡",
+    "synonyms": [
+      "🌡",
+      "atirmumitr"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "☀",
+    "synonyms": [
+      "☀",
+      "iṭij"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "☁",
+    "synonyms": [
+      "☁",
+      "asigna"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⛅",
+    "synonyms": [
+      "⛅",
+      "asigna",
+      "iṭij"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌤",
+    "synonyms": [
+      "🌤",
+      "asigna",
+      "iṭij"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌫",
+    "synonyms": [
+      "🌫",
+      "asigna"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔥",
+    "synonyms": [
+      "🔥",
+      "times"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎃",
+    "synonyms": [
+      "🎃",
+      "taxsayt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎆",
+    "synonyms": [
+      "🎆",
+      "asfugel"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎇",
+    "synonyms": [
+      "🎇",
+      "ifṭiwej"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "✨",
+    "synonyms": [
+      "✨",
+      "itran"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎈",
+    "synonyms": [
+      "🎈",
+      "asfugel"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎀",
+    "synonyms": [
+      "🎀",
+      "asfugel"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎫",
+    "synonyms": [
+      "🎫",
+      "atiki"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎖",
+    "synonyms": [
+      "🎖",
+      "ciɛa taserdasant"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏆",
+    "synonyms": [
+      "🏆",
+      "arraz"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏅",
+    "synonyms": [
+      "🏅",
+      "ciɛa n waddal"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥇",
+    "synonyms": [
+      "🥇",
+      "ciɛa n dhev"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥈",
+    "synonyms": [
+      "🥈",
+      "ciɛa n lfeṭṭa"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥉",
+    "synonyms": [
+      "🥉",
+      "ciɛa n bṛunz"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⚽",
+    "synonyms": [
+      "⚽",
+      "ččir n dabax n uḍar"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔮",
+    "synonyms": [
+      "🔮",
+      "takurt n ukrisṭal"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🀄",
+    "synonyms": [
+      "🀄",
+      "azeggaɣ",
+      "mahjong",
+      "urar"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎴",
+    "synonyms": [
+      "🎴",
+      "takarḍa",
+      "urar"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎩",
+    "synonyms": [
+      "🎩",
+      "tarazalt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎓",
+    "synonyms": [
+      "🎓",
+      "agerdas"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⛑",
+    "synonyms": [
+      "⛑",
+      "akaskiḍ amidag amellal"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📿",
+    "synonyms": [
+      "📿",
+      "teṣbiḥ"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💄",
+    "synonyms": [
+      "💄",
+      "zzin aγec"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💍",
+    "synonyms": [
+      "💍",
+      "taxatemt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💎",
+    "synonyms": [
+      "💎",
+      "adgun aswa"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔇",
+    "synonyms": [
+      "🔇",
+      "asusam"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔈",
+    "synonyms": [
+      "🔈",
+      "imesli"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔉",
+    "synonyms": [
+      "🔉",
+      "imesli"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔊",
+    "synonyms": [
+      "🔊",
+      "imesli"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📣",
+    "synonyms": [
+      "📣",
+      "amigafun"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎵",
+    "synonyms": [
+      "🎵",
+      "tazmilt taẓawant"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎶",
+    "synonyms": [
+      "🎶",
+      "tizmilin tiẓawanin"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📻",
+    "synonyms": [
+      "📻",
+      "rradyu"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎷",
+    "synonyms": [
+      "🎷",
+      "asaksufun"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎸",
+    "synonyms": [
+      "🎸",
+      "snitra"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📱",
+    "synonyms": [
+      "📱",
+      "tiliɣri tazirazt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "☎",
+    "synonyms": [
+      "☎",
+      "tiliɣri"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔋",
+    "synonyms": [
+      "🔋",
+      "aẓru"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💻",
+    "synonyms": [
+      "💻",
+      "aselkim aziraz"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🖥",
+    "synonyms": [
+      "🖥",
+      "aselkim n tnarit"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🖨",
+    "synonyms": [
+      "🖨",
+      "tasaggazt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⌨",
+    "synonyms": [
+      "⌨",
+      "anasiw"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🖱",
+    "synonyms": [
+      "🖱",
+      "taɣerdayt n uselkim"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🖲",
+    "synonyms": [
+      "🖲",
+      "aselkim"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💽",
+    "synonyms": [
+      "💽",
+      "aḍebsi n uselkim"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎥",
+    "synonyms": [
+      "🎥",
+      "takamirat"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📽",
+    "synonyms": [
+      "📽",
+      "ameskan n yisura"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📺",
+    "synonyms": [
+      "📺",
+      "tiliẓri"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📷",
+    "synonyms": [
+      "📷",
+      "Takamiṛat"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📔",
+    "synonyms": [
+      "📔",
+      "imedlis s tduli icebḥen"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📕",
+    "synonyms": [
+      "📕",
+      "adlis imedlen"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📖",
+    "synonyms": [
+      "📖",
+      "adlis yeldin"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📗",
+    "synonyms": [
+      "📗",
+      "adlis azegzaw"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📘",
+    "synonyms": [
+      "📘",
+      "adlis amidadi"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📙",
+    "synonyms": [
+      "📙",
+      "adlis ačinawi"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📚",
+    "synonyms": [
+      "📚",
+      "idlisen"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📓",
+    "synonyms": [
+      "📓",
+      "imedlis"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📒",
+    "synonyms": [
+      "📒",
+      "ambellez"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📃",
+    "synonyms": [
+      "📃",
+      "asebter yettwasekwren"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📜",
+    "synonyms": [
+      "📜",
+      "adrurem"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📄",
+    "synonyms": [
+      "📄",
+      "asebter"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📰",
+    "synonyms": [
+      "📰",
+      "aɣmis"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📑",
+    "synonyms": [
+      "📑",
+      "tacreṭ",
+      "tacreṭ n usebter"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔖",
+    "synonyms": [
+      "🔖",
+      "tacreṭ n usebter"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏷",
+    "synonyms": [
+      "🏷",
+      "tabzimt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "✉",
+    "synonyms": [
+      "✉",
+      "tajellabt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📧",
+    "synonyms": [
+      "📧",
+      "imayl"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📨",
+    "synonyms": [
+      "📨",
+      "izen ukcim"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📩",
+    "synonyms": [
+      "📩",
+      "izen yettwazen"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📤",
+    "synonyms": [
+      "📤",
+      "tanaka n tuzna"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🗳",
+    "synonyms": [
+      "🗳",
+      "asenduq"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "✏",
+    "synonyms": [
+      "✏",
+      "imru"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "✒",
+    "synonyms": [
+      "✒",
+      "imru n tricet aberkan"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📁",
+    "synonyms": [
+      "📁",
+      "akaram n ufaylu"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📂",
+    "synonyms": [
+      "📂",
+      "ldi akaram n ufaylu"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📆",
+    "synonyms": [
+      "📆",
+      "awitay"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔒",
+    "synonyms": [
+      "🔒",
+      "yeskweṛ"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔓",
+    "synonyms": [
+      "🔓",
+      "yeldi"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔨",
+    "synonyms": [
+      "🔨",
+      "afecku"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛡",
+    "synonyms": [
+      "🛡",
+      "abeckiḍ"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⚙",
+    "synonyms": [
+      "⚙",
+      "afecku"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔗",
+    "synonyms": [
+      "🔗",
+      "aseɣwen"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💉",
+    "synonyms": [
+      "💉",
+      "tisegnit"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💊",
+    "synonyms": [
+      "💊",
+      "amejjay",
+      "amuḍin",
+      "tujjya"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚪",
+    "synonyms": [
+      "🚪",
+      "tabburt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛒",
+    "synonyms": [
+      "🛒",
+      "taqecwalt n tiɣin"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚬",
+    "synonyms": [
+      "🚬",
+      "ageṛṛu"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⚰",
+    "synonyms": [
+      "⚰",
+      "tamettant"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏧",
+    "synonyms": [
+      "🏧",
+      "tamacint n tedrimt tawurmant"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚮",
+    "synonyms": [
+      "🚮",
+      "tignit n iḍumman"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚰",
+    "synonyms": [
+      "🚰",
+      "aman deg ufus"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "♿",
+    "synonyms": [
+      "♿",
+      "azamul n unekcum n uneɛyabu"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚹",
+    "synonyms": [
+      "🚹",
+      "azamul n urgaz"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚺",
+    "synonyms": [
+      "🚺",
+      "azamul n tmeṭṭut"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚻",
+    "synonyms": [
+      "🚻",
+      "azamul n teslalayt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚼",
+    "synonyms": [
+      "🚼",
+      "azamul n ṣebyan"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚾",
+    "synonyms": [
+      "🚾",
+      "taslalayt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⬆",
+    "synonyms": [
+      "⬆",
+      "aneccab d asawen"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "↗",
+    "synonyms": [
+      "↗",
+      "aneccab d asawen uẓẓil"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "➡",
+    "synonyms": [
+      "➡",
+      "aneccab ayeffus"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "↘",
+    "synonyms": [
+      "↘",
+      "aneccab d akesser uẓẓil"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⬇",
+    "synonyms": [
+      "⬇",
+      "aneccab akesser"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "↙",
+    "synonyms": [
+      "↙",
+      "aneccab akesser ayeffus"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⬅",
+    "synonyms": [
+      "⬅",
+      "aneccab azelmaḍ"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "↖",
+    "synonyms": [
+      "↖",
+      "aneccab asawen azelmaḍ"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "↕",
+    "synonyms": [
+      "↕",
+      "aneccab asawen akesser"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "↔",
+    "synonyms": [
+      "↔",
+      "aneccab azelmaḍ ayeffus"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "↩",
+    "synonyms": [
+      "↩",
+      "aneccab ayeffus yettin s azelmaḍ"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "↪",
+    "synonyms": [
+      "↪",
+      "aneccab azelmaḍ yettin s ayeffus"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⤴",
+    "synonyms": [
+      "⤴",
+      "aneccab ayeffus yettin d asawen"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⤵",
+    "synonyms": [
+      "⤵",
+      "aneccab ayeffus yettin d akesser"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔃",
+    "synonyms": [
+      "🔃",
+      "ineccaben tanila n isegnan n temrilt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔄",
+    "synonyms": [
+      "🔄",
+      "taqeffalt n ineccaben n tnila yettin n isegnan n temrilt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔙",
+    "synonyms": [
+      "🔙",
+      "Aneccab n tuɣalin"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔚",
+    "synonyms": [
+      "🔚",
+      "Aneccab n tagara"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔛",
+    "synonyms": [
+      "🔛",
+      "urmid"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔜",
+    "synonyms": [
+      "🔜",
+      "Aneccab Qrib"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔝",
+    "synonyms": [
+      "🔝",
+      "aneccab n ufalla"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "♈",
+    "synonyms": [
+      "♈",
+      "Ikerri"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "♉",
+    "synonyms": [
+      "♉",
+      "Aramul"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "♊",
+    "synonyms": [
+      "♊",
+      "Akniwen"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "♋",
+    "synonyms": [
+      "♋",
+      "Afurray"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "♌",
+    "synonyms": [
+      "♌",
+      "Izem"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "♍",
+    "synonyms": [
+      "♍",
+      "Taḥbayrit"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "♎",
+    "synonyms": [
+      "♎",
+      "Tacihant"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "♏",
+    "synonyms": [
+      "♏",
+      "Tiɣirdemt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "♐",
+    "synonyms": [
+      "♐",
+      "Amnaccab"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "♑",
+    "synonyms": [
+      "♑",
+      "Aqelwac"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "♒",
+    "synonyms": [
+      "♒",
+      "Azfuf"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "♓",
+    "synonyms": [
+      "♓",
+      "Islem"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⛎",
+    "synonyms": [
+      "⛎",
+      "Aẓudyak"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔀",
+    "synonyms": [
+      "🔀",
+      "Aneccab anmidag"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔁",
+    "synonyms": [
+      "🔁",
+      "aneccab imdewweṛ"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "▶",
+    "synonyms": [
+      "▶",
+      "taqeffalt n tɣuri"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⏏",
+    "synonyms": [
+      "⏏",
+      "taqeffalt n senzelli"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎦",
+    "synonyms": [
+      "🎦",
+      "sinima"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💲",
+    "synonyms": [
+      "💲",
+      "adulaṛ",
+      "idrimen",
+      "tadrimt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏁",
+    "synonyms": [
+      "🏁",
+      "anay s texxamin"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚩",
+    "synonyms": [
+      "🚩",
+      "anay azeggaɣ"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎌",
+    "synonyms": [
+      "🎌",
+      "anayen ijapuniyen"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏴",
+    "synonyms": [
+      "🏴",
+      "anay aberkan"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏳",
+    "synonyms": [
+      "🏳",
+      "anay amellal"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏳‍🌈",
+    "synonyms": [
+      "🏳‍🌈",
+      "anay n teslit n unẓar"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👶🏻",
+    "synonyms": [
+      "👶🏻",
+      "ṣebyan",
+      "taglimt taceɛlalt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👶🏼",
+    "synonyms": [
+      "👶🏼",
+      "ṣebyan",
+      "tagwlimt taceɛlalt talemmast"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👶🏽",
+    "synonyms": [
+      "👶🏽",
+      "ṣebyan",
+      "taglimt talemmast"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👶🏾",
+    "synonyms": [
+      "👶🏾",
+      "ṣebyan",
+      "tagwlimt tubrikt talemmast"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👶🏿",
+    "synonyms": [
+      "👶🏿",
+      "ṣebyan",
+      "tagwlimt tubrikt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧒🏻",
+    "synonyms": [
+      "🧒🏻",
+      "agrud",
+      "taglimt taceɛlalt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧒🏼",
+    "synonyms": [
+      "🧒🏼",
+      "agrud",
+      "tagwlimt taceɛlalt talemmast"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧒🏽",
+    "synonyms": [
+      "🧒🏽",
+      "agrud",
+      "taglimt talemmast"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧒🏾",
+    "synonyms": [
+      "🧒🏾",
+      "agrud",
+      "tagwlimt tubrikt talemmast"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧒🏿",
+    "synonyms": [
+      "🧒🏿",
+      "agrud",
+      "tagwlimt tubrikt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👦🏻",
+    "synonyms": [
+      "👦🏻",
+      "aqruṛ",
+      "taglimt taceɛlalt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👦🏼",
+    "synonyms": [
+      "👦🏼",
+      "aqruṛ",
+      "tagwlimt taceɛlalt talemmast"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👦🏽",
+    "synonyms": [
+      "👦🏽",
+      "aqruṛ",
+      "taglimt talemmast"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👦🏾",
+    "synonyms": [
+      "👦🏾",
+      "aqruṛ",
+      "tagwlimt tubrikt talemmast"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👦🏿",
+    "synonyms": [
+      "👦🏿",
+      "aqruṛ",
+      "tagwlimt tubrikt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👧🏻",
+    "synonyms": [
+      "👧🏻",
+      "taglimt taceɛlalt",
+      "Taqruṛt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👧🏼",
+    "synonyms": [
+      "👧🏼",
+      "tagwlimt taceɛlalt talemmast",
+      "Taqruṛt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👧🏽",
+    "synonyms": [
+      "👧🏽",
+      "taglimt talemmast",
+      "Taqruṛt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👧🏾",
+    "synonyms": [
+      "👧🏾",
+      "tagwlimt tubrikt talemmast",
+      "Taqruṛt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👧🏿",
+    "synonyms": [
+      "👧🏿",
+      "tagwlimt tubrikt",
+      "Taqruṛt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏻",
+    "synonyms": [
+      "🧑🏻",
+      "amengaḍ",
+      "taglimt taceɛlalt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏼",
+    "synonyms": [
+      "🧑🏼",
+      "amengaḍ",
+      "tagwlimt taceɛlalt talemmast"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏽",
+    "synonyms": [
+      "🧑🏽",
+      "amengaḍ",
+      "taglimt talemmast"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏾",
+    "synonyms": [
+      "🧑🏾",
+      "amengaḍ",
+      "tagwlimt tubrikt talemmast"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏿",
+    "synonyms": [
+      "🧑🏿",
+      "amengaḍ",
+      "tagwlimt tubrikt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑‍🦰",
+    "synonyms": [
+      "🧑‍🦰",
+      "acekkuḥ azeggaɣ",
+      "amengaḍ"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏻‍🦰",
+    "synonyms": [
+      "🧑🏻‍🦰",
+      "acekkuḥ azeggaɣ",
+      "amengaḍ",
+      "taglimt taceɛlalt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏼‍🦰",
+    "synonyms": [
+      "🧑🏼‍🦰",
+      "acekkuḥ azeggaɣ",
+      "amengaḍ",
+      "tagwlimt taceɛlalt talemmast"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏽‍🦰",
+    "synonyms": [
+      "🧑🏽‍🦰",
+      "acekkuḥ azeggaɣ",
+      "amengaḍ",
+      "taglimt talemmast"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏾‍🦰",
+    "synonyms": [
+      "🧑🏾‍🦰",
+      "acekkuḥ azeggaɣ",
+      "amengaḍ",
+      "tagwlimt tubrikt talemmast"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏿‍🦰",
+    "synonyms": [
+      "🧑🏿‍🦰",
+      "acekkuḥ azeggaɣ",
+      "amengaḍ",
+      "tagwlimt tubrikt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑‍🦱",
+    "synonyms": [
+      "🧑‍🦱",
+      "acekkuḥ imdewweṛ",
+      "amengaḍ"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏻‍🦱",
+    "synonyms": [
+      "🧑🏻‍🦱",
+      "acekkuḥ imdewweṛ",
+      "amengaḍ",
+      "taglimt taceɛlalt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏼‍🦱",
+    "synonyms": [
+      "🧑🏼‍🦱",
+      "acekkuḥ imdewweṛ",
+      "amengaḍ",
+      "tagwlimt taceɛlalt talemmast"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏽‍🦱",
+    "synonyms": [
+      "🧑🏽‍🦱",
+      "acekkuḥ imdewweṛ",
+      "amengaḍ",
+      "taglimt talemmast"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏾‍🦱",
+    "synonyms": [
+      "🧑🏾‍🦱",
+      "acekkuḥ imdewweṛ",
+      "amengaḍ",
+      "tagwlimt tubrikt talemmast"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏿‍🦱",
+    "synonyms": [
+      "🧑🏿‍🦱",
+      "acekkuḥ imdewweṛ",
+      "amengaḍ",
+      "tagwlimt tubrikt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑‍🦳",
+    "synonyms": [
+      "🧑‍🦳",
+      "acekkuḥ amellal",
+      "amengaḍ"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏻‍🦳",
+    "synonyms": [
+      "🧑🏻‍🦳",
+      "acekkuḥ amellal",
+      "amengaḍ",
+      "taglimt taceɛlalt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏼‍🦳",
+    "synonyms": [
+      "🧑🏼‍🦳",
+      "acekkuḥ amellal",
+      "amengaḍ",
+      "tagwlimt taceɛlalt talemmast"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏽‍🦳",
+    "synonyms": [
+      "🧑🏽‍🦳",
+      "acekkuḥ amellal",
+      "amengaḍ",
+      "taglimt talemmast"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏾‍🦳",
+    "synonyms": [
+      "🧑🏾‍🦳",
+      "acekkuḥ amellal",
+      "amengaḍ",
+      "tagwlimt tubrikt talemmast"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏿‍🦳",
+    "synonyms": [
+      "🧑🏿‍🦳",
+      "acekkuḥ amellal",
+      "amengaḍ",
+      "tagwlimt tubrikt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑‍🦲",
+    "synonyms": [
+      "🧑‍🦲",
+      "aferḍas",
+      "amengaḍ"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏻‍🦲",
+    "synonyms": [
+      "🧑🏻‍🦲",
+      "aferḍas",
+      "amengaḍ",
+      "taglimt taceɛlalt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏼‍🦲",
+    "synonyms": [
+      "🧑🏼‍🦲",
+      "aferḍas",
+      "amengaḍ",
+      "tagwlimt taceɛlalt talemmast"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏽‍🦲",
+    "synonyms": [
+      "🧑🏽‍🦲",
+      "aferḍas",
+      "amengaḍ",
+      "taglimt talemmast"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏾‍🦲",
+    "synonyms": [
+      "🧑🏾‍🦲",
+      "aferḍas",
+      "amengaḍ",
+      "tagwlimt tubrikt talemmast"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏿‍🦲",
+    "synonyms": [
+      "🧑🏿‍🦲",
+      "aferḍas",
+      "amengaḍ",
+      "tagwlimt tubrikt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏻",
+    "synonyms": [
+      "👨🏻",
+      "argaz",
+      "taglimt taceɛlalt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏼",
+    "synonyms": [
+      "👨🏼",
+      "argaz",
+      "tagwlimt taceɛlalt talemmast"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏽",
+    "synonyms": [
+      "👨🏽",
+      "argaz",
+      "taglimt talemmast"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏾",
+    "synonyms": [
+      "👨🏾",
+      "argaz",
+      "tagwlimt tubrikt talemmast"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏿",
+    "synonyms": [
+      "👨🏿",
+      "argaz",
+      "tagwlimt tubrikt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨‍🦰",
+    "synonyms": [
+      "👨‍🦰",
+      "acekkuḥ azeggaɣ",
+      "argaz"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏻‍🦰",
+    "synonyms": [
+      "👨🏻‍🦰",
+      "acekkuḥ azeggaɣ",
+      "argaz",
+      "taglimt taceɛlalt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏼‍🦰",
+    "synonyms": [
+      "👨🏼‍🦰",
+      "acekkuḥ azeggaɣ",
+      "argaz",
+      "tagwlimt taceɛlalt talemmast"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏽‍🦰",
+    "synonyms": [
+      "👨🏽‍🦰",
+      "acekkuḥ azeggaɣ",
+      "argaz",
+      "taglimt talemmast"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏾‍🦰",
+    "synonyms": [
+      "👨🏾‍🦰",
+      "acekkuḥ azeggaɣ",
+      "argaz",
+      "tagwlimt tubrikt talemmast"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏿‍🦰",
+    "synonyms": [
+      "👨🏿‍🦰",
+      "acekkuḥ azeggaɣ",
+      "argaz",
+      "tagwlimt tubrikt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨‍🦱",
+    "synonyms": [
+      "👨‍🦱",
+      "acekkuḥ imdewweṛ",
+      "argaz"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏻‍🦱",
+    "synonyms": [
+      "👨🏻‍🦱",
+      "acekkuḥ imdewweṛ",
+      "argaz",
+      "taglimt taceɛlalt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏼‍🦱",
+    "synonyms": [
+      "👨🏼‍🦱",
+      "acekkuḥ imdewweṛ",
+      "argaz",
+      "tagwlimt taceɛlalt talemmast"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏽‍🦱",
+    "synonyms": [
+      "👨🏽‍🦱",
+      "acekkuḥ imdewweṛ",
+      "argaz",
+      "taglimt talemmast"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏾‍🦱",
+    "synonyms": [
+      "👨🏾‍🦱",
+      "acekkuḥ imdewweṛ",
+      "argaz",
+      "tagwlimt tubrikt talemmast"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏿‍🦱",
+    "synonyms": [
+      "👨🏿‍🦱",
+      "acekkuḥ imdewweṛ",
+      "argaz",
+      "tagwlimt tubrikt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨‍🦳",
+    "synonyms": [
+      "👨‍🦳",
+      "acekkuḥ amellal",
+      "argaz"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏻‍🦳",
+    "synonyms": [
+      "👨🏻‍🦳",
+      "acekkuḥ amellal",
+      "argaz",
+      "taglimt taceɛlalt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏼‍🦳",
+    "synonyms": [
+      "👨🏼‍🦳",
+      "acekkuḥ amellal",
+      "argaz",
+      "tagwlimt taceɛlalt talemmast"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏽‍🦳",
+    "synonyms": [
+      "👨🏽‍🦳",
+      "acekkuḥ amellal",
+      "argaz",
+      "taglimt talemmast"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏾‍🦳",
+    "synonyms": [
+      "👨🏾‍🦳",
+      "acekkuḥ amellal",
+      "argaz",
+      "tagwlimt tubrikt talemmast"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏿‍🦳",
+    "synonyms": [
+      "👨🏿‍🦳",
+      "acekkuḥ amellal",
+      "argaz",
+      "tagwlimt tubrikt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨‍🦲",
+    "synonyms": [
+      "👨‍🦲",
+      "aferḍas",
+      "argaz"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏻‍🦲",
+    "synonyms": [
+      "👨🏻‍🦲",
+      "aferḍas",
+      "argaz",
+      "taglimt taceɛlalt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏼‍🦲",
+    "synonyms": [
+      "👨🏼‍🦲",
+      "aferḍas",
+      "argaz",
+      "tagwlimt taceɛlalt talemmast"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏽‍🦲",
+    "synonyms": [
+      "👨🏽‍🦲",
+      "aferḍas",
+      "argaz",
+      "taglimt talemmast"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏾‍🦲",
+    "synonyms": [
+      "👨🏾‍🦲",
+      "aferḍas",
+      "argaz",
+      "tagwlimt tubrikt talemmast"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏿‍🦲",
+    "synonyms": [
+      "👨🏿‍🦲",
+      "aferḍas",
+      "argaz",
+      "tagwlimt tubrikt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏻",
+    "synonyms": [
+      "👩🏻",
+      "taglimt taceɛlalt",
+      "tameṭṭut"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏼",
+    "synonyms": [
+      "👩🏼",
+      "tagwlimt taceɛlalt talemmast",
+      "tameṭṭut"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏽",
+    "synonyms": [
+      "👩🏽",
+      "taglimt talemmast",
+      "tameṭṭut"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏾",
+    "synonyms": [
+      "👩🏾",
+      "tagwlimt tubrikt talemmast",
+      "tameṭṭut"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏿",
+    "synonyms": [
+      "👩🏿",
+      "tagwlimt tubrikt",
+      "tameṭṭut"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩‍🦰",
+    "synonyms": [
+      "👩‍🦰",
+      "acekkuḥ azeggaɣ",
+      "tameṭṭut"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏻‍🦰",
+    "synonyms": [
+      "👩🏻‍🦰",
+      "acekkuḥ azeggaɣ",
+      "taglimt taceɛlalt",
+      "tameṭṭut"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏼‍🦰",
+    "synonyms": [
+      "👩🏼‍🦰",
+      "acekkuḥ azeggaɣ",
+      "tagwlimt taceɛlalt talemmast",
+      "tameṭṭut"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏽‍🦰",
+    "synonyms": [
+      "👩🏽‍🦰",
+      "acekkuḥ azeggaɣ",
+      "taglimt talemmast",
+      "tameṭṭut"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏾‍🦰",
+    "synonyms": [
+      "👩🏾‍🦰",
+      "acekkuḥ azeggaɣ",
+      "tagwlimt tubrikt talemmast",
+      "tameṭṭut"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏿‍🦰",
+    "synonyms": [
+      "👩🏿‍🦰",
+      "acekkuḥ azeggaɣ",
+      "tagwlimt tubrikt",
+      "tameṭṭut"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩‍🦱",
+    "synonyms": [
+      "👩‍🦱",
+      "acekkuḥ imdewweṛ",
+      "tameṭṭut"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏻‍🦱",
+    "synonyms": [
+      "👩🏻‍🦱",
+      "acekkuḥ imdewweṛ",
+      "taglimt taceɛlalt",
+      "tameṭṭut"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏼‍🦱",
+    "synonyms": [
+      "👩🏼‍🦱",
+      "acekkuḥ imdewweṛ",
+      "tagwlimt taceɛlalt talemmast",
+      "tameṭṭut"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏽‍🦱",
+    "synonyms": [
+      "👩🏽‍🦱",
+      "acekkuḥ imdewweṛ",
+      "taglimt talemmast",
+      "tameṭṭut"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏾‍🦱",
+    "synonyms": [
+      "👩🏾‍🦱",
+      "acekkuḥ imdewweṛ",
+      "tagwlimt tubrikt talemmast",
+      "tameṭṭut"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏿‍🦱",
+    "synonyms": [
+      "👩🏿‍🦱",
+      "acekkuḥ imdewweṛ",
+      "tagwlimt tubrikt",
+      "tameṭṭut"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩‍🦳",
+    "synonyms": [
+      "👩‍🦳",
+      "acekkuḥ amellal",
+      "tameṭṭut"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏻‍🦳",
+    "synonyms": [
+      "👩🏻‍🦳",
+      "acekkuḥ amellal",
+      "taglimt taceɛlalt",
+      "tameṭṭut"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏼‍🦳",
+    "synonyms": [
+      "👩🏼‍🦳",
+      "acekkuḥ amellal",
+      "tagwlimt taceɛlalt talemmast",
+      "tameṭṭut"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏽‍🦳",
+    "synonyms": [
+      "👩🏽‍🦳",
+      "acekkuḥ amellal",
+      "taglimt talemmast",
+      "tameṭṭut"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏾‍🦳",
+    "synonyms": [
+      "👩🏾‍🦳",
+      "acekkuḥ amellal",
+      "tagwlimt tubrikt talemmast",
+      "tameṭṭut"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏿‍🦳",
+    "synonyms": [
+      "👩🏿‍🦳",
+      "acekkuḥ amellal",
+      "tagwlimt tubrikt",
+      "tameṭṭut"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩‍🦲",
+    "synonyms": [
+      "👩‍🦲",
+      "aferḍas",
+      "tameṭṭut"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏻‍🦲",
+    "synonyms": [
+      "👩🏻‍🦲",
+      "aferḍas",
+      "taglimt taceɛlalt",
+      "tameṭṭut"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏼‍🦲",
+    "synonyms": [
+      "👩🏼‍🦲",
+      "aferḍas",
+      "tagwlimt taceɛlalt talemmast",
+      "tameṭṭut"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏽‍🦲",
+    "synonyms": [
+      "👩🏽‍🦲",
+      "aferḍas",
+      "taglimt talemmast",
+      "tameṭṭut"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏾‍🦲",
+    "synonyms": [
+      "👩🏾‍🦲",
+      "aferḍas",
+      "tagwlimt tubrikt talemmast",
+      "tameṭṭut"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏿‍🦲",
+    "synonyms": [
+      "👩🏿‍🦲",
+      "aferḍas",
+      "tagwlimt tubrikt",
+      "tameṭṭut"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧓🏻",
+    "synonyms": [
+      "🧓🏻",
+      "amengaḍ meqqren",
+      "taglimt taceɛlalt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧓🏼",
+    "synonyms": [
+      "🧓🏼",
+      "amengaḍ meqqren",
+      "tagwlimt taceɛlalt talemmast"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧓🏽",
+    "synonyms": [
+      "🧓🏽",
+      "amengaḍ meqqren",
+      "taglimt talemmast"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧓🏾",
+    "synonyms": [
+      "🧓🏾",
+      "amengaḍ meqqren",
+      "tagwlimt tubrikt talemmast"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧓🏿",
+    "synonyms": [
+      "🧓🏿",
+      "amengaḍ meqqren",
+      "tagwlimt tubrikt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👴🏻",
+    "synonyms": [
+      "👴🏻",
+      "amɣaṛ",
+      "taglimt taceɛlalt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👴🏼",
+    "synonyms": [
+      "👴🏼",
+      "amɣaṛ",
+      "tagwlimt taceɛlalt talemmast"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👴🏽",
+    "synonyms": [
+      "👴🏽",
+      "amɣaṛ",
+      "taglimt talemmast"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👴🏾",
+    "synonyms": [
+      "👴🏾",
+      "amɣaṛ",
+      "tagwlimt tubrikt talemmast"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👴🏿",
+    "synonyms": [
+      "👴🏿",
+      "amɣaṛ",
+      "tagwlimt tubrikt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔟",
+    "synonyms": [
+      "🔟",
+      "keycap"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇦🇨",
+    "synonyms": [
+      "🇦🇨",
+      "anay Tigzirt n Aṣunsyun"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇦🇩",
+    "synonyms": [
+      "🇦🇩",
+      "anay Undura"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇦🇪",
+    "synonyms": [
+      "🇦🇪",
+      "anay Tigeldunin Yedduklen Taɛrabin"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇦🇫",
+    "synonyms": [
+      "🇦🇫",
+      "anay Afɣanistan"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇦🇬",
+    "synonyms": [
+      "🇦🇬",
+      "anay Untiga d Barbuda"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇦🇮",
+    "synonyms": [
+      "🇦🇮",
+      "anay Ungiya"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇦🇱",
+    "synonyms": [
+      "🇦🇱",
+      "anay Lalbani"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇦🇲",
+    "synonyms": [
+      "🇦🇲",
+      "anay Arminya"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇦🇴",
+    "synonyms": [
+      "🇦🇴",
+      "anay Ungula"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇦🇶",
+    "synonyms": [
+      "🇦🇶",
+      "anay Anṭarktik"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇦🇷",
+    "synonyms": [
+      "🇦🇷",
+      "anay Arjuntin"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇦🇸",
+    "synonyms": [
+      "🇦🇸",
+      "anay Samwa Tamarikanit"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇦🇹",
+    "synonyms": [
+      "🇦🇹",
+      "anay Ustriya"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇦🇺",
+    "synonyms": [
+      "🇦🇺",
+      "anay Ustrali"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇦🇼",
+    "synonyms": [
+      "🇦🇼",
+      "anay Aruba"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇦🇽",
+    "synonyms": [
+      "🇦🇽",
+      "anay Tigzirin n Aland"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇦🇿",
+    "synonyms": [
+      "🇦🇿",
+      "anay Azrabijan"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇧🇦",
+    "synonyms": [
+      "🇧🇦",
+      "anay Busna d Hersek"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇧🇧",
+    "synonyms": [
+      "🇧🇧",
+      "anay Barbadus"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇧🇩",
+    "synonyms": [
+      "🇧🇩",
+      "anay Bangladac"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇧🇪",
+    "synonyms": [
+      "🇧🇪",
+      "anay Belǧik"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇧🇫",
+    "synonyms": [
+      "🇧🇫",
+      "anay Burkina Fasu"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇧🇬",
+    "synonyms": [
+      "🇧🇬",
+      "anay Bulgari"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇧🇭",
+    "synonyms": [
+      "🇧🇭",
+      "anay Baḥrin"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇧🇮",
+    "synonyms": [
+      "🇧🇮",
+      "anay Burandi"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇧🇯",
+    "synonyms": [
+      "🇧🇯",
+      "anay Binin"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇧🇱",
+    "synonyms": [
+      "🇧🇱",
+      "anay Sant Baṛtilimi"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇧🇲",
+    "synonyms": [
+      "🇧🇲",
+      "anay Bermuda"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇧🇳",
+    "synonyms": [
+      "🇧🇳",
+      "anay Bruney"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇧🇴",
+    "synonyms": [
+      "🇧🇴",
+      "anay Bulivi"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇧🇶",
+    "synonyms": [
+      "🇧🇶",
+      "anay Huland n Kaṛayib"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇧🇷",
+    "synonyms": [
+      "🇧🇷",
+      "anay Brizil"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇧🇸",
+    "synonyms": [
+      "🇧🇸",
+      "anay Bahamas"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇧🇹",
+    "synonyms": [
+      "🇧🇹",
+      "anay Bhutan"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇧🇻",
+    "synonyms": [
+      "🇧🇻",
+      "anay Tigzirin n Buvet"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇧🇼",
+    "synonyms": [
+      "🇧🇼",
+      "anay Bustwana"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇧🇾",
+    "synonyms": [
+      "🇧🇾",
+      "anay Bilarus"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇧🇿",
+    "synonyms": [
+      "🇧🇿",
+      "anay Biliz"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇨🇦",
+    "synonyms": [
+      "🇨🇦",
+      "anay Kanada"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇨🇨",
+    "synonyms": [
+      "🇨🇨",
+      "anay Tigzirin n Kukus"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇨🇩",
+    "synonyms": [
+      "🇨🇩",
+      "anay Tigduda Tagdudant n Kungu"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇨🇫",
+    "synonyms": [
+      "🇨🇫",
+      "anay Tigduda n Tefriqt Talemmast"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇨🇬",
+    "synonyms": [
+      "🇨🇬",
+      "anay Kungu"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇨🇭",
+    "synonyms": [
+      "🇨🇭",
+      "anay Swis"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇨🇮",
+    "synonyms": [
+      "🇨🇮",
+      "anay Kuṭ Divwar"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇨🇰",
+    "synonyms": [
+      "🇨🇰",
+      "anay Tigzirin n Kuk"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇨🇱",
+    "synonyms": [
+      "🇨🇱",
+      "anay Cili"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇨🇲",
+    "synonyms": [
+      "🇨🇲",
+      "anay Kamirun"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇨🇳",
+    "synonyms": [
+      "🇨🇳",
+      "anay Lacin"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇨🇴",
+    "synonyms": [
+      "🇨🇴",
+      "anay Kulumbi"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇨🇵",
+    "synonyms": [
+      "🇨🇵",
+      "anay Tigzirt n Klipirṭun"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇨🇷",
+    "synonyms": [
+      "🇨🇷",
+      "anay Kusta Rika"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇨🇺",
+    "synonyms": [
+      "🇨🇺",
+      "anay Kuba"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇨🇻",
+    "synonyms": [
+      "🇨🇻",
+      "anay Tigzirin n yixef azegzaw"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇨🇼",
+    "synonyms": [
+      "🇨🇼",
+      "anay Kurasaw"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇨🇽",
+    "synonyms": [
+      "🇨🇽",
+      "anay Tigzrin n Kristmaṣ"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇨🇾",
+    "synonyms": [
+      "🇨🇾",
+      "anay Cipr"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇨🇿",
+    "synonyms": [
+      "🇨🇿",
+      "anay Čček"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇩🇪",
+    "synonyms": [
+      "🇩🇪",
+      "anay Lalman"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇩🇬",
+    "synonyms": [
+      "🇩🇬",
+      "anay Dyigu Garsiya"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇩🇯",
+    "synonyms": [
+      "🇩🇯",
+      "anay Ǧibuti"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇩🇰",
+    "synonyms": [
+      "🇩🇰",
+      "anay Denmark"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇩🇲",
+    "synonyms": [
+      "🇩🇲",
+      "anay Duminik"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇩🇴",
+    "synonyms": [
+      "🇩🇴",
+      "anay Tigduda Taduminikit"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇩🇿",
+    "synonyms": [
+      "🇩🇿",
+      "anay Lezzayer"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇪🇦",
+    "synonyms": [
+      "🇪🇦",
+      "anay Sebta d Melilla"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇪🇨",
+    "synonyms": [
+      "🇪🇨",
+      "anay Ikwaṭur"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇪🇪",
+    "synonyms": [
+      "🇪🇪",
+      "anay Istunya"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇪🇬",
+    "synonyms": [
+      "🇪🇬",
+      "anay Maṣr"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇪🇭",
+    "synonyms": [
+      "🇪🇭",
+      "anay Seḥra n umalu"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇪🇷",
+    "synonyms": [
+      "🇪🇷",
+      "anay Iritiria"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇪🇸",
+    "synonyms": [
+      "🇪🇸",
+      "anay Spanya"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇪🇹",
+    "synonyms": [
+      "🇪🇹",
+      "anay Utyupi"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇪🇺",
+    "synonyms": [
+      "🇪🇺",
+      "anay Tiddukla n Turuft"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇫🇮",
+    "synonyms": [
+      "🇫🇮",
+      "anay Finlund"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇫🇯",
+    "synonyms": [
+      "🇫🇯",
+      "anay Fiji"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇫🇰",
+    "synonyms": [
+      "🇫🇰",
+      "anay Tigzirin n Falkland"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇫🇲",
+    "synonyms": [
+      "🇫🇲",
+      "anay Mikrunizya"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇫🇴",
+    "synonyms": [
+      "🇫🇴",
+      "anay Tigzirin n Faṛwi"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇫🇷",
+    "synonyms": [
+      "🇫🇷",
+      "anay Fransa"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇬🇦",
+    "synonyms": [
+      "🇬🇦",
+      "anay Gabun"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇬🇧",
+    "synonyms": [
+      "🇬🇧",
+      "anay Tagelda Yedduklen"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇬🇩",
+    "synonyms": [
+      "🇬🇩",
+      "anay Grunad"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇬🇪",
+    "synonyms": [
+      "🇬🇪",
+      "anay Jiyurji"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇬🇫",
+    "synonyms": [
+      "🇬🇫",
+      "anay Ɣana tafransist"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇬🇬",
+    "synonyms": [
+      "🇬🇬",
+      "anay Girnizi"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇬🇭",
+    "synonyms": [
+      "🇬🇭",
+      "anay Ɣana"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇬🇮",
+    "synonyms": [
+      "🇬🇮",
+      "anay Jibraltar"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇬🇱",
+    "synonyms": [
+      "🇬🇱",
+      "anay Grunland"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇬🇲",
+    "synonyms": [
+      "🇬🇲",
+      "anay Gambya"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇬🇳",
+    "synonyms": [
+      "🇬🇳",
+      "anay Ɣinya"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇬🇵",
+    "synonyms": [
+      "🇬🇵",
+      "anay Gwadalupi"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇬🇶",
+    "synonyms": [
+      "🇬🇶",
+      "anay Ɣinya Tasebgast"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇬🇷",
+    "synonyms": [
+      "🇬🇷",
+      "anay Lagris"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇬🇸",
+    "synonyms": [
+      "🇬🇸",
+      "anay Tigzirin n Jyuṛjya n Unẓul akked Sandwič n Unẓul"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇬🇹",
+    "synonyms": [
+      "🇬🇹",
+      "anay Gwatimala"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇬🇺",
+    "synonyms": [
+      "🇬🇺",
+      "anay Gwam"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇬🇼",
+    "synonyms": [
+      "🇬🇼",
+      "anay Ɣinya-Bisaw"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇬🇾",
+    "synonyms": [
+      "🇬🇾",
+      "anay Guwana"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇭🇰",
+    "synonyms": [
+      "🇭🇰",
+      "anay Tamnaṭ Taqbuṛt Tacinwat n Hung Kung"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇭🇲",
+    "synonyms": [
+      "🇭🇲",
+      "anay Tigzirin n Hird d Makdunalt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇭🇳",
+    "synonyms": [
+      "🇭🇳",
+      "anay Hunduras"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇭🇷",
+    "synonyms": [
+      "🇭🇷",
+      "anay Kerwasya"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇭🇹",
+    "synonyms": [
+      "🇭🇹",
+      "anay Hayti"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇭🇺",
+    "synonyms": [
+      "🇭🇺",
+      "anay Hungri"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇮🇨",
+    "synonyms": [
+      "🇮🇨",
+      "anay Tigzirin Tikanaṛiyin"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇮🇩",
+    "synonyms": [
+      "🇮🇩",
+      "anay Indunizi"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇮🇪",
+    "synonyms": [
+      "🇮🇪",
+      "anay Lirlund"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇮🇱",
+    "synonyms": [
+      "🇮🇱",
+      "anay Izrayil"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇮🇲",
+    "synonyms": [
+      "🇮🇲",
+      "anay Tigzirt n Man"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇮🇳",
+    "synonyms": [
+      "🇮🇳",
+      "anay Lhend"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇮🇴",
+    "synonyms": [
+      "🇮🇴",
+      "anay Akal Aglizi deg Ugaraw Ahendi"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇮🇶",
+    "synonyms": [
+      "🇮🇶",
+      "anay Lɛiraq"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇮🇷",
+    "synonyms": [
+      "🇮🇷",
+      "anay Iran"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇮🇸",
+    "synonyms": [
+      "🇮🇸",
+      "anay Island"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇮🇹",
+    "synonyms": [
+      "🇮🇹",
+      "anay Ṭelyan"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇯🇪",
+    "synonyms": [
+      "🇯🇪",
+      "anay Jirzi"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇯🇲",
+    "synonyms": [
+      "🇯🇲",
+      "anay Jamyika"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇯🇴",
+    "synonyms": [
+      "🇯🇴",
+      "anay Lajurdani"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇯🇵",
+    "synonyms": [
+      "🇯🇵",
+      "anay Jappu"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇰🇪",
+    "synonyms": [
+      "🇰🇪",
+      "anay Kinya"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇰🇬",
+    "synonyms": [
+      "🇰🇬",
+      "anay Kirigistan"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇰🇭",
+    "synonyms": [
+      "🇰🇭",
+      "anay Cambudya"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇰🇮",
+    "synonyms": [
+      "🇰🇮",
+      "anay Kiribati"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇰🇲",
+    "synonyms": [
+      "🇰🇲",
+      "anay Kumur"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇰🇳",
+    "synonyms": [
+      "🇰🇳",
+      "anay San Kits d Nivis"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇰🇵",
+    "synonyms": [
+      "🇰🇵",
+      "anay Kurya Ufella"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇰🇷",
+    "synonyms": [
+      "🇰🇷",
+      "anay Kurya Wadda"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇰🇼",
+    "synonyms": [
+      "🇰🇼",
+      "anay Kuwayt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇰🇾",
+    "synonyms": [
+      "🇰🇾",
+      "anay Tigzirin n Kamyan"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇰🇿",
+    "synonyms": [
+      "🇰🇿",
+      "anay Kazaxistan"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇱🇦",
+    "synonyms": [
+      "🇱🇦",
+      "anay Laws"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇱🇧",
+    "synonyms": [
+      "🇱🇧",
+      "anay Lubnan"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇱🇨",
+    "synonyms": [
+      "🇱🇨",
+      "anay San Lučya"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇱🇮",
+    "synonyms": [
+      "🇱🇮",
+      "anay Layctenstan"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇱🇰",
+    "synonyms": [
+      "🇱🇰",
+      "anay Sri Lanka"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇱🇷",
+    "synonyms": [
+      "🇱🇷",
+      "anay Libirya"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇱🇸",
+    "synonyms": [
+      "🇱🇸",
+      "anay Lizuṭu"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇱🇹",
+    "synonyms": [
+      "🇱🇹",
+      "anay Liṭwanya"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇱🇺",
+    "synonyms": [
+      "🇱🇺",
+      "anay Luksamburg"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇱🇻",
+    "synonyms": [
+      "🇱🇻",
+      "anay Latvia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇱🇾",
+    "synonyms": [
+      "🇱🇾",
+      "anay Libya"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇦",
+    "synonyms": [
+      "🇲🇦",
+      "anay Lmerruk"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇨",
+    "synonyms": [
+      "🇲🇨",
+      "anay Munaku"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇩",
+    "synonyms": [
+      "🇲🇩",
+      "anay Muldabi"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇪",
+    "synonyms": [
+      "🇲🇪",
+      "anay Muntinigru"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇫",
+    "synonyms": [
+      "🇲🇫",
+      "anay San Maṛtan"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇬",
+    "synonyms": [
+      "🇲🇬",
+      "anay Madaɣecqer"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇭",
+    "synonyms": [
+      "🇲🇭",
+      "anay Tigzirin n Marcal"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇰",
+    "synonyms": [
+      "🇲🇰",
+      "anay Masidunya n ugafa"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇱",
+    "synonyms": [
+      "🇲🇱",
+      "anay Mali"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇲",
+    "synonyms": [
+      "🇲🇲",
+      "anay Myanmar"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇳",
+    "synonyms": [
+      "🇲🇳",
+      "anay Mungulya"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇴",
+    "synonyms": [
+      "🇲🇴",
+      "anay Tamnaḍt tudbilt tuzzigt tacinwat n Makaw"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇵",
+    "synonyms": [
+      "🇲🇵",
+      "anay Tigzirin n Maryan Ufella"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇶",
+    "synonyms": [
+      "🇲🇶",
+      "anay Martinik"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇷",
+    "synonyms": [
+      "🇲🇷",
+      "anay Muriṭanya"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇸",
+    "synonyms": [
+      "🇲🇸",
+      "anay Munsirat"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇹",
+    "synonyms": [
+      "🇲🇹",
+      "anay Malṭ"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇺",
+    "synonyms": [
+      "🇲🇺",
+      "anay Muris"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇻",
+    "synonyms": [
+      "🇲🇻",
+      "anay Maldib"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇼",
+    "synonyms": [
+      "🇲🇼",
+      "anay Malawi"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇽",
+    "synonyms": [
+      "🇲🇽",
+      "anay Meksik"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇾",
+    "synonyms": [
+      "🇲🇾",
+      "anay Malizya"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇿",
+    "synonyms": [
+      "🇲🇿",
+      "anay Muzembiq"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇳🇦",
+    "synonyms": [
+      "🇳🇦",
+      "anay Namibya"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇳🇨",
+    "synonyms": [
+      "🇳🇨",
+      "anay Kalidunya Tamaynut"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇳🇪",
+    "synonyms": [
+      "🇳🇪",
+      "anay Nijer"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇳🇫",
+    "synonyms": [
+      "🇳🇫",
+      "anay Tigzirin Tinawfukin"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇳🇬",
+    "synonyms": [
+      "🇳🇬",
+      "anay Nijirya"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇳🇮",
+    "synonyms": [
+      "🇳🇮",
+      "anay Nikaragwa"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇳🇱",
+    "synonyms": [
+      "🇳🇱",
+      "anay Timura-Yessakesren"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇳🇴",
+    "synonyms": [
+      "🇳🇴",
+      "anay Nurvij"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇳🇵",
+    "synonyms": [
+      "🇳🇵",
+      "anay Nipal"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇳🇷",
+    "synonyms": [
+      "🇳🇷",
+      "anay Nuru"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇳🇺",
+    "synonyms": [
+      "🇳🇺",
+      "anay Niwi"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇳🇿",
+    "synonyms": [
+      "🇳🇿",
+      "anay Ziland Tamaynut"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇴🇲",
+    "synonyms": [
+      "🇴🇲",
+      "anay Ɛuman"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇵🇦",
+    "synonyms": [
+      "🇵🇦",
+      "anay Panam"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇵🇪",
+    "synonyms": [
+      "🇵🇪",
+      "anay Piru"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇵🇫",
+    "synonyms": [
+      "🇵🇫",
+      "anay Pulunizi tafransist"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇵🇬",
+    "synonyms": [
+      "🇵🇬",
+      "anay Ɣinya Tamaynut Tapaput"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇵🇭",
+    "synonyms": [
+      "🇵🇭",
+      "anay Filipin"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇵🇰",
+    "synonyms": [
+      "🇵🇰",
+      "anay Pakistan"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇵🇱",
+    "synonyms": [
+      "🇵🇱",
+      "anay Pulund"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇵🇲",
+    "synonyms": [
+      "🇵🇲",
+      "anay San Pyar d Miklun"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇵🇳",
+    "synonyms": [
+      "🇵🇳",
+      "anay Pitkarin"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇵🇷",
+    "synonyms": [
+      "🇵🇷",
+      "anay Purtu Riku"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇵🇸",
+    "synonyms": [
+      "🇵🇸",
+      "anay Falisṭin d Ɣezza"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇵🇹",
+    "synonyms": [
+      "🇵🇹",
+      "anay Purtugal"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇵🇼",
+    "synonyms": [
+      "🇵🇼",
+      "anay Palu"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇵🇾",
+    "synonyms": [
+      "🇵🇾",
+      "anay Paragway"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇶🇦",
+    "synonyms": [
+      "🇶🇦",
+      "anay Qaṭar"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇷🇪",
+    "synonyms": [
+      "🇷🇪",
+      "anay Timlilit"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇷🇴",
+    "synonyms": [
+      "🇷🇴",
+      "anay Rumani"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇷🇸",
+    "synonyms": [
+      "🇷🇸",
+      "anay Ṣirbya"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇷🇺",
+    "synonyms": [
+      "🇷🇺",
+      "anay Rrus"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇷🇼",
+    "synonyms": [
+      "🇷🇼",
+      "anay Ruwanda"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇸🇦",
+    "synonyms": [
+      "🇸🇦",
+      "anay Suɛudiya Taɛrabt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇸🇧",
+    "synonyms": [
+      "🇸🇧",
+      "anay Tigzirin n Sulumun"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇸🇨",
+    "synonyms": [
+      "🇸🇨",
+      "anay Seycel"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇸🇩",
+    "synonyms": [
+      "🇸🇩",
+      "anay Sudan"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇸🇪",
+    "synonyms": [
+      "🇸🇪",
+      "anay Swid"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇸🇬",
+    "synonyms": [
+      "🇸🇬",
+      "anay Singafur"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇸🇭",
+    "synonyms": [
+      "🇸🇭",
+      "anay Sant Ilina"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇸🇮",
+    "synonyms": [
+      "🇸🇮",
+      "anay Sluvinya"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇸🇯",
+    "synonyms": [
+      "🇸🇯",
+      "anay Svalvard d Jan Mayen"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇸🇰",
+    "synonyms": [
+      "🇸🇰",
+      "anay Sluvakya"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇸🇱",
+    "synonyms": [
+      "🇸🇱",
+      "anay Sira Lyun"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇸🇲",
+    "synonyms": [
+      "🇸🇲",
+      "anay San Marinu"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇸🇳",
+    "synonyms": [
+      "🇸🇳",
+      "anay Sinigal"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇸🇴",
+    "synonyms": [
+      "🇸🇴",
+      "anay Ṣumal"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇸🇷",
+    "synonyms": [
+      "🇸🇷",
+      "anay Surinam"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇸🇸",
+    "synonyms": [
+      "🇸🇸",
+      "anay Sudan n unẓul"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇸🇹",
+    "synonyms": [
+      "🇸🇹",
+      "anay Saw Tumi d Pransip"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇸🇻",
+    "synonyms": [
+      "🇸🇻",
+      "anay Salvadur"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇸🇽",
+    "synonyms": [
+      "🇸🇽",
+      "anay San Maṛtan(Tamnaḍt tahulandit)"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇸🇾",
+    "synonyms": [
+      "🇸🇾",
+      "anay Surya"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇸🇿",
+    "synonyms": [
+      "🇸🇿",
+      "anay Swazilund"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇹🇦",
+    "synonyms": [
+      "🇹🇦",
+      "anay Tristan da Kunha"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇹🇨",
+    "synonyms": [
+      "🇹🇨",
+      "anay Ṭurk d Tegzirin n Kaykus"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇹🇩",
+    "synonyms": [
+      "🇹🇩",
+      "anay Čad"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇹🇫",
+    "synonyms": [
+      "🇹🇫",
+      "anay Timura tifransisin n unẓul"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇹🇬",
+    "synonyms": [
+      "🇹🇬",
+      "anay Ṭugu"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇹🇭",
+    "synonyms": [
+      "🇹🇭",
+      "anay Ṭayland"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇹🇯",
+    "synonyms": [
+      "🇹🇯",
+      "anay Tajikistan"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇹🇰",
+    "synonyms": [
+      "🇹🇰",
+      "anay Ṭuklu"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇹🇱",
+    "synonyms": [
+      "🇹🇱",
+      "anay Tumur Asamar"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇹🇲",
+    "synonyms": [
+      "🇹🇲",
+      "anay Ṭurkmanistan"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇹🇳",
+    "synonyms": [
+      "🇹🇳",
+      "anay Tunes"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇹🇴",
+    "synonyms": [
+      "🇹🇴",
+      "anay Ṭunga"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇹🇷",
+    "synonyms": [
+      "🇹🇷",
+      "anay Ṭurk"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇹🇹",
+    "synonyms": [
+      "🇹🇹",
+      "anay Ṭrindad d Ṭubagu"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇹🇻",
+    "synonyms": [
+      "🇹🇻",
+      "anay Ṭuvalu"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇹🇼",
+    "synonyms": [
+      "🇹🇼",
+      "anay Ṭaywan"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇹🇿",
+    "synonyms": [
+      "🇹🇿",
+      "anay Ṭanzanya"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇺🇦",
+    "synonyms": [
+      "🇺🇦",
+      "anay Ukran"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇺🇬",
+    "synonyms": [
+      "🇺🇬",
+      "anay Uɣanda"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇺🇲",
+    "synonyms": [
+      "🇺🇲",
+      "anay Tigzirin ibeɛden n Marikan"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇺🇳",
+    "synonyms": [
+      "🇺🇳",
+      "anay Timura Idduklen"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇺🇸",
+    "synonyms": [
+      "🇺🇸",
+      "anay WDM"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇺🇾",
+    "synonyms": [
+      "🇺🇾",
+      "anay Urugway"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇺🇿",
+    "synonyms": [
+      "🇺🇿",
+      "anay Uzbaxistan"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇻🇦",
+    "synonyms": [
+      "🇻🇦",
+      "anay Awanek n Vatikan"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇻🇨",
+    "synonyms": [
+      "🇻🇨",
+      "anay San Vansu d Grunadin"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇻🇪",
+    "synonyms": [
+      "🇻🇪",
+      "anay Venzwila"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇻🇬",
+    "synonyms": [
+      "🇻🇬",
+      "anay Tigzirin Tiverjiniyin Tigliziyin"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇻🇮",
+    "synonyms": [
+      "🇻🇮",
+      "anay W.D Tigzirin n Virginya"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇻🇳",
+    "synonyms": [
+      "🇻🇳",
+      "anay Vyeṭnam"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇻🇺",
+    "synonyms": [
+      "🇻🇺",
+      "anay Vanwatu"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇼🇫",
+    "synonyms": [
+      "🇼🇫",
+      "anay Wallis d Futuna"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇼🇸",
+    "synonyms": [
+      "🇼🇸",
+      "anay Samwa"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇽🇰",
+    "synonyms": [
+      "🇽🇰",
+      "anay Kuṣuvu"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇾🇪",
+    "synonyms": [
+      "🇾🇪",
+      "anay Lyamen"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇾🇹",
+    "synonyms": [
+      "🇾🇹",
+      "anay Mayuṭ"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇿🇦",
+    "synonyms": [
+      "🇿🇦",
+      "anay Tafriqt Wadda"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇿🇲",
+    "synonyms": [
+      "🇿🇲",
+      "anay Zambya"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇿🇼",
+    "synonyms": [
+      "🇿🇼",
+      "anay Zimbabwi"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "0⃣",
+    "synonyms": [
+      "0⃣",
+      "keycap 0"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "1⃣",
+    "synonyms": [
+      "1⃣",
+      "keycap 1"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "2⃣",
+    "synonyms": [
+      "2⃣",
+      "keycap 2"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "3⃣",
+    "synonyms": [
+      "3⃣",
+      "keycap 3"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "4⃣",
+    "synonyms": [
+      "4⃣",
+      "keycap 4"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "5⃣",
+    "synonyms": [
+      "5⃣",
+      "keycap 5"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "6⃣",
+    "synonyms": [
+      "6⃣",
+      "keycap 6"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "7⃣",
+    "synonyms": [
+      "7⃣",
+      "keycap 7"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "8⃣",
+    "synonyms": [
+      "8⃣",
+      "keycap 8"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "9⃣",
+    "synonyms": [
+      "9⃣",
+      "keycap 9"
+    ]
+  }
+]

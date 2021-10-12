@@ -1,0 +1,5063 @@
+[
+  {
+    "type": "onewaysynonym",
+    "input": "🤭",
+    "synonyms": [
+      "🤭",
+      "face with hand over mouth",
+      "whoops"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤫",
+    "synonyms": [
+      "🤫",
+      "quiet",
+      "shooshing face",
+      "shush",
+      "shushing face"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥵",
+    "synonyms": [
+      "🥵",
+      "feverish",
+      "flushed",
+      "heat stroke",
+      "hot",
+      "hot face",
+      "red-faced",
+      "sweating"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😱",
+    "synonyms": [
+      "😱",
+      "face",
+      "face screaming in fear",
+      "fear",
+      "Munch",
+      "scared",
+      "scream"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "😈",
+    "synonyms": [
+      "😈",
+      "devil",
+      "face",
+      "fantasy",
+      "horns",
+      "smile",
+      "smiling face with horns"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🖖",
+    "synonyms": [
+      "🖖",
+      "finger",
+      "hand",
+      "spock",
+      "vulcan",
+      "Vulcan salute"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤙",
+    "synonyms": [
+      "🤙",
+      "call",
+      "call-me hand",
+      "hand",
+      "shaka"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👦",
+    "synonyms": [
+      "👦",
+      "boy",
+      "young",
+      "young person"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👧",
+    "synonyms": [
+      "👧",
+      "girl",
+      "Virgo",
+      "young person",
+      "zodiac"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑‍🔧",
+    "synonyms": [
+      "🧑‍🔧",
+      "electrician",
+      "mechanic",
+      "plumber",
+      "tradesperson",
+      "tradie"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨‍💼",
+    "synonyms": [
+      "👨‍💼",
+      "business man",
+      "man office worker",
+      "manager",
+      "office worker",
+      "white collar"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩‍💼",
+    "synonyms": [
+      "👩‍💼",
+      "business woman",
+      "manager",
+      "office worker",
+      "white collar",
+      "woman office worker"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨‍🎤",
+    "synonyms": [
+      "👨‍🎤",
+      "entertainer",
+      "man",
+      "man singer",
+      "performer",
+      "rock singer",
+      "star"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩‍🎤",
+    "synonyms": [
+      "👩‍🎤",
+      "entertainer",
+      "performer",
+      "rock singer",
+      "star",
+      "woman",
+      "woman singer"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨‍🎨",
+    "synonyms": [
+      "👨‍🎨",
+      "artist",
+      "man",
+      "painter",
+      "palette"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩‍🎨",
+    "synonyms": [
+      "👩‍🎨",
+      "artist",
+      "painter",
+      "palette",
+      "woman"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨‍🚒",
+    "synonyms": [
+      "👨‍🚒",
+      "fire truck",
+      "firefighter",
+      "man"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩‍🚒",
+    "synonyms": [
+      "👩‍🚒",
+      "fire truck",
+      "firefighter",
+      "woman"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕵",
+    "synonyms": [
+      "🕵",
+      "detective",
+      "investigator",
+      "sleuth",
+      "spy"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕵‍♂",
+    "synonyms": [
+      "🕵‍♂",
+      "detective",
+      "investigator",
+      "man",
+      "sleuth",
+      "spy"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕵‍♀",
+    "synonyms": [
+      "🕵‍♀",
+      "detective",
+      "investigator",
+      "sleuth",
+      "spy",
+      "woman"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤵‍♂",
+    "synonyms": [
+      "🤵‍♂",
+      "man",
+      "man in tux",
+      "man in tuxedo",
+      "tux",
+      "tuxedo"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👰‍♀",
+    "synonyms": [
+      "👰‍♀",
+      "bride",
+      "veil",
+      "woman",
+      "woman with veil"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎅",
+    "synonyms": [
+      "🎅",
+      "celebration",
+      "Christmas",
+      "Father Christmas",
+      "Santa",
+      "Santa Claus"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤶",
+    "synonyms": [
+      "🤶",
+      "celebration",
+      "Christmas",
+      "Mrs Claus",
+      "Mrs Santa Claus"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💇‍♂",
+    "synonyms": [
+      "💇‍♂",
+      "haircut",
+      "hairdresser",
+      "man",
+      "man getting haircut"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💇‍♀",
+    "synonyms": [
+      "💇‍♀",
+      "haircut",
+      "hairdresser",
+      "woman",
+      "woman getting haircut"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑‍🦯",
+    "synonyms": [
+      "🧑‍🦯",
+      "accessibility",
+      "blind",
+      "person with guide cane",
+      "person with long mobility cane"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑‍🦼",
+    "synonyms": [
+      "🧑‍🦼",
+      "person in motorised wheelchair"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨‍🦼",
+    "synonyms": [
+      "👨‍🦼",
+      "man in motorised wheelchair"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩‍🦼",
+    "synonyms": [
+      "👩‍🦼",
+      "woman in motorised wheelchair"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧖‍♂",
+    "synonyms": [
+      "🧖‍♂",
+      "man in steam room",
+      "man in steamy room",
+      "sauna",
+      "steam room"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧖‍♀",
+    "synonyms": [
+      "🧖‍♀",
+      "sauna",
+      "steam room",
+      "woman in steam room",
+      "woman in steamy room"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏌",
+    "synonyms": [
+      "🏌",
+      "ball",
+      "golf",
+      "golfer",
+      "person golfing"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏌‍♂",
+    "synonyms": [
+      "🏌‍♂",
+      "golf",
+      "golfer",
+      "man",
+      "man golfing"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏌‍♀",
+    "synonyms": [
+      "🏌‍♀",
+      "golf",
+      "golfer",
+      "woman",
+      "woman golfing"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏄",
+    "synonyms": [
+      "🏄",
+      "person surfing",
+      "surfer",
+      "surfing"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏄‍♂",
+    "synonyms": [
+      "🏄‍♂",
+      "man",
+      "surfer",
+      "surfing"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏄‍♀",
+    "synonyms": [
+      "🏄‍♀",
+      "surfer",
+      "surfing",
+      "woman"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚣",
+    "synonyms": [
+      "🚣",
+      "boat",
+      "person",
+      "person rowing boat",
+      "rowboat"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏊",
+    "synonyms": [
+      "🏊",
+      "person swimming",
+      "swim",
+      "swimmer"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏊‍♂",
+    "synonyms": [
+      "🏊‍♂",
+      "man",
+      "man swimming",
+      "swim",
+      "swimmer"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏊‍♀",
+    "synonyms": [
+      "🏊‍♀",
+      "swim",
+      "swimmer",
+      "woman",
+      "woman swimming"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚴",
+    "synonyms": [
+      "🚴",
+      "bicycle",
+      "biking",
+      "cyclist",
+      "person biking",
+      "person riding a bike"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚴‍♂",
+    "synonyms": [
+      "🚴‍♂",
+      "bicycle",
+      "biking",
+      "cyclist",
+      "man",
+      "man riding a bike"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚴‍♀",
+    "synonyms": [
+      "🚴‍♀",
+      "bicycle",
+      "biking",
+      "cyclist",
+      "woman",
+      "woman riding a bike"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤹",
+    "synonyms": [
+      "🤹",
+      "balance",
+      "juggle",
+      "multi-task",
+      "person juggling",
+      "skill"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤹‍♂",
+    "synonyms": [
+      "🤹‍♂",
+      "juggling",
+      "man",
+      "multi-task"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤹‍♀",
+    "synonyms": [
+      "🤹‍♀",
+      "juggling",
+      "multi-task",
+      "woman"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛀",
+    "synonyms": [
+      "🛀",
+      "bath",
+      "bathtub",
+      "person taking bath",
+      "tub"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛌",
+    "synonyms": [
+      "🛌",
+      "hotel",
+      "person in bed",
+      "sleep",
+      "sleeping"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦌",
+    "synonyms": [
+      "🦌",
+      "deer",
+      "stag"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦏",
+    "synonyms": [
+      "🦏",
+      "rhino",
+      "rhinoceros"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐭",
+    "synonyms": [
+      "🐭",
+      "face",
+      "mouse",
+      "pet"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐁",
+    "synonyms": [
+      "🐁",
+      "mouse",
+      "pet",
+      "rodent"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐀",
+    "synonyms": [
+      "🐀",
+      "pet",
+      "rat",
+      "rodent"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐨",
+    "synonyms": [
+      "🐨",
+      "bear",
+      "koala",
+      "marsupial"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦃",
+    "synonyms": [
+      "🦃",
+      "bird",
+      "poultry",
+      "turkey"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐔",
+    "synonyms": [
+      "🐔",
+      "bird",
+      "chicken",
+      "poultry"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦅",
+    "synonyms": [
+      "🦅",
+      "bird of prey",
+      "eagle"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦉",
+    "synonyms": [
+      "🦉",
+      "bird of prey",
+      "owl",
+      "wise"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐬",
+    "synonyms": [
+      "🐬",
+      "dolphin",
+      "porpoise"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐠",
+    "synonyms": [
+      "🐠",
+      "fish",
+      "reef fish",
+      "tropical"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐌",
+    "synonyms": [
+      "🐌",
+      "mollusc",
+      "snail"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦋",
+    "synonyms": [
+      "🦋",
+      "butterfly",
+      "insect",
+      "moth"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🐛",
+    "synonyms": [
+      "🐛",
+      "bug",
+      "caterpillar",
+      "insect",
+      "worm"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕷",
+    "synonyms": [
+      "🕷",
+      "arachnid",
+      "spider"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦟",
+    "synonyms": [
+      "🦟",
+      "dengue",
+      "fever",
+      "insect",
+      "malaria",
+      "mosquito",
+      "mozzie",
+      "virus"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🪴",
+    "synonyms": [
+      "🪴",
+      "grow",
+      "house",
+      "nurturing",
+      "plant",
+      "pot plant"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍊",
+    "synonyms": [
+      "🍊",
+      "fruit",
+      "mandarin",
+      "orange"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌶",
+    "synonyms": [
+      "🌶",
+      "chilli",
+      "pepper"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥖",
+    "synonyms": [
+      "🥖",
+      "baguette",
+      "bread",
+      "food",
+      "french",
+      "French stick"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥯",
+    "synonyms": [
+      "🥯",
+      "bagel",
+      "bakery"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧇",
+    "synonyms": [
+      "🧇",
+      "waffle",
+      "waffle with butter"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍟",
+    "synonyms": [
+      "🍟",
+      "chips",
+      "fries"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥙",
+    "synonyms": [
+      "🥙",
+      "falafel",
+      "flatbread",
+      "food",
+      "gyro",
+      "kebab",
+      "pita",
+      "pita roll",
+      "stuffed"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥗",
+    "synonyms": [
+      "🥗",
+      "food",
+      "garden",
+      "salad"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍤",
+    "synonyms": [
+      "🍤",
+      "battered",
+      "fried",
+      "prawn",
+      "shrimp",
+      "tempura"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥟",
+    "synonyms": [
+      "🥟",
+      "dumpling",
+      "empanada",
+      "gyōza",
+      "pastie",
+      "samosa"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥡",
+    "synonyms": [
+      "🥡",
+      "takeaway container",
+      "takeout"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦀",
+    "synonyms": [
+      "🦀",
+      "crab",
+      "crustacean",
+      "seafood",
+      "shellfish"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦞",
+    "synonyms": [
+      "🦞",
+      "bisque",
+      "claws",
+      "lobster",
+      "seafood",
+      "shellfish"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦐",
+    "synonyms": [
+      "🦐",
+      "prawn",
+      "seafood",
+      "shellfish",
+      "shrimp"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦑",
+    "synonyms": [
+      "🦑",
+      "decapod",
+      "seafood",
+      "squid"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍦",
+    "synonyms": [
+      "🍦",
+      "cream",
+      "dessert",
+      "ice cream",
+      "soft serve",
+      "sweet"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍧",
+    "synonyms": [
+      "🍧",
+      "dessert",
+      "granita",
+      "ice",
+      "sweet"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍨",
+    "synonyms": [
+      "🍨",
+      "cream",
+      "dessert",
+      "ice cream",
+      "sweet"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍮",
+    "synonyms": [
+      "🍮",
+      "baked custard",
+      "dessert",
+      "pudding",
+      "sweet"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧃",
+    "synonyms": [
+      "🧃",
+      "drink carton",
+      "juice box",
+      "popper"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥢",
+    "synonyms": [
+      "🥢",
+      "chopsticks",
+      "pair of chopsticks"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🗻",
+    "synonyms": [
+      "🗻",
+      "Fuji",
+      "mount Fuji",
+      "mountain"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏟",
+    "synonyms": [
+      "🏟",
+      "arena",
+      "stadium"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕌",
+    "synonyms": [
+      "🕌",
+      "Islam",
+      "mosque",
+      "Muslim",
+      "religion"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⛩",
+    "synonyms": [
+      "⛩",
+      "religion",
+      "Shinto",
+      "shrine"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕋",
+    "synonyms": [
+      "🕋",
+      "Islam",
+      "Kaaba",
+      "Muslim",
+      "religion"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎪",
+    "synonyms": [
+      "🎪",
+      "big top",
+      "circus"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚃",
+    "synonyms": [
+      "🚃",
+      "car",
+      "electric",
+      "railway",
+      "train",
+      "tram",
+      "trolley bus"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚊",
+    "synonyms": [
+      "🚊",
+      "light rail",
+      "oncoming",
+      "oncoming light rail",
+      "tram",
+      "trolleybus"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚋",
+    "synonyms": [
+      "🚋",
+      "car",
+      "tram",
+      "trolley bus"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚎",
+    "synonyms": [
+      "🚎",
+      "bus",
+      "tram",
+      "trolley"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚙",
+    "synonyms": [
+      "🚙",
+      "4WD",
+      "four-wheel drive"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛻",
+    "synonyms": [
+      "🛻",
+      "pick-up",
+      "pickup",
+      "truck",
+      "ute"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚛",
+    "synonyms": [
+      "🚛",
+      "articulated truck",
+      "lorry",
+      "semi",
+      "truck"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦼",
+    "synonyms": [
+      "🦼",
+      "mobility scooter"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛼",
+    "synonyms": [
+      "🛼",
+      "roller",
+      "rollerskate",
+      "skate"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛣",
+    "synonyms": [
+      "🛣",
+      "freeway",
+      "highway",
+      "road"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⛽",
+    "synonyms": [
+      "⛽",
+      "diesel",
+      "fuel",
+      "gas",
+      "petrol pump",
+      "pump",
+      "station"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚥",
+    "synonyms": [
+      "🚥",
+      "horizontal traffic lights",
+      "lights",
+      "signal",
+      "traffic"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚦",
+    "synonyms": [
+      "🚦",
+      "lights",
+      "signal",
+      "traffic",
+      "vertical traffic lights"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚟",
+    "synonyms": [
+      "🚟",
+      "cable",
+      "railway",
+      "suspension"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚠",
+    "synonyms": [
+      "🚠",
+      "cable",
+      "cableway",
+      "gondola",
+      "mountain"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛎",
+    "synonyms": [
+      "🛎",
+      "bell",
+      "hotel",
+      "porter"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⌛",
+    "synonyms": [
+      "⌛",
+      "hourglass",
+      "hourglass done",
+      "sand",
+      "timer"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕰",
+    "synonyms": [
+      "🕰",
+      "clock"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌌",
+    "synonyms": [
+      "🌌",
+      "Milky Way",
+      "space"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⛱",
+    "synonyms": [
+      "⛱",
+      "beach",
+      "sand",
+      "sun",
+      "umbrella"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎉",
+    "synonyms": [
+      "🎉",
+      "celebration",
+      "party",
+      "popper",
+      "ta-da"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎍",
+    "synonyms": [
+      "🎍",
+      "bamboo",
+      "celebration",
+      "decoration",
+      "Japanese"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎟",
+    "synonyms": [
+      "🎟",
+      "admission",
+      "admission tickets",
+      "entry",
+      "ticket"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏆",
+    "synonyms": [
+      "🏆",
+      "celebration",
+      "prize",
+      "trophy"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏅",
+    "synonyms": [
+      "🏅",
+      "celebration",
+      "medal",
+      "sports"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⚽",
+    "synonyms": [
+      "⚽",
+      "ball",
+      "football",
+      "soccer"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏉",
+    "synonyms": [
+      "🏉",
+      "australian football",
+      "rugby ball",
+      "rugby league",
+      "rugby union"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎳",
+    "synonyms": [
+      "🎳",
+      "ball",
+      "game",
+      "tenpin bowling"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥅",
+    "synonyms": [
+      "🥅",
+      "goal cage"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⛳",
+    "synonyms": [
+      "⛳",
+      "flag",
+      "flag in hole",
+      "golf",
+      "hole"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⛸",
+    "synonyms": [
+      "⛸",
+      "ice",
+      "ice skating",
+      "skate"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎣",
+    "synonyms": [
+      "🎣",
+      "fish",
+      "fishing",
+      "pole",
+      "rod"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎿",
+    "synonyms": [
+      "🎿",
+      "ski",
+      "skiing",
+      "skis",
+      "snow"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥌",
+    "synonyms": [
+      "🥌",
+      "curling",
+      "game",
+      "rock",
+      "stone"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧿",
+    "synonyms": [
+      "🧿",
+      "amulet",
+      "charm",
+      "evil-eye",
+      "nazar",
+      "talisman"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎰",
+    "synonyms": [
+      "🎰",
+      "game",
+      "pokie",
+      "pokies"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "♦",
+    "synonyms": [
+      "♦",
+      "card",
+      "diamond suit",
+      "diamonds",
+      "game"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "♣",
+    "synonyms": [
+      "♣",
+      "card",
+      "club suit",
+      "clubs",
+      "game"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🪡",
+    "synonyms": [
+      "🪡",
+      "embroidery",
+      "needle",
+      "needle and thread",
+      "sewing",
+      "stitches",
+      "sutures",
+      "tailoring"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕶",
+    "synonyms": [
+      "🕶",
+      "dark",
+      "eye",
+      "eyewear",
+      "glasses",
+      "sunglasses",
+      "sunnies"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👕",
+    "synonyms": [
+      "👕",
+      "clothing",
+      "shirt",
+      "t-shirt",
+      "T-shirt",
+      "tee",
+      "tshirt"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👖",
+    "synonyms": [
+      "👖",
+      "clothing",
+      "jeans",
+      "pants",
+      "trousers"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👗",
+    "synonyms": [
+      "👗",
+      "clothing",
+      "dress",
+      "woman’s clothes"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🩲",
+    "synonyms": [
+      "🩲",
+      "bathers",
+      "briefs",
+      "speedos",
+      "underwear"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🩳",
+    "synonyms": [
+      "🩳",
+      "bathing suit",
+      "boardies",
+      "boardshorts",
+      "shorts",
+      "swim shorts",
+      "underwear"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👙",
+    "synonyms": [
+      "👙",
+      "bikini",
+      "clothing",
+      "swim suit",
+      "two-piece"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👚",
+    "synonyms": [
+      "👚",
+      "blouse",
+      "clothing",
+      "top",
+      "woman",
+      "woman’s clothes"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👛",
+    "synonyms": [
+      "👛",
+      "accessories",
+      "coin",
+      "purse"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👜",
+    "synonyms": [
+      "👜",
+      "accessories",
+      "bag",
+      "handbag",
+      "tote"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👝",
+    "synonyms": [
+      "👝",
+      "accessories",
+      "bag",
+      "clutch bag",
+      "pouch"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👟",
+    "synonyms": [
+      "👟",
+      "athletic",
+      "clothing",
+      "runners",
+      "running shoe",
+      "shoe",
+      "sneaker",
+      "trainer"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💄",
+    "synonyms": [
+      "💄",
+      "cosmetics",
+      "lipstick",
+      "make-up"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔈",
+    "synonyms": [
+      "🔈",
+      "low",
+      "quiet",
+      "soft",
+      "speaker",
+      "volume"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📻",
+    "synonyms": [
+      "📻",
+      "AM",
+      "FM",
+      "radio",
+      "wireless"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎹",
+    "synonyms": [
+      "🎹",
+      "instrument",
+      "keyboard",
+      "music",
+      "musical keyboard",
+      "organ",
+      "piano"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🥁",
+    "synonyms": [
+      "🥁",
+      "drum",
+      "drumsticks",
+      "music",
+      "percussions"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "☎",
+    "synonyms": [
+      "☎",
+      "landline",
+      "phone",
+      "telephone"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💻",
+    "synonyms": [
+      "💻",
+      "computer",
+      "laptop",
+      "PC",
+      "personal"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💾",
+    "synonyms": [
+      "💾",
+      "computer",
+      "disk",
+      "diskette",
+      "floppy"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💿",
+    "synonyms": [
+      "💿",
+      "CD",
+      "computer",
+      "disk",
+      "optical"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📀",
+    "synonyms": [
+      "📀",
+      "blu-ray",
+      "computer",
+      "disk",
+      "dvd",
+      "DVD",
+      "optical"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎥",
+    "synonyms": [
+      "🎥",
+      "camera",
+      "cinema",
+      "movie"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎬",
+    "synonyms": [
+      "🎬",
+      "clapper",
+      "clapperboard",
+      "film"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📺",
+    "synonyms": [
+      "📺",
+      "television",
+      "TV",
+      "video"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📼",
+    "synonyms": [
+      "📼",
+      "tape",
+      "VHS",
+      "video",
+      "videocassette"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💡",
+    "synonyms": [
+      "💡",
+      "bulb",
+      "comic",
+      "electric",
+      "globe",
+      "idea",
+      "light"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💹",
+    "synonyms": [
+      "💹",
+      "chart",
+      "chart increasing with yen",
+      "graph",
+      "graph increasing with yen",
+      "growth",
+      "money",
+      "yen"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📤",
+    "synonyms": [
+      "📤",
+      "box",
+      "letter",
+      "mail",
+      "out tray",
+      "outbox",
+      "sent",
+      "tray"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📥",
+    "synonyms": [
+      "📥",
+      "box",
+      "in tray",
+      "inbox",
+      "letter",
+      "mail",
+      "receive",
+      "tray"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📫",
+    "synonyms": [
+      "📫",
+      "closed",
+      "closed letterbox with raised flag",
+      "mail",
+      "mailbox",
+      "postbox"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📪",
+    "synonyms": [
+      "📪",
+      "closed",
+      "closed letterbox with lowered flag",
+      "lowered",
+      "mail",
+      "mailbox",
+      "postbox"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📬",
+    "synonyms": [
+      "📬",
+      "mail",
+      "mailbox",
+      "open",
+      "open letterbox with raised flag",
+      "postbox"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📭",
+    "synonyms": [
+      "📭",
+      "lowered",
+      "mail",
+      "mailbox",
+      "open",
+      "open letterbox with lowered flag",
+      "postbox"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📈",
+    "synonyms": [
+      "📈",
+      "chart",
+      "chart increasing",
+      "graph",
+      "graph increasing",
+      "growth",
+      "trend",
+      "upward"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📉",
+    "synonyms": [
+      "📉",
+      "chart",
+      "chart decreasing",
+      "down",
+      "graph",
+      "graph decreasing",
+      "trend"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📌",
+    "synonyms": [
+      "📌",
+      "drawing-pin",
+      "pin"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📍",
+    "synonyms": [
+      "📍",
+      "pin",
+      "pushpin",
+      "round drawing-pin"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛠",
+    "synonyms": [
+      "🛠",
+      "hammer",
+      "hammer and spanner",
+      "spanner",
+      "tool",
+      "wrench"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔫",
+    "synonyms": [
+      "🔫",
+      "toy",
+      "water pistol"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦯",
+    "synonyms": [
+      "🦯",
+      "accessibility",
+      "long mobility cane",
+      "white cane"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🪝",
+    "synonyms": [
+      "🪝",
+      "catch",
+      "crook",
+      "curve",
+      "ensnare",
+      "fishing",
+      "hook",
+      "selling point"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧬",
+    "synonyms": [
+      "🧬",
+      "biologist",
+      "dna",
+      "DNA",
+      "evolution",
+      "gene",
+      "genetics",
+      "life"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🩹",
+    "synonyms": [
+      "🩹",
+      "adhesive bandage",
+      "bandage",
+      "bandaid",
+      "dressing"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🪞",
+    "synonyms": [
+      "🪞",
+      "looking glass",
+      "mirror",
+      "reflection",
+      "reflector"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛋",
+    "synonyms": [
+      "🛋",
+      "couch",
+      "couch and lamp",
+      "hotel",
+      "lamp",
+      "sofa",
+      "sofa and lamp"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚽",
+    "synonyms": [
+      "🚽",
+      "facilities",
+      "loo",
+      "toilet",
+      "WC"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "♿",
+    "synonyms": [
+      "♿",
+      "access",
+      "disabled access",
+      "wheelchair symbol"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚺",
+    "synonyms": [
+      "🚺",
+      "ladies room",
+      "lavatory",
+      "restroom",
+      "wc",
+      "woman",
+      "women’s toilet"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚼",
+    "synonyms": [
+      "🚼",
+      "baby",
+      "baby symbol",
+      "change room",
+      "changing"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚾",
+    "synonyms": [
+      "🚾",
+      "amenities",
+      "bathroom",
+      "restroom",
+      "toilet",
+      "water closet",
+      "wc",
+      "WC"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛂",
+    "synonyms": [
+      "🛂",
+      "border",
+      "control",
+      "passport",
+      "security"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⛔",
+    "synonyms": [
+      "⛔",
+      "denied",
+      "entry",
+      "forbidden",
+      "no",
+      "prohibited",
+      "traffic"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚫",
+    "synonyms": [
+      "🚫",
+      "denied",
+      "entry",
+      "forbidden",
+      "no",
+      "prohibited"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚭",
+    "synonyms": [
+      "🚭",
+      "denied",
+      "forbidden",
+      "no",
+      "prohibited",
+      "smoking"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚯",
+    "synonyms": [
+      "🚯",
+      "denied",
+      "forbidden",
+      "litter",
+      "no",
+      "no littering",
+      "prohibited"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚱",
+    "synonyms": [
+      "🚱",
+      "non-drinkable water",
+      "non-drinking",
+      "non-potable",
+      "water"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚷",
+    "synonyms": [
+      "🚷",
+      "denied",
+      "forbidden",
+      "no",
+      "no pedestrians",
+      "pedestrian",
+      "prohibited"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⬆",
+    "synonyms": [
+      "⬆",
+      "arrow",
+      "cardinal",
+      "direction",
+      "north",
+      "up"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "✝",
+    "synonyms": [
+      "✝",
+      "Christian",
+      "cross",
+      "religion"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "♍",
+    "synonyms": [
+      "♍",
+      "virgin",
+      "Virgo",
+      "zodiac"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "♐",
+    "synonyms": [
+      "♐",
+      "archer",
+      "centaur",
+      "Sagittarius",
+      "zodiac"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "♒",
+    "synonyms": [
+      "♒",
+      "Aquarius",
+      "water bearer",
+      "zodiac"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⏩",
+    "synonyms": [
+      "⏩",
+      "fast forward button"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔆",
+    "synonyms": [
+      "🔆",
+      "bright button",
+      "brightness",
+      "brightness button"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "➕",
+    "synonyms": [
+      "➕",
+      "add",
+      "addition",
+      "math",
+      "maths",
+      "plus",
+      "sign"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "➖",
+    "synonyms": [
+      "➖",
+      "math",
+      "maths",
+      "minus",
+      "sign",
+      "subtraction"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "➗",
+    "synonyms": [
+      "➗",
+      "divide",
+      "division",
+      "math",
+      "sign"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "♾",
+    "synonyms": [
+      "♾",
+      "eternal",
+      "forever",
+      "infinity",
+      "unbound",
+      "universal"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "‼",
+    "synonyms": [
+      "‼",
+      "double exclamation mark",
+      "exclamation",
+      "mark",
+      "punctuation"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⁉",
+    "synonyms": [
+      "⁉",
+      "exclamation",
+      "mark",
+      "punctuation",
+      "question"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "☑",
+    "synonyms": [
+      "☑",
+      "ballot",
+      "box",
+      "tick",
+      "tick box with tick"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "✔",
+    "synonyms": [
+      "✔",
+      "heavy tick mark",
+      "mark",
+      "tick"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔠",
+    "synonyms": [
+      "🔠",
+      "input Latin uppercase"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔡",
+    "synonyms": [
+      "🔡",
+      "input Latin lowercase"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔤",
+    "synonyms": [
+      "🔤",
+      "input Latin letters"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🖖🏻",
+    "synonyms": [
+      "🖖🏻",
+      "finger",
+      "hand",
+      "light skin tone",
+      "spock",
+      "vulcan",
+      "Vulcan salute"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🖖🏼",
+    "synonyms": [
+      "🖖🏼",
+      "finger",
+      "hand",
+      "medium-light skin tone",
+      "spock",
+      "vulcan",
+      "Vulcan salute"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🖖🏽",
+    "synonyms": [
+      "🖖🏽",
+      "finger",
+      "hand",
+      "medium skin tone",
+      "spock",
+      "vulcan",
+      "Vulcan salute"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🖖🏾",
+    "synonyms": [
+      "🖖🏾",
+      "finger",
+      "hand",
+      "medium-dark skin tone",
+      "spock",
+      "vulcan",
+      "Vulcan salute"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🖖🏿",
+    "synonyms": [
+      "🖖🏿",
+      "dark skin tone",
+      "finger",
+      "hand",
+      "spock",
+      "vulcan",
+      "Vulcan salute"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤙🏻",
+    "synonyms": [
+      "🤙🏻",
+      "call",
+      "call-me hand",
+      "hand",
+      "light skin tone",
+      "shaka"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤙🏼",
+    "synonyms": [
+      "🤙🏼",
+      "call",
+      "call-me hand",
+      "hand",
+      "medium-light skin tone",
+      "shaka"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤙🏽",
+    "synonyms": [
+      "🤙🏽",
+      "call",
+      "call-me hand",
+      "hand",
+      "medium skin tone",
+      "shaka"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤙🏾",
+    "synonyms": [
+      "🤙🏾",
+      "call",
+      "call-me hand",
+      "hand",
+      "medium-dark skin tone",
+      "shaka"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤙🏿",
+    "synonyms": [
+      "🤙🏿",
+      "call",
+      "call-me hand",
+      "dark skin tone",
+      "hand",
+      "shaka"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👦🏻",
+    "synonyms": [
+      "👦🏻",
+      "boy",
+      "light skin tone",
+      "young",
+      "young person"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👦🏼",
+    "synonyms": [
+      "👦🏼",
+      "boy",
+      "medium-light skin tone",
+      "young",
+      "young person"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👦🏽",
+    "synonyms": [
+      "👦🏽",
+      "boy",
+      "medium skin tone",
+      "young",
+      "young person"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👦🏾",
+    "synonyms": [
+      "👦🏾",
+      "boy",
+      "medium-dark skin tone",
+      "young",
+      "young person"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👦🏿",
+    "synonyms": [
+      "👦🏿",
+      "boy",
+      "dark skin tone",
+      "young",
+      "young person"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👧🏻",
+    "synonyms": [
+      "👧🏻",
+      "girl",
+      "light skin tone",
+      "Virgo",
+      "young person",
+      "zodiac"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👧🏼",
+    "synonyms": [
+      "👧🏼",
+      "girl",
+      "medium-light skin tone",
+      "Virgo",
+      "young person",
+      "zodiac"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👧🏽",
+    "synonyms": [
+      "👧🏽",
+      "girl",
+      "medium skin tone",
+      "Virgo",
+      "young person",
+      "zodiac"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👧🏾",
+    "synonyms": [
+      "👧🏾",
+      "girl",
+      "medium-dark skin tone",
+      "Virgo",
+      "young person",
+      "zodiac"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👧🏿",
+    "synonyms": [
+      "👧🏿",
+      "dark skin tone",
+      "girl",
+      "Virgo",
+      "young person",
+      "zodiac"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏻‍🔧",
+    "synonyms": [
+      "🧑🏻‍🔧",
+      "electrician",
+      "light skin tone",
+      "mechanic",
+      "plumber",
+      "tradesperson",
+      "tradie"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏼‍🔧",
+    "synonyms": [
+      "🧑🏼‍🔧",
+      "electrician",
+      "mechanic",
+      "medium-light skin tone",
+      "plumber",
+      "tradesperson",
+      "tradie"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏽‍🔧",
+    "synonyms": [
+      "🧑🏽‍🔧",
+      "electrician",
+      "mechanic",
+      "medium skin tone",
+      "plumber",
+      "tradesperson",
+      "tradie"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏾‍🔧",
+    "synonyms": [
+      "🧑🏾‍🔧",
+      "electrician",
+      "mechanic",
+      "medium-dark skin tone",
+      "plumber",
+      "tradesperson",
+      "tradie"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏿‍🔧",
+    "synonyms": [
+      "🧑🏿‍🔧",
+      "dark skin tone",
+      "electrician",
+      "mechanic",
+      "plumber",
+      "tradesperson",
+      "tradie"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏻‍💼",
+    "synonyms": [
+      "👨🏻‍💼",
+      "business man",
+      "light skin tone",
+      "man office worker",
+      "manager",
+      "office worker",
+      "white collar"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏼‍💼",
+    "synonyms": [
+      "👨🏼‍💼",
+      "business man",
+      "man office worker",
+      "manager",
+      "medium-light skin tone",
+      "office worker",
+      "white collar"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏽‍💼",
+    "synonyms": [
+      "👨🏽‍💼",
+      "business man",
+      "man office worker",
+      "manager",
+      "medium skin tone",
+      "office worker",
+      "white collar"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏾‍💼",
+    "synonyms": [
+      "👨🏾‍💼",
+      "business man",
+      "man office worker",
+      "manager",
+      "medium-dark skin tone",
+      "office worker",
+      "white collar"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏿‍💼",
+    "synonyms": [
+      "👨🏿‍💼",
+      "business man",
+      "dark skin tone",
+      "man office worker",
+      "manager",
+      "office worker",
+      "white collar"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏻‍💼",
+    "synonyms": [
+      "👩🏻‍💼",
+      "business woman",
+      "light skin tone",
+      "manager",
+      "office worker",
+      "white collar",
+      "woman office worker"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏼‍💼",
+    "synonyms": [
+      "👩🏼‍💼",
+      "business woman",
+      "manager",
+      "medium-light skin tone",
+      "office worker",
+      "white collar",
+      "woman office worker"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏽‍💼",
+    "synonyms": [
+      "👩🏽‍💼",
+      "business woman",
+      "manager",
+      "medium skin tone",
+      "office worker",
+      "white collar",
+      "woman office worker"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏾‍💼",
+    "synonyms": [
+      "👩🏾‍💼",
+      "business woman",
+      "manager",
+      "medium-dark skin tone",
+      "office worker",
+      "white collar",
+      "woman office worker"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏿‍💼",
+    "synonyms": [
+      "👩🏿‍💼",
+      "business woman",
+      "dark skin tone",
+      "manager",
+      "office worker",
+      "white collar",
+      "woman office worker"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏻‍🎤",
+    "synonyms": [
+      "👨🏻‍🎤",
+      "entertainer",
+      "light skin tone",
+      "man",
+      "man singer",
+      "performer",
+      "rock singer",
+      "star"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏼‍🎤",
+    "synonyms": [
+      "👨🏼‍🎤",
+      "entertainer",
+      "man",
+      "man singer",
+      "medium-light skin tone",
+      "performer",
+      "rock singer",
+      "star"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏽‍🎤",
+    "synonyms": [
+      "👨🏽‍🎤",
+      "entertainer",
+      "man",
+      "man singer",
+      "medium skin tone",
+      "performer",
+      "rock singer",
+      "star"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏾‍🎤",
+    "synonyms": [
+      "👨🏾‍🎤",
+      "entertainer",
+      "man",
+      "man singer",
+      "medium-dark skin tone",
+      "performer",
+      "rock singer",
+      "star"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏿‍🎤",
+    "synonyms": [
+      "👨🏿‍🎤",
+      "dark skin tone",
+      "entertainer",
+      "man",
+      "man singer",
+      "performer",
+      "rock singer",
+      "star"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏻‍🎤",
+    "synonyms": [
+      "👩🏻‍🎤",
+      "entertainer",
+      "light skin tone",
+      "performer",
+      "rock singer",
+      "star",
+      "woman",
+      "woman singer"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏼‍🎤",
+    "synonyms": [
+      "👩🏼‍🎤",
+      "entertainer",
+      "medium-light skin tone",
+      "performer",
+      "rock singer",
+      "star",
+      "woman",
+      "woman singer"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏽‍🎤",
+    "synonyms": [
+      "👩🏽‍🎤",
+      "entertainer",
+      "medium skin tone",
+      "performer",
+      "rock singer",
+      "star",
+      "woman",
+      "woman singer"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏾‍🎤",
+    "synonyms": [
+      "👩🏾‍🎤",
+      "entertainer",
+      "medium-dark skin tone",
+      "performer",
+      "rock singer",
+      "star",
+      "woman",
+      "woman singer"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏿‍🎤",
+    "synonyms": [
+      "👩🏿‍🎤",
+      "dark skin tone",
+      "entertainer",
+      "performer",
+      "rock singer",
+      "star",
+      "woman",
+      "woman singer"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏻‍🎨",
+    "synonyms": [
+      "👨🏻‍🎨",
+      "artist",
+      "light skin tone",
+      "man",
+      "painter",
+      "palette"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏼‍🎨",
+    "synonyms": [
+      "👨🏼‍🎨",
+      "artist",
+      "man",
+      "medium-light skin tone",
+      "painter",
+      "palette"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏽‍🎨",
+    "synonyms": [
+      "👨🏽‍🎨",
+      "artist",
+      "man",
+      "medium skin tone",
+      "painter",
+      "palette"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏾‍🎨",
+    "synonyms": [
+      "👨🏾‍🎨",
+      "artist",
+      "man",
+      "medium-dark skin tone",
+      "painter",
+      "palette"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏿‍🎨",
+    "synonyms": [
+      "👨🏿‍🎨",
+      "artist",
+      "dark skin tone",
+      "man",
+      "painter",
+      "palette"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏻‍🎨",
+    "synonyms": [
+      "👩🏻‍🎨",
+      "artist",
+      "light skin tone",
+      "painter",
+      "palette",
+      "woman"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏼‍🎨",
+    "synonyms": [
+      "👩🏼‍🎨",
+      "artist",
+      "medium-light skin tone",
+      "painter",
+      "palette",
+      "woman"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏽‍🎨",
+    "synonyms": [
+      "👩🏽‍🎨",
+      "artist",
+      "medium skin tone",
+      "painter",
+      "palette",
+      "woman"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏾‍🎨",
+    "synonyms": [
+      "👩🏾‍🎨",
+      "artist",
+      "medium-dark skin tone",
+      "painter",
+      "palette",
+      "woman"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏿‍🎨",
+    "synonyms": [
+      "👩🏿‍🎨",
+      "artist",
+      "dark skin tone",
+      "painter",
+      "palette",
+      "woman"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏻‍🚒",
+    "synonyms": [
+      "👨🏻‍🚒",
+      "fire truck",
+      "firefighter",
+      "light skin tone",
+      "man"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏼‍🚒",
+    "synonyms": [
+      "👨🏼‍🚒",
+      "fire truck",
+      "firefighter",
+      "man",
+      "medium-light skin tone"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏽‍🚒",
+    "synonyms": [
+      "👨🏽‍🚒",
+      "fire truck",
+      "firefighter",
+      "man",
+      "medium skin tone"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏾‍🚒",
+    "synonyms": [
+      "👨🏾‍🚒",
+      "fire truck",
+      "firefighter",
+      "man",
+      "medium-dark skin tone"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏿‍🚒",
+    "synonyms": [
+      "👨🏿‍🚒",
+      "dark skin tone",
+      "fire truck",
+      "firefighter",
+      "man"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏻‍🚒",
+    "synonyms": [
+      "👩🏻‍🚒",
+      "fire truck",
+      "firefighter",
+      "light skin tone",
+      "woman"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏼‍🚒",
+    "synonyms": [
+      "👩🏼‍🚒",
+      "fire truck",
+      "firefighter",
+      "medium-light skin tone",
+      "woman"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏽‍🚒",
+    "synonyms": [
+      "👩🏽‍🚒",
+      "fire truck",
+      "firefighter",
+      "medium skin tone",
+      "woman"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏾‍🚒",
+    "synonyms": [
+      "👩🏾‍🚒",
+      "fire truck",
+      "firefighter",
+      "medium-dark skin tone",
+      "woman"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏿‍🚒",
+    "synonyms": [
+      "👩🏿‍🚒",
+      "dark skin tone",
+      "fire truck",
+      "firefighter",
+      "woman"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕵🏻",
+    "synonyms": [
+      "🕵🏻",
+      "detective",
+      "investigator",
+      "light skin tone",
+      "sleuth",
+      "spy"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕵🏼",
+    "synonyms": [
+      "🕵🏼",
+      "detective",
+      "investigator",
+      "medium-light skin tone",
+      "sleuth",
+      "spy"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕵🏽",
+    "synonyms": [
+      "🕵🏽",
+      "detective",
+      "investigator",
+      "medium skin tone",
+      "sleuth",
+      "spy"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕵🏾",
+    "synonyms": [
+      "🕵🏾",
+      "detective",
+      "investigator",
+      "medium-dark skin tone",
+      "sleuth",
+      "spy"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕵🏿",
+    "synonyms": [
+      "🕵🏿",
+      "dark skin tone",
+      "detective",
+      "investigator",
+      "sleuth",
+      "spy"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕵🏻‍♂",
+    "synonyms": [
+      "🕵🏻‍♂",
+      "detective",
+      "investigator",
+      "light skin tone",
+      "man",
+      "sleuth",
+      "spy"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕵🏼‍♂",
+    "synonyms": [
+      "🕵🏼‍♂",
+      "detective",
+      "investigator",
+      "man",
+      "medium-light skin tone",
+      "sleuth",
+      "spy"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕵🏽‍♂",
+    "synonyms": [
+      "🕵🏽‍♂",
+      "detective",
+      "investigator",
+      "man",
+      "medium skin tone",
+      "sleuth",
+      "spy"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕵🏾‍♂",
+    "synonyms": [
+      "🕵🏾‍♂",
+      "detective",
+      "investigator",
+      "man",
+      "medium-dark skin tone",
+      "sleuth",
+      "spy"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕵🏿‍♂",
+    "synonyms": [
+      "🕵🏿‍♂",
+      "dark skin tone",
+      "detective",
+      "investigator",
+      "man",
+      "sleuth",
+      "spy"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕵🏻‍♀",
+    "synonyms": [
+      "🕵🏻‍♀",
+      "detective",
+      "investigator",
+      "light skin tone",
+      "sleuth",
+      "spy",
+      "woman"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕵🏼‍♀",
+    "synonyms": [
+      "🕵🏼‍♀",
+      "detective",
+      "investigator",
+      "medium-light skin tone",
+      "sleuth",
+      "spy",
+      "woman"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕵🏽‍♀",
+    "synonyms": [
+      "🕵🏽‍♀",
+      "detective",
+      "investigator",
+      "medium skin tone",
+      "sleuth",
+      "spy",
+      "woman"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕵🏾‍♀",
+    "synonyms": [
+      "🕵🏾‍♀",
+      "detective",
+      "investigator",
+      "medium-dark skin tone",
+      "sleuth",
+      "spy",
+      "woman"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕵🏿‍♀",
+    "synonyms": [
+      "🕵🏿‍♀",
+      "dark skin tone",
+      "detective",
+      "investigator",
+      "sleuth",
+      "spy",
+      "woman"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤵🏻‍♂",
+    "synonyms": [
+      "🤵🏻‍♂",
+      "light skin tone",
+      "man",
+      "man in tux",
+      "man in tuxedo",
+      "tux",
+      "tuxedo"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤵🏼‍♂",
+    "synonyms": [
+      "🤵🏼‍♂",
+      "man",
+      "man in tux",
+      "man in tuxedo",
+      "medium-light skin tone",
+      "tux",
+      "tuxedo"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤵🏽‍♂",
+    "synonyms": [
+      "🤵🏽‍♂",
+      "man",
+      "man in tux",
+      "man in tuxedo",
+      "medium skin tone",
+      "tux",
+      "tuxedo"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤵🏾‍♂",
+    "synonyms": [
+      "🤵🏾‍♂",
+      "man",
+      "man in tux",
+      "man in tuxedo",
+      "medium-dark skin tone",
+      "tux",
+      "tuxedo"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤵🏿‍♂",
+    "synonyms": [
+      "🤵🏿‍♂",
+      "dark skin tone",
+      "man",
+      "man in tux",
+      "man in tuxedo",
+      "tux",
+      "tuxedo"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👰🏻‍♀",
+    "synonyms": [
+      "👰🏻‍♀",
+      "bride",
+      "light skin tone",
+      "veil",
+      "woman",
+      "woman with veil"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👰🏼‍♀",
+    "synonyms": [
+      "👰🏼‍♀",
+      "bride",
+      "medium-light skin tone",
+      "veil",
+      "woman",
+      "woman with veil"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👰🏽‍♀",
+    "synonyms": [
+      "👰🏽‍♀",
+      "bride",
+      "medium skin tone",
+      "veil",
+      "woman",
+      "woman with veil"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👰🏾‍♀",
+    "synonyms": [
+      "👰🏾‍♀",
+      "bride",
+      "medium-dark skin tone",
+      "veil",
+      "woman",
+      "woman with veil"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👰🏿‍♀",
+    "synonyms": [
+      "👰🏿‍♀",
+      "bride",
+      "dark skin tone",
+      "veil",
+      "woman",
+      "woman with veil"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎅🏻",
+    "synonyms": [
+      "🎅🏻",
+      "celebration",
+      "Christmas",
+      "Father Christmas",
+      "light skin tone",
+      "Santa",
+      "Santa Claus"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎅🏼",
+    "synonyms": [
+      "🎅🏼",
+      "celebration",
+      "Christmas",
+      "Father Christmas",
+      "medium-light skin tone",
+      "Santa",
+      "Santa Claus"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎅🏽",
+    "synonyms": [
+      "🎅🏽",
+      "celebration",
+      "Christmas",
+      "Father Christmas",
+      "medium skin tone",
+      "Santa",
+      "Santa Claus"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎅🏾",
+    "synonyms": [
+      "🎅🏾",
+      "celebration",
+      "Christmas",
+      "Father Christmas",
+      "medium-dark skin tone",
+      "Santa",
+      "Santa Claus"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🎅🏿",
+    "synonyms": [
+      "🎅🏿",
+      "celebration",
+      "Christmas",
+      "dark skin tone",
+      "Father Christmas",
+      "Santa",
+      "Santa Claus"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤶🏻",
+    "synonyms": [
+      "🤶🏻",
+      "celebration",
+      "Christmas",
+      "light skin tone",
+      "Mrs Claus",
+      "Mrs Santa Claus"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤶🏼",
+    "synonyms": [
+      "🤶🏼",
+      "celebration",
+      "Christmas",
+      "medium-light skin tone",
+      "Mrs Claus",
+      "Mrs Santa Claus"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤶🏽",
+    "synonyms": [
+      "🤶🏽",
+      "celebration",
+      "Christmas",
+      "medium skin tone",
+      "Mrs Claus",
+      "Mrs Santa Claus"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤶🏾",
+    "synonyms": [
+      "🤶🏾",
+      "celebration",
+      "Christmas",
+      "medium-dark skin tone",
+      "Mrs Claus",
+      "Mrs Santa Claus"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤶🏿",
+    "synonyms": [
+      "🤶🏿",
+      "celebration",
+      "Christmas",
+      "dark skin tone",
+      "Mrs Claus",
+      "Mrs Santa Claus"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💇🏻‍♂",
+    "synonyms": [
+      "💇🏻‍♂",
+      "haircut",
+      "hairdresser",
+      "light skin tone",
+      "man",
+      "man getting haircut"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💇🏼‍♂",
+    "synonyms": [
+      "💇🏼‍♂",
+      "haircut",
+      "hairdresser",
+      "man",
+      "man getting haircut",
+      "medium-light skin tone"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💇🏽‍♂",
+    "synonyms": [
+      "💇🏽‍♂",
+      "haircut",
+      "hairdresser",
+      "man",
+      "man getting haircut",
+      "medium skin tone"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💇🏾‍♂",
+    "synonyms": [
+      "💇🏾‍♂",
+      "haircut",
+      "hairdresser",
+      "man",
+      "man getting haircut",
+      "medium-dark skin tone"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💇🏿‍♂",
+    "synonyms": [
+      "💇🏿‍♂",
+      "dark skin tone",
+      "haircut",
+      "hairdresser",
+      "man",
+      "man getting haircut"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💇🏻‍♀",
+    "synonyms": [
+      "💇🏻‍♀",
+      "haircut",
+      "hairdresser",
+      "light skin tone",
+      "woman",
+      "woman getting haircut"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💇🏼‍♀",
+    "synonyms": [
+      "💇🏼‍♀",
+      "haircut",
+      "hairdresser",
+      "medium-light skin tone",
+      "woman",
+      "woman getting haircut"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💇🏽‍♀",
+    "synonyms": [
+      "💇🏽‍♀",
+      "haircut",
+      "hairdresser",
+      "medium skin tone",
+      "woman",
+      "woman getting haircut"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💇🏾‍♀",
+    "synonyms": [
+      "💇🏾‍♀",
+      "haircut",
+      "hairdresser",
+      "medium-dark skin tone",
+      "woman",
+      "woman getting haircut"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💇🏿‍♀",
+    "synonyms": [
+      "💇🏿‍♀",
+      "dark skin tone",
+      "haircut",
+      "hairdresser",
+      "woman",
+      "woman getting haircut"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏻‍🦯",
+    "synonyms": [
+      "🧑🏻‍🦯",
+      "accessibility",
+      "blind",
+      "light skin tone",
+      "person with guide cane",
+      "person with long mobility cane"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏼‍🦯",
+    "synonyms": [
+      "🧑🏼‍🦯",
+      "accessibility",
+      "blind",
+      "medium-light skin tone",
+      "person with guide cane",
+      "person with long mobility cane"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏽‍🦯",
+    "synonyms": [
+      "🧑🏽‍🦯",
+      "accessibility",
+      "blind",
+      "medium skin tone",
+      "person with guide cane",
+      "person with long mobility cane"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏾‍🦯",
+    "synonyms": [
+      "🧑🏾‍🦯",
+      "accessibility",
+      "blind",
+      "medium-dark skin tone",
+      "person with guide cane",
+      "person with long mobility cane"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏿‍🦯",
+    "synonyms": [
+      "🧑🏿‍🦯",
+      "accessibility",
+      "blind",
+      "dark skin tone",
+      "person with guide cane",
+      "person with long mobility cane"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏻‍🦼",
+    "synonyms": [
+      "🧑🏻‍🦼",
+      "light skin tone",
+      "person in motorised wheelchair"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏼‍🦼",
+    "synonyms": [
+      "🧑🏼‍🦼",
+      "medium-light skin tone",
+      "person in motorised wheelchair"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏽‍🦼",
+    "synonyms": [
+      "🧑🏽‍🦼",
+      "medium skin tone",
+      "person in motorised wheelchair"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏾‍🦼",
+    "synonyms": [
+      "🧑🏾‍🦼",
+      "medium-dark skin tone",
+      "person in motorised wheelchair"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧑🏿‍🦼",
+    "synonyms": [
+      "🧑🏿‍🦼",
+      "dark skin tone",
+      "person in motorised wheelchair"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏻‍🦼",
+    "synonyms": [
+      "👨🏻‍🦼",
+      "light skin tone",
+      "man in motorised wheelchair"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏼‍🦼",
+    "synonyms": [
+      "👨🏼‍🦼",
+      "man in motorised wheelchair",
+      "medium-light skin tone"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏽‍🦼",
+    "synonyms": [
+      "👨🏽‍🦼",
+      "man in motorised wheelchair",
+      "medium skin tone"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏾‍🦼",
+    "synonyms": [
+      "👨🏾‍🦼",
+      "man in motorised wheelchair",
+      "medium-dark skin tone"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏿‍🦼",
+    "synonyms": [
+      "👨🏿‍🦼",
+      "dark skin tone",
+      "man in motorised wheelchair"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏻‍🦼",
+    "synonyms": [
+      "👩🏻‍🦼",
+      "light skin tone",
+      "woman in motorised wheelchair"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏼‍🦼",
+    "synonyms": [
+      "👩🏼‍🦼",
+      "medium-light skin tone",
+      "woman in motorised wheelchair"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏽‍🦼",
+    "synonyms": [
+      "👩🏽‍🦼",
+      "medium skin tone",
+      "woman in motorised wheelchair"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏾‍🦼",
+    "synonyms": [
+      "👩🏾‍🦼",
+      "medium-dark skin tone",
+      "woman in motorised wheelchair"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏿‍🦼",
+    "synonyms": [
+      "👩🏿‍🦼",
+      "dark skin tone",
+      "woman in motorised wheelchair"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧖🏻‍♂",
+    "synonyms": [
+      "🧖🏻‍♂",
+      "light skin tone",
+      "man in steam room",
+      "man in steamy room",
+      "sauna",
+      "steam room"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧖🏼‍♂",
+    "synonyms": [
+      "🧖🏼‍♂",
+      "man in steam room",
+      "man in steamy room",
+      "medium-light skin tone",
+      "sauna",
+      "steam room"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧖🏽‍♂",
+    "synonyms": [
+      "🧖🏽‍♂",
+      "man in steam room",
+      "man in steamy room",
+      "medium skin tone",
+      "sauna",
+      "steam room"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧖🏾‍♂",
+    "synonyms": [
+      "🧖🏾‍♂",
+      "man in steam room",
+      "man in steamy room",
+      "medium-dark skin tone",
+      "sauna",
+      "steam room"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧖🏿‍♂",
+    "synonyms": [
+      "🧖🏿‍♂",
+      "dark skin tone",
+      "man in steam room",
+      "man in steamy room",
+      "sauna",
+      "steam room"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧖🏻‍♀",
+    "synonyms": [
+      "🧖🏻‍♀",
+      "light skin tone",
+      "sauna",
+      "steam room",
+      "woman in steam room",
+      "woman in steamy room"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧖🏼‍♀",
+    "synonyms": [
+      "🧖🏼‍♀",
+      "medium-light skin tone",
+      "sauna",
+      "steam room",
+      "woman in steam room",
+      "woman in steamy room"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧖🏽‍♀",
+    "synonyms": [
+      "🧖🏽‍♀",
+      "medium skin tone",
+      "sauna",
+      "steam room",
+      "woman in steam room",
+      "woman in steamy room"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧖🏾‍♀",
+    "synonyms": [
+      "🧖🏾‍♀",
+      "medium-dark skin tone",
+      "sauna",
+      "steam room",
+      "woman in steam room",
+      "woman in steamy room"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧖🏿‍♀",
+    "synonyms": [
+      "🧖🏿‍♀",
+      "dark skin tone",
+      "sauna",
+      "steam room",
+      "woman in steam room",
+      "woman in steamy room"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏌🏻",
+    "synonyms": [
+      "🏌🏻",
+      "ball",
+      "golf",
+      "golfer",
+      "light skin tone",
+      "person golfing"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏌🏼",
+    "synonyms": [
+      "🏌🏼",
+      "ball",
+      "golf",
+      "golfer",
+      "medium-light skin tone",
+      "person golfing"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏌🏽",
+    "synonyms": [
+      "🏌🏽",
+      "ball",
+      "golf",
+      "golfer",
+      "medium skin tone",
+      "person golfing"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏌🏾",
+    "synonyms": [
+      "🏌🏾",
+      "ball",
+      "golf",
+      "golfer",
+      "medium-dark skin tone",
+      "person golfing"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏌🏿",
+    "synonyms": [
+      "🏌🏿",
+      "ball",
+      "dark skin tone",
+      "golf",
+      "golfer",
+      "person golfing"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏌🏻‍♂",
+    "synonyms": [
+      "🏌🏻‍♂",
+      "golf",
+      "golfer",
+      "light skin tone",
+      "man",
+      "man golfing"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏌🏼‍♂",
+    "synonyms": [
+      "🏌🏼‍♂",
+      "golf",
+      "golfer",
+      "man",
+      "man golfing",
+      "medium-light skin tone"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏌🏽‍♂",
+    "synonyms": [
+      "🏌🏽‍♂",
+      "golf",
+      "golfer",
+      "man",
+      "man golfing",
+      "medium skin tone"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏌🏾‍♂",
+    "synonyms": [
+      "🏌🏾‍♂",
+      "golf",
+      "golfer",
+      "man",
+      "man golfing",
+      "medium-dark skin tone"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏌🏿‍♂",
+    "synonyms": [
+      "🏌🏿‍♂",
+      "dark skin tone",
+      "golf",
+      "golfer",
+      "man",
+      "man golfing"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏌🏻‍♀",
+    "synonyms": [
+      "🏌🏻‍♀",
+      "golf",
+      "golfer",
+      "light skin tone",
+      "woman",
+      "woman golfing"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏌🏼‍♀",
+    "synonyms": [
+      "🏌🏼‍♀",
+      "golf",
+      "golfer",
+      "medium-light skin tone",
+      "woman",
+      "woman golfing"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏌🏽‍♀",
+    "synonyms": [
+      "🏌🏽‍♀",
+      "golf",
+      "golfer",
+      "medium skin tone",
+      "woman",
+      "woman golfing"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏌🏾‍♀",
+    "synonyms": [
+      "🏌🏾‍♀",
+      "golf",
+      "golfer",
+      "medium-dark skin tone",
+      "woman",
+      "woman golfing"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏌🏿‍♀",
+    "synonyms": [
+      "🏌🏿‍♀",
+      "dark skin tone",
+      "golf",
+      "golfer",
+      "woman",
+      "woman golfing"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏄🏻",
+    "synonyms": [
+      "🏄🏻",
+      "light skin tone",
+      "person surfing",
+      "surfer",
+      "surfing"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏄🏼",
+    "synonyms": [
+      "🏄🏼",
+      "medium-light skin tone",
+      "person surfing",
+      "surfer",
+      "surfing"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏄🏽",
+    "synonyms": [
+      "🏄🏽",
+      "medium skin tone",
+      "person surfing",
+      "surfer",
+      "surfing"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏄🏾",
+    "synonyms": [
+      "🏄🏾",
+      "medium-dark skin tone",
+      "person surfing",
+      "surfer",
+      "surfing"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏄🏿",
+    "synonyms": [
+      "🏄🏿",
+      "dark skin tone",
+      "person surfing",
+      "surfer",
+      "surfing"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏄🏻‍♂",
+    "synonyms": [
+      "🏄🏻‍♂",
+      "light skin tone",
+      "man",
+      "surfer",
+      "surfing"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏄🏼‍♂",
+    "synonyms": [
+      "🏄🏼‍♂",
+      "man",
+      "medium-light skin tone",
+      "surfer",
+      "surfing"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏄🏽‍♂",
+    "synonyms": [
+      "🏄🏽‍♂",
+      "man",
+      "medium skin tone",
+      "surfer",
+      "surfing"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏄🏾‍♂",
+    "synonyms": [
+      "🏄🏾‍♂",
+      "man",
+      "medium-dark skin tone",
+      "surfer",
+      "surfing"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏄🏿‍♂",
+    "synonyms": [
+      "🏄🏿‍♂",
+      "dark skin tone",
+      "man",
+      "surfer",
+      "surfing"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏄🏻‍♀",
+    "synonyms": [
+      "🏄🏻‍♀",
+      "light skin tone",
+      "surfer",
+      "surfing",
+      "woman"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏄🏼‍♀",
+    "synonyms": [
+      "🏄🏼‍♀",
+      "medium-light skin tone",
+      "surfer",
+      "surfing",
+      "woman"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏄🏽‍♀",
+    "synonyms": [
+      "🏄🏽‍♀",
+      "medium skin tone",
+      "surfer",
+      "surfing",
+      "woman"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏄🏾‍♀",
+    "synonyms": [
+      "🏄🏾‍♀",
+      "medium-dark skin tone",
+      "surfer",
+      "surfing",
+      "woman"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏄🏿‍♀",
+    "synonyms": [
+      "🏄🏿‍♀",
+      "dark skin tone",
+      "surfer",
+      "surfing",
+      "woman"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚣🏻",
+    "synonyms": [
+      "🚣🏻",
+      "boat",
+      "light skin tone",
+      "person",
+      "person rowing boat",
+      "rowboat"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚣🏼",
+    "synonyms": [
+      "🚣🏼",
+      "boat",
+      "medium-light skin tone",
+      "person",
+      "person rowing boat",
+      "rowboat"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚣🏽",
+    "synonyms": [
+      "🚣🏽",
+      "boat",
+      "medium skin tone",
+      "person",
+      "person rowing boat",
+      "rowboat"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚣🏾",
+    "synonyms": [
+      "🚣🏾",
+      "boat",
+      "medium-dark skin tone",
+      "person",
+      "person rowing boat",
+      "rowboat"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚣🏿",
+    "synonyms": [
+      "🚣🏿",
+      "boat",
+      "dark skin tone",
+      "person",
+      "person rowing boat",
+      "rowboat"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏊🏻",
+    "synonyms": [
+      "🏊🏻",
+      "light skin tone",
+      "person swimming",
+      "swim",
+      "swimmer"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏊🏼",
+    "synonyms": [
+      "🏊🏼",
+      "medium-light skin tone",
+      "person swimming",
+      "swim",
+      "swimmer"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏊🏽",
+    "synonyms": [
+      "🏊🏽",
+      "medium skin tone",
+      "person swimming",
+      "swim",
+      "swimmer"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏊🏾",
+    "synonyms": [
+      "🏊🏾",
+      "medium-dark skin tone",
+      "person swimming",
+      "swim",
+      "swimmer"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏊🏿",
+    "synonyms": [
+      "🏊🏿",
+      "dark skin tone",
+      "person swimming",
+      "swim",
+      "swimmer"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏊🏻‍♂",
+    "synonyms": [
+      "🏊🏻‍♂",
+      "light skin tone",
+      "man",
+      "man swimming",
+      "swim",
+      "swimmer"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏊🏼‍♂",
+    "synonyms": [
+      "🏊🏼‍♂",
+      "man",
+      "man swimming",
+      "medium-light skin tone",
+      "swim",
+      "swimmer"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏊🏽‍♂",
+    "synonyms": [
+      "🏊🏽‍♂",
+      "man",
+      "man swimming",
+      "medium skin tone",
+      "swim",
+      "swimmer"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏊🏾‍♂",
+    "synonyms": [
+      "🏊🏾‍♂",
+      "man",
+      "man swimming",
+      "medium-dark skin tone",
+      "swim",
+      "swimmer"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏊🏿‍♂",
+    "synonyms": [
+      "🏊🏿‍♂",
+      "dark skin tone",
+      "man",
+      "man swimming",
+      "swim",
+      "swimmer"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏊🏻‍♀",
+    "synonyms": [
+      "🏊🏻‍♀",
+      "light skin tone",
+      "swim",
+      "swimmer",
+      "woman",
+      "woman swimming"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏊🏼‍♀",
+    "synonyms": [
+      "🏊🏼‍♀",
+      "medium-light skin tone",
+      "swim",
+      "swimmer",
+      "woman",
+      "woman swimming"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏊🏽‍♀",
+    "synonyms": [
+      "🏊🏽‍♀",
+      "medium skin tone",
+      "swim",
+      "swimmer",
+      "woman",
+      "woman swimming"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏊🏾‍♀",
+    "synonyms": [
+      "🏊🏾‍♀",
+      "medium-dark skin tone",
+      "swim",
+      "swimmer",
+      "woman",
+      "woman swimming"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏊🏿‍♀",
+    "synonyms": [
+      "🏊🏿‍♀",
+      "dark skin tone",
+      "swim",
+      "swimmer",
+      "woman",
+      "woman swimming"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚴🏻",
+    "synonyms": [
+      "🚴🏻",
+      "bicycle",
+      "biking",
+      "cyclist",
+      "light skin tone",
+      "person biking",
+      "person riding a bike"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚴🏼",
+    "synonyms": [
+      "🚴🏼",
+      "bicycle",
+      "biking",
+      "cyclist",
+      "medium-light skin tone",
+      "person biking",
+      "person riding a bike"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚴🏽",
+    "synonyms": [
+      "🚴🏽",
+      "bicycle",
+      "biking",
+      "cyclist",
+      "medium skin tone",
+      "person biking",
+      "person riding a bike"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚴🏾",
+    "synonyms": [
+      "🚴🏾",
+      "bicycle",
+      "biking",
+      "cyclist",
+      "medium-dark skin tone",
+      "person biking",
+      "person riding a bike"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚴🏿",
+    "synonyms": [
+      "🚴🏿",
+      "bicycle",
+      "biking",
+      "cyclist",
+      "dark skin tone",
+      "person biking",
+      "person riding a bike"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚴🏻‍♂",
+    "synonyms": [
+      "🚴🏻‍♂",
+      "bicycle",
+      "biking",
+      "cyclist",
+      "light skin tone",
+      "man",
+      "man riding a bike"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚴🏼‍♂",
+    "synonyms": [
+      "🚴🏼‍♂",
+      "bicycle",
+      "biking",
+      "cyclist",
+      "man",
+      "man riding a bike",
+      "medium-light skin tone"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚴🏽‍♂",
+    "synonyms": [
+      "🚴🏽‍♂",
+      "bicycle",
+      "biking",
+      "cyclist",
+      "man",
+      "man riding a bike",
+      "medium skin tone"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚴🏾‍♂",
+    "synonyms": [
+      "🚴🏾‍♂",
+      "bicycle",
+      "biking",
+      "cyclist",
+      "man",
+      "man riding a bike",
+      "medium-dark skin tone"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚴🏿‍♂",
+    "synonyms": [
+      "🚴🏿‍♂",
+      "bicycle",
+      "biking",
+      "cyclist",
+      "dark skin tone",
+      "man",
+      "man riding a bike"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚴🏻‍♀",
+    "synonyms": [
+      "🚴🏻‍♀",
+      "bicycle",
+      "biking",
+      "cyclist",
+      "light skin tone",
+      "woman",
+      "woman riding a bike"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚴🏼‍♀",
+    "synonyms": [
+      "🚴🏼‍♀",
+      "bicycle",
+      "biking",
+      "cyclist",
+      "medium-light skin tone",
+      "woman",
+      "woman riding a bike"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚴🏽‍♀",
+    "synonyms": [
+      "🚴🏽‍♀",
+      "bicycle",
+      "biking",
+      "cyclist",
+      "medium skin tone",
+      "woman",
+      "woman riding a bike"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚴🏾‍♀",
+    "synonyms": [
+      "🚴🏾‍♀",
+      "bicycle",
+      "biking",
+      "cyclist",
+      "medium-dark skin tone",
+      "woman",
+      "woman riding a bike"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚴🏿‍♀",
+    "synonyms": [
+      "🚴🏿‍♀",
+      "bicycle",
+      "biking",
+      "cyclist",
+      "dark skin tone",
+      "woman",
+      "woman riding a bike"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤹🏻",
+    "synonyms": [
+      "🤹🏻",
+      "balance",
+      "juggle",
+      "light skin tone",
+      "multi-task",
+      "person juggling",
+      "skill"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤹🏼",
+    "synonyms": [
+      "🤹🏼",
+      "balance",
+      "juggle",
+      "medium-light skin tone",
+      "multi-task",
+      "person juggling",
+      "skill"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤹🏽",
+    "synonyms": [
+      "🤹🏽",
+      "balance",
+      "juggle",
+      "medium skin tone",
+      "multi-task",
+      "person juggling",
+      "skill"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤹🏾",
+    "synonyms": [
+      "🤹🏾",
+      "balance",
+      "juggle",
+      "medium-dark skin tone",
+      "multi-task",
+      "person juggling",
+      "skill"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤹🏿",
+    "synonyms": [
+      "🤹🏿",
+      "balance",
+      "dark skin tone",
+      "juggle",
+      "multi-task",
+      "person juggling",
+      "skill"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤹🏻‍♂",
+    "synonyms": [
+      "🤹🏻‍♂",
+      "juggling",
+      "light skin tone",
+      "man",
+      "multi-task"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤹🏼‍♂",
+    "synonyms": [
+      "🤹🏼‍♂",
+      "juggling",
+      "man",
+      "medium-light skin tone",
+      "multi-task"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤹🏽‍♂",
+    "synonyms": [
+      "🤹🏽‍♂",
+      "juggling",
+      "man",
+      "medium skin tone",
+      "multi-task"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤹🏾‍♂",
+    "synonyms": [
+      "🤹🏾‍♂",
+      "juggling",
+      "man",
+      "medium-dark skin tone",
+      "multi-task"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤹🏿‍♂",
+    "synonyms": [
+      "🤹🏿‍♂",
+      "dark skin tone",
+      "juggling",
+      "man",
+      "multi-task"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤹🏻‍♀",
+    "synonyms": [
+      "🤹🏻‍♀",
+      "juggling",
+      "light skin tone",
+      "multi-task",
+      "woman"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤹🏼‍♀",
+    "synonyms": [
+      "🤹🏼‍♀",
+      "juggling",
+      "medium-light skin tone",
+      "multi-task",
+      "woman"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤹🏽‍♀",
+    "synonyms": [
+      "🤹🏽‍♀",
+      "juggling",
+      "medium skin tone",
+      "multi-task",
+      "woman"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤹🏾‍♀",
+    "synonyms": [
+      "🤹🏾‍♀",
+      "juggling",
+      "medium-dark skin tone",
+      "multi-task",
+      "woman"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤹🏿‍♀",
+    "synonyms": [
+      "🤹🏿‍♀",
+      "dark skin tone",
+      "juggling",
+      "multi-task",
+      "woman"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛀🏻",
+    "synonyms": [
+      "🛀🏻",
+      "bath",
+      "bathtub",
+      "light skin tone",
+      "person taking bath",
+      "tub"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛀🏼",
+    "synonyms": [
+      "🛀🏼",
+      "bath",
+      "bathtub",
+      "medium-light skin tone",
+      "person taking bath",
+      "tub"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛀🏽",
+    "synonyms": [
+      "🛀🏽",
+      "bath",
+      "bathtub",
+      "medium skin tone",
+      "person taking bath",
+      "tub"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛀🏾",
+    "synonyms": [
+      "🛀🏾",
+      "bath",
+      "bathtub",
+      "medium-dark skin tone",
+      "person taking bath",
+      "tub"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛀🏿",
+    "synonyms": [
+      "🛀🏿",
+      "bath",
+      "bathtub",
+      "dark skin tone",
+      "person taking bath",
+      "tub"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛌🏻",
+    "synonyms": [
+      "🛌🏻",
+      "hotel",
+      "light skin tone",
+      "person in bed",
+      "sleep",
+      "sleeping"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛌🏼",
+    "synonyms": [
+      "🛌🏼",
+      "hotel",
+      "medium-light skin tone",
+      "person in bed",
+      "sleep",
+      "sleeping"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛌🏽",
+    "synonyms": [
+      "🛌🏽",
+      "hotel",
+      "medium skin tone",
+      "person in bed",
+      "sleep",
+      "sleeping"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛌🏾",
+    "synonyms": [
+      "🛌🏾",
+      "hotel",
+      "medium-dark skin tone",
+      "person in bed",
+      "sleep",
+      "sleeping"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛌🏿",
+    "synonyms": [
+      "🛌🏿",
+      "dark skin tone",
+      "hotel",
+      "person in bed",
+      "sleep",
+      "sleeping"
+    ]
+  }
+]

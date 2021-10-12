@@ -1,0 +1,1559 @@
+[
+  {
+    "type": "onewaysynonym",
+    "input": "😎",
+    "synonyms": [
+      "😎",
+      "hali ya hewa",
+      "inayong’aa",
+      "jua",
+      "miwani ya jua",
+      "tabasamu",
+      "uso unaotabasamu uliovaa miwani",
+      "vali la macho"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💗",
+    "synonyms": [
+      "💗",
+      "furahia",
+      "kukua",
+      "moyo",
+      "moyo uanokua",
+      "moyo unaokua",
+      "mpaigo ya moyo",
+      "wasiwasi"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👊",
+    "synonyms": [
+      "👊",
+      "konde",
+      "kunja ngumi",
+      "mkono",
+      "mwili",
+      "ngumi",
+      "ngumi iliyonyooshewa"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤦‍♀",
+    "synonyms": [
+      "🤦‍♀",
+      "ishara",
+      "kutoamini",
+      "mwanamke anayeashiria kutoamini",
+      "mwanamke anayueashiria kutoamini"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨‍🎓",
+    "synonyms": [
+      "👨‍🎓",
+      "fuzu",
+      "hitimu",
+      "kofia",
+      "mahafali",
+      "mwanafunzi na kofia ya kufuzu"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩‍🎓",
+    "synonyms": [
+      "👩‍🎓",
+      "fuzu",
+      "hitimu",
+      "kofia",
+      "mahafali",
+      "mwanafunzi wa kike na kofia ya kufuzu"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👮",
+    "synonyms": [
+      "👮",
+      "afisa",
+      "afisa wa polisi",
+      "polisi"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤰",
+    "synonyms": [
+      "🤰",
+      "mjamzito",
+      "mwanamke"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏋‍♂",
+    "synonyms": [
+      "🏋‍♂",
+      "mbeba vyuma",
+      "mwanamume anayebeba vyuma vizito",
+      "uzani",
+      "uzito"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏋‍♀",
+    "synonyms": [
+      "🏋‍♀",
+      "mbeba vyuma",
+      "mwanamke anayebeba vyuma vizito",
+      "uzani",
+      "uzito"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤹",
+    "synonyms": [
+      "🤹",
+      "mtu anayecheza mipira mingi",
+      "shughuli nyingi"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🗣",
+    "synonyms": [
+      "🗣",
+      "kichwa",
+      "kichwa kinachozungumza",
+      "kivuli",
+      "kuzungumza",
+      "uso",
+      "zungumza"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🦙",
+    "synonyms": [
+      "🦙",
+      "alpaca",
+      "guanaco",
+      "lama",
+      "sufu",
+      "vicuña"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍅",
+    "synonyms": [
+      "🍅",
+      "mboga",
+      "mmea",
+      "nyanya"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍆",
+    "synonyms": [
+      "🍆",
+      "biringanya",
+      "mboga",
+      "mmea"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍜",
+    "synonyms": [
+      "🍜",
+      "bakuli",
+      "bakuli lenye tambi",
+      "kupika kwa mvuke",
+      "tambi",
+      "tambi za kijapani"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍺",
+    "synonyms": [
+      "🍺",
+      "baa",
+      "bia",
+      "kikombe",
+      "kikombe cha bia",
+      "kinywaji"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🍻",
+    "synonyms": [
+      "🍻",
+      "baa",
+      "bia",
+      "gonganisha",
+      "kikombe",
+      "kinywaji",
+      "vikombe vya bia vinavyogonganishwa"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌄",
+    "synonyms": [
+      "🌄",
+      "asubuhi",
+      "hali ya hewa",
+      "jua",
+      "macheo",
+      "macheo kwenye milima",
+      "mlima"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "♨",
+    "synonyms": [
+      "♨",
+      "chemchemi za maji moto",
+      "chemichemi",
+      "chemichemi za maji ya moto",
+      "moto",
+      "mvuke"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "⛴",
+    "synonyms": [
+      "⛴",
+      "boti",
+      "feri",
+      "kivuko"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛬",
+    "synonyms": [
+      "🛬",
+      "gari",
+      "inawasili",
+      "kutua",
+      "kuwasili",
+      "ndege",
+      "ndege inayowasili"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚠",
+    "synonyms": [
+      "🚠",
+      "gari",
+      "gari linalosafiri kwenye kamba zilizoning’inizwa hewani",
+      "gari linalosafiri milimani kwa kamba",
+      "kebo"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🚡",
+    "synonyms": [
+      "🚡",
+      "gari",
+      "gari linalosafiri kwenye kamba zilizoning’inizwa hewani",
+      "hewani",
+      "kebo",
+      "njia ya kamba",
+      "njia ya tramu",
+      "tramu inayosafiri angani kwa kamba"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌒",
+    "synonyms": [
+      "🌒",
+      "anga",
+      "hali ya hewa",
+      "kuanza",
+      "mwezi",
+      "mwezi mwandamo"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌘",
+    "synonyms": [
+      "🌘",
+      "anga",
+      "hali ya hewa",
+      "kuisha",
+      "mwezi",
+      "mwezi kongo",
+      "mwezi mwandamo"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌠",
+    "synonyms": [
+      "🌠",
+      "anga",
+      "kimwondo",
+      "kuanguka",
+      "nyota"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🌌",
+    "synonyms": [
+      "🌌",
+      "anga",
+      "hali ya jewa",
+      "kilimia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔥",
+    "synonyms": [
+      "🔥",
+      "moto",
+      "mwale",
+      "zana"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🪄",
+    "synonyms": [
+      "🪄",
+      "kifimbo cha miujiza",
+      "mchawi",
+      "muujiza"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧩",
+    "synonyms": [
+      "🧩",
+      "dokezo",
+      "fumbo",
+      "fungamana",
+      "kipande",
+      "kipande cha mchezo wa mafumbo",
+      "mchezofumbo"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👓",
+    "synonyms": [
+      "👓",
+      "jicho",
+      "mavazi",
+      "miwani",
+      "miwani ya macho"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔈",
+    "synonyms": [
+      "🔈",
+      "sauti",
+      "sauti ya chini ya spika",
+      "spika"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💽",
+    "synonyms": [
+      "💽",
+      "diski",
+      "diski ndogo",
+      "kompyuta",
+      "mwangaza"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💿",
+    "synonyms": [
+      "💿",
+      "blu-ray",
+      "cd",
+      "diski",
+      "diski ya kutumia mwangaza",
+      "dvd",
+      "kompyuta",
+      "mwangaza"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📀",
+    "synonyms": [
+      "📀",
+      "blu-ray",
+      "cd",
+      "diski",
+      "diski dijitali",
+      "kompyuta",
+      "mwangaza"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💹",
+    "synonyms": [
+      "💹",
+      "benki",
+      "chati",
+      "chati inayopanda yenye yeni",
+      "grafu",
+      "juu",
+      "kupanda",
+      "ongezeka",
+      "pesa",
+      "sarafu",
+      "soko",
+      "uelekeo",
+      "yeni"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🧬",
+    "synonyms": [
+      "🧬",
+      "dna",
+      "jenetiki",
+      "jeni",
+      "mageuko",
+      "maisha",
+      "mwanabiolojia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🛒",
+    "synonyms": [
+      "🛒",
+      "kigari cha kununulia bidhaa",
+      "mkokoteni",
+      "toroli",
+      "ununuzi"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "📵",
+    "synonyms": [
+      "📵",
+      "hapana",
+      "katazwa",
+      "marufuku",
+      "simu",
+      "simu ya mkononi",
+      "simu za mkononi haziruhusiwi",
+      "siyo",
+      "ya mkononi"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "☣",
+    "synonyms": [
+      "☣",
+      "tahadhari ya kibilojia",
+      "tahadhari ya kibiolojia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "♏",
+    "synonyms": [
+      "♏",
+      "nge",
+      "nyota ya nge",
+      "zodiaki"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🔅",
+    "synonyms": [
+      "🔅",
+      "chini",
+      "fifia",
+      "kitufe cha kufifisha mwanga",
+      "kitufe cha kufifiza mwanga",
+      "kung’aa"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💱",
+    "synonyms": [
+      "💱",
+      "benki",
+      "pesa",
+      "sarafu",
+      "sarafu mbalimbali",
+      "ubadilishaji wa pesa",
+      "ubadilishanaji wa sarafu"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "💲",
+    "synonyms": [
+      "💲",
+      "alama nzito ya dola",
+      "dola",
+      "pesa",
+      "sarafu"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🆓",
+    "synonyms": [
+      "🆓",
+      "huru",
+      "kitufe cheney neno FREE’",
+      "kitufe chenye neno FREE’"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👊🏻",
+    "synonyms": [
+      "👊🏻",
+      "konde",
+      "kunja ngumi",
+      "mkono",
+      "mwili",
+      "ngozi nyeupe",
+      "ngumi",
+      "ngumi iliyonyooshewa"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👊🏼",
+    "synonyms": [
+      "👊🏼",
+      "konde",
+      "kunja ngumi",
+      "mkono",
+      "mwili",
+      "ngozi nyeupe kiasi",
+      "ngumi",
+      "ngumi iliyonyooshewa"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👊🏽",
+    "synonyms": [
+      "👊🏽",
+      "konde",
+      "kunja ngumi",
+      "mkono",
+      "mwili",
+      "ngozi ya kahawia",
+      "ngumi",
+      "ngumi iliyonyooshewa"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👊🏾",
+    "synonyms": [
+      "👊🏾",
+      "konde",
+      "kunja ngumi",
+      "mkono",
+      "mwili",
+      "ngozi nyeusi kiasi",
+      "ngumi",
+      "ngumi iliyonyooshewa"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👊🏿",
+    "synonyms": [
+      "👊🏿",
+      "konde",
+      "kunja ngumi",
+      "mkono",
+      "mwili",
+      "ngozi nyeusi",
+      "ngumi",
+      "ngumi iliyonyooshewa"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤦🏻‍♀",
+    "synonyms": [
+      "🤦🏻‍♀",
+      "ishara",
+      "kutoamini",
+      "mwanamke anayeashiria kutoamini",
+      "mwanamke anayueashiria kutoamini",
+      "ngozi nyeupe"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤦🏼‍♀",
+    "synonyms": [
+      "🤦🏼‍♀",
+      "ishara",
+      "kutoamini",
+      "mwanamke anayeashiria kutoamini",
+      "mwanamke anayueashiria kutoamini",
+      "ngozi nyeupe kiasi"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤦🏽‍♀",
+    "synonyms": [
+      "🤦🏽‍♀",
+      "ishara",
+      "kutoamini",
+      "mwanamke anayeashiria kutoamini",
+      "mwanamke anayueashiria kutoamini",
+      "ngozi ya kahawia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤦🏾‍♀",
+    "synonyms": [
+      "🤦🏾‍♀",
+      "ishara",
+      "kutoamini",
+      "mwanamke anayeashiria kutoamini",
+      "mwanamke anayueashiria kutoamini",
+      "ngozi nyeusi kiasi"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤦🏿‍♀",
+    "synonyms": [
+      "🤦🏿‍♀",
+      "ishara",
+      "kutoamini",
+      "mwanamke anayeashiria kutoamini",
+      "mwanamke anayueashiria kutoamini",
+      "ngozi nyeusi"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏻‍🎓",
+    "synonyms": [
+      "👨🏻‍🎓",
+      "fuzu",
+      "hitimu",
+      "kofia",
+      "mahafali",
+      "mwanafunzi na kofia ya kufuzu",
+      "ngozi nyeupe"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏼‍🎓",
+    "synonyms": [
+      "👨🏼‍🎓",
+      "fuzu",
+      "hitimu",
+      "kofia",
+      "mahafali",
+      "mwanafunzi na kofia ya kufuzu",
+      "ngozi nyeupe kiasi"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏽‍🎓",
+    "synonyms": [
+      "👨🏽‍🎓",
+      "fuzu",
+      "hitimu",
+      "kofia",
+      "mahafali",
+      "mwanafunzi na kofia ya kufuzu",
+      "ngozi ya kahawia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏾‍🎓",
+    "synonyms": [
+      "👨🏾‍🎓",
+      "fuzu",
+      "hitimu",
+      "kofia",
+      "mahafali",
+      "mwanafunzi na kofia ya kufuzu",
+      "ngozi nyeusi kiasi"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👨🏿‍🎓",
+    "synonyms": [
+      "👨🏿‍🎓",
+      "fuzu",
+      "hitimu",
+      "kofia",
+      "mahafali",
+      "mwanafunzi na kofia ya kufuzu",
+      "ngozi nyeusi"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏻‍🎓",
+    "synonyms": [
+      "👩🏻‍🎓",
+      "fuzu",
+      "hitimu",
+      "kofia",
+      "mahafali",
+      "mwanafunzi wa kike na kofia ya kufuzu",
+      "ngozi nyeupe"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏼‍🎓",
+    "synonyms": [
+      "👩🏼‍🎓",
+      "fuzu",
+      "hitimu",
+      "kofia",
+      "mahafali",
+      "mwanafunzi wa kike na kofia ya kufuzu",
+      "ngozi nyeupe kiasi"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏽‍🎓",
+    "synonyms": [
+      "👩🏽‍🎓",
+      "fuzu",
+      "hitimu",
+      "kofia",
+      "mahafali",
+      "mwanafunzi wa kike na kofia ya kufuzu",
+      "ngozi ya kahawia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏾‍🎓",
+    "synonyms": [
+      "👩🏾‍🎓",
+      "fuzu",
+      "hitimu",
+      "kofia",
+      "mahafali",
+      "mwanafunzi wa kike na kofia ya kufuzu",
+      "ngozi nyeusi kiasi"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏿‍🎓",
+    "synonyms": [
+      "👩🏿‍🎓",
+      "fuzu",
+      "hitimu",
+      "kofia",
+      "mahafali",
+      "mwanafunzi wa kike na kofia ya kufuzu",
+      "ngozi nyeusi"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👮🏻",
+    "synonyms": [
+      "👮🏻",
+      "afisa",
+      "afisa wa polisi",
+      "ngozi nyeupe",
+      "polisi"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👮🏼",
+    "synonyms": [
+      "👮🏼",
+      "afisa",
+      "afisa wa polisi",
+      "ngozi nyeupe kiasi",
+      "polisi"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👮🏽",
+    "synonyms": [
+      "👮🏽",
+      "afisa",
+      "afisa wa polisi",
+      "ngozi ya kahawia",
+      "polisi"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👮🏾",
+    "synonyms": [
+      "👮🏾",
+      "afisa",
+      "afisa wa polisi",
+      "ngozi nyeusi kiasi",
+      "polisi"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👮🏿",
+    "synonyms": [
+      "👮🏿",
+      "afisa",
+      "afisa wa polisi",
+      "ngozi nyeusi",
+      "polisi"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤰🏻",
+    "synonyms": [
+      "🤰🏻",
+      "mjamzito",
+      "mwanamke",
+      "ngozi nyeupe"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤰🏼",
+    "synonyms": [
+      "🤰🏼",
+      "mjamzito",
+      "mwanamke",
+      "ngozi nyeupe kiasi"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤰🏽",
+    "synonyms": [
+      "🤰🏽",
+      "mjamzito",
+      "mwanamke",
+      "ngozi ya kahawia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤰🏾",
+    "synonyms": [
+      "🤰🏾",
+      "mjamzito",
+      "mwanamke",
+      "ngozi nyeusi kiasi"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤰🏿",
+    "synonyms": [
+      "🤰🏿",
+      "mjamzito",
+      "mwanamke",
+      "ngozi nyeusi"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏋🏻‍♂",
+    "synonyms": [
+      "🏋🏻‍♂",
+      "mbeba vyuma",
+      "mwanamume anayebeba vyuma vizito",
+      "ngozi nyeupe",
+      "uzani",
+      "uzito"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏋🏼‍♂",
+    "synonyms": [
+      "🏋🏼‍♂",
+      "mbeba vyuma",
+      "mwanamume anayebeba vyuma vizito",
+      "ngozi nyeupe kiasi",
+      "uzani",
+      "uzito"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏋🏽‍♂",
+    "synonyms": [
+      "🏋🏽‍♂",
+      "mbeba vyuma",
+      "mwanamume anayebeba vyuma vizito",
+      "ngozi ya kahawia",
+      "uzani",
+      "uzito"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏋🏾‍♂",
+    "synonyms": [
+      "🏋🏾‍♂",
+      "mbeba vyuma",
+      "mwanamume anayebeba vyuma vizito",
+      "ngozi nyeusi kiasi",
+      "uzani",
+      "uzito"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏋🏿‍♂",
+    "synonyms": [
+      "🏋🏿‍♂",
+      "mbeba vyuma",
+      "mwanamume anayebeba vyuma vizito",
+      "ngozi nyeusi",
+      "uzani",
+      "uzito"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏋🏻‍♀",
+    "synonyms": [
+      "🏋🏻‍♀",
+      "mbeba vyuma",
+      "mwanamke anayebeba vyuma vizito",
+      "ngozi nyeupe",
+      "uzani",
+      "uzito"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏋🏼‍♀",
+    "synonyms": [
+      "🏋🏼‍♀",
+      "mbeba vyuma",
+      "mwanamke anayebeba vyuma vizito",
+      "ngozi nyeupe kiasi",
+      "uzani",
+      "uzito"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏋🏽‍♀",
+    "synonyms": [
+      "🏋🏽‍♀",
+      "mbeba vyuma",
+      "mwanamke anayebeba vyuma vizito",
+      "ngozi ya kahawia",
+      "uzani",
+      "uzito"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏋🏾‍♀",
+    "synonyms": [
+      "🏋🏾‍♀",
+      "mbeba vyuma",
+      "mwanamke anayebeba vyuma vizito",
+      "ngozi nyeusi kiasi",
+      "uzani",
+      "uzito"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏋🏿‍♀",
+    "synonyms": [
+      "🏋🏿‍♀",
+      "mbeba vyuma",
+      "mwanamke anayebeba vyuma vizito",
+      "ngozi nyeusi",
+      "uzani",
+      "uzito"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤹🏻",
+    "synonyms": [
+      "🤹🏻",
+      "mtu anayecheza mipira mingi",
+      "ngozi nyeupe",
+      "shughuli nyingi"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤹🏼",
+    "synonyms": [
+      "🤹🏼",
+      "mtu anayecheza mipira mingi",
+      "ngozi nyeupe kiasi",
+      "shughuli nyingi"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤹🏽",
+    "synonyms": [
+      "🤹🏽",
+      "mtu anayecheza mipira mingi",
+      "ngozi ya kahawia",
+      "shughuli nyingi"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤹🏾",
+    "synonyms": [
+      "🤹🏾",
+      "mtu anayecheza mipira mingi",
+      "ngozi nyeusi kiasi",
+      "shughuli nyingi"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🤹🏿",
+    "synonyms": [
+      "🤹🏿",
+      "mtu anayecheza mipira mingi",
+      "ngozi nyeusi",
+      "shughuli nyingi"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇦🇫",
+    "synonyms": [
+      "🇦🇫",
+      "bendera Afghanistani"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇦🇮",
+    "synonyms": [
+      "🇦🇮",
+      "bendera Anguila"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇦🇶",
+    "synonyms": [
+      "🇦🇶",
+      "bendera Antaktika"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇦🇿",
+    "synonyms": [
+      "🇦🇿",
+      "bendera Azabajani"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇧🇯",
+    "synonyms": [
+      "🇧🇯",
+      "bendera Benini"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇧🇹",
+    "synonyms": [
+      "🇧🇹",
+      "bendera Bhutani"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇧🇾",
+    "synonyms": [
+      "🇧🇾",
+      "bendera Belarusi"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇨🇨",
+    "synonyms": [
+      "🇨🇨",
+      "bendera Visiwa vya Kokos (Keeling)"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇨🇩",
+    "synonyms": [
+      "🇨🇩",
+      "bendera Kongo  Kinshasa"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇨🇻",
+    "synonyms": [
+      "🇨🇻",
+      "bendera Kepuvede"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇪🇦",
+    "synonyms": [
+      "🇪🇦",
+      "bendera Keuta na Melilla"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇪🇨",
+    "synonyms": [
+      "🇪🇨",
+      "bendera Ekwado"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇬🇦",
+    "synonyms": [
+      "🇬🇦",
+      "bendera Gaboni"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇬🇱",
+    "synonyms": [
+      "🇬🇱",
+      "bendera Grinilandi"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇬🇵",
+    "synonyms": [
+      "🇬🇵",
+      "bendera Gwadelupe"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇬🇸",
+    "synonyms": [
+      "🇬🇸",
+      "bendera Visiwa vya Jojia ya Kusini na Sandwich ya Kusini"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇬🇺",
+    "synonyms": [
+      "🇬🇺",
+      "bendera Guami"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇭🇷",
+    "synonyms": [
+      "🇭🇷",
+      "bendera Kroashia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇮🇴",
+    "synonyms": [
+      "🇮🇴",
+      "bendera Himaya ya Uingereza katika Bahari Hindi"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇯🇴",
+    "synonyms": [
+      "🇯🇴",
+      "bendera Yordani"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇰🇾",
+    "synonyms": [
+      "🇰🇾",
+      "bendera Visiwa vya Kaimani"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇱🇦",
+    "synonyms": [
+      "🇱🇦",
+      "bendera Laosi"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇱🇧",
+    "synonyms": [
+      "🇱🇧",
+      "bendera Lebanoni"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇱🇮",
+    "synonyms": [
+      "🇱🇮",
+      "bendera Lishenteni"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇱🇸",
+    "synonyms": [
+      "🇱🇸",
+      "bendera Lesotho"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇱🇺",
+    "synonyms": [
+      "🇱🇺",
+      "bendera Lasembagi"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇱🇻",
+    "synonyms": [
+      "🇱🇻",
+      "bendera Lativia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇦",
+    "synonyms": [
+      "🇲🇦",
+      "bendera Moroko"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇨",
+    "synonyms": [
+      "🇲🇨",
+      "bendera Monako"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇰",
+    "synonyms": [
+      "🇲🇰",
+      "bendera Masedonia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇲",
+    "synonyms": [
+      "🇲🇲",
+      "bendera Myama (Burma)"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇶",
+    "synonyms": [
+      "🇲🇶",
+      "bendera Martiniki"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇲🇸",
+    "synonyms": [
+      "🇲🇸",
+      "bendera Montserati"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇳🇨",
+    "synonyms": [
+      "🇳🇨",
+      "bendera Nyukaledonia"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇳🇪",
+    "synonyms": [
+      "🇳🇪",
+      "bendera Nijeri"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇳🇴",
+    "synonyms": [
+      "🇳🇴",
+      "bendera Norwe"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇳🇵",
+    "synonyms": [
+      "🇳🇵",
+      "bendera Nepali"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇴🇲",
+    "synonyms": [
+      "🇴🇲",
+      "bendera Omani"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇵🇫",
+    "synonyms": [
+      "🇵🇫",
+      "bendera Polinesia ya Ufaransa"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇵🇬",
+    "synonyms": [
+      "🇵🇬",
+      "bendera Papua Guinea Mpya"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇵🇱",
+    "synonyms": [
+      "🇵🇱",
+      "bendera Polandi"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇵🇷",
+    "synonyms": [
+      "🇵🇷",
+      "bendera Puetoriko"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇵🇸",
+    "synonyms": [
+      "🇵🇸",
+      "bendera Himaya za Palestina"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇵🇾",
+    "synonyms": [
+      "🇵🇾",
+      "bendera Paragwai"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇶🇦",
+    "synonyms": [
+      "🇶🇦",
+      "bendera Katari"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇸🇬",
+    "synonyms": [
+      "🇸🇬",
+      "bendera Singapuri"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇸🇷",
+    "synonyms": [
+      "🇸🇷",
+      "bendera Surinamu"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇸🇹",
+    "synonyms": [
+      "🇸🇹",
+      "bendera Sao Tome na Prinsipe"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇸🇾",
+    "synonyms": [
+      "🇸🇾",
+      "bendera Shamu"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇹🇩",
+    "synonyms": [
+      "🇹🇩",
+      "bendera Chadi"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇹🇭",
+    "synonyms": [
+      "🇹🇭",
+      "bendera Thailandi"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇹🇲",
+    "synonyms": [
+      "🇹🇲",
+      "bendera Turukimenstani"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇹🇼",
+    "synonyms": [
+      "🇹🇼",
+      "bendera Taiwani"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇺🇦",
+    "synonyms": [
+      "🇺🇦",
+      "bendera Ukreni"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇺🇾",
+    "synonyms": [
+      "🇺🇾",
+      "bendera Urugwai"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇻🇦",
+    "synonyms": [
+      "🇻🇦",
+      "bendera Mji wa Vatikani"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇻🇬",
+    "synonyms": [
+      "🇻🇬",
+      "bendera Visiwa vya Virgin vya Uingereza"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇻🇮",
+    "synonyms": [
+      "🇻🇮",
+      "bendera Visiwa vya Virgin vya Marekani"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🇾🇹",
+    "synonyms": [
+      "🇾🇹",
+      "bendera Mayote"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+    "synonyms": [
+      "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "bendera Wales"
+    ]
+  }
+]

@@ -1,0 +1,464 @@
+[
+  {
+    "type": "onewaysynonym",
+    "input": "👫",
+    "synonyms": [
+      "👫",
+      "couple",
+      "hand",
+      "hold",
+      "man",
+      "man and woman holding hands",
+      "woman",
+      "woman and man holding hands"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🪴",
+    "synonyms": [
+      "🪴",
+      "boring",
+      "grow",
+      "house",
+      "nurturing",
+      "plant",
+      "potted plant",
+      "useless"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🫑",
+    "synonyms": [
+      "🫑",
+      "bell pepper",
+      "capsicum",
+      "pepper",
+      "vegetable"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🕡",
+    "synonyms": [
+      "🕡",
+      "6",
+      "6:30",
+      "clock",
+      "half past six",
+      "six",
+      "six-thirty",
+      "thirty"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "🩴",
+    "synonyms": [
+      "🩴",
+      "beach sandals",
+      "flip-flop",
+      "sandals",
+      "thong sandal",
+      "thong sandals",
+      "thongs",
+      "zōri"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👫🏻",
+    "synonyms": [
+      "👫🏻",
+      "couple",
+      "hand",
+      "hold",
+      "light skin tone",
+      "man",
+      "man and woman holding hands",
+      "woman",
+      "woman and man holding hands"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏻‍🤝‍👨🏼",
+    "synonyms": [
+      "👩🏻‍🤝‍👨🏼",
+      "couple",
+      "hand",
+      "hold",
+      "light skin tone",
+      "man",
+      "man and woman holding hands",
+      "medium-light skin tone",
+      "woman",
+      "woman and man holding hands"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏻‍🤝‍👨🏽",
+    "synonyms": [
+      "👩🏻‍🤝‍👨🏽",
+      "couple",
+      "hand",
+      "hold",
+      "light skin tone",
+      "man",
+      "man and woman holding hands",
+      "medium skin tone",
+      "woman",
+      "woman and man holding hands"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏻‍🤝‍👨🏾",
+    "synonyms": [
+      "👩🏻‍🤝‍👨🏾",
+      "couple",
+      "hand",
+      "hold",
+      "light skin tone",
+      "man",
+      "man and woman holding hands",
+      "medium-dark skin tone",
+      "woman",
+      "woman and man holding hands"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏻‍🤝‍👨🏿",
+    "synonyms": [
+      "👩🏻‍🤝‍👨🏿",
+      "couple",
+      "dark skin tone",
+      "hand",
+      "hold",
+      "light skin tone",
+      "man",
+      "man and woman holding hands",
+      "woman",
+      "woman and man holding hands"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏼‍🤝‍👨🏻",
+    "synonyms": [
+      "👩🏼‍🤝‍👨🏻",
+      "couple",
+      "hand",
+      "hold",
+      "light skin tone",
+      "man",
+      "man and woman holding hands",
+      "medium-light skin tone",
+      "woman",
+      "woman and man holding hands"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👫🏼",
+    "synonyms": [
+      "👫🏼",
+      "couple",
+      "hand",
+      "hold",
+      "man",
+      "man and woman holding hands",
+      "medium-light skin tone",
+      "woman",
+      "woman and man holding hands"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏼‍🤝‍👨🏽",
+    "synonyms": [
+      "👩🏼‍🤝‍👨🏽",
+      "couple",
+      "hand",
+      "hold",
+      "man",
+      "man and woman holding hands",
+      "medium skin tone",
+      "medium-light skin tone",
+      "woman",
+      "woman and man holding hands"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏼‍🤝‍👨🏾",
+    "synonyms": [
+      "👩🏼‍🤝‍👨🏾",
+      "couple",
+      "hand",
+      "hold",
+      "man",
+      "man and woman holding hands",
+      "medium-dark skin tone",
+      "medium-light skin tone",
+      "woman",
+      "woman and man holding hands"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏼‍🤝‍👨🏿",
+    "synonyms": [
+      "👩🏼‍🤝‍👨🏿",
+      "couple",
+      "dark skin tone",
+      "hand",
+      "hold",
+      "man",
+      "man and woman holding hands",
+      "medium-light skin tone",
+      "woman",
+      "woman and man holding hands"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏽‍🤝‍👨🏻",
+    "synonyms": [
+      "👩🏽‍🤝‍👨🏻",
+      "couple",
+      "hand",
+      "hold",
+      "light skin tone",
+      "man",
+      "man and woman holding hands",
+      "medium skin tone",
+      "woman",
+      "woman and man holding hands"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏽‍🤝‍👨🏼",
+    "synonyms": [
+      "👩🏽‍🤝‍👨🏼",
+      "couple",
+      "hand",
+      "hold",
+      "man",
+      "man and woman holding hands",
+      "medium skin tone",
+      "medium-light skin tone",
+      "woman",
+      "woman and man holding hands"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👫🏽",
+    "synonyms": [
+      "👫🏽",
+      "couple",
+      "hand",
+      "hold",
+      "man",
+      "man and woman holding hands",
+      "medium skin tone",
+      "woman",
+      "woman and man holding hands"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏽‍🤝‍👨🏾",
+    "synonyms": [
+      "👩🏽‍🤝‍👨🏾",
+      "couple",
+      "hand",
+      "hold",
+      "man",
+      "man and woman holding hands",
+      "medium skin tone",
+      "medium-dark skin tone",
+      "woman",
+      "woman and man holding hands"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏽‍🤝‍👨🏿",
+    "synonyms": [
+      "👩🏽‍🤝‍👨🏿",
+      "couple",
+      "dark skin tone",
+      "hand",
+      "hold",
+      "man",
+      "man and woman holding hands",
+      "medium skin tone",
+      "woman",
+      "woman and man holding hands"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏾‍🤝‍👨🏻",
+    "synonyms": [
+      "👩🏾‍🤝‍👨🏻",
+      "couple",
+      "hand",
+      "hold",
+      "light skin tone",
+      "man",
+      "man and woman holding hands",
+      "medium-dark skin tone",
+      "woman",
+      "woman and man holding hands"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏾‍🤝‍👨🏼",
+    "synonyms": [
+      "👩🏾‍🤝‍👨🏼",
+      "couple",
+      "hand",
+      "hold",
+      "man",
+      "man and woman holding hands",
+      "medium-dark skin tone",
+      "medium-light skin tone",
+      "woman",
+      "woman and man holding hands"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏾‍🤝‍👨🏽",
+    "synonyms": [
+      "👩🏾‍🤝‍👨🏽",
+      "couple",
+      "hand",
+      "hold",
+      "man",
+      "man and woman holding hands",
+      "medium skin tone",
+      "medium-dark skin tone",
+      "woman",
+      "woman and man holding hands"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👫🏾",
+    "synonyms": [
+      "👫🏾",
+      "couple",
+      "hand",
+      "hold",
+      "man",
+      "man and woman holding hands",
+      "medium-dark skin tone",
+      "woman",
+      "woman and man holding hands"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏾‍🤝‍👨🏿",
+    "synonyms": [
+      "👩🏾‍🤝‍👨🏿",
+      "couple",
+      "dark skin tone",
+      "hand",
+      "hold",
+      "man",
+      "man and woman holding hands",
+      "medium-dark skin tone",
+      "woman",
+      "woman and man holding hands"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏿‍🤝‍👨🏻",
+    "synonyms": [
+      "👩🏿‍🤝‍👨🏻",
+      "couple",
+      "dark skin tone",
+      "hand",
+      "hold",
+      "light skin tone",
+      "man",
+      "man and woman holding hands",
+      "woman",
+      "woman and man holding hands"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏿‍🤝‍👨🏼",
+    "synonyms": [
+      "👩🏿‍🤝‍👨🏼",
+      "couple",
+      "dark skin tone",
+      "hand",
+      "hold",
+      "man",
+      "man and woman holding hands",
+      "medium-light skin tone",
+      "woman",
+      "woman and man holding hands"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏿‍🤝‍👨🏽",
+    "synonyms": [
+      "👩🏿‍🤝‍👨🏽",
+      "couple",
+      "dark skin tone",
+      "hand",
+      "hold",
+      "man",
+      "man and woman holding hands",
+      "medium skin tone",
+      "woman",
+      "woman and man holding hands"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👩🏿‍🤝‍👨🏾",
+    "synonyms": [
+      "👩🏿‍🤝‍👨🏾",
+      "couple",
+      "dark skin tone",
+      "hand",
+      "hold",
+      "man",
+      "man and woman holding hands",
+      "medium-dark skin tone",
+      "woman",
+      "woman and man holding hands"
+    ]
+  },
+  {
+    "type": "onewaysynonym",
+    "input": "👫🏿",
+    "synonyms": [
+      "👫🏿",
+      "couple",
+      "dark skin tone",
+      "hand",
+      "hold",
+      "man",
+      "man and woman holding hands",
+      "woman",
+      "woman and man holding hands"
+    ]
+  }
+]

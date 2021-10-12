@@ -149,3 +149,18 @@ Emoji data courtesy of CLDR. See [unicode-license.txt](unicode-license.txt) for 
 Emoticon data based on [https://github.com/wooorm/emoticon/](https://github.com/wooorm/emoticon/) (MIT).
 
 This repository in distributed under [MIT License](LICENSE). Feel free to use and contribute as you please!
+
+
+## Algolia
+
+This repo adds a simple bash script to 
+
+
+### Pre-requisites
+
+- You will need to have [jq installed](https://stedolan.github.io/jq/download/)
+
+### How to use
+
+- The synonym json files are already built for Algolia's synonym function. You can find them and upload them from [synonyms/algolia](./synonyms/algolia).
+- You can rebuild the JSON files when the raw `.txt` files change by running `./tools/building-algolia-synonyms.sh` from the project root.
