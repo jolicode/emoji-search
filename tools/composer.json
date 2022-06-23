@@ -1,17 +1,18 @@
 {
-    "name": "jolicode/emoji-search",
-    "require": {
-        "phpunit/phpunit": "^8.5",
-        "symfony/http-client": "^5.1",
-        "ext-simplexml": "*",
-        "ext-mbstring": "*",
-        "ext-zip": "*",
-        "ext-curl": "*"
-    },
+    "name": "jolicode/emoji-search-tooling",
+    "description": "Emoji search tooling",
     "authors": [
         {
             "name": "Damien",
             "email": "dalexandre@jolicode.com"
         }
-    ]
+    ],
+    "require": {
+        "ext-mbstring": "*",
+        "ext-simplexml": "*",
+        "ext-zip": "*",
+        "ext-curl": "*",
+        "phpunit/phpunit": "^9.0",
+        "symfony/http-client": "^6.1"
+    }
 }
