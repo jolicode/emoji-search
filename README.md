@@ -1,20 +1,22 @@
-# Emoji, flags and emoticons support for Elasticsearch
+# 🙂 Emoji, flags & emoticons support for Elasticsearch 🙂
 
-> Add support for emoji and flags in any Lucene compatible search engine!
+Add support for **emoji** and **flags** in any **Lucene** compatible search engine!
 
 If you wish to search `🍩` to find **donuts** in your documents, you came to the
-right place. This project offer synonym files ready for usage in Elasticsearch
-analyzer.
+right place. We offer synonym files ready for usage in Elasticsearch and OpenSearch analyzer.
 
 ![Test all synonym files on a real Elasticsearch](https://github.com/jolicode/emoji-search/workflows/Test%20all%20synonym%20files%20on%20a%20real%20Elasticsearch/badge.svg)
 
 ## Requirements to index emoji in Elasticsearch
 
-| Version | Requirements |
-|----------|:-------------:|
-| Elasticsearch >= 6.7 | The standard tokenizer now understand Emoji 🎉 thanks to [Lucene 7.7.0](https://github.com/apache/lucene-solr/commit/283b19a8da6ab9e0b7e9a75b132d3067218d5502) - no plugin needed ! |
+There is no requirements for Elasticsearch >= 6.7.
+
+<details><summary>Using older version of Elasticsearch? Open me! 🖱</summary>
+
+| Version                        |                                                                                                               Requirements                                                                                                                |
+|--------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | Elasticsearch >= 6.4 and < 6.7 | You need to install the official [ICU Plugin](https://www.elastic.co/guide/en/elasticsearch/plugins/current/analysis-icu.html). See our [blog post about this change](https://jolicode.com/blog/elasticsearch-icu-now-understands-emoji). |
-| Elasticsearch < 6.4 | This plugin is not supported anymore. You need our [custom ICU Tokenizer Plugin](https://github.com/jolicode/emoji-search/tree/6.2.4/esplugin), see our [blog post](http://jolicode.com/blog/search-for-emoji-with-elasticsearch) (2016). |
+| Elasticsearch < 6.4            |                    You need our [custom ICU Tokenizer Plugin](https://github.com/jolicode/emoji-search/tree/6.2.4/esplugin), see our [blog post](http://jolicode.com/blog/search-for-emoji-with-elasticsearch) (2016).                    |
 
 Run the following test to verify that you get 4 EMOJI tokens:
 
@@ -24,6 +26,7 @@ GET _analyze
   "text": ["🍩 🇫🇷 👩‍🚒 🚣🏾‍♀"]
 }
 ```
+</details>
 
 ## The Synonyms, flags and emoticons
 

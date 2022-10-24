@@ -20,7 +20,7 @@ install: ## Download all the deps
 
 start: ## Start Elasticsearch
 	cp synonyms/* bin/elasticsearch-${TARGET}/config/
-	./bin/elasticsearch-${TARGET}/bin/elasticsearch -d
+	./bin/elasticsearch-${TARGET}/bin/elasticsearch -d -E xpack.security.enabled=false
 	echo "Waiting for ES to be up and running"; sleep 3; timeout 3m bash -c 'until curl -XGET http://127.0.0.1:9200; do sleep 3; done';
 
 stop: ## Stop Elasticsearch
