@@ -1,4 +1,4 @@
-# 🙂 Emoji, flags & emoticons support for Elasticsearch 🙂
+# 🙂 Emoji, flags & emoticons support for Elasticsearch
 
 Add support for **emoji** and **flags** in any **Lucene** compatible search engine!
 
