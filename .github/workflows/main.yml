@@ -18,7 +18,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        es: [7.11.1, 7.8.1, 6.8.11]
+        es: [8.4.3, 7.17.5, 6.8.23]
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:

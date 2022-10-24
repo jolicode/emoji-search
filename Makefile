@@ -1,11 +1,11 @@
 TARGET?=7.8.1
 
 # Handle new URL's:
-# https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-6.8.11.tar.gz
+# https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-6.8.23.tar.gz
 # https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-7.8.1-linux-x86_64.tar.gz
 # https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-7.11.1-linux-x86_64.tar.gz
 
-ifeq (6.8.11, ${TARGET})
+ifeq (6.8.23, ${TARGET})
   TARGET_DOWNLOAD=${TARGET}
 else
   TARGET_DOWNLOAD=${TARGET}-linux-x86_64
@@ -20,7 +20,7 @@ install: ## Download all the deps
 
 start: ## Start Elasticsearch
 	cp synonyms/* bin/elasticsearch-${TARGET}/config/
-	./bin/elasticsearch-${TARGET}/bin/elasticsearch -d
+	./bin/elasticsearch-${TARGET}/bin/elasticsearch -d -E xpack.security.enabled=false
 	echo "Waiting for ES to be up and running"; sleep 3; timeout 3m bash -c 'until curl -XGET http://127.0.0.1:9200; do sleep 3; done';
 
 stop: ## Stop Elasticsearch
