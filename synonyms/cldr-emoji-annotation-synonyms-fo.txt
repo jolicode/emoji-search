@@ -122,7 +122,6 @@
 🙈 => 🙈, andlit, apa, apuandlit við hondunum yvir eygunum, eygu, hond
 🙉 => 🙉, andlit, apa, apuandlit við hondunum yvir oyrunum, hond, oyru
 🙊 => 🙊, andlit, apa, apuandlit við hondunum yvir munninum, hond, munn
-💋 => 💋, koss, muss, muss merki, varrar, varrastift
 💌 => 💌, bræv, kærleiksbræv, kærleikur
 💘 => 💘, Amor, amorina, hjarta, kærleikstekin, pílur, pílur ígjøgnum hjarta
 💝 => 💝, band, hjarta, hjarta við bandi
@@ -145,6 +144,7 @@
 🤎 => 🤎, brúnt, hjarta
 🖤 => 🖤, hjarta, svart
 🤍 => 🤍, hjarta, hvítt
+💋 => 💋, koss, muss, muss merki, varrar, varrastift
 💯 => 💯, 100, hundrað, stig, úrslit
 💢 => 💢, tekin, vreiði
 💥 => 💥, bang, samanbrestur, samanstoytur
@@ -152,7 +152,6 @@
 💦 => 💦, dropar, sveitti, vatn
 💨 => 💨, fok, renna, vindur
 🕳 => 🕳, hol
-💣 => 💣, bumba, vopn
 💬 => 💬, bløðra, samtala, tala, talubløðra
 👁‍🗨 => 👁‍🗨, eyga, eyga í talubløðru, talubløðra
 🗨 => 🗨, samtala, svørt talubløðra, tala
@@ -605,6 +604,7 @@
 🍁 => 🍁, ahornsblað
 🍂 => 🍂, blað, falli, fallið blað
 🍃 => 🍃, bløð, flagsandi, vindur
+🍄 => 🍄, hundaland, soppur
 🍇 => 🍇, frukt, víndrúva, víndrúvur
 🍈 => 🍈, frukt, melón
 🍉 => 🍉, frukt, vatnmelón
@@ -636,7 +636,6 @@
 🥦 => 🥦, brokkoli, spergilkál
 🧄 => 🧄, hvítleykur, matur, smakkur
 🧅 => 🧅, leykur, matur, smakkur
-🍄 => 🍄, hundaland, soppur
 🥜 => 🥜, jarðnøtur, matur, nøt
 🌰 => 🌰, kastanja, matur, nøt
 🍞 => 🍞, breyð, matur
@@ -1006,10 +1005,10 @@
 🎯 => 🎯, beinrakið, bullseye, dart, kúgveyga
 🪀 => 🪀, jojo, leika, yo yo, yo-yo, yoyo
 🪁 => 🪁, dreki, flúgvandi dreki
+🔫 => 🔫, handvápn, pistólur, revolvari, skotvápn, vápn
 🎱 => 🎱, billard, kúla, pool, pul
 🔮 => 🔮, ævintýr, krystal, krystalkúla, kúla, lagna
 🪄 => 🪄, gandakallur, gandakelling, gandastavur, gandur, rúnakelvi
-🧿 => 🧿, amulett, eydnulutur, kúla, nasar, nasaramulett, nazar, verndargripur
 🎮 => 🎮, controller, kontrollari, telduspæl, teldustýri
 🕹 => 🕹, joystick, stýripinnur, telduspæl
 🎰 => 🎰, kasino, spæliautomat
@@ -1223,7 +1222,7 @@
 🛠 => 🛠, amboð, hamari, hamari og skrúvulykil, skiftilykil, skrúvulykil
 🗡 => 🗡, dolkur, knívur, stutt svørð, svørð, vápn
 ⚔ => ⚔, krossa, svørð, vápn
-🔫 => 🔫, handvápn, pistólur, revolvari, skotvápn, vápn
+💣 => 💣, bumba, vopn
 🪃 => 🪃, Avstralia, bomerang, boomerang, kastivápn
 🏹 => 🏹, Bogamaður, bogaskjótari, bogaskjóting, bogi, bogi of pílur, ørvargarpur, pílur, stjørnumerki, vápn
 🛡 => 🛡, skjøldur, vápn, verja, vernd
@@ -1281,6 +1280,7 @@
 ⚰ => ⚰, andlát, deyði, gravarferð, jarðarferð, kista, lík, líkkista
 🪦 => 🪦, deyði, gravsteinur, grøv, kirkjugarður
 ⚱ => ⚱, andlát, deyði, gravarferð, jarðarferð, krukka, øska, øskukrukka
+🧿 => 🧿, amulett, eydnulutur, kúla, nasar, nasaramulett, nazar, verndargripur
 🗿 => 🗿, moai, Páskaoyggin, standmynd
 🪧 => 🪧, kunnger, mótmæli, plakat, skelti, uppslag
 🏧 => 🏧, automat, pengar, sjálvtøka, sjálvtøkuskeltið, út
@@ -1518,6 +1518,26 @@
 🖖🏽 => 🖖🏽, heilsan, miðal húðarlitur, spock, vulcan, vulkan
 🖖🏾 => 🖖🏾, heilsan, miðalmyrkur húðarlitur, spock, vulcan, vulkan
 🖖🏿 => 🖖🏿, heilsan, myrkur húðarlitur, spock, vulcan, vulkan
+🫱🏻‍🫲🏼 => 🫱🏻‍🫲🏼, hendur, hond, ljósur húðarlitur, lógvatak, miðalljósur húðarlitur, taka í
+🫱🏻‍🫲🏽 => 🫱🏻‍🫲🏽, hendur, hond, ljósur húðarlitur, lógvatak, miðal húðarlitur, taka í
+🫱🏻‍🫲🏾 => 🫱🏻‍🫲🏾, hendur, hond, ljósur húðarlitur, lógvatak, miðalmyrkur húðarlitur, taka í
+🫱🏻‍🫲🏿 => 🫱🏻‍🫲🏿, hendur, hond, ljósur húðarlitur, lógvatak, myrkur húðarlitur, taka í
+🫱🏼‍🫲🏻 => 🫱🏼‍🫲🏻, hendur, hond, ljósur húðarlitur, lógvatak, miðalljósur húðarlitur, taka í
+🫱🏼‍🫲🏽 => 🫱🏼‍🫲🏽, hendur, hond, lógvatak, miðal húðarlitur, miðalljósur húðarlitur, taka í
+🫱🏼‍🫲🏾 => 🫱🏼‍🫲🏾, hendur, hond, lógvatak, miðalljósur húðarlitur, miðalmyrkur húðarlitur, taka í
+🫱🏼‍🫲🏿 => 🫱🏼‍🫲🏿, hendur, hond, lógvatak, miðalljósur húðarlitur, myrkur húðarlitur, taka í
+🫱🏽‍🫲🏻 => 🫱🏽‍🫲🏻, hendur, hond, ljósur húðarlitur, lógvatak, miðal húðarlitur, taka í
+🫱🏽‍🫲🏼 => 🫱🏽‍🫲🏼, hendur, hond, lógvatak, miðal húðarlitur, miðalljósur húðarlitur, taka í
+🫱🏽‍🫲🏾 => 🫱🏽‍🫲🏾, hendur, hond, lógvatak, miðal húðarlitur, miðalmyrkur húðarlitur, taka í
+🫱🏽‍🫲🏿 => 🫱🏽‍🫲🏿, hendur, hond, lógvatak, miðal húðarlitur, myrkur húðarlitur, taka í
+🫱🏾‍🫲🏻 => 🫱🏾‍🫲🏻, hendur, hond, ljósur húðarlitur, lógvatak, miðalmyrkur húðarlitur, taka í
+🫱🏾‍🫲🏼 => 🫱🏾‍🫲🏼, hendur, hond, lógvatak, miðalljósur húðarlitur, miðalmyrkur húðarlitur, taka í
+🫱🏾‍🫲🏽 => 🫱🏾‍🫲🏽, hendur, hond, lógvatak, miðal húðarlitur, miðalmyrkur húðarlitur, taka í
+🫱🏾‍🫲🏿 => 🫱🏾‍🫲🏿, hendur, hond, lógvatak, miðalmyrkur húðarlitur, myrkur húðarlitur, taka í
+🫱🏿‍🫲🏻 => 🫱🏿‍🫲🏻, hendur, hond, ljósur húðarlitur, lógvatak, myrkur húðarlitur, taka í
+🫱🏿‍🫲🏼 => 🫱🏿‍🫲🏼, hendur, hond, lógvatak, miðalljósur húðarlitur, myrkur húðarlitur, taka í
+🫱🏿‍🫲🏽 => 🫱🏿‍🫲🏽, hendur, hond, lógvatak, miðal húðarlitur, myrkur húðarlitur, taka í
+🫱🏿‍🫲🏾 => 🫱🏿‍🫲🏾, hendur, hond, lógvatak, miðalmyrkur húðarlitur, myrkur húðarlitur, taka í
 👌🏻 => 👌🏻, gott, hond, ljósur húðarlitur, ok, tekin, viðurkent
 👌🏼 => 👌🏼, gott, hond, miðalljósur húðarlitur, ok, tekin, viðurkent
 👌🏽 => 👌🏽, gott, hond, miðal húðarlitur, ok, tekin, viðurkent
@@ -1638,6 +1658,11 @@
 🤲🏽 => 🤲🏽, bøn, hendur, hond, lógvar, lógvar sum eru saman, lógvi, miðal húðarlitur, saman
 🤲🏾 => 🤲🏾, bøn, hendur, hond, lógvar, lógvar sum eru saman, lógvi, miðalmyrkur húðarlitur, saman
 🤲🏿 => 🤲🏿, bøn, hendur, hond, lógvar, lógvar sum eru saman, lógvi, myrkur húðarlitur, saman
+🤝🏻 => 🤝🏻, hendur, hond, ljósur húðarlitur, lógvatak, taka í
+🤝🏼 => 🤝🏼, hendur, hond, lógvatak, miðalljósur húðarlitur, taka í
+🤝🏽 => 🤝🏽, hendur, hond, lógvatak, miðal húðarlitur, taka í
+🤝🏾 => 🤝🏾, hendur, hond, lógvatak, miðalmyrkur húðarlitur, taka í
+🤝🏿 => 🤝🏿, hendur, hond, lógvatak, myrkur húðarlitur, taka í
 🙏🏻 => 🙏🏻, bøn, eggja saman hendur, falda, hendur, ljósur húðarlitur
 🙏🏼 => 🙏🏼, bøn, eggja saman hendur, falda, hendur, miðalljósur húðarlitur
 🙏🏽 => 🙏🏽, bøn, eggja saman hendur, falda, hendur, miðal húðarlitur
