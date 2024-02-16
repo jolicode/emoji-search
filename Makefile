@@ -27,13 +27,14 @@ stop: ## Stop Elasticsearch
 	-pkill -f 'org.elasticsearch.bootstrap.Elasticsearch'
 
 test: ## Run the tests
-	./tools/vendor/bin/phpunit ./tools/tests
+	TARGET=${TARGET} ./tools/vendor/bin/phpunit ./tools/tests
 
-rebuild_restart: stop ## Stop, rebuild and restart
-	./bin/elasticsearch-${TARGET}/bin/elasticsearch -d
-	echo "Waiting for ES to be up and running"; sleep 3; timeout 3m bash -c 'until curl -XGET http://127.0.0.1:9200; do sleep 3; done';
+rebuild: ## Rebuild the synonyms
 	php ./tools/build-released.php
-	cp synonyms/* bin/elasticsearch-${TARGET}/config/
+
+rebuild_restart: stop rebuild start ## Stop, rebuild and restart
+
+restart: stop start ## Stop and restart
 
 .PHONY: help
 .DEFAULT_GOAL := help

@@ -6,7 +6,7 @@ include "vendor/autoload.php";
 
 // http://cldr.unicode.org/
 // http://site.icu-project.org/download
-$version = "42";
+$version = "44";
 
 $zipDir = sprintf('%s/tmp', __DIR__);
 $zipFile = sprintf('%s/core-%s.zip', $zipDir, $version);
@@ -15,8 +15,8 @@ $synonymsDir = realpath(sprintf('%s/../../synonyms/', $zipDir));
 
 // Get the ZIP
 if (!file_exists($zipFile)) {
-    echo "Download\n";
     $url = sprintf("http://unicode.org/Public/cldr/%s/core.zip", $version);
+    echo "Download $url\n";
     if (!is_dir($zipDir)) {
         mkdir($zipDir);
     }
@@ -28,10 +28,7 @@ if (!file_exists($zipFile)) {
     curl_setopt($ch, CURLOPT_FAILONERROR, true);
     curl_setopt($ch, CURLOPT_HEADER, 0);
     curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
-    curl_setopt($ch, CURLOPT_BINARYTRANSFER, true);
-    curl_setopt($ch, CURLOPT_TIMEOUT, 90);
-    curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, 0);
-    curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, 0);
+    curl_setopt($ch, CURLOPT_TIMEOUT, 900);
     curl_setopt($ch, CURLOPT_FILE, $zipResource);
 
     $page = curl_exec($ch);
@@ -53,7 +50,7 @@ if (!file_exists($extractDir.'/apache-license.txt')) {
     $zip->close();
 }
 
-function filterSynonyms($synonyms)
+function filterSynonyms($synonyms): array
 {
     // Remove the obvious
     $synonyms = array_filter($synonyms, function ($synonym) {
@@ -95,7 +92,7 @@ function filterSynonyms($synonyms)
     return $synonyms;
 }
 
-function filterEmoji($emoji)
+function filterEmoji($emoji): bool
 {
     if (empty($emoji)) {
         return true;
@@ -110,7 +107,7 @@ function filterEmoji($emoji)
     return false;
 }
 
-function annotationXmlToSynonyms(SimpleXMLElement $xml)
+function annotationXmlToSynonyms(SimpleXMLElement $xml): string
 {
     $synonymsContent = '';
 
@@ -135,7 +132,7 @@ function annotationXmlToSynonyms(SimpleXMLElement $xml)
     return $synonymsContent;
 }
 
-function derivedAnnotationXmlToSynonyms(SimpleXMLElement $xml)
+function derivedAnnotationXmlToSynonyms(SimpleXMLElement $xml): string
 {
     $synonymsContent = '';
 
@@ -191,10 +188,42 @@ foreach (glob($extractDir."/common/annotations/*.xml") as $filename) {
 
     $xml = simplexml_load_file($filename);
 
+    // Empty file.
+    if ($xml->annotations->children() === null) {
+        continue;
+    }
+
     foreach ($xml->annotations->children() as $annotation) {
         if ((string) $annotation['type'] === 'tts') { // Ignore Text To Speech
             continue;
         }
+        $synonyms = array_filter(array_map('trim', explode('|', (string) $annotation)));
+
+        $masterList[] = (string) $annotation['cp'];
+
+        // also inspect the annotations! huge impact.
+        foreach ($synonyms as $synonym) {
+            $masterList[] = $synonym;
+        }
+    }
+}
+foreach (glob($extractDir."/common/annotationsDerived/*.xml") as $filename) {
+    $lang = basename($filename, ".xml");
+    if ($lang === 'root') {
+        continue;
+    }
+    $xml = simplexml_load_file($filename);
+
+    // Empty file.
+    if ($xml->annotations->children() === null) {
+        continue;
+    }
+
+    foreach ($xml->annotations->children() as $annotation) {
+        if ((string) $annotation['type'] === 'tts') { // Ignore Text To Speech
+            continue;
+        }
+
         $synonyms = array_filter(array_map('trim', explode('|', (string) $annotation)));
 
         $masterList[] = (string) $annotation['cp'];
@@ -246,7 +275,19 @@ foreach (glob($extractDir."/common/annotations/*.xml") as $filename) {
         continue;
     }
 
-    $synonymsContent = annotationXmlToSynonyms(simplexml_load_file($filename));
+    // Todo: retry me with another version of CLDR. In v44 it breaks.
+    if ($lang === 'rhg') {
+        continue;
+    }
+
+    $xml = simplexml_load_file($filename);
+
+    // Empty file.
+    if ($xml->annotations->children() === null) {
+        continue;
+    }
+
+    $synonymsContent = annotationXmlToSynonyms($xml);
 
     file_put_contents($synonymsDir.'/cldr-emoji-annotation-synonyms-'.$lang.'.txt', $synonymsContent);
 }
@@ -262,7 +303,14 @@ foreach (glob($extractDir."/common/annotationsDerived/*.xml") as $filename) {
         continue;
     }
 
-    $synonymsContent = derivedAnnotationXmlToSynonyms(simplexml_load_file($filename));
+    $xml = simplexml_load_file($filename);
+
+    // Empty file.
+    if ($xml->annotations->children() === null) {
+        continue;
+    }
+
+    $synonymsContent = derivedAnnotationXmlToSynonyms($xml);
 
     file_put_contents($synonymsDir.'/cldr-emoji-annotation-synonyms-'.$lang.'.txt', $synonymsContent, FILE_APPEND);
 }
