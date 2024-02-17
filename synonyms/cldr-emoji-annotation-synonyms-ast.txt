@@ -10,7 +10,7 @@
 👪 => 👪, familia
 💍 => 💍, aniellu, diamante
 💎 => 💎, diamante, piedra preciosa, xema, xoya
-🔟 => 🔟, tecles
+🔟 => 🔟, tecles, tecles 10
 🇦🇨 => 🇦🇨, bandera Islla Ascensión
 🇦🇩 => 🇦🇩, bandera Andorra
 🇦🇪 => 🇦🇪, bandera Emiratos Árabes Xuníos
