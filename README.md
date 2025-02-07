@@ -146,7 +146,8 @@ GET tweets/_analyze
 You will need:
 
 - php cli
-- php zip and curl extensions
+- php zip, mbstring, xml and curl extensions
+- a running Elasticsearch (`make start`)
 
 Edit the tag in `tools/build-released.php` and run `php tools/build-released.php`.
 

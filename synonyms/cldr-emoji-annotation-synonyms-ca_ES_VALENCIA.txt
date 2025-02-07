@@ -1,0 +1,15 @@
+😅 => 😅, cara, cara somrient amb una gota de suor, emocionada, emocionat, estrés, estressada, estressat, nerviós, nerviosa, obert, somriure, suor, suor freda
+🤯 => 🤯, cap que explota, estupefacta, estupefacte, explotar, impossible, impressionada, impressionat, sorprés, sorpresa
+😟 => 😟, cara, cara de preocupació, estrés, nerviós, nerviosa, nervis, preocupació, preocupada, preocupat, sorprés, sorpresa
+😮 => 😮, apa!, boca, bocabadada, bocabadat, cara, cara amb la boca oberta, estupefacta, estupefacte, increïble, no et crec, oberta, sorprés, sorpresa
+😯 => 😯, atònit, atònita, cara, cara de sorpresa, Déu meu, èpic, oh!, sorprés, sorpresa
+😱 => 😱, cara, cara que crida de por, crit de por, espantada, espantat, Munch, pànic, por, sorprés, sorpresa, temorós, temorosa, terror
+👹 => 👹, cara, conte, conte de fades, criatura, dimoni, esgarrifós, fantasia, japonés, màscara, monstre, ogre
+👺 => 👺, cara, conte, conte de fades, criatura, enfadat, fantasia, follet, japonés, malvat, màscara, monstre
+🙀 => 🙀, animal, cara, cara de gat espantat, espantat, gat, oh, por, sorprés, sorpresa
+👶 => 👶, bebé, bebés, embarassada, jove, nadó, nounat
+👶🏻 => 👶🏻, bebé, bebés, embarassada, jove, nadó, nounat, pell molt clara
+👶🏼 => 👶🏼, bebé, bebés, embarassada, jove, nadó, nounat, pell bastant clara
+👶🏽 => 👶🏽, bebé, bebés, embarassada, jove, nadó, nounat, pell morena
+👶🏾 => 👶🏾, bebé, bebés, embarassada, jove, nadó, nounat, pell fosca
+👶🏿 => 👶🏿, bebé, bebés, embarassada, jove, nadó, nounat, pell molt fosca
