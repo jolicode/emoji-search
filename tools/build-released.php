@@ -6,7 +6,7 @@ include "vendor/autoload.php";
 
 // http://cldr.unicode.org/
 // http://site.icu-project.org/download
-$version = "44";
+$version = "46.1";
 
 $zipDir = sprintf('%s/tmp', __DIR__);
 $zipFile = sprintf('%s/core-%s.zip', $zipDir, $version);
