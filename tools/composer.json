@@ -12,7 +12,7 @@
         "ext-simplexml": "*",
         "ext-zip": "*",
         "ext-curl": "*",
-        "phpunit/phpunit": "^9.0",
+        "phpunit/phpunit": "^12.5",
         "symfony/http-client": "^6.1"
     }
 }
