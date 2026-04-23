@@ -1,6 +1,7 @@
 <?php
 
 use PHPUnit\Framework\TestCase;
+use PHPUnit\Framework\Attributes\DataProvider;
 use Symfony\Component\HttpClient\HttpClient;
 
 class MappingCreatorTest extends TestCase
@@ -14,7 +15,7 @@ class MappingCreatorTest extends TestCase
         $this->assertEquals(200, $response->getStatusCode());
     }
 
-    public function synonymFileProvider()
+    public static function synonymFileProvider()
     {
         $files = scandir(__DIR__.'/../../synonyms/');
         $files = array_filter($files, function ($file) {
@@ -26,9 +27,7 @@ class MappingCreatorTest extends TestCase
         }, $files);
     }
 
-    /**
-     * @dataProvider synonymFileProvider
-     */
+    #[DataProvider('synonymFileProvider')]
     public function testPutMapping($file)
     {
         $client = $this->getClient();
@@ -86,7 +85,7 @@ JSON
         $this->assertEquals(200, $response->getStatusCode(), $response->getContent(false));
     }
 
-    public function analyzerProvider()
+    public static function analyzerProvider()
     {
         return [
             ['Pizza', ['Pizza']],
@@ -98,9 +97,7 @@ JSON
         ];
     }
 
-    /**
-     * @dataProvider analyzerProvider
-     */
+    #[DataProvider('analyzerProvider')]
     public function testAnalyzer($text, $expectedTokens)
     {
         $this->testPutMapping('cldr-emoji-annotation-synonyms-fr.txt');
